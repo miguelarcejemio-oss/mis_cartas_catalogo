@@ -1,0 +1,1 @@
+Las URLs de las portadas que usa el catálogo están en manifest.json. Los binarios no se han copiado automáticamente porque las fuentes externas no son accesibles desde este entorno. El script scripts/descargar_portadas.py permite descargarlas en un entorno con Internet antes de subir el repositorio.

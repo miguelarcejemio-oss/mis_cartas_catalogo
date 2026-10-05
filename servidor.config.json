@@ -1,0 +1,7 @@
+{
+  "catalog_url": "CATALOG_BASE_URL/catalogo.json",
+  "cover_base_url": "CATALOG_BASE_URL/portadas/",
+  "catalog_version_file": "CATALOG_BASE_URL/catalogo.json",
+  "cache_key": "mis_cartas_catalogo_cache_v47",
+  "validation": "scripts/validate_catalog.py"
+}
