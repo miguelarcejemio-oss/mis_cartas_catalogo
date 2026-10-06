@@ -158583,6 +158583,13 @@
       "expected_note": "Topps · 2025 · Sin Autógrafos Originales (AO) cuando haya checklist."
     }
   ],
-  "app_version": "43",
-  "policy": "exclude_original_autographs_only"
+  "app_version": "53",
+  "policy": "exclude_original_autographs_only",
+  "cover_base_url": "https://miguelarcejemio-oss.github.io/mis_cartas_catalogo/portadas/",
+  "update_policy": {
+    "catalog": "check_on_app_start",
+    "covers": "server_first_when_cover_local_present; external/server-id fallbacks supported by app",
+    "preserve_user_state": true,
+    "silent_network_failure": true
+  }
 }
