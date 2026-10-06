@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "name": "Panini España - Megacracks",
+      "type": "official_html",
+      "enabled": true,
+      "url": "https://www.panini.es/shp_esp_es/megacracks-2026-27-megapack-colecci-n-oficial-panini-005519spe2w-es01.html"
+    },
+    {
+      "name": "Topps España - Flagship Premier League",
+      "type": "official_html",
+      "enabled": true,
+      "url": "https://es.topps.com/products/topps-flagship-premier-league-2026-27-trading-cards-starter-pack-online-exclusive"
+    }
+  ]
+}

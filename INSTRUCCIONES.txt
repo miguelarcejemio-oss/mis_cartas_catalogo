@@ -1,0 +1,11 @@
+MIS CARTAS — ACTUALIZACIÓN AUTOMÁTICA
+
+Subir respetando las rutas:
+.github/workflows/deploy.yml
+scripts/detect_updates.py
+fuentes.json
+
+El workflow se ejecuta diariamente y también manualmente.
+Regla de seguridad: una web HTML puede detectar cambios, pero NO genera ni
+publica un checklist inventado. La publicación automática requiere una fuente
+estructurada fiable (catalog_json) con id, nombre, cards y portada.
