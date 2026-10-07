@@ -13,5 +13,21 @@
       "enabled": true,
       "url": "https://es.topps.com/products/topps-flagship-premier-league-2026-27-trading-cards-starter-pack-online-exclusive"
     }
+  ],
+  "discovery_sources": [
+    {
+      "name": "Panini España - descubrimiento",
+      "type": "listing",
+      "enabled": true,
+      "brand": "Panini",
+      "url": "https://www.panini.es/"
+    },
+    {
+      "name": "Topps España - descubrimiento",
+      "type": "listing",
+      "enabled": true,
+      "brand": "Topps",
+      "url": "https://es.topps.com/"
+    }
   ]
 }
