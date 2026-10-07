@@ -1,12 +1,12 @@
 {
-  "checked_at": "2026-10-07T09:00:19Z",
+  "checked_at": "2026-10-07T09:56:08Z",
   "schema_version": 3,
   "checked_sources": [
     {
       "name": "Panini España - Megacracks",
       "type": "official_html",
       "status": "ok",
-      "fingerprint": "fe8db8ebee84326c6b26bc3d9e61953dbf7f42a4bfcfa9367902940e4f0e8337"
+      "fingerprint": "89eb3f43f38e95c67591eb485e5089e966eb3232a40c801e6910a3197c5ee321"
     },
     {
       "name": "Topps España - Flagship Premier League",
@@ -135,13 +135,11 @@
       ],
       "name": "Cromos Coleccionables",
       "identity_valid": true,
-      "cover_candidates": [
-        "https://www.panini.es/media/catalog/product/0/0/000353rcagb_0_2ma9vomxktruyzgx.jpg"
-      ],
+      "cover_candidates": [],
       "checklist_candidates": [],
       "inspected_evidence": [
         {
-          "url": "https://www.panini.es/shp_esp_es/cromos-coleccionables.html",
+          "url": "https://panini.queue-it.net/?c=panini&e=paninies&ver=v3-php-3.7.4&cver=28&man=Panini%20Spain%20-%20Production%20-%20Server&t=https%3A%2F%2Fwww.panini.es%2Fshp_esp_es%2Fcromos-coleccionables.html&kupver=magento2_1.3.5",
           "status": "ok"
         }
       ],
@@ -156,6 +154,7 @@
       "verification_score": 3,
       "publication_ready": false,
       "publication_blockers": [
+        "missing_cover",
         "missing_checklist"
       ]
     },
@@ -176,11 +175,13 @@
       ],
       "name": "Futbol",
       "identity_valid": true,
-      "cover_candidates": [],
+      "cover_candidates": [
+        "https://www.panini.es/media/catalog/product/1/6/1607530736_003719rcvapt_0_tittxjszs2xvjxmy.jpg"
+      ],
       "checklist_candidates": [],
       "inspected_evidence": [
         {
-          "url": "https://panini.queue-it.net/?c=panini&e=paninies&ver=v3-php-3.7.4&cver=28&man=Panini%20Spain%20-%20Production%20-%20Server&t=https%3A%2F%2Fwww.panini.es%2Fshp_esp_es%2Fcromos-coleccionables%2Fdeporte%2Ffutbol.html&kupver=magento2_1.3.5",
+          "url": "https://www.panini.es/shp_esp_es/cromos-coleccionables/deporte/futbol.html",
           "status": "ok"
         }
       ],
@@ -195,7 +196,6 @@
       "verification_score": 3,
       "publication_ready": false,
       "publication_blockers": [
-        "missing_cover",
         "missing_checklist"
       ]
     },
@@ -257,11 +257,19 @@
       ],
       "name": "Hypermotion",
       "identity_valid": true,
-      "cover_candidates": [],
-      "checklist_candidates": [],
+      "cover_candidates": [
+        "https://www.panini.es/media/catalog/product/0/0/005397b_0.jpg"
+      ],
+      "checklist_candidates": [
+        {
+          "url": "https://www.panini.es/media/paniniFiles/Checklist_HYPERMOTION_2025-26-2.pdf",
+          "label": "Descárgate la checklist en pdf",
+          "type": "pdf"
+        }
+      ],
       "inspected_evidence": [
         {
-          "url": "https://panini.queue-it.net/?c=panini&e=paninies&ver=v3-php-3.7.4&cver=28&man=Panini%20Spain%20-%20Production%20-%20Server&t=https%3A%2F%2Fwww.panini.es%2Fshp_esp_es%2Fcromos-coleccionables%2Fdeporte%2Fla-liga%2Fhypermotion.html&kupver=magento2_1.3.5",
+          "url": "https://www.panini.es/shp_esp_es/cromos-coleccionables/deporte/la-liga/hypermotion.html",
           "status": "ok"
         }
       ],
@@ -274,11 +282,8 @@
         "checklist_terms": []
       },
       "verification_score": 3,
-      "publication_ready": false,
-      "publication_blockers": [
-        "missing_cover",
-        "missing_checklist"
-      ]
+      "publication_ready": true,
+      "publication_blockers": []
     },
     {
       "url": "https://www.adrenalynliga.es/",
@@ -297,19 +302,11 @@
       ],
       "identity_valid": false,
       "publication_blocked": "missing_identity",
-      "cover_candidates": [
-        "https://www.panini.es/media/catalog/product/0/0/005518_liga_adrenalyn_2025-26_composite_cards_3.jpg"
-      ],
-      "checklist_candidates": [
-        {
-          "url": "https://www.panini.es/media/paniniFiles/checklist-update.pdf",
-          "label": "",
-          "type": "pdf"
-        }
-      ],
+      "cover_candidates": [],
+      "checklist_candidates": [],
       "inspected_evidence": [
         {
-          "url": "https://www.panini.es/shp_esp_es/cromos-coleccionables/deporte/la-liga/adrenalyn-xl-liga.html",
+          "url": "https://panini.queue-it.net/?c=panini&e=paninies&ver=v3-php-3.7.4&cver=28&man=Panini%20Spain%20-%20Production%20-%20Server&t=https%3A%2F%2Fwww.panini.es%2Fshp_esp_es%2Fcromos-coleccionables%2Fdeporte%2Fla-liga%2Fadrenalyn-xl-liga.html&kupver=magento2_1.3.5",
           "status": "ok"
         }
       ],
@@ -324,7 +321,9 @@
       "verification_score": 3,
       "publication_ready": false,
       "publication_blockers": [
-        "missing_identity"
+        "missing_identity",
+        "missing_cover",
+        "missing_checklist"
       ]
     },
     {
@@ -344,11 +343,13 @@
       ],
       "name": "Calciatori",
       "identity_valid": true,
-      "cover_candidates": [],
+      "cover_candidates": [
+        "https://www.panini.es/media/catalog/product/0/0/004702rcvai_0.jpg"
+      ],
       "checklist_candidates": [],
       "inspected_evidence": [
         {
-          "url": "https://panini.queue-it.net/?c=panini&e=paninies&ver=v3-php-3.7.4&cver=28&man=Panini%20Spain%20-%20Production%20-%20Server&t=https%3A%2F%2Fwww.panini.es%2Fshp_esp_es%2Fcromos-coleccionables%2Fdeporte%2Ffutbol%2Fcalciatori.html&kupver=magento2_1.3.5",
+          "url": "https://www.panini.es/shp_esp_es/cromos-coleccionables/deporte/futbol/calciatori.html",
           "status": "ok"
         }
       ],
@@ -363,7 +364,6 @@
       "verification_score": 3,
       "publication_ready": false,
       "publication_blockers": [
-        "missing_cover",
         "missing_checklist"
       ]
     },
@@ -424,19 +424,11 @@
       ],
       "name": "Copa Mundial De La Fifa 2026Tm",
       "identity_valid": true,
-      "cover_candidates": [
-        "https://www.panini.es/media/catalog/product/0/0/005460_wc2026_versione_int_composite_stickers.jpg"
-      ],
-      "checklist_candidates": [
-        {
-          "url": "https://www.panini.es/media/paniniFiles/005461_FIFA_WC_2026_Checklist_all_1-1-2.pdf",
-          "label": "CHECKLIST",
-          "type": "pdf"
-        }
-      ],
+      "cover_candidates": [],
+      "checklist_candidates": [],
       "inspected_evidence": [
         {
-          "url": "https://www.panini.es/shp_esp_es/cromos-coleccionables/deporte/fifa-world-cuptm/copa-mundial-de-la-fifa-2026tm.html",
+          "url": "https://panini.queue-it.net/?c=panini&e=paninies&ver=v3-php-3.7.4&cver=28&man=Panini%20Spain%20-%20Production%20-%20Server&t=https%3A%2F%2Fwww.panini.es%2Fshp_esp_es%2Fcromos-coleccionables%2Fdeporte%2Ffifa-world-cuptm%2Fcopa-mundial-de-la-fifa-2026tm.html&kupver=magento2_1.3.5",
           "status": "ok"
         }
       ],
@@ -449,8 +441,11 @@
         "checklist_terms": []
       },
       "verification_score": 3,
-      "publication_ready": true,
-      "publication_blockers": []
+      "publication_ready": false,
+      "publication_blockers": [
+        "missing_cover",
+        "missing_checklist"
+      ]
     },
     {
       "url": "https://www.panini.es/shp_esp_es/cromos-coleccionables/deporte/panini-fifa-365/fifa-365-2024.html",
@@ -549,13 +544,11 @@
       ],
       "name": "Qatar 2022",
       "identity_valid": true,
-      "cover_candidates": [
-        "https://www.panini.es/media/catalog/product/0/0/001464rcai_0_gcbcvc5vqarhrunq.jpg"
-      ],
+      "cover_candidates": [],
       "checklist_candidates": [],
       "inspected_evidence": [
         {
-          "url": "https://www.panini.es/shp_esp_es/cromos-coleccionables/deporte/fifa-world-cuptm/qatar-2022.html",
+          "url": "https://panini.queue-it.net/?c=panini&e=paninies&ver=v3-php-3.7.4&cver=28&man=Panini%20Spain%20-%20Production%20-%20Server&t=https%3A%2F%2Fwww.panini.es%2Fshp_esp_es%2Fcromos-coleccionables%2Fdeporte%2Ffifa-world-cuptm%2Fqatar-2022.html&kupver=magento2_1.3.5",
           "status": "ok"
         }
       ],
@@ -570,6 +563,7 @@
       "verification_score": 3,
       "publication_ready": false,
       "publication_blockers": [
+        "missing_cover",
         "missing_checklist"
       ]
     },
@@ -680,13 +674,11 @@
       ],
       "name": "Fifa Club World Cup 2025",
       "identity_valid": true,
-      "cover_candidates": [
-        "https://www.panini.es/media/catalog/product/0/0/005352box50e_00.jpg"
-      ],
+      "cover_candidates": [],
       "checklist_candidates": [],
       "inspected_evidence": [
         {
-          "url": "https://www.panini.es/shp_esp_es/cromos-coleccionables/deporte/fifa-world-cuptm/fifa-club-world-cup-2025.html",
+          "url": "https://panini.queue-it.net/?c=panini&e=paninies&ver=v3-php-3.7.4&cver=28&man=Panini%20Spain%20-%20Production%20-%20Server&t=https%3A%2F%2Fwww.panini.es%2Fshp_esp_es%2Fcromos-coleccionables%2Fdeporte%2Ffifa-world-cuptm%2Ffifa-club-world-cup-2025.html&kupver=magento2_1.3.5",
           "status": "ok"
         }
       ],
@@ -701,6 +693,7 @@
       "verification_score": 3,
       "publication_ready": false,
       "publication_blockers": [
+        "missing_cover",
         "missing_checklist"
       ]
     },
@@ -762,13 +755,11 @@
       ],
       "name": "Megacracks 2026 27 Megapack 3 Blisters Colecci N Oficial Panini Bundle005519Kbe6W 3S Es01",
       "identity_valid": true,
-      "cover_candidates": [
-        "https://www.panini.es/media/catalog/product/b/u/bundle005519kbe6w-3s.jpg?quality=80&bg-color=255%2C255%2C255&fit=bounds&height=265&width=265&canvas=265%3A265"
-      ],
+      "cover_candidates": [],
       "checklist_candidates": [],
       "inspected_evidence": [
         {
-          "url": "https://www.panini.es/shp_esp_es/megacracks-2026-27-megapack-3-blisters-colecci-n-oficial-panini-bundle005519kbe6w-3s-es01.html",
+          "url": "https://panini.queue-it.net/?c=panini&e=paninies&ver=v3-php-3.7.4&cver=28&man=Panini%20Spain%20-%20Production%20-%20Server&t=https%3A%2F%2Fwww.panini.es%2Fshp_esp_es%2Fmegacracks-2026-27-megapack-3-blisters-colecci-n-oficial-panini-bundle005519kbe6w-3s-es01.html&kupver=magento2_1.3.5",
           "status": "ok"
         }
       ],
@@ -783,6 +774,7 @@
       "verification_score": 3,
       "publication_ready": false,
       "publication_blockers": [
+        "missing_cover",
         "missing_checklist"
       ]
     },
@@ -803,11 +795,13 @@
       ],
       "name": "Megacracks 2026 27 Megapack Cajita 50 Sobres Colecci N Oficial Panini Bundle005519Box50Esp Es01",
       "identity_valid": true,
-      "cover_candidates": [],
+      "cover_candidates": [
+        "https://www.panini.es/media/catalog/product/b/u/bundle005519box50esp.jpg?quality=80&bg-color=255%2C255%2C255&fit=bounds&height=265&width=265&canvas=265%3A265"
+      ],
       "checklist_candidates": [],
       "inspected_evidence": [
         {
-          "url": "https://panini.queue-it.net/?c=panini&e=paninies&ver=v3-php-3.7.4&cver=28&man=Panini%20Spain%20-%20Production%20-%20Server&t=https%3A%2F%2Fwww.panini.es%2Fshp_esp_es%2Fmegacracks-2026-27-megapack-cajita-50-sobres-colecci-n-oficial-panini-bundle005519box50esp-es01.html&kupver=magento2_1.3.5",
+          "url": "https://www.panini.es/shp_esp_es/megacracks-2026-27-megapack-cajita-50-sobres-colecci-n-oficial-panini-bundle005519box50esp-es01.html",
           "status": "ok"
         }
       ],
@@ -822,7 +816,6 @@
       "verification_score": 3,
       "publication_ready": false,
       "publication_blockers": [
-        "missing_cover",
         "missing_checklist"
       ]
     },
@@ -1086,11 +1079,13 @@
       ],
       "name": "Asobal",
       "identity_valid": true,
-      "cover_candidates": [],
+      "cover_candidates": [
+        "https://www.panini.es/media/catalog/product/0/0/005667box36ew_0.jpg"
+      ],
       "checklist_candidates": [],
       "inspected_evidence": [
         {
-          "url": "https://panini.queue-it.net/?c=panini&e=paninies&ver=v3-php-3.7.4&cver=28&man=Panini%20Spain%20-%20Production%20-%20Server&t=https%3A%2F%2Fwww.panini.es%2Fshp_esp_es%2Fcromos-coleccionables%2Fdeporte%2Fmas-deportes%2Fasobal.html&kupver=magento2_1.3.5",
+          "url": "https://www.panini.es/shp_esp_es/cromos-coleccionables/deporte/mas-deportes/asobal.html",
           "status": "ok"
         }
       ],
@@ -1105,7 +1100,6 @@
       "verification_score": 3,
       "publication_ready": false,
       "publication_blockers": [
-        "missing_cover",
         "missing_checklist"
       ]
     },
@@ -1167,11 +1161,13 @@
       ],
       "name": "Barbie",
       "identity_valid": true,
-      "cover_candidates": [],
+      "cover_candidates": [
+        "https://www.panini.es/media/catalog/product/0/0/004283rcvae_0.jpg"
+      ],
       "checklist_candidates": [],
       "inspected_evidence": [
         {
-          "url": "https://panini.queue-it.net/?c=panini&e=paninies&ver=v3-php-3.7.4&cver=28&man=Panini%20Spain%20-%20Production%20-%20Server&t=https%3A%2F%2Fwww.panini.es%2Fshp_esp_es%2Fcromos-coleccionables%2Finfantil%2Fbarbie.html&kupver=magento2_1.3.5",
+          "url": "https://www.panini.es/shp_esp_es/cromos-coleccionables/infantil/barbie.html",
           "status": "ok"
         }
       ],
@@ -1186,7 +1182,6 @@
       "verification_score": 3,
       "publication_ready": false,
       "publication_blockers": [
-        "missing_cover",
         "missing_checklist"
       ]
     },
@@ -1336,7 +1331,7 @@
       "checklist_candidates": [],
       "inspected_evidence": [
         {
-          "url": "https://panini.queue-it.net/?c=panini&e=paninies&ver=v3-php-3.7.4&cver=28&man=Panini%20Spain%20-%20Production%20-%20Server&t=https%3A%2F%2Fwww.panini.es%2Fshp_esp_es%2Fcromos-coleccionables%2Finfantil%2Fbrainrot.html&kupver=magento2_1.3.5",
+          "url": "https://www.panini.es/shp_esp_es/cromos-coleccionables/infantil/brainrot.html",
           "status": "ok"
         }
       ],
@@ -1574,11 +1569,13 @@
       ],
       "name": "Deporte",
       "identity_valid": true,
-      "cover_candidates": [],
+      "cover_candidates": [
+        "https://www.panini.es/media/catalog/product/0/0/000561a_0_ucwoviqa4sr58jxu.jpg"
+      ],
       "checklist_candidates": [],
       "inspected_evidence": [
         {
-          "url": "https://panini.queue-it.net/?c=panini&e=paninies&ver=v3-php-3.7.4&cver=28&man=Panini%20Spain%20-%20Production%20-%20Server&t=https%3A%2F%2Fwww.panini.es%2Fshp_esp_es%2Fcromos-coleccionables%2Fdeporte.html&kupver=magento2_1.3.5",
+          "url": "https://www.panini.es/shp_esp_es/cromos-coleccionables/deporte.html",
           "status": "ok"
         }
       ],
@@ -1593,7 +1590,6 @@
       "verification_score": 3,
       "publication_ready": false,
       "publication_blockers": [
-        "missing_cover",
         "missing_checklist"
       ]
     },
@@ -1614,11 +1610,13 @@
       ],
       "name": "Disney Princess",
       "identity_valid": true,
-      "cover_candidates": [],
+      "cover_candidates": [
+        "https://www.panini.es/media/catalog/product/0/0/001629rcagb_0_jkh3bfadjsiiycpp.jpg"
+      ],
       "checklist_candidates": [],
       "inspected_evidence": [
         {
-          "url": "https://panini.queue-it.net/?c=panini&e=paninies&ver=v3-php-3.7.4&cver=28&man=Panini%20Spain%20-%20Production%20-%20Server&t=https%3A%2F%2Fwww.panini.es%2Fshp_esp_es%2Fcromos-coleccionables%2Finfantil%2Fdisney-princess.html&kupver=magento2_1.3.5",
+          "url": "https://www.panini.es/shp_esp_es/cromos-coleccionables/infantil/disney-princess.html",
           "status": "ok"
         }
       ],
@@ -1633,7 +1631,6 @@
       "verification_score": 3,
       "publication_ready": false,
       "publication_blockers": [
-        "missing_cover",
         "missing_checklist"
       ]
     },
@@ -1694,13 +1691,11 @@
       ],
       "name": "Exclusivo Por Web",
       "identity_valid": true,
-      "cover_candidates": [
-        "https://www.panini.es/media/catalog/product/0/0/005515spe4w.jpg"
-      ],
+      "cover_candidates": [],
       "checklist_candidates": [],
       "inspected_evidence": [
         {
-          "url": "https://www.panini.es/shp_esp_es/cromos-coleccionables/exclusivo-por-web.html",
+          "url": "https://panini.queue-it.net/?c=panini&e=paninies&ver=v3-php-3.7.4&cver=28&man=Panini%20Spain%20-%20Production%20-%20Server&t=https%3A%2F%2Fwww.panini.es%2Fshp_esp_es%2Fcromos-coleccionables%2Fexclusivo-por-web.html&kupver=magento2_1.3.5",
           "status": "ok"
         }
       ],
@@ -1715,6 +1710,7 @@
       "verification_score": 3,
       "publication_ready": false,
       "publication_blockers": [
+        "missing_cover",
         "missing_checklist"
       ]
     },
@@ -1739,7 +1735,7 @@
       "checklist_candidates": [],
       "inspected_evidence": [
         {
-          "url": "https://panini.queue-it.net/?c=panini&e=paninies&ver=v3-php-3.7.4&cver=28&man=Panini%20Spain%20-%20Production%20-%20Server&t=https%3A%2F%2Fwww.panini.es%2Fshp_esp_es%2Fcromos-coleccionables%2Ftv-cine-videojuegos%2Ffantasy-riders.html&kupver=magento2_1.3.5",
+          "url": "https://www.panini.es/shp_esp_es/cromos-coleccionables/tv-cine-videojuegos/fantasy-riders.html",
           "status": "ok"
         }
       ],
@@ -1775,11 +1771,13 @@
       ],
       "name": "Frozen",
       "identity_valid": true,
-      "cover_candidates": [],
+      "cover_candidates": [
+        "https://www.panini.es/media/catalog/product/0/0/003035rcvagb_0_8xwktofyke8jmwmc.jpg"
+      ],
       "checklist_candidates": [],
       "inspected_evidence": [
         {
-          "url": "https://panini.queue-it.net/?c=panini&e=paninies&ver=v3-php-3.7.4&cver=28&man=Panini%20Spain%20-%20Production%20-%20Server&t=https%3A%2F%2Fwww.panini.es%2Fshp_esp_es%2Fcromos-coleccionables%2Finfantil%2Ffrozen.html&kupver=magento2_1.3.5",
+          "url": "https://www.panini.es/shp_esp_es/cromos-coleccionables/infantil/frozen.html",
           "status": "ok"
         }
       ],
@@ -1794,7 +1792,6 @@
       "verification_score": 3,
       "publication_ready": false,
       "publication_blockers": [
-        "missing_cover",
         "missing_checklist"
       ]
     },
@@ -1856,10 +1853,61 @@
       "name": "Grandes Exitos",
       "identity_valid": true,
       "cover_candidates": [],
-      "checklist_candidates": [],
+      "checklist_candidates": [
+        {
+          "url": "https://www.panini.es/shp_esp_es/harry-potter-los-cr-menes-de-grindelwald-colecci-n-completa-grandes-xitos-panini-spgran121-es01.html",
+          "label": "Harry Potter: Los crímenes de Grindelwald - Colección Completa - Grandes Éxitos Panini",
+          "type": "checklist_link"
+        },
+        {
+          "url": "https://www.panini.es/shp_esp_es/mundo-2016-colecci-n-completa-grandes-xitos-panini-spgran119-es01.html",
+          "label": "Mundo 2016 - Colección Completa - Grandes Éxitos Panini",
+          "type": "checklist_link"
+        },
+        {
+          "url": "https://www.panini.es/shp_esp_es/mundo-canino-y-divertido-colecci-n-completa-grandes-xitos-panini-spgran108-es01.html",
+          "label": "Mundo Canino...y divertido - Colección Completa - Grandes Éxitos Panini",
+          "type": "checklist_link"
+        },
+        {
+          "url": "https://www.panini.es/shp_esp_es/peppa-pig-el-mundo-de-colecci-n-completa-grandes-xitos-panini-spgran125-es01.html",
+          "label": "Peppa Pig, el mundo de.. - Colección Completa - Grandes Éxitos Panini",
+          "type": "checklist_link"
+        },
+        {
+          "url": "https://www.panini.es/shp_esp_es/real-madrid-2014-15-colecci-n-completa-grandes-xitos-panini-spgran116-es01.html",
+          "label": "Real Madrid 2014-15 - Colección Completa - Grandes Éxitos Panini",
+          "type": "checklist_link"
+        },
+        {
+          "url": "https://www.panini.es/shp_esp_es/teenage-muntant-ninja-turtles-colecci-n-completa-grandes-xitos-panini-spgran113-es01.html",
+          "label": "Teenage Muntant Ninja Turtles - Colección Completa - Grandes Éxitos Panini",
+          "type": "checklist_link"
+        },
+        {
+          "url": "https://www.panini.es/shp_esp_es/aviones-colecci-n-completa-grandes-xitos-panini-spgran118-es01.html",
+          "label": "Aviones - Colección Completa - Grandes Éxitos Panini",
+          "type": "checklist_link"
+        },
+        {
+          "url": "https://www.panini.es/shp_esp_es/hello-kitty-i-love-life-colecci-n-completa-grandes-xitos-panini-spgran124-es01.html",
+          "label": "Hello Kitty: I love life - Colección Completa - Grandes Éxitos Panini",
+          "type": "checklist_link"
+        },
+        {
+          "url": "https://www.panini.es/shp_esp_es/barbie-mi-vida-en-rosa-colecci-n-completa-grandes-xitos-panini-spgran111-es01.html",
+          "label": "Barbie, mi vida en rosa - Colección Completa - Grandes Éxitos Panini",
+          "type": "checklist_link"
+        },
+        {
+          "url": "https://www.panini.es/shp_esp_es/hannah-montana-colecci-n-completa-grandes-xitos-panini-spgran120-es01.html",
+          "label": "Hannah Montana - Colección Completa - Grandes Éxitos Panini",
+          "type": "checklist_link"
+        }
+      ],
       "inspected_evidence": [
         {
-          "url": "https://panini.queue-it.net/?c=panini&e=paninies&ver=v3-php-3.7.4&cver=28&man=Panini%20Spain%20-%20Production%20-%20Server&t=https%3A%2F%2Fwww.panini.es%2Fshp_esp_es%2Fcromos-coleccionables%2Fexclusivo-por-web%2Fgrandes-exitos.html&kupver=magento2_1.3.5",
+          "url": "https://www.panini.es/shp_esp_es/cromos-coleccionables/exclusivo-por-web/grandes-exitos.html",
           "status": "ok"
         }
       ],
@@ -1874,8 +1922,7 @@
       "verification_score": 3,
       "publication_ready": false,
       "publication_blockers": [
-        "missing_cover",
-        "missing_checklist"
+        "missing_cover"
       ]
     },
     {
@@ -2058,11 +2105,13 @@
       ],
       "name": "Minecraft",
       "identity_valid": true,
-      "cover_candidates": [],
+      "cover_candidates": [
+        "https://www.panini.es/media/catalog/product/0/0/004141b_0.jpg"
+      ],
       "checklist_candidates": [],
       "inspected_evidence": [
         {
-          "url": "https://panini.queue-it.net/?c=panini&e=paninies&ver=v3-php-3.7.4&cver=28&man=Panini%20Spain%20-%20Production%20-%20Server&t=https%3A%2F%2Fwww.panini.es%2Fshp_esp_es%2Fcromos-coleccionables%2Ftv-cine-videojuegos%2Fminecraft.html&kupver=magento2_1.3.5",
+          "url": "https://www.panini.es/shp_esp_es/cromos-coleccionables/tv-cine-videojuegos/minecraft.html",
           "status": "ok"
         }
       ],
@@ -2077,7 +2126,6 @@
       "verification_score": 3,
       "publication_ready": false,
       "publication_blockers": [
-        "missing_cover",
         "missing_checklist"
       ]
     },
@@ -2098,11 +2146,13 @@
       ],
       "name": "Monster High",
       "identity_valid": true,
-      "cover_candidates": [],
+      "cover_candidates": [
+        "https://www.panini.es/media/catalog/product/0/0/004797b_0.jpg"
+      ],
       "checklist_candidates": [],
       "inspected_evidence": [
         {
-          "url": "https://panini.queue-it.net/?c=panini&e=paninies&ver=v3-php-3.7.4&cver=28&man=Panini%20Spain%20-%20Production%20-%20Server&t=https%3A%2F%2Fwww.panini.es%2Fshp_esp_es%2Fcromos-coleccionables%2Finfantil%2Fmonster-high.html&kupver=magento2_1.3.5",
+          "url": "https://www.panini.es/shp_esp_es/cromos-coleccionables/infantil/monster-high.html",
           "status": "ok"
         }
       ],
@@ -2117,7 +2167,6 @@
       "verification_score": 3,
       "publication_ready": false,
       "publication_blockers": [
-        "missing_cover",
         "missing_checklist"
       ]
     },
@@ -2304,7 +2353,7 @@
       "checklist_candidates": [],
       "inspected_evidence": [
         {
-          "url": "https://panini.queue-it.net/?c=panini&e=paninies&ver=v3-php-3.7.4&cver=28&man=Panini%20Spain%20-%20Production%20-%20Server&t=https%3A%2F%2Fwww.panini.es%2Fshp_esp_es%2Fcromos-coleccionables%2Finfantil%2Fotras-colecciones.html&kupver=magento2_1.3.5",
+          "url": "https://www.panini.es/shp_esp_es/cromos-coleccionables/infantil/otras-colecciones.html",
           "status": "ok"
         }
       ],
@@ -2340,11 +2389,13 @@
       ],
       "name": "Otras Colecciones Disney",
       "identity_valid": true,
-      "cover_candidates": [],
+      "cover_candidates": [
+        "https://www.panini.es/media/catalog/product/0/0/005027ai_0_1.jpg"
+      ],
       "checklist_candidates": [],
       "inspected_evidence": [
         {
-          "url": "https://panini.queue-it.net/?c=panini&e=paninies&ver=v3-php-3.7.4&cver=28&man=Panini%20Spain%20-%20Production%20-%20Server&t=https%3A%2F%2Fwww.panini.es%2Fshp_esp_es%2Fcromos-coleccionables%2Finfantil%2Fotras-colecciones-disney.html&kupver=magento2_1.3.5",
+          "url": "https://www.panini.es/shp_esp_es/cromos-coleccionables/infantil/otras-colecciones-disney.html",
           "status": "ok"
         }
       ],
@@ -2359,7 +2410,6 @@
       "verification_score": 3,
       "publication_ready": false,
       "publication_blockers": [
-        "missing_cover",
         "missing_checklist"
       ]
     },
@@ -2421,11 +2471,13 @@
       ],
       "name": "Paw Patrol",
       "identity_valid": true,
-      "cover_candidates": [],
+      "cover_candidates": [
+        "https://www.panini.es/media/catalog/product/0/0/003169rcvad_0_fm8mptklhgq6ymst.jpg"
+      ],
       "checklist_candidates": [],
       "inspected_evidence": [
         {
-          "url": "https://panini.queue-it.net/?c=panini&e=paninies&ver=v3-php-3.7.4&cver=28&man=Panini%20Spain%20-%20Production%20-%20Server&t=https%3A%2F%2Fwww.panini.es%2Fshp_esp_es%2Fcromos-coleccionables%2Finfantil%2Fpaw-patrol.html&kupver=magento2_1.3.5",
+          "url": "https://www.panini.es/shp_esp_es/cromos-coleccionables/infantil/paw-patrol.html",
           "status": "ok"
         }
       ],
@@ -2440,7 +2492,6 @@
       "verification_score": 3,
       "publication_ready": false,
       "publication_blockers": [
-        "missing_cover",
         "missing_checklist"
       ]
     },
@@ -2461,11 +2512,13 @@
       ],
       "name": "Sonic",
       "identity_valid": true,
-      "cover_candidates": [],
+      "cover_candidates": [
+        "https://www.panini.es/media/catalog/product/0/0/004860agb_1.jpg"
+      ],
       "checklist_candidates": [],
       "inspected_evidence": [
         {
-          "url": "https://panini.queue-it.net/?c=panini&e=paninies&ver=v3-php-3.7.4&cver=28&man=Panini%20Spain%20-%20Production%20-%20Server&t=https%3A%2F%2Fwww.panini.es%2Fshp_esp_es%2Fcromos-coleccionables%2Ftv-cine-videojuegos%2Fsonic.html&kupver=magento2_1.3.5",
+          "url": "https://www.panini.es/shp_esp_es/cromos-coleccionables/tv-cine-videojuegos/sonic.html",
           "status": "ok"
         }
       ],
@@ -2480,7 +2533,6 @@
       "verification_score": 3,
       "publication_ready": false,
       "publication_blockers": [
-        "missing_cover",
         "missing_checklist"
       ]
     },
@@ -2583,13 +2635,11 @@
       ],
       "name": "Stranger Things",
       "identity_valid": true,
-      "cover_candidates": [
-        "https://www.panini.es/media/catalog/product/0/0/004330b_0.jpg"
-      ],
+      "cover_candidates": [],
       "checklist_candidates": [],
       "inspected_evidence": [
         {
-          "url": "https://www.panini.es/shp_esp_es/cromos-coleccionables/tv-cine-videojuegos/stranger-things.html",
+          "url": "https://panini.queue-it.net/?c=panini&e=paninies&ver=v3-php-3.7.4&cver=28&man=Panini%20Spain%20-%20Production%20-%20Server&t=https%3A%2F%2Fwww.panini.es%2Fshp_esp_es%2Fcromos-coleccionables%2Ftv-cine-videojuegos%2Fstranger-things.html&kupver=magento2_1.3.5",
           "status": "ok"
         }
       ],
@@ -2604,6 +2654,7 @@
       "verification_score": 3,
       "publication_ready": false,
       "publication_blockers": [
+        "missing_cover",
         "missing_checklist"
       ]
     },
@@ -2624,11 +2675,13 @@
       ],
       "name": "Stumble Guys",
       "identity_valid": true,
-      "cover_candidates": [],
+      "cover_candidates": [
+        "https://www.panini.es/media/catalog/product/b/u/bundle_stumble_guys_2_tc_-_005222.jpg"
+      ],
       "checklist_candidates": [],
       "inspected_evidence": [
         {
-          "url": "https://panini.queue-it.net/?c=panini&e=paninies&ver=v3-php-3.7.4&cver=28&man=Panini%20Spain%20-%20Production%20-%20Server&t=https%3A%2F%2Fwww.panini.es%2Fshp_esp_es%2Fcromos-coleccionables%2Ftv-cine-videojuegos%2Fstumble-guys.html&kupver=magento2_1.3.5",
+          "url": "https://www.panini.es/shp_esp_es/cromos-coleccionables/tv-cine-videojuegos/stumble-guys.html",
           "status": "ok"
         }
       ],
@@ -2643,7 +2696,6 @@
       "verification_score": 3,
       "publication_ready": false,
       "publication_blockers": [
-        "missing_cover",
         "missing_checklist"
       ]
     },
@@ -2749,7 +2801,7 @@
       "checklist_candidates": [],
       "inspected_evidence": [
         {
-          "url": "https://www.panini.es/shp_esp_es/balon-de-oro-xl",
+          "url": "https://panini.queue-it.net/?c=panini&e=paninies&ver=v3-php-3.7.4&cver=28&man=Panini%20Spain%20-%20Production%20-%20Server&t=https%3A%2F%2Fwww.panini.es%2Fshp_esp_es%2Fcromos-coleccionables%2Fexclusivo-por-web%2Ftu-cromo-xl.html&kupver=magento2_1.3.5",
           "status": "ok"
         }
       ],
@@ -2826,11 +2878,13 @@
       ],
       "name": "Wednesday",
       "identity_valid": true,
-      "cover_candidates": [],
+      "cover_candidates": [
+        "https://www.panini.es/media/catalog/product/0/0/004815rcvagb_0.jpg"
+      ],
       "checklist_candidates": [],
       "inspected_evidence": [
         {
-          "url": "https://panini.queue-it.net/?c=panini&e=paninies&ver=v3-php-3.7.4&cver=28&man=Panini%20Spain%20-%20Production%20-%20Server&t=https%3A%2F%2Fwww.panini.es%2Fshp_esp_es%2Fcromos-coleccionables%2Ftv-cine-videojuegos%2Fwednesday.html&kupver=magento2_1.3.5",
+          "url": "https://www.panini.es/shp_esp_es/cromos-coleccionables/tv-cine-videojuegos/wednesday.html",
           "status": "ok"
         }
       ],
@@ -2845,7 +2899,6 @@
       "verification_score": 3,
       "publication_ready": false,
       "publication_blockers": [
-        "missing_cover",
         "missing_checklist"
       ]
     },
