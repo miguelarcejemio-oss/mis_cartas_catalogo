@@ -32,6 +32,7 @@ jobs:
 
       - name: Detect catalog updates
         run: |
+          python -m pip install pypdf
           python scripts/collection_discovery.py
           python scripts/enrich_collections.py
           python scripts/detect_updates.py
