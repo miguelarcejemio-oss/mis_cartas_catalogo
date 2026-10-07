@@ -31,7 +31,9 @@ jobs:
           python-version: '3.12'
 
       - name: Detect catalog updates
-        run: python scripts/detect_updates.py
+        run: python scripts/collection_discovery.py
+          python scripts/enrich_collections.py
+          python scripts/detect_updates.py
 
       - name: Commit detected updates
         run: |

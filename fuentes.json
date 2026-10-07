@@ -1,33 +1,46 @@
 {
-  "version": 1,
+  "version": 2,
+  "policy": {
+    "purpose": "Mis Cartas - base de datos de colecciones",
+    "social_data": false,
+    "user_data": false,
+    "exchange_data": false,
+    "duplicates_data": false
+  },
   "sources": [
     {
-      "name": "Panini España - Megacracks",
-      "type": "official_html",
+      "name": "Panini España - verificación oficial",
+      "type": "official_verification",
       "enabled": true,
-      "url": "https://www.panini.es/shp_esp_es/megacracks-2026-27-megapack-colecci-n-oficial-panini-005519spe2w-es01.html"
+      "url": "https://www.panini.es/"
     },
     {
-      "name": "Topps España - Flagship Premier League",
-      "type": "official_html",
+      "name": "Topps España - verificación oficial",
+      "type": "official_verification",
       "enabled": true,
-      "url": "https://es.topps.com/products/topps-flagship-premier-league-2026-27-trading-cards-starter-pack-online-exclusive"
+      "url": "https://es.topps.com/"
     }
   ],
   "discovery_sources": [
     {
-      "name": "Panini España - descubrimiento",
-      "type": "listing",
+      "name": "Índice externo de colecciones",
+      "type": "catalog_index",
       "enabled": true,
-      "brand": "Panini",
-      "url": "https://www.panini.es/"
-    },
-    {
-      "name": "Topps España - descubrimiento",
-      "type": "listing",
-      "enabled": true,
-      "brand": "Topps",
-      "url": "https://es.topps.com/"
+      "url": "https://cromosrepes.com/colecciones/todas",
+      "fields": [
+        "name",
+        "year",
+        "publisher",
+        "detail_url"
+      ],
+      "exclude": [
+        "users",
+        "messages",
+        "trades",
+        "duplicates",
+        "notes",
+        "ratings"
+      ]
     }
   ]
 }

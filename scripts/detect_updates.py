@@ -5,6 +5,9 @@ import hashlib
 import html
 import json
 import re
+import io
+from collections import defaultdict
+from pypdf import PdfReader
 import sys
 from datetime import datetime, timezone
 from html.parser import HTMLParser
@@ -426,6 +429,154 @@ def extract_cover(page, base_url):
 
     return covers[:10]
 
+
+
+def validate_checklist_structure(raw):
+    """
+    Segunda barrera:
+    extrae numero + texto y exige numeracion coherente.
+    Cualquier numero asociado a textos diferentes bloquea la publicacion.
+    """
+    try:
+        reader = PdfReader(io.BytesIO(raw))
+        cards = defaultdict(set)
+
+        for page in reader.pages:
+            text = page.extract_text() or ""
+
+            for line in text.splitlines():
+                line = re.sub(r"\s+", " ", line).strip()
+
+                match = re.match(r"^(\d{1,4})\s+(.+)$", line)
+                if not match:
+                    continue
+
+                number = int(match.group(1))
+                description = match.group(2).strip()
+
+                if description:
+                    cards[number].add(description)
+
+        if not cards:
+            return {
+                "structure_validated": False,
+                "structure_error": "no_card_records",
+                "structured_card_count": 0,
+                "conflict_count": 0,
+                "gap_count": 0,
+            }
+
+        numbers = sorted(cards)
+        conflicts = {
+            number: values
+            for number, values in cards.items()
+            if len(values) > 1
+        }
+
+        expected = set(range(numbers[0], numbers[-1] + 1))
+        gaps = sorted(expected - set(numbers))
+
+        valid = (
+            numbers[0] == 1
+            and len(cards) >= 20
+            and not conflicts
+            and not gaps
+        )
+
+        return {
+            "structure_validated": valid,
+            "structure_error": None if valid else "structural_conflict",
+            "structured_card_count": len(cards),
+            "first_card_number": numbers[0],
+            "last_card_number": numbers[-1],
+            "conflict_count": len(conflicts),
+            "gap_count": len(gaps),
+        }
+
+    except Exception as error:
+        return {
+            "structure_validated": False,
+            "structure_error": f"{type(error).__name__}: {error}",
+            "structured_card_count": 0,
+            "conflict_count": 0,
+            "gap_count": 0,
+        }
+
+
+def validate_checklist_pdf(url):
+    """Comprobación conservadora de que el PDF parece una checklist real."""
+    try:
+        request = Request(
+            url,
+            headers={
+                "User-Agent": UA,
+                "Accept": "application/pdf,*/*;q=0.8",
+                "Accept-Language": "es-ES,es;q=0.9,en;q=0.7",
+            },
+        )
+
+        with urlopen(request, timeout=TIMEOUT) as response:
+            raw = response.read(MAX_BYTES + 1)
+
+        if len(raw) > MAX_BYTES:
+            raise ValueError("PDF demasiado grande")
+
+        # Primera barrera: debe ser realmente un PDF.
+        if not raw.startswith(b"%PDF"):
+            return {
+                "validated": False,
+                "validation_error": "not_a_pdf",
+            }
+
+        # Extraemos cadenas visibles del PDF como validación preliminar.
+        # La extracción completa de cartas se hará en la siguiente fase.
+        visible = re.findall(rb"[\x20-\x7e]{4,}", raw)
+        text = normtext(
+            " ".join(
+                x.decode("latin-1", errors="ignore")
+                for x in visible
+            )
+        )
+
+        terms = (
+            "checklist", "card", "cards",
+            "cromo", "cromos", "player",
+            "jugador", "collection", "coleccion"
+        )
+
+        term_hits = sum(term in text for term in terms)
+        number_hits = len(
+            re.findall(r"(?<!\d)\d{1,4}(?!\d)", text)
+        )
+
+        preliminary_validated = term_hits >= 2 and number_hits >= 20
+
+        structure = validate_checklist_structure(raw)
+
+        validated = (
+            preliminary_validated
+            and structure.get("structure_validated", False)
+        )
+
+        return {
+            "validated": validated,
+            "validation_error": (
+                None if validated
+                else "content_not_checklist_like"
+            ),
+            "checklist_term_hits": term_hits,
+            "number_hits": number_hits,
+            **structure,
+        }
+
+    except Exception as error:
+        return {
+            "validated": False,
+            "validation_error":
+                f"{type(error).__name__}: {error}",
+        }
+
+
 def extract_checklists(page, base_url):
     parser = Links()
     parser.feed(page)
@@ -456,11 +607,19 @@ def extract_checklists(page, base_url):
 
         if (checklist or pdf) and url not in seen:
             seen.add(url)
-            found.append({
+            item = {
                 "url": url,
                 "label": clean_candidate_name(label),
                 "type": "pdf" if pdf else "checklist_link"
-            })
+            }
+
+            if pdf:
+                item.update(validate_checklist_pdf(url))
+            else:
+                item["validated"] = False
+                item["validation_error"] = "link_not_pdf"
+
+            found.append(item)
 
     return found[:20]
 
@@ -536,8 +695,15 @@ def publication_status(candidate):
     if not candidate.get("cover_candidates"):
         reasons.append("missing_cover")
 
-    if not candidate.get("checklist_candidates"):
+    checklists = candidate.get("checklist_candidates") or []
+
+    if not checklists:
         reasons.append("missing_checklist")
+    elif not any(
+        item.get("validated")
+        for item in checklists
+    ):
+        reasons.append("unvalidated_checklist")
 
     candidate["publication_ready"] = not reasons
     candidate["publication_blockers"] = reasons
@@ -751,11 +917,21 @@ def main():
     pending = verify_candidates(pending)
     pending = classify_publication(pending)
 
+    publishable = [
+        item for item in pending
+        if item.get("publication_ready")
+    ]
+
+    pending_review = [
+        item for item in pending
+        if not item.get("publication_ready")
+    ]
+
     core = {
-        "schema_version": 3,
+        "schema_version": 4,
         "checked_sources": checked,
-        "pending_review": pending,
-        "publishable": [],
+        "pending_review": pending_review,
+        "publishable": publishable,
         "errors": errors,
     }
 
