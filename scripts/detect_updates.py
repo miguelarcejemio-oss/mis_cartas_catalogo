@@ -17,7 +17,7 @@ CATALOG = ROOT / "catalogo.json"
 SOURCES = ROOT / "fuentes.json"
 REPORT = ROOT / "portadas" / "actualizaciones.json"
 
-UA = "MisCartasCatalogBot/2.0"
+UA = "Mozilla/5.0 (Linux; Android 14) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36"
 TIMEOUT = 25
 MAX_BYTES = 4_000_000
 
@@ -285,6 +285,320 @@ def known(candidate, urls, names):
     )
 
 
+
+PRODUCT_WORDS = (
+    "starter pack", "starterpack", "multipack", "multi pack",
+    "display", "booster", "blaster", "hobby box", "box",
+    "caja", "sobre", "sobres", "pack", "packs",
+    "album", "álbum", "binder", "carpeta",
+    "lata", "tin", "bundle", "megapack"
+)
+
+TECHNICAL_TEXT = (
+    "width:", "height:", "display:", "font-size:",
+    "margin:", "padding:", "background:", "{", "}",
+    "@media", "javascript:", "<style", "</style"
+)
+
+
+def clean_candidate_name(value):
+    value = html.unescape(str(value or ""))
+    value = re.sub(r"<[^>]+>", " ", value)
+    value = re.sub(r"\s+", " ", value).strip(" -|:/")
+
+    low = value.lower()
+
+    if not value:
+        return ""
+
+    if any(token in low for token in TECHNICAL_TEXT):
+        return ""
+
+    if len(value) > 180:
+        return ""
+
+    return value
+
+
+def collection_key(candidate):
+    name = clean_candidate_name(
+        candidate.get("name_hint", "")
+    )
+
+    if not name:
+        name = candidate.get("url", "")
+
+    key = normtext(name)
+
+    for word in PRODUCT_WORDS:
+        key = re.sub(
+            r"\b" + re.escape(word) + r"\b",
+            " ",
+            key,
+            flags=re.I,
+        )
+
+    # Quita precios y cantidades comerciales, pero conserva años/temporadas.
+    key = re.sub(r"\b\d+\s*(sobres?|packs?|cards?|cromos?)\b", " ", key)
+    key = re.sub(r"\b\d+[,.]\d{2}\s*€?\b", " ", key)
+    key = re.sub(r"\s+", " ", key).strip(" -|:/")
+
+    return key
+
+
+def group_candidates(items):
+    groups = {}
+
+    for item in items:
+        item = dict(item)
+
+        cleaned = clean_candidate_name(
+            item.get("name_hint", "")
+        )
+
+        if not cleaned:
+            continue
+
+        item["name_hint"] = cleaned
+        key = collection_key(item)
+
+        if len(key) < 4:
+            continue
+
+        if key not in groups:
+            groups[key] = {
+                **item,
+                "collection_key": key,
+                "evidence_urls": [item.get("url")],
+                "variants": [cleaned],
+            }
+            continue
+
+        group = groups[key]
+
+        url = item.get("url")
+        if url and url not in group["evidence_urls"]:
+            group["evidence_urls"].append(url)
+
+        if cleaned not in group["variants"]:
+            group["variants"].append(cleaned)
+
+        if item.get("score", 0) > group.get("score", 0):
+            keep_urls = group["evidence_urls"]
+            keep_variants = group["variants"]
+            group.update(item)
+            group["collection_key"] = key
+            group["evidence_urls"] = keep_urls
+            group["variants"] = keep_variants
+
+    return sorted(
+        groups.values(),
+        key=lambda x: (-x.get("score", 0), x["collection_key"])
+    )
+
+
+CHECKLIST_TERMS = (
+    "checklist", "check list", "lista de cartas",
+    "lista de cromos", "card list", "set list",
+    "lista completa", "colección completa"
+)
+
+COVER_TERMS = (
+    "cover", "portada", "album", "álbum",
+    "binder", "starter"
+)
+
+
+def extract_cover(page, base_url):
+    patterns = (
+        r'<meta[^>]+property=["\']og:image["\'][^>]+content=["\']([^"\']+)',
+        r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+property=["\']og:image["\']',
+        r'<meta[^>]+name=["\']twitter:image["\'][^>]+content=["\']([^"\']+)',
+    )
+
+    covers = []
+
+    for pattern in patterns:
+        for value in re.findall(pattern, page, flags=re.I):
+            url = normurl(urljoin(base_url, html.unescape(value)))
+            if url.startswith(("http://","https://")) and url not in covers:
+                covers.append(url)
+
+    return covers[:10]
+
+def extract_checklists(page, base_url):
+    parser = Links()
+    parser.feed(page)
+
+    found = []
+    seen = set()
+
+    for href, label in parser.out:
+        if not href:
+            continue
+
+        url = normurl(urljoin(base_url, href))
+        text = normtext(label + " " + href)
+
+        checklist = any(
+            term in text
+            for term in CHECKLIST_TERMS
+        )
+
+        pdf = (
+            url.lower().split("?")[0].endswith(".pdf")
+            and any(term in text for term in (
+                "card", "cards", "cromo", "cromos",
+                "lista", "list", "set", "collection",
+                "coleccion", "colección"
+            ))
+        )
+
+        if (checklist or pdf) and url not in seen:
+            seen.add(url)
+            found.append({
+                "url": url,
+                "label": clean_candidate_name(label),
+                "type": "pdf" if pdf else "checklist_link"
+            })
+
+    return found[:20]
+
+def ensure_candidate_name(candidate):
+    candidate = dict(candidate)
+
+    if candidate.get("name") or candidate.get("title"):
+        return candidate
+
+    url = candidate.get("url") or ""
+    if not url:
+        urls = candidate.get("evidence_urls") or []
+        url = urls[0] if urls else ""
+
+    slug = urlsplit(url).path.rstrip("/").split("/")[-1]
+    slug = re.sub(r"\.(html?|php|aspx?)$", "", slug, flags=re.I)
+    slug = re.sub(r"[-_]+", " ", slug)
+    slug = re.sub(r"\s+", " ", slug).strip()
+
+    if slug:
+        candidate["name"] = slug.title()
+
+    return candidate
+
+def enrich_candidate(candidate):
+    candidate=ensure_candidate_name(candidate)
+
+    if not candidate.get("name"):
+        candidate["identity_valid"] = False
+        candidate["publication_blocked"] = "missing_identity"
+    else:
+        candidate["identity_valid"] = True
+    covers=[]
+    checklists=[]
+    inspected=[]
+
+    for url in candidate.get("evidence_urls",[])[:4]:
+        try:
+            page, final_url=fetch(url)
+
+            for cover in extract_cover(page,final_url):
+                if cover not in covers:
+                    covers.append(cover)
+
+            for item in extract_checklists(page,final_url):
+                if not any(x["url"]==item["url"] for x in checklists):
+                    checklists.append(item)
+
+            inspected.append({"url":final_url,"status":"ok"})
+
+        except Exception as error:
+            inspected.append({
+                "url":url,
+                "status":"unavailable",
+                "detail":f"{type(error).__name__}: {error}"
+            })
+
+    candidate["cover_candidates"]=covers[:10]
+    candidate["checklist_candidates"]=checklists[:20]
+    candidate["inspected_evidence"]=inspected
+    return candidate
+
+
+def enrich_candidates(items):
+    return [enrich_candidate(x) for x in items]
+
+def publication_status(candidate):
+    reasons=[]
+
+    if not candidate.get("identity_valid", bool(candidate.get("name"))):
+        reasons.append("missing_identity")
+
+    if not candidate.get("cover_candidates"):
+        reasons.append("missing_cover")
+
+    if not candidate.get("checklist_candidates"):
+        reasons.append("missing_checklist")
+
+    candidate["publication_ready"] = not reasons
+    candidate["publication_blockers"] = reasons
+    return candidate
+
+
+def classify_publication(items):
+    return [publication_status(dict(item)) for item in items]
+
+def analyse_evidence(candidate):
+    """Clasifica las evidencias sin inventar datos."""
+    urls = candidate.get("evidence_urls", [])
+    variants = candidate.get("variants", [])
+
+    text = normtext(
+        " ".join(variants) + " " + " ".join(urls)
+    )
+
+    checklist_hits = [
+        term for term in CHECKLIST_TERMS
+        if term in text
+    ]
+
+    cover_hits = [
+        term for term in COVER_TERMS
+        if term in text
+    ]
+
+    candidate["verification"] = {
+        "identity": bool(candidate.get("collection_key")),
+        "source_count": len(set(urls)),
+        "cover_evidence": bool(cover_hits),
+        "checklist_evidence": bool(checklist_hits),
+        "cover_terms": cover_hits,
+        "checklist_terms": checklist_hits,
+    }
+
+    # Una mención comercial NO basta para publicar.
+    candidate["verification_score"] = (
+        (2 if candidate["verification"]["identity"] else 0)
+        + min(candidate["verification"]["source_count"], 2)
+        + (2 if cover_hits else 0)
+        + (3 if checklist_hits else 0)
+    )
+
+    # De momento ningún candidato descubierto se publica
+    # sin haber extraído y validado realmente su checklist.
+    candidate["status"] = "pending_review"
+    candidate["reason"] = (
+        "Pendiente de verificar portada y checklist"
+    )
+
+    return candidate
+
+
+def verify_candidates(items):
+    return [
+        analyse_evidence(item)
+        for item in items
+    ]
+
 def main():
 
     try:
@@ -353,7 +667,7 @@ def main():
                 )
             ).hexdigest()
 
-            if source_type == "official_listing":
+            if source_type in ("official_listing", "listing"):
 
                 candidates = extract(
                     page,
@@ -432,8 +746,13 @@ def main():
                 }
             )
 
+    pending = group_candidates(pending)
+    pending = enrich_candidates(pending)
+    pending = verify_candidates(pending)
+    pending = classify_publication(pending)
+
     core = {
-        "schema_version": 2,
+        "schema_version": 3,
         "checked_sources": checked,
         "pending_review": pending,
         "publishable": [],
