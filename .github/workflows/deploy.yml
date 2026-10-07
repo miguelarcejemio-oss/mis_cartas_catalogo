@@ -31,7 +31,8 @@ jobs:
           python-version: '3.12'
 
       - name: Detect catalog updates
-        run: python scripts/collection_discovery.py
+        run: |
+          python scripts/collection_discovery.py
           python scripts/enrich_collections.py
           python scripts/detect_updates.py
 
@@ -43,7 +44,7 @@ jobs:
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add catalogo.json portadas/actualizaciones.json
+          git add catalogo.json portadas/actualizaciones.json portadas/enriquecimiento.json
           git commit -m "Actualizar catálogo automáticamente"
           git push
 
