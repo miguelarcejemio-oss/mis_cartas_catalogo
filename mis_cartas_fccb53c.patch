@@ -1,0 +1,371 @@
+From fccb53c043e78475970350afedf51b3f888791be Mon Sep 17 00:00:00 2001
+From: Codex <codex@openai.com>
+Date: Thu, 8 Oct 2026 11:06:48 +0200
+Subject: [PATCH] Enriquecer colecciones existentes conservando identificadores
+ y estados
+
+---
+ .gitignore                         |   3 +
+ README.md                          |  21 ++++++
+ fuentes.json                       |  28 +++++++
+ scripts/enrich_collections.py      |  15 +++-
+ scripts/existing_collections.py    | 116 +++++++++++++++++++++++++++++
+ scripts/official_checklists.py     |  28 ++++++-
+ tests/test_existing_collections.py |  48 ++++++++++++
+ 7 files changed, 254 insertions(+), 5 deletions(-)
+ create mode 100644 .gitignore
+ create mode 100644 scripts/existing_collections.py
+ create mode 100644 tests/test_existing_collections.py
+
+diff --git a/.gitignore b/.gitignore
+new file mode 100644
+index 0000000..0b4af58
+--- /dev/null
++++ b/.gitignore
+@@ -0,0 +1,3 @@
++__pycache__/
++*.py[cod]
++/site/
+diff --git a/README.md b/README.md
+index 13b618d..953d65c 100644
+--- a/README.md
++++ b/README.md
+@@ -9,3 +9,24 @@ La app v53 prueba `.webp`, `.jpg` y `.png` como respaldo. Para forzar prioridad
+ 
+ ## Actualizaciones
+ Cada push a `main` valida `catalogo.json` y, si es válido, despliega GitHub Pages.
++
++### Enriquecimiento de las colecciones existentes
++
++Cada ejecución incluye todas las colecciones del catálogo en `existing_checks`.
++Empareja su identidad con el índice de descubrimiento sin una lista de fabricantes;
++rechaza coincidencias ambiguas y temporadas diferentes. Si no hay coincidencia,
++consulta el `checklist_url` o `official_url` ya registrado. Los registros sin una
++fuente localizable permanecen pendientes. Las comprobaciones con red se limitan
++por ejecución y rotan por la fecha de la última revisión.
++
++Una colección completa y autorizada actualiza el registro existente: conserva
++el ID de colección, los IDs y números antiguos y todos los campos personales.
++Si una carta antigua no encuentra correspondencia, la colección permanece
++pendiente de migración; no se elimina ni reasigna. Una portada ausente o sin
++permiso no impide publicar una checklist autorizada: se conserva la portada
++anterior. No se añade ningún permiso de reutilización supuesto.
++
++Megacracks usa CromosRepes como contraste de lectura, sin importar sus números
++editoriales SOB/EDL como identificadores oficiales ni copiar imágenes. Las
++limitadas del pack y Jugón 222/223 continúan sujetas a verificación de su
++identidad y numeración real; los fallos de acceso quedan registrados.
+diff --git a/fuentes.json b/fuentes.json
+index 06d0aef..a3d55bb 100644
+--- a/fuentes.json
++++ b/fuentes.json
+@@ -42,5 +42,33 @@
+         "ratings"
+       ]
+     }
++  ],
++  "official_checklists": [
++    {
++      "adapter": "panini_megacracks",
++      "collection_id": "panini-megacracks-2526",
++      "name": "Megacracks 2025/26",
++      "checklist_url": "https://www.panini.es/media/paniniFiles/Checklist_MGK_2025-26-3a-ed-4.pdf",
++      "shop_url": "https://www.panini.es/shp_esp_es/megacracks-2025-26-cartas-faltantes-005249b-its.html",
++      "required_card_count": 692,
++      "numeric_range": [
++        1,
++        519
++      ],
++      "product_image_marker": "005249spe2_00.jpg",
++      "count_scope": "Sin autógrafos originales; incluye BIS, Power, índices y promocionales; 677 oficiales + 15 promocionales por verificar",
++      "supplement_sources": [
++        {
++          "url": "https://www.panini.es/shp_esp_es/jug-n-n-222-sfutb222w-es01.html"
++        },
++        {
++          "url": "https://www.panini.es/shp_esp_es/jug-n-n-223-sfutb223w-es01.html"
++        },
++        {
++          "url": "https://www.panini.es/shp_esp_es/jug-n-n-224-sfutb224w-es01.html"
++        }
++      ],
++      "contrast_url": "https://cromosrepes.com/coleccion/cromos/LIGA-2025-26-MEGACRACKS"
++    }
+   ]
+ }
+diff --git a/scripts/enrich_collections.py b/scripts/enrich_collections.py
+index 2011cbd..28d9170 100644
+--- a/scripts/enrich_collections.py
++++ b/scripts/enrich_collections.py
+@@ -212,12 +212,12 @@ def verify_collection(item, client, config):
+     url = item.get('detail_url')
+     if not url:
+         raise Blocked('missing_detail_url', '', 'No se inventa una URL de colección')
+-    final, _, raw = client.fetch(url)
++    final, initial_type, raw = client.fetch(url)
+     if not raw.strip() and '/coleccion/ficha/' in url:
+         # Public canonical description, not an attempt to bypass authentication.
+         url = url.replace('/coleccion/ficha/', '/coleccion/cromos/', 1)
+         final, _, raw = client.fetch(url)
+-    detail = parse_detail(raw, final)
++    detail = parse_pdf(raw, item) if ('pdf' in initial_type or raw.startswith(b'%PDF-')) else parse_detail(raw, final)
+     if norm(item['name']).casefold() not in norm(detail['title']).casefold():
+         raise Blocked('identity_mismatch', final, 'Título distinto de la candidata')
+     if str(item.get('year', '')) not in detail['title']:
+@@ -267,15 +267,16 @@ def verify_collection(item, client, config):
+             break
+         except (ValueError, OSError, Blocked) as exc:
+             blockers.append({'code': 'cover_verification_failed', 'url': cover['url'], 'detail': str(exc)})
+-    if cards is None or cover_bytes is None:
++    if cards is None:
+         return None, {'detail_url': final, 'cover_candidates': detail['covers'], 'checklist_candidates': [x for x in detail['links'] if re.search(r'checklist|lista.*(?:cartas|cromos)', x['label'], re.I)], 'blockers': blockers or [{'code': 'cover_and_checklist_not_public', 'url': final}]}
+     cid = 'cr-' + hashlib.sha256(identity(item).encode()).hexdigest()[:24]
+     filtered = [c for c in cards if not re.search(r'aut[oó]grafo original|original autograph|serial.numbered parallel', c['section'] + ' ' + c['player'], re.I)]
+     if not filtered:
+         raise ValueError('empty_checklist_after_policy')
+     for card in filtered:
++        card['original_identifier'] = card['n']
+         card['id'] = cid + '-' + hashlib.sha256(card['n'].encode()).hexdigest()[:16]
+-    record = {'id': cid, 'name': item['name'], 'season': str(item['year']), 'brand': item['publisher'], 'cards': filtered, 'card_count': len(filtered), 'checklist_url': checklist_url, 'source_url': final, 'cover': cover_url, 'cover_url': cover_url, 'verification': {'source_card_count': len(cards), 'excluded_count': len(cards)-len(filtered), 'complete': True, 'permission_evidence': permission(checklist_url, config)['evidence_url'], 'cover_sha256': hashlib.sha256(cover_bytes).hexdigest()}}
++    record = {'id': cid, 'name': item['name'], 'season': str(item['year']), 'brand': item['publisher'], 'cards': filtered, 'card_count': len(filtered), 'checklist_url': checklist_url, 'source_url': final, 'cover': cover_url, 'cover_url': cover_url, 'verification': {'source_card_count': len(cards), 'excluded_count': len(cards)-len(filtered), 'complete': True, 'permission_evidence': permission(checklist_url, config)['evidence_url'], 'cover_sha256': hashlib.sha256(cover_bytes).hexdigest() if cover_bytes else None}}
+     return record, {'blockers': blockers}
+ 
+ 
+@@ -306,6 +307,12 @@ def run(root=ROOT, limit=20, client=None):
+             report['official_checks'].append({'id': target['collection_id'], 'complete': False,
+                 'blockers': [{'code': getattr(exc, 'code', type(exc).__name__),
+                 'url': getattr(exc, 'url', target['checklist_url']), 'detail': str(exc)}]})
++    from scripts.existing_collections import enrich_existing
++    checks, updates, attempts = enrich_existing(catalog, list(queue.values()), config,
++        client, previous, max(0, limit - report['attempted']))
++    report['existing_checks'] = checks
++    report['published'].extend(updates)
++    report['attempted'] += attempts
+     # Oldest checked first: bounded scheduled runs eventually retry the entire queue.
+     candidates = sorted(queue.values(), key=lambda x: (x.get('last_checked') or '', identity(x)))
+     for item in candidates:
+diff --git a/scripts/existing_collections.py b/scripts/existing_collections.py
+new file mode 100644
+index 0000000..c27be0e
+--- /dev/null
++++ b/scripts/existing_collections.py
+@@ -0,0 +1,116 @@
++"""Match existing collections to public discovery metadata, without a brand allowlist."""
++import copy
++import re
++import unicodedata
++from urllib.parse import urlsplit
++
++
++def words(value):
++    value=unicodedata.normalize('NFKD',str(value)).encode('ascii','ignore').decode().casefold()
++    return set(re.findall(r'[a-z]+|\d+',value))
++
++
++def match_existing(collection, candidates):
++    if collection.get('source_url'):
++        exact=[item for item in candidates if item.get('detail_url')==collection['source_url']]
++        if len(exact)==1:
++            return exact[0], None
++    brand=words(collection.get('brand',''))
++    ignored={'la','liga','laliga','panini','coleccion','collection','cards','cartas','stickers','cromos'} | brand
++    title=words(collection['name'])-ignored
++    ranked=[]
++    for candidate in candidates:
++        if brand and words(candidate.get('publisher','')) != brand:
++            continue
++        incoming=words(candidate['name'])-ignored
++        years={x for x in title if x.isdigit() and len(x)==4}
++        source_years={x for x in incoming|words(candidate.get('year','')) if x.isdigit() and len(x)==4}
++        if years and not years.intersection(source_years):
++            continue
++        if not title or not incoming:
++            continue
++        score=len(title&incoming)/len(title|incoming)
++        if score>=0.8:
++            ranked.append((score,candidate))
++    ranked.sort(key=lambda row:row[0],reverse=True)
++    if not ranked:
++        return None, 'source_not_located'
++    if len(ranked)>1 and ranked[0][0]-ranked[1][0]<0.1:
++        return None, 'ambiguous_collection_identity'
++    return ranked[0][1], None
++
++
++def merge_verified(collection, record):
++    """Build first, mutate only after proving every existing identifier is retained."""
++    from scripts.official_checklists import identifier
++    if not record.get('verification',{}).get('complete'):
++        raise ValueError('incomplete_collection')
++    old={identifier(card.get('original_identifier',card.get('n'))):card for card in collection['cards']}
++    if len(old)!=len(collection['cards']):
++        raise ValueError('ambiguous_existing_identifiers')
++    incoming={identifier(card['n']):card for card in record['cards']}
++    if len(incoming)!=len(record['cards']):
++        raise ValueError('duplicate_source_identifiers')
++    absent=set(old)-set(incoming)
++    if absent:
++        raise ValueError('existing_identifiers_require_migration:'+','.join(sorted(absent)))
++    merged=[]
++    for key,card in incoming.items():
++        item=copy.deepcopy(old.get(key,card))
++        # Preserve existing id/n and every personal field, even future unknown fields.
++        item.update({k:card.get(k,'') for k in ('player','team','section')})
++        item['original_identifier']=card['n']
++        if key not in old:
++            import hashlib
++            item['id']=collection['id']+'-'+hashlib.sha256(key.encode()).hexdigest()[:16]
++        merged.append(item)
++    update=copy.deepcopy(collection)
++    update.update(cards=merged,card_count=len(merged),verification=record['verification'],
++                  checklist_url=record['checklist_url'],source_url=record['source_url'])
++    if record.get('cover_url'):
++        update.update(cover=record['cover_url'],cover_url=record['cover_url'])
++    return update
++
++
++def enrich_existing(catalog, candidates, config, client, previous, limit):
++    from scripts.enrich_collections import verify_collection
++    official={target['collection_id'] for target in config.get('official_checklists',[])}
++    checks=[];published=[]
++    last={item['id']:item.get('last_checked','') for item in previous.get('existing_checks',[])}
++    ordered=sorted(catalog['collections'],key=lambda c:(last.get(c['id'],''),c['id']))
++    attempts=0
++    from datetime import datetime,timezone
++    now=datetime.now(timezone.utc).isoformat()
++    for collection in ordered:
++        report={'id':collection['id'],'card_count_before':len(collection['cards']),'status':'pending'}
++        checks.append(report)
++        if collection['id'] in official:
++            report['status']='official_adapter';continue
++        candidate,reason=match_existing(collection,candidates)
++        if not candidate:
++            public_url = collection.get('checklist_url') or collection.get('official_url')
++            if public_url:
++                season = str(collection.get('season', ''))
++                year = re.search(r'20\d{2}', season + ' ' + collection['name'])
++                candidate = {'name': collection['name'], 'publisher': collection.get('brand', ''),
++                    'year': year.group() if year else season, 'detail_url': public_url}
++                report['source_kind'] = 'existing_public_reference'
++            else:
++                report['blockers']=[{'code':reason}];continue
++        report['source_url']=candidate['detail_url']
++        if attempts>=limit:
++            report['last_checked']=last.get(collection['id'],'');continue
++        attempts+=1;report['last_checked']=now
++        try:
++            record,evidence=verify_collection(candidate,client,config)
++            if record is None:
++                report.update(status='blocked',blockers=evidence.get('blockers',[]));continue
++            updated=merge_verified(collection,record)
++            if updated != collection:
++                collection.clear();collection.update(updated)
++                published.append(collection['id'])
++            report.update(status='verified',card_count_after=len(collection['cards']))
++        except Exception as exc:
++            report.update(status='blocked',blockers=[{'code':getattr(exc,'code',type(exc).__name__),
++                'url':getattr(exc,'url',candidate['detail_url']),'detail':str(exc)}])
++    return checks,published,attempts
+diff --git a/scripts/official_checklists.py b/scripts/official_checklists.py
+index 4896d29..a0555ea 100644
+--- a/scripts/official_checklists.py
++++ b/scripts/official_checklists.py
+@@ -204,6 +204,32 @@ def verify_official(target, client, config):
+             if canonical(by_key[key]['player']) not in canonical(row.get('description', '')):
+                 errors.append({'code': 'official_card_name_disagrees', 'identifier': key})
+             by_key[key]['shop_identifier'] = row['identifier']
++    contrast = None
++    if target.get('contrast_url'):
++        try:
++            contrast_raw = fetch(target['contrast_url'])
++            from scripts.enrich_collections import parse_detail, parse_cards
++            detail = parse_detail(contrast_raw, target['contrast_url'])
++            if 'megacracks' not in detail['title'].casefold() or '2025' not in detail['title']:
++                raise ValueError('contrast_collection_identity_mismatch')
++            text = ' '.join(' '.join(row) for table in detail['tables'] for row in table)
++            contrast = {'url': target['contrast_url'], 'title': detail['title'], 'status': 'metadata_readable',
++                'editions_mentioned': [n for n in (1, 2, 3) if re.search(str(n) + r'[ªa]?\s*Edici[oó]n', text, re.I)],
++                'jugon_issues_mentioned': [n for n in (222, 223, 224) if re.search(r'Jug[oó]n[^0-9]{0,20}' + str(n), text, re.I)],
++                'nine_limited_editions_mentioned': bool(re.search(r'(?:nueve|9)[^.!]{0,90}EDICI[OÓ]N', text, re.I))}
++            try:
++                compared = parse_cards(detail)
++                primary_ids = {c['key'] for c in cards if c['original_identifier'] is not None}
++                other_ids = {identifier(c['n']) for c in compared}
++                contrast.update(status='identifiers_compared', source_card_count=len(compared),
++                    matching_identifiers=len(primary_ids & other_ids),
++                    identifiers_only_in_contrast=len(other_ids - primary_ids))
++            except ValueError as exc:
++                contrast['identifier_blocker'] = str(exc)
++            # Contrast is read-only: never import editorial SOB/EDL numbering or copyrighted covers.
++        except Exception as exc:
++            contrast = {'url': target['contrast_url'], 'status': 'blocked',
++                'blocker': {'code': getattr(exc, 'code', type(exc).__name__), 'detail': str(exc)}}
+     counts = Counter(card['section'] for card in cards)
+     required = target['required_card_count']
+     if len(cards) != required:
+@@ -238,7 +264,7 @@ def verify_official(target, client, config):
+     return {'id': target['collection_id'], 'verified_card_count': len(cards),
+             'official_shop_card_count': len(shop), 'required_card_count': required, 'excluded_autographs': excluded,
+             'sections': dict(counts), 'source_evidence': evidence,
+-            'discovered_checklist_urls': discovered,
++            'discovered_checklist_urls': discovered, 'contrast': contrast,
+             'official_product_images': images, 'complete': not errors,
+             'blockers': errors}, cards
+ 
+diff --git a/tests/test_existing_collections.py b/tests/test_existing_collections.py
+new file mode 100644
+index 0000000..b800b36
+--- /dev/null
++++ b/tests/test_existing_collections.py
+@@ -0,0 +1,48 @@
++import copy
++import unittest
++from unittest.mock import patch
++from scripts.existing_collections import match_existing,merge_verified,enrich_existing
++
++class ExistingTests(unittest.TestCase):
++    def candidate(self,brand='Editorial Desconocida'):
++        return {'name':'Liga Prueba 2026','year':'2026','publisher':brand,'detail_url':'https://example.org/checklist'}
++    def collection(self):
++        return {'id':'keep','name':'Liga Prueba 2026','brand':'Editorial Desconocida','cards':[{'id':'personal','n':1,'have':True,'status':'Falta','future_state':{'x':1}}]}
++    def record(self):
++        return {'cards':[{'id':'foreign','n':'01','player':'Ana','team':'Club','section':'Base'}],
++            'verification':{'complete':True},'checklist_url':'https://example.org/list','source_url':'https://example.org/checklist','cover_url':None}
++    def test_unknown_manufacturer_matches_existing(self):
++        candidate=self.candidate();self.assertEqual(match_existing(self.collection(),[candidate]),(candidate,None))
++    def test_ambiguous_match_stays_pending(self):
++        self.assertEqual(match_existing(self.collection(),[self.candidate(),self.candidate()])[1],'ambiguous_collection_identity')
++    def test_distinct_season_does_not_match(self):
++        candidate=self.candidate();candidate.update(name='Liga Prueba 2025',year='2025')
++        self.assertIsNone(match_existing(self.collection(),[candidate])[0])
++    def test_merge_preserves_every_personal_field_and_id(self):
++        original=self.collection();before=copy.deepcopy(original);out=merge_verified(original,self.record())
++        self.assertEqual(original,before)
++        for key in ('id','n','have','status','future_state'):
++            self.assertEqual(out['cards'][0][key],original['cards'][0][key])
++        self.assertEqual(out['id'],'keep')
++    def test_unmatched_existing_card_cannot_be_deleted(self):
++        record=self.record();record['cards'][0]['n']='2'
++        with self.assertRaisesRegex(ValueError,'migration'):
++            merge_verified(self.collection(),record)
++    def test_all_existing_records_included_even_when_limit_zero(self):
++        catalog={'collections':[self.collection(),{'id':'other','name':'Otra 2026','brand':'Nueva','cards':[]}]}
++        checks,published,attempts=enrich_existing(catalog,[self.candidate()],{},None,{},0)
++        self.assertEqual({r['id'] for r in checks},{'keep','other'});self.assertEqual(published,[]);self.assertEqual(attempts,0)
++    def test_existing_collection_is_updated_instead_of_skipped(self):
++        catalog={'collections':[self.collection()]}
++        with patch('scripts.enrich_collections.verify_collection',return_value=(self.record(),{})):
++            checks,published,_=enrich_existing(catalog,[self.candidate()],{},None,{},1)
++        self.assertEqual(published,['keep']);self.assertEqual(checks[0]['status'],'verified')
++        self.assertEqual(catalog['collections'][0]['cards'][0]['id'],'personal')
++    def test_existing_official_reference_used_without_index_match(self):
++        collection=self.collection();collection['official_url']='https://publisher.example/2026/checklist'
++        catalog={'collections':[collection]}
++        with patch('scripts.enrich_collections.verify_collection',return_value=(self.record(),{})) as verify:
++            checks,published,_=enrich_existing(catalog,[],{},None,{},1)
++        self.assertEqual(verify.call_args.args[0]['detail_url'],collection['official_url'])
++        self.assertEqual(checks[0]['source_kind'],'existing_public_reference')
++        self.assertEqual(published,['keep'])
+-- 
+2.51.1
+
