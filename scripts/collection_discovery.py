@@ -9,10 +9,11 @@ from pathlib import Path
 from urllib.parse import urljoin
 from urllib.request import Request, urlopen
 from pathlib import Path
-CATALOG=Path("catalogo.json")
-SOURCES=Path("fuentes.json")
-REPORT=Path("portadas/actualizaciones.json")
-SNAPSHOT=Path("portadas/discovery_snapshot.json")
+ROOT=Path(__file__).resolve().parents[1]
+CATALOG=ROOT / "catalogo.json"
+SOURCES=ROOT / "fuentes.json"
+REPORT=ROOT / "portadas/descubrimiento.json"
+SNAPSHOT=ROOT / "portadas/discovery_snapshot.json"
 from html.parser import HTMLParser
 def now():
     return datetime.now(timezone.utc).replace(microsecond=0).isoformat().replace("+00:00","Z")
@@ -139,6 +140,10 @@ def run():
             errors.append({"source":source.get("name"),"url":source.get("url"),"error":f"{type(error).__name__}: {error}"})
             checked.append({"name":source.get("name"),"type":"catalog_index","status":"error"})
 
+    # A temporary outage must not erase previously discovered candidates.
+    for identity, prior in oldmap.items():
+        if identity not in found:
+            found[identity]=prior
     rows=[]; new=[]; changed=[]
     stamp=now()
     for identity,item in sorted(found.items()):
