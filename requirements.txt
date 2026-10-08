@@ -1,2 +1,3 @@
 Pillow
 pypdf
+beautifulsoup4
