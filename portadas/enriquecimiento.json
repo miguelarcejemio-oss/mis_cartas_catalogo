@@ -1,587 +1,8 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-10-08T00:47:37.424830+00:00",
+  "checked_at": "2026-10-08T05:50:33.696199+00:00",
   "verified": [],
   "pending_review": [
-    {
-      "stable_id": "79938ff0a413a0c0b6683ae4",
-      "identity_key": "adrenalyn xl fifa 365 2018 2017 panini",
-      "name": "Adrenalyn XL FIFA 365 2018",
-      "year": "2017",
-      "publisher": "Panini",
-      "source_name": "Índice externo de colecciones",
-      "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/cromos/ADRENALYN-XL-FIFA-365-2018",
-      "status": "discovered",
-      "checklist_status": "not_verified",
-      "cover_status": "not_verified",
-      "cover_candidates": [],
-      "checklist_candidates": [],
-      "detail_status": "pending",
-      "last_checked": "2026-10-08T00:47:37.424830+00:00",
-      "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "blocked",
-      "blockers": [
-        {
-          "code": "reuse_not_authorized",
-          "url": "https://cromosrepes.com/coleccion/cromos/ADRENALYN-XL-FIFA-365-2018",
-          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
-          "terms_url": "https://cromosrepes.com/ayuda/legal"
-        }
-      ]
-    },
-    {
-      "stable_id": "35b26c1a5a8e87d4ae00f0ae",
-      "identity_key": "adrenalyn xl fifa 365 2023 2023 panini",
-      "name": "Adrenalyn XL FIFA 365 2023",
-      "year": "2023",
-      "publisher": "Panini",
-      "source_name": "Índice externo de colecciones",
-      "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/cromos/ADRENALYN-XL-FIFA-365-2023",
-      "status": "discovered",
-      "checklist_status": "not_verified",
-      "cover_status": "not_verified",
-      "cover_candidates": [],
-      "checklist_candidates": [],
-      "detail_status": "pending",
-      "last_checked": "2026-10-08T00:47:37.424830+00:00",
-      "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "blocked",
-      "blockers": [
-        {
-          "code": "reuse_not_authorized",
-          "url": "https://cromosrepes.com/coleccion/cromos/ADRENALYN-XL-FIFA-365-2023",
-          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
-          "terms_url": "https://cromosrepes.com/ayuda/legal"
-        }
-      ]
-    },
-    {
-      "stable_id": "6c2f81f9dc052b92a3e7e40a",
-      "identity_key": "adrenalyn xl fifa 365 2024 2023 panini",
-      "name": "Adrenalyn XL FIFA 365 2024",
-      "year": "2023",
-      "publisher": "Panini",
-      "source_name": "Índice externo de colecciones",
-      "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/cromos/ADRENALYN-XL-FIFA-365-2024",
-      "status": "discovered",
-      "checklist_status": "not_verified",
-      "cover_status": "not_verified",
-      "cover_candidates": [],
-      "checklist_candidates": [],
-      "detail_status": "pending",
-      "last_checked": "2026-10-08T00:47:37.424830+00:00",
-      "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "blocked",
-      "blockers": [
-        {
-          "code": "reuse_not_authorized",
-          "url": "https://cromosrepes.com/coleccion/cromos/ADRENALYN-XL-FIFA-365-2024",
-          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
-          "terms_url": "https://cromosrepes.com/ayuda/legal"
-        }
-      ]
-    },
-    {
-      "stable_id": "a48c7a6c80747c7716bbdad4",
-      "identity_key": "adrenalyn xl fifa 365 2025 2024 panini",
-      "name": "Adrenalyn XL FIFA 365 2025",
-      "year": "2024",
-      "publisher": "Panini",
-      "source_name": "Índice externo de colecciones",
-      "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/cromos/ADRENALYN-XL-FIFA-365-2025",
-      "status": "discovered",
-      "checklist_status": "not_verified",
-      "cover_status": "not_verified",
-      "cover_candidates": [],
-      "checklist_candidates": [],
-      "detail_status": "pending",
-      "last_checked": "2026-10-08T00:47:37.424830+00:00",
-      "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "blocked",
-      "blockers": [
-        {
-          "code": "reuse_not_authorized",
-          "url": "https://cromosrepes.com/coleccion/cromos/ADRENALYN-XL-FIFA-365-2025",
-          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
-          "terms_url": "https://cromosrepes.com/ayuda/legal"
-        }
-      ]
-    },
-    {
-      "stable_id": "002ae04554fd07d78a6d9b65",
-      "identity_key": "adrenalyn xl fifa 365 2026 2025 panini",
-      "name": "Adrenalyn XL FIFA 365 2026",
-      "year": "2025",
-      "publisher": "Panini",
-      "source_name": "Índice externo de colecciones",
-      "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/cromos/ADRENALYN-XL-FIFA-365-2026",
-      "status": "discovered",
-      "checklist_status": "not_verified",
-      "cover_status": "not_verified",
-      "cover_candidates": [],
-      "checklist_candidates": [],
-      "detail_status": "pending",
-      "last_checked": "2026-10-08T00:47:37.424830+00:00",
-      "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "blocked",
-      "blockers": [
-        {
-          "code": "reuse_not_authorized",
-          "url": "https://cromosrepes.com/coleccion/cromos/ADRENALYN-XL-FIFA-365-2026",
-          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
-          "terms_url": "https://cromosrepes.com/ayuda/legal"
-        }
-      ]
-    },
-    {
-      "stable_id": "4fe0eb9979dc0b97b27f1d45",
-      "identity_key": "adrenalyn xl fifa world cup qatar 2022 2022 panini",
-      "name": "Adrenalyn XL FIFA World Cup Qatar 2022",
-      "year": "2022",
-      "publisher": "Panini",
-      "source_name": "Índice externo de colecciones",
-      "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/cromos/ADRENALYN-XL-FIFA-WORLD-CUP-QATAR-2022",
-      "status": "discovered",
-      "checklist_status": "not_verified",
-      "cover_status": "not_verified",
-      "cover_candidates": [],
-      "checklist_candidates": [],
-      "detail_status": "pending",
-      "last_checked": "2026-10-08T00:47:37.424830+00:00",
-      "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "blocked",
-      "blockers": [
-        {
-          "code": "reuse_not_authorized",
-          "url": "https://cromosrepes.com/coleccion/cromos/ADRENALYN-XL-FIFA-WORLD-CUP-QATAR-2022",
-          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
-          "terms_url": "https://cromosrepes.com/ayuda/legal"
-        }
-      ]
-    },
-    {
-      "stable_id": "b6609e7b0d5c31f2979b2328",
-      "identity_key": "amici cucciolotti animalitos 2015 nos p tits animaux 2015 panini",
-      "name": "Amici cucciolotti - Animalitos 2015 - Nos p'tits animaux",
-      "year": "2015",
-      "publisher": "Panini",
-      "source_name": "Índice externo de colecciones",
-      "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/cromos/AMICI-CUCCIOLOTTI-ANIMALITOS-2015-NOS-P-TITS-ANIMAUX",
-      "status": "discovered",
-      "checklist_status": "not_verified",
-      "cover_status": "not_verified",
-      "cover_candidates": [],
-      "checklist_candidates": [],
-      "detail_status": "pending",
-      "last_checked": "2026-10-08T00:47:37.424830+00:00",
-      "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "blocked",
-      "blockers": [
-        {
-          "code": "reuse_not_authorized",
-          "url": "https://cromosrepes.com/coleccion/cromos/AMICI-CUCCIOLOTTI-ANIMALITOS-2015-NOS-P-TITS-ANIMAUX",
-          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
-          "terms_url": "https://cromosrepes.com/ayuda/legal"
-        }
-      ]
-    },
-    {
-      "stable_id": "45337575820017d4efcb34e4",
-      "identity_key": "bluey el álbum de cromos 2024 panini",
-      "name": "Bluey - El álbum de cromos",
-      "year": "2024",
-      "publisher": "Panini",
-      "source_name": "Índice externo de colecciones",
-      "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/cromos/BLUEY-EL-ALBUM-DE-CROMOS",
-      "status": "discovered",
-      "checklist_status": "not_verified",
-      "cover_status": "not_verified",
-      "cover_candidates": [],
-      "checklist_candidates": [],
-      "detail_status": "pending",
-      "last_checked": "2026-10-08T00:47:37.424830+00:00",
-      "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "blocked",
-      "blockers": [
-        {
-          "code": "reuse_not_authorized",
-          "url": "https://cromosrepes.com/coleccion/cromos/BLUEY-EL-ALBUM-DE-CROMOS",
-          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
-          "terms_url": "https://cromosrepes.com/ayuda/legal"
-        }
-      ]
-    },
-    {
-      "stable_id": "6f96657f2ef61aae5e85bfe2",
-      "identity_key": "dia gru 3 mi villano favorito cartas 3d 2017 2017 otras",
-      "name": "DIA: Gru 3, mi villano favorito [Cartas 3D][2017]",
-      "year": "2017",
-      "publisher": "Otras",
-      "source_name": "Índice externo de colecciones",
-      "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/cromos/DIA-GRU-3-MI-VILLANO-FAVORITO-CARTAS-3D-2017",
-      "status": "discovered",
-      "checklist_status": "not_verified",
-      "cover_status": "not_verified",
-      "cover_candidates": [],
-      "checklist_candidates": [],
-      "detail_status": "pending",
-      "last_checked": "2026-10-08T00:47:37.424830+00:00",
-      "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "blocked",
-      "blockers": [
-        {
-          "code": "reuse_not_authorized",
-          "url": "https://cromosrepes.com/coleccion/cromos/DIA-GRU-3-MI-VILLANO-FAVORITO-CARTAS-3D-2017",
-          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
-          "terms_url": "https://cromosrepes.com/ayuda/legal"
-        }
-      ]
-    },
-    {
-      "stable_id": "f297e1b5869c513f91ed98df",
-      "identity_key": "dia jurassic world album de cromocartas 2018 ed álbumes españoles",
-      "name": "DIA: Jurassic world album de cromocartas",
-      "year": "2018",
-      "publisher": "Ed. Álbumes españoles",
-      "source_name": "Índice externo de colecciones",
-      "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/cromos/DIA-JURASSIC-WORLD-ALBUM-DE-CROMOCARTAS",
-      "status": "discovered",
-      "checklist_status": "not_verified",
-      "cover_status": "not_verified",
-      "cover_candidates": [],
-      "checklist_candidates": [],
-      "detail_status": "pending",
-      "last_checked": "2026-10-08T00:47:37.424830+00:00",
-      "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "blocked",
-      "blockers": [
-        {
-          "code": "reuse_not_authorized",
-          "url": "https://cromosrepes.com/coleccion/cromos/DIA-JURASSIC-WORLD-ALBUM-DE-CROMOCARTAS",
-          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
-          "terms_url": "https://cromosrepes.com/ayuda/legal"
-        }
-      ]
-    },
-    {
-      "stable_id": "6b167c63898ec8d582fb0451",
-      "identity_key": "dragon ball super collectible cards panini 2019 panini",
-      "name": "Dragon Ball Super. Collectible Cards[Panini]",
-      "year": "2019",
-      "publisher": "Panini",
-      "source_name": "Índice externo de colecciones",
-      "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/cromos/DRAGON-BALL-SUPER-COLLECTIBLE-CARDS-PANINI",
-      "status": "discovered",
-      "checklist_status": "not_verified",
-      "cover_status": "not_verified",
-      "cover_candidates": [],
-      "checklist_candidates": [],
-      "detail_status": "pending",
-      "last_checked": "2026-10-08T00:47:37.424830+00:00",
-      "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "blocked",
-      "blockers": [
-        {
-          "code": "reuse_not_authorized",
-          "url": "https://cromosrepes.com/coleccion/cromos/DRAGON-BALL-SUPER-COLLECTIBLE-CARDS-PANINI",
-          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
-          "terms_url": "https://cromosrepes.com/ayuda/legal"
-        }
-      ]
-    },
-    {
-      "stable_id": "0425bf2d0a44bc305acb6b88",
-      "identity_key": "dragon ball super sticker album 2017 panini",
-      "name": "Dragon Ball Super. Sticker Album",
-      "year": "2017",
-      "publisher": "Panini",
-      "source_name": "Índice externo de colecciones",
-      "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/cromos/DRAGON-BALL-SUPER-STICKER-ALBUM",
-      "status": "discovered",
-      "checklist_status": "not_verified",
-      "cover_status": "not_verified",
-      "cover_candidates": [],
-      "checklist_candidates": [],
-      "detail_status": "pending",
-      "last_checked": "2026-10-08T00:47:37.424830+00:00",
-      "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "blocked",
-      "blockers": [
-        {
-          "code": "reuse_not_authorized",
-          "url": "https://cromosrepes.com/coleccion/cromos/DRAGON-BALL-SUPER-STICKER-ALBUM",
-          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
-          "terms_url": "https://cromosrepes.com/ayuda/legal"
-        }
-      ]
-    },
-    {
-      "stable_id": "6f98782f6324a15fd77f13ed",
-      "identity_key": "dragon ball super the legend of son goku collectible cards 2021 panini",
-      "name": "Dragon Ball Super The Legend of Son Goku Collectible Cards",
-      "year": "2021",
-      "publisher": "Panini",
-      "source_name": "Índice externo de colecciones",
-      "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/cromos/DRAGON-BALL-SUPER-THE-LEGEND-OF-SON-GOKU-COLLECTIBLE-CARDS",
-      "status": "discovered",
-      "checklist_status": "not_verified",
-      "cover_status": "not_verified",
-      "cover_candidates": [],
-      "checklist_candidates": [],
-      "detail_status": "pending",
-      "last_checked": "2026-10-08T00:47:37.424830+00:00",
-      "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "blocked",
-      "blockers": [
-        {
-          "code": "reuse_not_authorized",
-          "url": "https://cromosrepes.com/coleccion/cromos/DRAGON-BALL-SUPER-THE-LEGEND-OF-SON-GOKU-COLLECTIBLE-CARDS",
-          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
-          "terms_url": "https://cromosrepes.com/ayuda/legal"
-        }
-      ]
-    },
-    {
-      "stable_id": "89b345d8c05c4cbd47e94088",
-      "identity_key": "el gran album del mundo animal 2012 animales 2012 2012 panini",
-      "name": "El gran album del mundo animal 2012 [Animales 2012]",
-      "year": "2012",
-      "publisher": "Panini",
-      "source_name": "Índice externo de colecciones",
-      "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/cromos/EL-GRAN-ALBUM-DEL-MUNDO-ANIMAL-2012-ANIMALES-2012",
-      "status": "discovered",
-      "checklist_status": "not_verified",
-      "cover_status": "not_verified",
-      "cover_candidates": [],
-      "checklist_candidates": [],
-      "detail_status": "pending",
-      "last_checked": "2026-10-08T00:47:37.424830+00:00",
-      "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "blocked",
-      "blockers": [
-        {
-          "code": "reuse_not_authorized",
-          "url": "https://cromosrepes.com/coleccion/cromos/EL-GRAN-ALBUM-DEL-MUNDO-ANIMAL-2012-ANIMALES-2012",
-          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
-          "terms_url": "https://cromosrepes.com/ayuda/legal"
-        }
-      ]
-    },
-    {
-      "stable_id": "403490f353d7b78684009515",
-      "identity_key": "el gran álbum del mundo animal 2013 animales 2013 2013 panini",
-      "name": "El gran álbum del mundo animal 2013 [Animales 2013]",
-      "year": "2013",
-      "publisher": "Panini",
-      "source_name": "Índice externo de colecciones",
-      "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/cromos/EL-GRAN-ALBUM-DEL-MUNDO-ANIMAL-2013-ANIMALES-2013",
-      "status": "discovered",
-      "checklist_status": "not_verified",
-      "cover_status": "not_verified",
-      "cover_candidates": [],
-      "checklist_candidates": [],
-      "detail_status": "pending",
-      "last_checked": "2026-10-08T00:47:37.424830+00:00",
-      "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "blocked",
-      "blockers": [
-        {
-          "code": "reuse_not_authorized",
-          "url": "https://cromosrepes.com/coleccion/cromos/EL-GRAN-ALBUM-DEL-MUNDO-ANIMAL-2013-ANIMALES-2013",
-          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
-          "terms_url": "https://cromosrepes.com/ayuda/legal"
-        }
-      ]
-    },
-    {
-      "stable_id": "e382e19378e5501e60872535",
-      "identity_key": "el gran álbum del mundo animal 2014 animales 2014 2014 panini",
-      "name": "El gran álbum del mundo animal 2014 [Animales 2014]",
-      "year": "2014",
-      "publisher": "Panini",
-      "source_name": "Índice externo de colecciones",
-      "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/cromos/EL-GRAN-ALBUM-DEL-MUNDO-ANIMAL-2014-ANIMALES-2014",
-      "status": "discovered",
-      "checklist_status": "not_verified",
-      "cover_status": "not_verified",
-      "cover_candidates": [],
-      "checklist_candidates": [],
-      "detail_status": "pending",
-      "last_checked": "2026-10-08T00:47:37.424830+00:00",
-      "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "blocked",
-      "blockers": [
-        {
-          "code": "reuse_not_authorized",
-          "url": "https://cromosrepes.com/coleccion/cromos/EL-GRAN-ALBUM-DEL-MUNDO-ANIMAL-2014-ANIMALES-2014",
-          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
-          "terms_url": "https://cromosrepes.com/ayuda/legal"
-        }
-      ]
-    },
-    {
-      "stable_id": "d6d9ee7ef9b2c9bcf19ec8a6",
-      "identity_key": "el gran álbum del mundo animal 2020 animales 2020 2020 panini",
-      "name": "El gran álbum del mundo animal 2020 [Animales 2020]",
-      "year": "2020",
-      "publisher": "Panini",
-      "source_name": "Índice externo de colecciones",
-      "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/cromos/EL-GRAN-ALBUM-DEL-MUNDO-ANIMAL-2020-ANIMALES-2020",
-      "status": "discovered",
-      "checklist_status": "not_verified",
-      "cover_status": "not_verified",
-      "cover_candidates": [],
-      "checklist_candidates": [],
-      "detail_status": "pending",
-      "last_checked": "2026-10-08T00:47:37.424830+00:00",
-      "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "blocked",
-      "blockers": [
-        {
-          "code": "reuse_not_authorized",
-          "url": "https://cromosrepes.com/coleccion/cromos/EL-GRAN-ALBUM-DEL-MUNDO-ANIMAL-2020-ANIMALES-2020",
-          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
-          "terms_url": "https://cromosrepes.com/ayuda/legal"
-        }
-      ]
-    },
-    {
-      "stable_id": "2bb9835d5ed0067671c8a154",
-      "identity_key": "el álbum de la selección carrefour un equipo una afición 2021 carrefour",
-      "name": "El Álbum de la Selección [Carrefour] Un equipo, una afición",
-      "year": "2021",
-      "publisher": "Carrefour",
-      "source_name": "Índice externo de colecciones",
-      "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/cromos/EL-ALBUM-DE-LA-SELECCION-CARREFOUR-UN-EQUIPO-UNA-AFICION",
-      "status": "discovered",
-      "checklist_status": "not_verified",
-      "cover_status": "not_verified",
-      "cover_candidates": [],
-      "checklist_candidates": [],
-      "detail_status": "pending",
-      "last_checked": "2026-10-08T00:47:37.424830+00:00",
-      "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "blocked",
-      "blockers": [
-        {
-          "code": "reuse_not_authorized",
-          "url": "https://cromosrepes.com/coleccion/cromos/EL-ALBUM-DE-LA-SELECCION-CARREFOUR-UN-EQUIPO-UNA-AFICION",
-          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
-          "terms_url": "https://cromosrepes.com/ayuda/legal"
-        }
-      ]
-    },
-    {
-      "stable_id": "9189dc9a7ffee1554f30cefe",
-      "identity_key": "españa 2026 colección oficial de cromos de la selección española panini family carrefour 2026 panini",
-      "name": "España 2026 - Colección Oficial de Cromos de la Selección Española [Panini Family - Carrefour]]",
-      "year": "2026",
-      "publisher": "Panini",
-      "source_name": "Índice externo de colecciones",
-      "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/ficha/ESPAÑA-2026-COLECCION-OFICIAL-DE-CROMOS-DE-LA-SELECCION-ESPAÑOLA-PANINI-FAMILY-CARREFOUR",
-      "status": "discovered",
-      "checklist_status": "not_verified",
-      "cover_status": "not_verified",
-      "cover_candidates": [],
-      "checklist_candidates": [],
-      "detail_status": "pending",
-      "last_checked": "2026-10-08T00:47:37.424830+00:00",
-      "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "blocked",
-      "blockers": [
-        {
-          "code": "UnicodeEncodeError",
-          "url": "https://cromosrepes.com/coleccion/ficha/ESPAÑA-2026-COLECCION-OFICIAL-DE-CROMOS-DE-LA-SELECCION-ESPAÑOLA-PANINI-FAMILY-CARREFOUR",
-          "detail": "'ascii' codec can't encode character '\\xd1' in position 25: ordinal not in range(128)"
-        }
-      ]
-    },
-    {
-      "stable_id": "026590f39f30cb379239be1d",
-      "identity_key": "euro 2012 polonia ucrania 2012 panini",
-      "name": "Euro 2012 Polonia - Ucrania",
-      "year": "2012",
-      "publisher": "Panini",
-      "source_name": "Índice externo de colecciones",
-      "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/cromos/EURO-2012-POLONIA-UCRANIA",
-      "status": "discovered",
-      "checklist_status": "not_verified",
-      "cover_status": "not_verified",
-      "cover_candidates": [],
-      "checklist_candidates": [],
-      "detail_status": "pending",
-      "last_checked": "2026-10-08T00:47:37.424830+00:00",
-      "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "blocked",
-      "blockers": [
-        {
-          "code": "reuse_not_authorized",
-          "url": "https://cromosrepes.com/coleccion/cromos/EURO-2012-POLONIA-UCRANIA",
-          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
-          "terms_url": "https://cromosrepes.com/ayuda/legal"
-        }
-      ]
-    },
     {
       "stable_id": "556805295aee291e2416cc47",
       "identity_key": "euro 2016 france 2016 panini",
@@ -590,18 +11,26 @@
       "publisher": "Panini",
       "source_name": "Índice externo de colecciones",
       "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/ficha/EURO-2016-FRANCE",
+      "detail_url": "https://cromosrepes.com/coleccion/cromos/EURO-2016-FRANCE",
       "status": "discovered",
       "checklist_status": "not_verified",
       "cover_status": "not_verified",
       "cover_candidates": [],
       "checklist_candidates": [],
       "detail_status": "pending",
-      "last_checked": null,
+      "last_checked": "2026-10-08T05:50:33.696199+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "enrichment_status": "blocked",
+      "blockers": [
+        {
+          "code": "reuse_not_authorized",
+          "url": "https://cromosrepes.com/coleccion/cromos/EURO-2016-FRANCE",
+          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
+          "terms_url": "https://cromosrepes.com/ayuda/legal"
+        }
+      ]
     },
     {
       "stable_id": "9e2424f42c3f0d490b470848",
@@ -611,18 +40,26 @@
       "publisher": "Panini",
       "source_name": "Índice externo de colecciones",
       "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/ficha/EURO-2020-TOURNAMENT-EDITION",
+      "detail_url": "https://cromosrepes.com/coleccion/cromos/EURO-2020-TOURNAMENT-EDITION",
       "status": "discovered",
       "checklist_status": "not_verified",
       "cover_status": "not_verified",
       "cover_candidates": [],
       "checklist_candidates": [],
       "detail_status": "pending",
-      "last_checked": null,
+      "last_checked": "2026-10-08T05:50:33.696199+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "enrichment_status": "blocked",
+      "blockers": [
+        {
+          "code": "reuse_not_authorized",
+          "url": "https://cromosrepes.com/coleccion/cromos/EURO-2020-TOURNAMENT-EDITION",
+          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
+          "terms_url": "https://cromosrepes.com/ayuda/legal"
+        }
+      ]
     },
     {
       "stable_id": "b24be8ec6e64260579c2b888",
@@ -632,18 +69,26 @@
       "publisher": "Topps",
       "source_name": "Índice externo de colecciones",
       "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/ficha/EURO-2024-GERMANY-MATCH-ATTAX",
+      "detail_url": "https://cromosrepes.com/coleccion/cromos/EURO-2024-GERMANY-MATCH-ATTAX",
       "status": "discovered",
       "checklist_status": "not_verified",
       "cover_status": "not_verified",
       "cover_candidates": [],
       "checklist_candidates": [],
       "detail_status": "pending",
-      "last_checked": null,
+      "last_checked": "2026-10-08T05:50:33.696199+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "enrichment_status": "blocked",
+      "blockers": [
+        {
+          "code": "reuse_not_authorized",
+          "url": "https://cromosrepes.com/coleccion/cromos/EURO-2024-GERMANY-MATCH-ATTAX",
+          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
+          "terms_url": "https://cromosrepes.com/ayuda/legal"
+        }
+      ]
     },
     {
       "stable_id": "0cef9caed5d41abc8a28d1b6",
@@ -653,18 +98,26 @@
       "publisher": "Topps",
       "source_name": "Índice externo de colecciones",
       "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/ficha/EURO-2024-GERMANY-STICKERS",
+      "detail_url": "https://cromosrepes.com/coleccion/cromos/EURO-2024-GERMANY-STICKERS",
       "status": "discovered",
       "checklist_status": "not_verified",
       "cover_status": "not_verified",
       "cover_candidates": [],
       "checklist_candidates": [],
       "detail_status": "pending",
-      "last_checked": null,
+      "last_checked": "2026-10-08T05:50:33.696199+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "enrichment_status": "blocked",
+      "blockers": [
+        {
+          "code": "reuse_not_authorized",
+          "url": "https://cromosrepes.com/coleccion/cromos/EURO-2024-GERMANY-STICKERS",
+          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
+          "terms_url": "https://cromosrepes.com/ayuda/legal"
+        }
+      ]
     },
     {
       "stable_id": "89b0a92f988f11b0b2bcac3d",
@@ -674,18 +127,26 @@
       "publisher": "Panini",
       "source_name": "Índice externo de colecciones",
       "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/ficha/FANTASY-RIDERS-2-LA-INVASION-DE-LOS-GIGANTES",
+      "detail_url": "https://cromosrepes.com/coleccion/cromos/FANTASY-RIDERS-2-LA-INVASION-DE-LOS-GIGANTES",
       "status": "discovered",
       "checklist_status": "not_verified",
       "cover_status": "not_verified",
       "cover_candidates": [],
       "checklist_candidates": [],
       "detail_status": "pending",
-      "last_checked": null,
+      "last_checked": "2026-10-08T05:50:33.696199+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "enrichment_status": "blocked",
+      "blockers": [
+        {
+          "code": "reuse_not_authorized",
+          "url": "https://cromosrepes.com/coleccion/cromos/FANTASY-RIDERS-2-LA-INVASION-DE-LOS-GIGANTES",
+          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
+          "terms_url": "https://cromosrepes.com/ayuda/legal"
+        }
+      ]
     },
     {
       "stable_id": "7432b01e137c4b6760076ca0",
@@ -695,18 +156,26 @@
       "publisher": "Panini",
       "source_name": "Índice externo de colecciones",
       "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/ficha/FANTASY-RIDERS",
+      "detail_url": "https://cromosrepes.com/coleccion/cromos/FANTASY-RIDERS",
       "status": "discovered",
       "checklist_status": "not_verified",
       "cover_status": "not_verified",
       "cover_candidates": [],
       "checklist_candidates": [],
       "detail_status": "pending",
-      "last_checked": null,
+      "last_checked": "2026-10-08T05:50:33.696199+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "enrichment_status": "blocked",
+      "blockers": [
+        {
+          "code": "reuse_not_authorized",
+          "url": "https://cromosrepes.com/coleccion/cromos/FANTASY-RIDERS",
+          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
+          "terms_url": "https://cromosrepes.com/ayuda/legal"
+        }
+      ]
     },
     {
       "stable_id": "fef04bc869b41e6d57faa22b",
@@ -716,18 +185,26 @@
       "publisher": "Panini",
       "source_name": "Índice externo de colecciones",
       "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/ficha/FANTASY-RIDERS-3-EL-RESURGIR-DE-LOS-DRAGONES",
+      "detail_url": "https://cromosrepes.com/coleccion/cromos/FANTASY-RIDERS-3-EL-RESURGIR-DE-LOS-DRAGONES",
       "status": "discovered",
       "checklist_status": "not_verified",
       "cover_status": "not_verified",
       "cover_candidates": [],
       "checklist_candidates": [],
       "detail_status": "pending",
-      "last_checked": null,
+      "last_checked": "2026-10-08T05:50:33.696199+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "enrichment_status": "blocked",
+      "blockers": [
+        {
+          "code": "reuse_not_authorized",
+          "url": "https://cromosrepes.com/coleccion/cromos/FANTASY-RIDERS-3-EL-RESURGIR-DE-LOS-DRAGONES",
+          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
+          "terms_url": "https://cromosrepes.com/ayuda/legal"
+        }
+      ]
     },
     {
       "stable_id": "528156f7cdb92ee181f5e733",
@@ -737,18 +214,26 @@
       "publisher": "Panini",
       "source_name": "Índice externo de colecciones",
       "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/ficha/FANTASY-RIDERS-4-NEW-WORLDS",
+      "detail_url": "https://cromosrepes.com/coleccion/cromos/FANTASY-RIDERS-4-NEW-WORLDS",
       "status": "discovered",
       "checklist_status": "not_verified",
       "cover_status": "not_verified",
       "cover_candidates": [],
       "checklist_candidates": [],
       "detail_status": "pending",
-      "last_checked": null,
+      "last_checked": "2026-10-08T05:50:33.696199+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "enrichment_status": "blocked",
+      "blockers": [
+        {
+          "code": "reuse_not_authorized",
+          "url": "https://cromosrepes.com/coleccion/cromos/FANTASY-RIDERS-4-NEW-WORLDS",
+          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
+          "terms_url": "https://cromosrepes.com/ayuda/legal"
+        }
+      ]
     },
     {
       "stable_id": "937dc5674c15e4a287d09a87",
@@ -758,18 +243,26 @@
       "publisher": "Panini",
       "source_name": "Índice externo de colecciones",
       "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/ficha/FIFA-CLUB-WORLD-CUP-2025",
+      "detail_url": "https://cromosrepes.com/coleccion/cromos/FIFA-CLUB-WORLD-CUP-2025",
       "status": "discovered",
       "checklist_status": "not_verified",
       "cover_status": "not_verified",
       "cover_candidates": [],
       "checklist_candidates": [],
       "detail_status": "pending",
-      "last_checked": null,
+      "last_checked": "2026-10-08T05:50:33.696199+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "enrichment_status": "blocked",
+      "blockers": [
+        {
+          "code": "reuse_not_authorized",
+          "url": "https://cromosrepes.com/coleccion/cromos/FIFA-CLUB-WORLD-CUP-2025",
+          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
+          "terms_url": "https://cromosrepes.com/ayuda/legal"
+        }
+      ]
     },
     {
       "stable_id": "7bafb77c0ca378670e982ab7",
@@ -779,18 +272,26 @@
       "publisher": "Panini",
       "source_name": "Índice externo de colecciones",
       "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/ficha/FIFA-CLUB-WORLD-CUP-2025-ADRENALYN-XL",
+      "detail_url": "https://cromosrepes.com/coleccion/cromos/FIFA-CLUB-WORLD-CUP-2025-ADRENALYN-XL",
       "status": "discovered",
       "checklist_status": "not_verified",
       "cover_status": "not_verified",
       "cover_candidates": [],
       "checklist_candidates": [],
       "detail_status": "pending",
-      "last_checked": null,
+      "last_checked": "2026-10-08T05:50:33.696199+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "enrichment_status": "blocked",
+      "blockers": [
+        {
+          "code": "reuse_not_authorized",
+          "url": "https://cromosrepes.com/coleccion/cromos/FIFA-CLUB-WORLD-CUP-2025-ADRENALYN-XL",
+          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
+          "terms_url": "https://cromosrepes.com/ayuda/legal"
+        }
+      ]
     },
     {
       "stable_id": "07c5e4d174c48f38beb3f62b",
@@ -800,18 +301,26 @@
       "publisher": "Panini",
       "source_name": "Índice externo de colecciones",
       "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/ficha/FIFA-WORLD-CLASS-2024-STICKER-COLLECTION",
+      "detail_url": "https://cromosrepes.com/coleccion/cromos/FIFA-WORLD-CLASS-2024-STICKER-COLLECTION",
       "status": "discovered",
       "checklist_status": "not_verified",
       "cover_status": "not_verified",
       "cover_candidates": [],
       "checklist_candidates": [],
       "detail_status": "pending",
-      "last_checked": null,
+      "last_checked": "2026-10-08T05:50:33.696199+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "enrichment_status": "blocked",
+      "blockers": [
+        {
+          "code": "reuse_not_authorized",
+          "url": "https://cromosrepes.com/coleccion/cromos/FIFA-WORLD-CLASS-2024-STICKER-COLLECTION",
+          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
+          "terms_url": "https://cromosrepes.com/ayuda/legal"
+        }
+      ]
     },
     {
       "stable_id": "8387b3c7559210c9ab7347d4",
@@ -821,18 +330,26 @@
       "publisher": "Panini",
       "source_name": "Índice externo de colecciones",
       "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/ficha/FIFA-WORLD-CUP-2026-ADRENALYN-XL",
+      "detail_url": "https://cromosrepes.com/coleccion/cromos/FIFA-WORLD-CUP-2026-ADRENALYN-XL",
       "status": "discovered",
       "checklist_status": "not_verified",
       "cover_status": "not_verified",
       "cover_candidates": [],
       "checklist_candidates": [],
       "detail_status": "pending",
-      "last_checked": null,
+      "last_checked": "2026-10-08T05:50:33.696199+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "enrichment_status": "blocked",
+      "blockers": [
+        {
+          "code": "reuse_not_authorized",
+          "url": "https://cromosrepes.com/coleccion/cromos/FIFA-WORLD-CUP-2026-ADRENALYN-XL",
+          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
+          "terms_url": "https://cromosrepes.com/ayuda/legal"
+        }
+      ]
     },
     {
       "stable_id": "9b3ec7d2d92e0978ac8e131a",
@@ -842,18 +359,26 @@
       "publisher": "Panini",
       "source_name": "Índice externo de colecciones",
       "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/ficha/FROZEN-2-MOMENTOS-MAGICOS",
+      "detail_url": "https://cromosrepes.com/coleccion/cromos/FROZEN-2-MOMENTOS-MAGICOS",
       "status": "discovered",
       "checklist_status": "not_verified",
       "cover_status": "not_verified",
       "cover_candidates": [],
       "checklist_candidates": [],
       "detail_status": "pending",
-      "last_checked": null,
+      "last_checked": "2026-10-08T05:50:33.696199+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "enrichment_status": "blocked",
+      "blockers": [
+        {
+          "code": "reuse_not_authorized",
+          "url": "https://cromosrepes.com/coleccion/cromos/FROZEN-2-MOMENTOS-MAGICOS",
+          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
+          "terms_url": "https://cromosrepes.com/ayuda/legal"
+        }
+      ]
     },
     {
       "stable_id": "8ff9dcc60af9173ef9a71753",
@@ -863,18 +388,26 @@
       "publisher": "Panini",
       "source_name": "Índice externo de colecciones",
       "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/ficha/GORJUSS-2",
+      "detail_url": "https://cromosrepes.com/coleccion/cromos/GORJUSS-2",
       "status": "discovered",
       "checklist_status": "not_verified",
       "cover_status": "not_verified",
       "cover_candidates": [],
       "checklist_candidates": [],
       "detail_status": "pending",
-      "last_checked": null,
+      "last_checked": "2026-10-08T05:50:33.696199+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "enrichment_status": "blocked",
+      "blockers": [
+        {
+          "code": "reuse_not_authorized",
+          "url": "https://cromosrepes.com/coleccion/cromos/GORJUSS-2",
+          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
+          "terms_url": "https://cromosrepes.com/ayuda/legal"
+        }
+      ]
     },
     {
       "stable_id": "9936a6d7eba5e2503ceb43b5",
@@ -884,18 +417,26 @@
       "publisher": "Panini",
       "source_name": "Índice externo de colecciones",
       "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/ficha/GORJUSS-SANTORO-PHOTOCARDS-2",
+      "detail_url": "https://cromosrepes.com/coleccion/cromos/GORJUSS-SANTORO-PHOTOCARDS-2",
       "status": "discovered",
       "checklist_status": "not_verified",
       "cover_status": "not_verified",
       "cover_candidates": [],
       "checklist_candidates": [],
       "detail_status": "pending",
-      "last_checked": null,
+      "last_checked": "2026-10-08T05:50:33.696199+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "enrichment_status": "blocked",
+      "blockers": [
+        {
+          "code": "reuse_not_authorized",
+          "url": "https://cromosrepes.com/coleccion/cromos/GORJUSS-SANTORO-PHOTOCARDS-2",
+          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
+          "terms_url": "https://cromosrepes.com/ayuda/legal"
+        }
+      ]
     },
     {
       "stable_id": "a1c34ed8b2cab39e83e0d7ed",
@@ -905,18 +446,26 @@
       "publisher": "Panini",
       "source_name": "Índice externo de colecciones",
       "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/ficha/GORJUSS-SANTORO-PHOTOCARDS",
+      "detail_url": "https://cromosrepes.com/coleccion/cromos/GORJUSS-SANTORO-PHOTOCARDS",
       "status": "discovered",
       "checklist_status": "not_verified",
       "cover_status": "not_verified",
       "cover_candidates": [],
       "checklist_candidates": [],
       "detail_status": "pending",
-      "last_checked": null,
+      "last_checked": "2026-10-08T05:50:33.696199+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "enrichment_status": "blocked",
+      "blockers": [
+        {
+          "code": "reuse_not_authorized",
+          "url": "https://cromosrepes.com/coleccion/cromos/GORJUSS-SANTORO-PHOTOCARDS",
+          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
+          "terms_url": "https://cromosrepes.com/ayuda/legal"
+        }
+      ]
     },
     {
       "stable_id": "09156d59b7f5488b2d14504b",
@@ -926,18 +475,26 @@
       "publisher": "Panini",
       "source_name": "Índice externo de colecciones",
       "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/ficha/GORJUSS-SANTORO-STICKER",
+      "detail_url": "https://cromosrepes.com/coleccion/cromos/GORJUSS-SANTORO-STICKER",
       "status": "discovered",
       "checklist_status": "not_verified",
       "cover_status": "not_verified",
       "cover_candidates": [],
       "checklist_candidates": [],
       "detail_status": "pending",
-      "last_checked": null,
+      "last_checked": "2026-10-08T05:50:33.696199+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "enrichment_status": "blocked",
+      "blockers": [
+        {
+          "code": "reuse_not_authorized",
+          "url": "https://cromosrepes.com/coleccion/cromos/GORJUSS-SANTORO-STICKER",
+          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
+          "terms_url": "https://cromosrepes.com/ayuda/legal"
+        }
+      ]
     },
     {
       "stable_id": "13844a1ad1093948f5936de6",
@@ -947,18 +504,26 @@
       "publisher": "Panini",
       "source_name": "Índice externo de colecciones",
       "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/ficha/GORJUSS-SANTORO-STICKER-3",
+      "detail_url": "https://cromosrepes.com/coleccion/cromos/GORJUSS-SANTORO-STICKER-3",
       "status": "discovered",
       "checklist_status": "not_verified",
       "cover_status": "not_verified",
       "cover_candidates": [],
       "checklist_candidates": [],
       "detail_status": "pending",
-      "last_checked": null,
+      "last_checked": "2026-10-08T05:50:33.696199+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "enrichment_status": "blocked",
+      "blockers": [
+        {
+          "code": "reuse_not_authorized",
+          "url": "https://cromosrepes.com/coleccion/cromos/GORJUSS-SANTORO-STICKER-3",
+          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
+          "terms_url": "https://cromosrepes.com/ayuda/legal"
+        }
+      ]
     },
     {
       "stable_id": "344607133e40513b68e8742b",
@@ -968,18 +533,26 @@
       "publisher": "Carrefour",
       "source_name": "Índice externo de colecciones",
       "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/ficha/HARRY-POTTER-CARREFOUR",
+      "detail_url": "https://cromosrepes.com/coleccion/cromos/HARRY-POTTER-CARREFOUR",
       "status": "discovered",
       "checklist_status": "not_verified",
       "cover_status": "not_verified",
       "cover_candidates": [],
       "checklist_candidates": [],
       "detail_status": "pending",
-      "last_checked": null,
+      "last_checked": "2026-10-08T05:50:33.696199+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "enrichment_status": "blocked",
+      "blockers": [
+        {
+          "code": "reuse_not_authorized",
+          "url": "https://cromosrepes.com/coleccion/cromos/HARRY-POTTER-CARREFOUR",
+          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
+          "terms_url": "https://cromosrepes.com/ayuda/legal"
+        }
+      ]
     },
     {
       "stable_id": "bafa9daf302f2c0bc1b6e9ff",
@@ -989,18 +562,26 @@
       "publisher": "Panini",
       "source_name": "Índice externo de colecciones",
       "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/ficha/HARRY-POTTER-EL-MANUAL-DE-CROMOS-PARA-MAGOS-Y-BRUJAS-LE-MANUEL-DU-SORCIER",
+      "detail_url": "https://cromosrepes.com/coleccion/cromos/HARRY-POTTER-EL-MANUAL-DE-CROMOS-PARA-MAGOS-Y-BRUJAS-LE-MANUEL-DU-SORCIER",
       "status": "discovered",
       "checklist_status": "not_verified",
       "cover_status": "not_verified",
       "cover_candidates": [],
       "checklist_candidates": [],
       "detail_status": "pending",
-      "last_checked": null,
+      "last_checked": "2026-10-08T05:50:33.696199+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "enrichment_status": "blocked",
+      "blockers": [
+        {
+          "code": "reuse_not_authorized",
+          "url": "https://cromosrepes.com/coleccion/cromos/HARRY-POTTER-EL-MANUAL-DE-CROMOS-PARA-MAGOS-Y-BRUJAS-LE-MANUEL-DU-SORCIER",
+          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
+          "terms_url": "https://cromosrepes.com/ayuda/legal"
+        }
+      ]
     },
     {
       "stable_id": "f75418b832b4293c79492a9a",
@@ -1019,7 +600,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1040,7 +621,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1061,7 +642,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1082,7 +663,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1103,7 +684,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1124,7 +705,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1145,7 +726,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1166,7 +747,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1187,7 +768,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1208,7 +789,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1229,7 +810,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1250,7 +831,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1271,7 +852,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1292,7 +873,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1313,7 +894,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1334,7 +915,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1355,7 +936,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1376,7 +957,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1397,7 +978,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1418,7 +999,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1439,7 +1020,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1460,7 +1041,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1481,7 +1062,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1502,7 +1083,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1523,7 +1104,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1544,7 +1125,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1565,7 +1146,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1586,7 +1167,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1607,7 +1188,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1628,7 +1209,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1649,7 +1230,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1670,7 +1251,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1691,7 +1272,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1712,7 +1293,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1733,7 +1314,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1754,7 +1335,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1775,7 +1356,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1796,7 +1377,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1817,7 +1398,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1838,7 +1419,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1859,7 +1440,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1880,7 +1461,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1901,7 +1482,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1922,7 +1503,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1943,7 +1524,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1964,7 +1545,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1985,7 +1566,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2006,7 +1587,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2027,7 +1608,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2048,7 +1629,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2069,7 +1650,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2090,7 +1671,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2111,7 +1692,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2132,7 +1713,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2153,7 +1734,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2174,7 +1755,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2195,7 +1776,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2216,7 +1797,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2237,7 +1818,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2258,7 +1839,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2279,7 +1860,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2300,7 +1881,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2321,7 +1902,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2342,7 +1923,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2363,7 +1944,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2384,7 +1965,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2405,7 +1986,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2426,7 +2007,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2447,7 +2028,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2468,7 +2049,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2489,7 +2070,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2510,7 +2091,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2531,7 +2112,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2552,7 +2133,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2573,7 +2154,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2594,7 +2175,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2615,7 +2196,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2636,7 +2217,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2657,7 +2238,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2678,7 +2259,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2699,7 +2280,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2720,7 +2301,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2741,7 +2322,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2762,7 +2343,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2783,7 +2364,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2804,7 +2385,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2825,7 +2406,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2846,7 +2427,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2867,7 +2448,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2888,7 +2469,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2909,7 +2490,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2930,7 +2511,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2951,7 +2532,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2972,7 +2553,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2993,7 +2574,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -3014,7 +2595,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -3035,7 +2616,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -3056,7 +2637,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -3077,7 +2658,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -3098,7 +2679,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -3119,7 +2700,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -3140,7 +2721,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -3161,7 +2742,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -3182,7 +2763,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -3203,7 +2784,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -3224,7 +2805,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -3245,7 +2826,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -3266,7 +2847,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -3287,7 +2868,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -3308,7 +2889,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -3329,7 +2910,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -3350,7 +2931,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -3371,7 +2952,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -3392,7 +2973,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -3413,7 +2994,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -3434,7 +3015,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -3455,7 +3036,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -3476,7 +3057,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -3497,7 +3078,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -3518,7 +3099,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -3539,7 +3120,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -3560,7 +3141,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -3581,7 +3162,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -3602,7 +3183,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -3623,7 +3204,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -3644,7 +3225,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -3665,7 +3246,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -3686,7 +3267,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -3707,7 +3288,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -3728,7 +3309,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -3749,7 +3330,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -3770,7 +3351,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -3791,7 +3372,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -3812,7 +3393,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -3833,7 +3414,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -3854,7 +3435,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -3875,7 +3456,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -3896,7 +3477,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -3917,7 +3498,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -3938,7 +3519,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -3959,7 +3540,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -3980,7 +3561,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -4001,7 +3582,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -4022,7 +3603,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -4043,7 +3624,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -4064,7 +3645,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -4085,7 +3666,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -4106,7 +3687,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -4127,7 +3708,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -4148,7 +3729,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -4169,7 +3750,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -4190,7 +3771,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -4211,7 +3792,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -4232,7 +3813,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -4253,7 +3834,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -4274,7 +3855,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -4295,7 +3876,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -4316,7 +3897,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -4337,7 +3918,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -4358,18 +3939,432 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T00:47:37Z",
+      "last_seen": "2026-10-08T05:50:33Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
-    }
-  ],
-  "errors": [
+    },
     {
-      "code": "UnicodeEncodeError",
-      "url": "https://cromosrepes.com/coleccion/ficha/ESPAÑA-2026-COLECCION-OFICIAL-DE-CROMOS-DE-LA-SELECCION-ESPAÑOLA-PANINI-FAMILY-CARREFOUR",
-      "detail": "'ascii' codec can't encode character '\\xd1' in position 25: ordinal not in range(128)"
+      "stable_id": "79938ff0a413a0c0b6683ae4",
+      "identity_key": "adrenalyn xl fifa 365 2018 2017 panini",
+      "name": "Adrenalyn XL FIFA 365 2018",
+      "year": "2017",
+      "publisher": "Panini",
+      "source_name": "Índice externo de colecciones",
+      "source_url": "https://cromosrepes.com/colecciones/todas",
+      "detail_url": "https://cromosrepes.com/coleccion/ficha/ADRENALYN-XL-FIFA-365-2018",
+      "status": "discovered",
+      "checklist_status": "not_verified",
+      "cover_status": "not_verified",
+      "cover_candidates": [],
+      "checklist_candidates": [],
+      "detail_status": "pending",
+      "last_checked": "2026-10-08T00:47:37.424830+00:00",
+      "fingerprint": null,
+      "last_seen": "2026-10-08T05:50:33Z",
+      "first_seen": "2026-10-08T00:47:37Z",
+      "enrichment_status": "blocked"
+    },
+    {
+      "stable_id": "35b26c1a5a8e87d4ae00f0ae",
+      "identity_key": "adrenalyn xl fifa 365 2023 2023 panini",
+      "name": "Adrenalyn XL FIFA 365 2023",
+      "year": "2023",
+      "publisher": "Panini",
+      "source_name": "Índice externo de colecciones",
+      "source_url": "https://cromosrepes.com/colecciones/todas",
+      "detail_url": "https://cromosrepes.com/coleccion/ficha/ADRENALYN-XL-FIFA-365-2023",
+      "status": "discovered",
+      "checklist_status": "not_verified",
+      "cover_status": "not_verified",
+      "cover_candidates": [],
+      "checklist_candidates": [],
+      "detail_status": "pending",
+      "last_checked": "2026-10-08T00:47:37.424830+00:00",
+      "fingerprint": null,
+      "last_seen": "2026-10-08T05:50:33Z",
+      "first_seen": "2026-10-08T00:47:37Z",
+      "enrichment_status": "blocked"
+    },
+    {
+      "stable_id": "6c2f81f9dc052b92a3e7e40a",
+      "identity_key": "adrenalyn xl fifa 365 2024 2023 panini",
+      "name": "Adrenalyn XL FIFA 365 2024",
+      "year": "2023",
+      "publisher": "Panini",
+      "source_name": "Índice externo de colecciones",
+      "source_url": "https://cromosrepes.com/colecciones/todas",
+      "detail_url": "https://cromosrepes.com/coleccion/ficha/ADRENALYN-XL-FIFA-365-2024",
+      "status": "discovered",
+      "checklist_status": "not_verified",
+      "cover_status": "not_verified",
+      "cover_candidates": [],
+      "checklist_candidates": [],
+      "detail_status": "pending",
+      "last_checked": "2026-10-08T00:47:37.424830+00:00",
+      "fingerprint": null,
+      "last_seen": "2026-10-08T05:50:33Z",
+      "first_seen": "2026-10-08T00:47:37Z",
+      "enrichment_status": "blocked"
+    },
+    {
+      "stable_id": "a48c7a6c80747c7716bbdad4",
+      "identity_key": "adrenalyn xl fifa 365 2025 2024 panini",
+      "name": "Adrenalyn XL FIFA 365 2025",
+      "year": "2024",
+      "publisher": "Panini",
+      "source_name": "Índice externo de colecciones",
+      "source_url": "https://cromosrepes.com/colecciones/todas",
+      "detail_url": "https://cromosrepes.com/coleccion/ficha/ADRENALYN-XL-FIFA-365-2025",
+      "status": "discovered",
+      "checklist_status": "not_verified",
+      "cover_status": "not_verified",
+      "cover_candidates": [],
+      "checklist_candidates": [],
+      "detail_status": "pending",
+      "last_checked": "2026-10-08T00:47:37.424830+00:00",
+      "fingerprint": null,
+      "last_seen": "2026-10-08T05:50:33Z",
+      "first_seen": "2026-10-08T00:47:37Z",
+      "enrichment_status": "blocked"
+    },
+    {
+      "stable_id": "002ae04554fd07d78a6d9b65",
+      "identity_key": "adrenalyn xl fifa 365 2026 2025 panini",
+      "name": "Adrenalyn XL FIFA 365 2026",
+      "year": "2025",
+      "publisher": "Panini",
+      "source_name": "Índice externo de colecciones",
+      "source_url": "https://cromosrepes.com/colecciones/todas",
+      "detail_url": "https://cromosrepes.com/coleccion/ficha/ADRENALYN-XL-FIFA-365-2026",
+      "status": "discovered",
+      "checklist_status": "not_verified",
+      "cover_status": "not_verified",
+      "cover_candidates": [],
+      "checklist_candidates": [],
+      "detail_status": "pending",
+      "last_checked": "2026-10-08T00:47:37.424830+00:00",
+      "fingerprint": null,
+      "last_seen": "2026-10-08T05:50:33Z",
+      "first_seen": "2026-10-08T00:47:37Z",
+      "enrichment_status": "blocked"
+    },
+    {
+      "stable_id": "4fe0eb9979dc0b97b27f1d45",
+      "identity_key": "adrenalyn xl fifa world cup qatar 2022 2022 panini",
+      "name": "Adrenalyn XL FIFA World Cup Qatar 2022",
+      "year": "2022",
+      "publisher": "Panini",
+      "source_name": "Índice externo de colecciones",
+      "source_url": "https://cromosrepes.com/colecciones/todas",
+      "detail_url": "https://cromosrepes.com/coleccion/ficha/ADRENALYN-XL-FIFA-WORLD-CUP-QATAR-2022",
+      "status": "discovered",
+      "checklist_status": "not_verified",
+      "cover_status": "not_verified",
+      "cover_candidates": [],
+      "checklist_candidates": [],
+      "detail_status": "pending",
+      "last_checked": "2026-10-08T00:47:37.424830+00:00",
+      "fingerprint": null,
+      "last_seen": "2026-10-08T05:50:33Z",
+      "first_seen": "2026-10-08T00:47:37Z",
+      "enrichment_status": "blocked"
+    },
+    {
+      "stable_id": "b6609e7b0d5c31f2979b2328",
+      "identity_key": "amici cucciolotti animalitos 2015 nos p tits animaux 2015 panini",
+      "name": "Amici cucciolotti - Animalitos 2015 - Nos p'tits animaux",
+      "year": "2015",
+      "publisher": "Panini",
+      "source_name": "Índice externo de colecciones",
+      "source_url": "https://cromosrepes.com/colecciones/todas",
+      "detail_url": "https://cromosrepes.com/coleccion/ficha/AMICI-CUCCIOLOTTI-ANIMALITOS-2015-NOS-P-TITS-ANIMAUX",
+      "status": "discovered",
+      "checklist_status": "not_verified",
+      "cover_status": "not_verified",
+      "cover_candidates": [],
+      "checklist_candidates": [],
+      "detail_status": "pending",
+      "last_checked": "2026-10-08T00:47:37.424830+00:00",
+      "fingerprint": null,
+      "last_seen": "2026-10-08T05:50:33Z",
+      "first_seen": "2026-10-08T00:47:37Z",
+      "enrichment_status": "blocked"
+    },
+    {
+      "stable_id": "45337575820017d4efcb34e4",
+      "identity_key": "bluey el álbum de cromos 2024 panini",
+      "name": "Bluey - El álbum de cromos",
+      "year": "2024",
+      "publisher": "Panini",
+      "source_name": "Índice externo de colecciones",
+      "source_url": "https://cromosrepes.com/colecciones/todas",
+      "detail_url": "https://cromosrepes.com/coleccion/ficha/BLUEY-EL-ALBUM-DE-CROMOS",
+      "status": "discovered",
+      "checklist_status": "not_verified",
+      "cover_status": "not_verified",
+      "cover_candidates": [],
+      "checklist_candidates": [],
+      "detail_status": "pending",
+      "last_checked": "2026-10-08T00:47:37.424830+00:00",
+      "fingerprint": null,
+      "last_seen": "2026-10-08T05:50:33Z",
+      "first_seen": "2026-10-08T00:47:37Z",
+      "enrichment_status": "blocked"
+    },
+    {
+      "stable_id": "6f96657f2ef61aae5e85bfe2",
+      "identity_key": "dia gru 3 mi villano favorito cartas 3d 2017 2017 otras",
+      "name": "DIA: Gru 3, mi villano favorito [Cartas 3D][2017]",
+      "year": "2017",
+      "publisher": "Otras",
+      "source_name": "Índice externo de colecciones",
+      "source_url": "https://cromosrepes.com/colecciones/todas",
+      "detail_url": "https://cromosrepes.com/coleccion/ficha/DIA-GRU-3-MI-VILLANO-FAVORITO-CARTAS-3D-2017",
+      "status": "discovered",
+      "checklist_status": "not_verified",
+      "cover_status": "not_verified",
+      "cover_candidates": [],
+      "checklist_candidates": [],
+      "detail_status": "pending",
+      "last_checked": "2026-10-08T00:47:37.424830+00:00",
+      "fingerprint": null,
+      "last_seen": "2026-10-08T05:50:33Z",
+      "first_seen": "2026-10-08T00:47:37Z",
+      "enrichment_status": "blocked"
+    },
+    {
+      "stable_id": "f297e1b5869c513f91ed98df",
+      "identity_key": "dia jurassic world album de cromocartas 2018 ed álbumes españoles",
+      "name": "DIA: Jurassic world album de cromocartas",
+      "year": "2018",
+      "publisher": "Ed. Álbumes españoles",
+      "source_name": "Índice externo de colecciones",
+      "source_url": "https://cromosrepes.com/colecciones/todas",
+      "detail_url": "https://cromosrepes.com/coleccion/ficha/DIA-JURASSIC-WORLD-ALBUM-DE-CROMOCARTAS",
+      "status": "discovered",
+      "checklist_status": "not_verified",
+      "cover_status": "not_verified",
+      "cover_candidates": [],
+      "checklist_candidates": [],
+      "detail_status": "pending",
+      "last_checked": "2026-10-08T00:47:37.424830+00:00",
+      "fingerprint": null,
+      "last_seen": "2026-10-08T05:50:33Z",
+      "first_seen": "2026-10-08T00:47:37Z",
+      "enrichment_status": "blocked"
+    },
+    {
+      "stable_id": "6b167c63898ec8d582fb0451",
+      "identity_key": "dragon ball super collectible cards panini 2019 panini",
+      "name": "Dragon Ball Super. Collectible Cards[Panini]",
+      "year": "2019",
+      "publisher": "Panini",
+      "source_name": "Índice externo de colecciones",
+      "source_url": "https://cromosrepes.com/colecciones/todas",
+      "detail_url": "https://cromosrepes.com/coleccion/ficha/DRAGON-BALL-SUPER-COLLECTIBLE-CARDS-PANINI",
+      "status": "discovered",
+      "checklist_status": "not_verified",
+      "cover_status": "not_verified",
+      "cover_candidates": [],
+      "checklist_candidates": [],
+      "detail_status": "pending",
+      "last_checked": "2026-10-08T00:47:37.424830+00:00",
+      "fingerprint": null,
+      "last_seen": "2026-10-08T05:50:33Z",
+      "first_seen": "2026-10-08T00:47:37Z",
+      "enrichment_status": "blocked"
+    },
+    {
+      "stable_id": "0425bf2d0a44bc305acb6b88",
+      "identity_key": "dragon ball super sticker album 2017 panini",
+      "name": "Dragon Ball Super. Sticker Album",
+      "year": "2017",
+      "publisher": "Panini",
+      "source_name": "Índice externo de colecciones",
+      "source_url": "https://cromosrepes.com/colecciones/todas",
+      "detail_url": "https://cromosrepes.com/coleccion/ficha/DRAGON-BALL-SUPER-STICKER-ALBUM",
+      "status": "discovered",
+      "checklist_status": "not_verified",
+      "cover_status": "not_verified",
+      "cover_candidates": [],
+      "checklist_candidates": [],
+      "detail_status": "pending",
+      "last_checked": "2026-10-08T00:47:37.424830+00:00",
+      "fingerprint": null,
+      "last_seen": "2026-10-08T05:50:33Z",
+      "first_seen": "2026-10-08T00:47:37Z",
+      "enrichment_status": "blocked"
+    },
+    {
+      "stable_id": "6f98782f6324a15fd77f13ed",
+      "identity_key": "dragon ball super the legend of son goku collectible cards 2021 panini",
+      "name": "Dragon Ball Super The Legend of Son Goku Collectible Cards",
+      "year": "2021",
+      "publisher": "Panini",
+      "source_name": "Índice externo de colecciones",
+      "source_url": "https://cromosrepes.com/colecciones/todas",
+      "detail_url": "https://cromosrepes.com/coleccion/ficha/DRAGON-BALL-SUPER-THE-LEGEND-OF-SON-GOKU-COLLECTIBLE-CARDS",
+      "status": "discovered",
+      "checklist_status": "not_verified",
+      "cover_status": "not_verified",
+      "cover_candidates": [],
+      "checklist_candidates": [],
+      "detail_status": "pending",
+      "last_checked": "2026-10-08T00:47:37.424830+00:00",
+      "fingerprint": null,
+      "last_seen": "2026-10-08T05:50:33Z",
+      "first_seen": "2026-10-08T00:47:37Z",
+      "enrichment_status": "blocked"
+    },
+    {
+      "stable_id": "89b345d8c05c4cbd47e94088",
+      "identity_key": "el gran album del mundo animal 2012 animales 2012 2012 panini",
+      "name": "El gran album del mundo animal 2012 [Animales 2012]",
+      "year": "2012",
+      "publisher": "Panini",
+      "source_name": "Índice externo de colecciones",
+      "source_url": "https://cromosrepes.com/colecciones/todas",
+      "detail_url": "https://cromosrepes.com/coleccion/ficha/EL-GRAN-ALBUM-DEL-MUNDO-ANIMAL-2012-ANIMALES-2012",
+      "status": "discovered",
+      "checklist_status": "not_verified",
+      "cover_status": "not_verified",
+      "cover_candidates": [],
+      "checklist_candidates": [],
+      "detail_status": "pending",
+      "last_checked": "2026-10-08T00:47:37.424830+00:00",
+      "fingerprint": null,
+      "last_seen": "2026-10-08T05:50:33Z",
+      "first_seen": "2026-10-08T00:47:37Z",
+      "enrichment_status": "blocked"
+    },
+    {
+      "stable_id": "403490f353d7b78684009515",
+      "identity_key": "el gran álbum del mundo animal 2013 animales 2013 2013 panini",
+      "name": "El gran álbum del mundo animal 2013 [Animales 2013]",
+      "year": "2013",
+      "publisher": "Panini",
+      "source_name": "Índice externo de colecciones",
+      "source_url": "https://cromosrepes.com/colecciones/todas",
+      "detail_url": "https://cromosrepes.com/coleccion/ficha/EL-GRAN-ALBUM-DEL-MUNDO-ANIMAL-2013-ANIMALES-2013",
+      "status": "discovered",
+      "checklist_status": "not_verified",
+      "cover_status": "not_verified",
+      "cover_candidates": [],
+      "checklist_candidates": [],
+      "detail_status": "pending",
+      "last_checked": "2026-10-08T00:47:37.424830+00:00",
+      "fingerprint": null,
+      "last_seen": "2026-10-08T05:50:33Z",
+      "first_seen": "2026-10-08T00:47:37Z",
+      "enrichment_status": "blocked"
+    },
+    {
+      "stable_id": "e382e19378e5501e60872535",
+      "identity_key": "el gran álbum del mundo animal 2014 animales 2014 2014 panini",
+      "name": "El gran álbum del mundo animal 2014 [Animales 2014]",
+      "year": "2014",
+      "publisher": "Panini",
+      "source_name": "Índice externo de colecciones",
+      "source_url": "https://cromosrepes.com/colecciones/todas",
+      "detail_url": "https://cromosrepes.com/coleccion/ficha/EL-GRAN-ALBUM-DEL-MUNDO-ANIMAL-2014-ANIMALES-2014",
+      "status": "discovered",
+      "checklist_status": "not_verified",
+      "cover_status": "not_verified",
+      "cover_candidates": [],
+      "checklist_candidates": [],
+      "detail_status": "pending",
+      "last_checked": "2026-10-08T00:47:37.424830+00:00",
+      "fingerprint": null,
+      "last_seen": "2026-10-08T05:50:33Z",
+      "first_seen": "2026-10-08T00:47:37Z",
+      "enrichment_status": "blocked"
+    },
+    {
+      "stable_id": "d6d9ee7ef9b2c9bcf19ec8a6",
+      "identity_key": "el gran álbum del mundo animal 2020 animales 2020 2020 panini",
+      "name": "El gran álbum del mundo animal 2020 [Animales 2020]",
+      "year": "2020",
+      "publisher": "Panini",
+      "source_name": "Índice externo de colecciones",
+      "source_url": "https://cromosrepes.com/colecciones/todas",
+      "detail_url": "https://cromosrepes.com/coleccion/ficha/EL-GRAN-ALBUM-DEL-MUNDO-ANIMAL-2020-ANIMALES-2020",
+      "status": "discovered",
+      "checklist_status": "not_verified",
+      "cover_status": "not_verified",
+      "cover_candidates": [],
+      "checklist_candidates": [],
+      "detail_status": "pending",
+      "last_checked": "2026-10-08T00:47:37.424830+00:00",
+      "fingerprint": null,
+      "last_seen": "2026-10-08T05:50:33Z",
+      "first_seen": "2026-10-08T00:47:37Z",
+      "enrichment_status": "blocked"
+    },
+    {
+      "stable_id": "2bb9835d5ed0067671c8a154",
+      "identity_key": "el álbum de la selección carrefour un equipo una afición 2021 carrefour",
+      "name": "El Álbum de la Selección [Carrefour] Un equipo, una afición",
+      "year": "2021",
+      "publisher": "Carrefour",
+      "source_name": "Índice externo de colecciones",
+      "source_url": "https://cromosrepes.com/colecciones/todas",
+      "detail_url": "https://cromosrepes.com/coleccion/ficha/EL-ALBUM-DE-LA-SELECCION-CARREFOUR-UN-EQUIPO-UNA-AFICION",
+      "status": "discovered",
+      "checklist_status": "not_verified",
+      "cover_status": "not_verified",
+      "cover_candidates": [],
+      "checklist_candidates": [],
+      "detail_status": "pending",
+      "last_checked": "2026-10-08T00:47:37.424830+00:00",
+      "fingerprint": null,
+      "last_seen": "2026-10-08T05:50:33Z",
+      "first_seen": "2026-10-08T00:47:37Z",
+      "enrichment_status": "blocked"
+    },
+    {
+      "stable_id": "9189dc9a7ffee1554f30cefe",
+      "identity_key": "españa 2026 colección oficial de cromos de la selección española panini family carrefour 2026 panini",
+      "name": "España 2026 - Colección Oficial de Cromos de la Selección Española [Panini Family - Carrefour]]",
+      "year": "2026",
+      "publisher": "Panini",
+      "source_name": "Índice externo de colecciones",
+      "source_url": "https://cromosrepes.com/colecciones/todas",
+      "detail_url": "https://cromosrepes.com/coleccion/ficha/ESPAÑA-2026-COLECCION-OFICIAL-DE-CROMOS-DE-LA-SELECCION-ESPAÑOLA-PANINI-FAMILY-CARREFOUR",
+      "status": "discovered",
+      "checklist_status": "not_verified",
+      "cover_status": "not_verified",
+      "cover_candidates": [],
+      "checklist_candidates": [],
+      "detail_status": "pending",
+      "last_checked": "2026-10-08T00:47:37.424830+00:00",
+      "fingerprint": null,
+      "last_seen": "2026-10-08T05:50:33Z",
+      "first_seen": "2026-10-08T00:47:37Z",
+      "enrichment_status": "blocked"
+    },
+    {
+      "stable_id": "026590f39f30cb379239be1d",
+      "identity_key": "euro 2012 polonia ucrania 2012 panini",
+      "name": "Euro 2012 Polonia - Ucrania",
+      "year": "2012",
+      "publisher": "Panini",
+      "source_name": "Índice externo de colecciones",
+      "source_url": "https://cromosrepes.com/colecciones/todas",
+      "detail_url": "https://cromosrepes.com/coleccion/ficha/EURO-2012-POLONIA-UCRANIA",
+      "status": "discovered",
+      "checklist_status": "not_verified",
+      "cover_status": "not_verified",
+      "cover_candidates": [],
+      "checklist_candidates": [],
+      "detail_status": "pending",
+      "last_checked": "2026-10-08T00:47:37.424830+00:00",
+      "fingerprint": null,
+      "last_seen": "2026-10-08T05:50:33Z",
+      "first_seen": "2026-10-08T00:47:37Z",
+      "enrichment_status": "blocked"
     }
   ],
+  "errors": [],
   "published": [],
   "attempted": 20
 }
