@@ -1,8 +1,7 @@
 {
-  "schema_version": 2,
-  "checked_at": "2026-10-08T00:47:37.424830+00:00",
-  "verified": [],
-  "pending_review": [
+  "schema_version": 1,
+  "updated_at": "2026-10-08T00:47:37Z",
+  "collections": [
     {
       "stable_id": "79938ff0a413a0c0b6683ae4",
       "identity_key": "adrenalyn xl fifa 365 2018 2017 panini",
@@ -11,26 +10,17 @@
       "publisher": "Panini",
       "source_name": "Índice externo de colecciones",
       "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/cromos/ADRENALYN-XL-FIFA-365-2018",
+      "detail_url": "https://cromosrepes.com/coleccion/ficha/ADRENALYN-XL-FIFA-365-2018",
       "status": "discovered",
       "checklist_status": "not_verified",
       "cover_status": "not_verified",
       "cover_candidates": [],
       "checklist_candidates": [],
       "detail_status": "pending",
-      "last_checked": "2026-10-08T00:47:37.424830+00:00",
+      "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "blocked",
-      "blockers": [
-        {
-          "code": "reuse_not_authorized",
-          "url": "https://cromosrepes.com/coleccion/cromos/ADRENALYN-XL-FIFA-365-2018",
-          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
-          "terms_url": "https://cromosrepes.com/ayuda/legal"
-        }
-      ]
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "35b26c1a5a8e87d4ae00f0ae",
@@ -40,26 +30,17 @@
       "publisher": "Panini",
       "source_name": "Índice externo de colecciones",
       "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/cromos/ADRENALYN-XL-FIFA-365-2023",
+      "detail_url": "https://cromosrepes.com/coleccion/ficha/ADRENALYN-XL-FIFA-365-2023",
       "status": "discovered",
       "checklist_status": "not_verified",
       "cover_status": "not_verified",
       "cover_candidates": [],
       "checklist_candidates": [],
       "detail_status": "pending",
-      "last_checked": "2026-10-08T00:47:37.424830+00:00",
+      "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "blocked",
-      "blockers": [
-        {
-          "code": "reuse_not_authorized",
-          "url": "https://cromosrepes.com/coleccion/cromos/ADRENALYN-XL-FIFA-365-2023",
-          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
-          "terms_url": "https://cromosrepes.com/ayuda/legal"
-        }
-      ]
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "6c2f81f9dc052b92a3e7e40a",
@@ -69,26 +50,17 @@
       "publisher": "Panini",
       "source_name": "Índice externo de colecciones",
       "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/cromos/ADRENALYN-XL-FIFA-365-2024",
+      "detail_url": "https://cromosrepes.com/coleccion/ficha/ADRENALYN-XL-FIFA-365-2024",
       "status": "discovered",
       "checklist_status": "not_verified",
       "cover_status": "not_verified",
       "cover_candidates": [],
       "checklist_candidates": [],
       "detail_status": "pending",
-      "last_checked": "2026-10-08T00:47:37.424830+00:00",
+      "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "blocked",
-      "blockers": [
-        {
-          "code": "reuse_not_authorized",
-          "url": "https://cromosrepes.com/coleccion/cromos/ADRENALYN-XL-FIFA-365-2024",
-          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
-          "terms_url": "https://cromosrepes.com/ayuda/legal"
-        }
-      ]
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "a48c7a6c80747c7716bbdad4",
@@ -98,26 +70,17 @@
       "publisher": "Panini",
       "source_name": "Índice externo de colecciones",
       "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/cromos/ADRENALYN-XL-FIFA-365-2025",
+      "detail_url": "https://cromosrepes.com/coleccion/ficha/ADRENALYN-XL-FIFA-365-2025",
       "status": "discovered",
       "checklist_status": "not_verified",
       "cover_status": "not_verified",
       "cover_candidates": [],
       "checklist_candidates": [],
       "detail_status": "pending",
-      "last_checked": "2026-10-08T00:47:37.424830+00:00",
+      "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "blocked",
-      "blockers": [
-        {
-          "code": "reuse_not_authorized",
-          "url": "https://cromosrepes.com/coleccion/cromos/ADRENALYN-XL-FIFA-365-2025",
-          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
-          "terms_url": "https://cromosrepes.com/ayuda/legal"
-        }
-      ]
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "002ae04554fd07d78a6d9b65",
@@ -127,26 +90,17 @@
       "publisher": "Panini",
       "source_name": "Índice externo de colecciones",
       "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/cromos/ADRENALYN-XL-FIFA-365-2026",
+      "detail_url": "https://cromosrepes.com/coleccion/ficha/ADRENALYN-XL-FIFA-365-2026",
       "status": "discovered",
       "checklist_status": "not_verified",
       "cover_status": "not_verified",
       "cover_candidates": [],
       "checklist_candidates": [],
       "detail_status": "pending",
-      "last_checked": "2026-10-08T00:47:37.424830+00:00",
+      "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "blocked",
-      "blockers": [
-        {
-          "code": "reuse_not_authorized",
-          "url": "https://cromosrepes.com/coleccion/cromos/ADRENALYN-XL-FIFA-365-2026",
-          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
-          "terms_url": "https://cromosrepes.com/ayuda/legal"
-        }
-      ]
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "4fe0eb9979dc0b97b27f1d45",
@@ -156,26 +110,17 @@
       "publisher": "Panini",
       "source_name": "Índice externo de colecciones",
       "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/cromos/ADRENALYN-XL-FIFA-WORLD-CUP-QATAR-2022",
+      "detail_url": "https://cromosrepes.com/coleccion/ficha/ADRENALYN-XL-FIFA-WORLD-CUP-QATAR-2022",
       "status": "discovered",
       "checklist_status": "not_verified",
       "cover_status": "not_verified",
       "cover_candidates": [],
       "checklist_candidates": [],
       "detail_status": "pending",
-      "last_checked": "2026-10-08T00:47:37.424830+00:00",
+      "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "blocked",
-      "blockers": [
-        {
-          "code": "reuse_not_authorized",
-          "url": "https://cromosrepes.com/coleccion/cromos/ADRENALYN-XL-FIFA-WORLD-CUP-QATAR-2022",
-          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
-          "terms_url": "https://cromosrepes.com/ayuda/legal"
-        }
-      ]
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "b6609e7b0d5c31f2979b2328",
@@ -185,26 +130,17 @@
       "publisher": "Panini",
       "source_name": "Índice externo de colecciones",
       "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/cromos/AMICI-CUCCIOLOTTI-ANIMALITOS-2015-NOS-P-TITS-ANIMAUX",
+      "detail_url": "https://cromosrepes.com/coleccion/ficha/AMICI-CUCCIOLOTTI-ANIMALITOS-2015-NOS-P-TITS-ANIMAUX",
       "status": "discovered",
       "checklist_status": "not_verified",
       "cover_status": "not_verified",
       "cover_candidates": [],
       "checklist_candidates": [],
       "detail_status": "pending",
-      "last_checked": "2026-10-08T00:47:37.424830+00:00",
+      "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "blocked",
-      "blockers": [
-        {
-          "code": "reuse_not_authorized",
-          "url": "https://cromosrepes.com/coleccion/cromos/AMICI-CUCCIOLOTTI-ANIMALITOS-2015-NOS-P-TITS-ANIMAUX",
-          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
-          "terms_url": "https://cromosrepes.com/ayuda/legal"
-        }
-      ]
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "45337575820017d4efcb34e4",
@@ -214,26 +150,17 @@
       "publisher": "Panini",
       "source_name": "Índice externo de colecciones",
       "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/cromos/BLUEY-EL-ALBUM-DE-CROMOS",
+      "detail_url": "https://cromosrepes.com/coleccion/ficha/BLUEY-EL-ALBUM-DE-CROMOS",
       "status": "discovered",
       "checklist_status": "not_verified",
       "cover_status": "not_verified",
       "cover_candidates": [],
       "checklist_candidates": [],
       "detail_status": "pending",
-      "last_checked": "2026-10-08T00:47:37.424830+00:00",
+      "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "blocked",
-      "blockers": [
-        {
-          "code": "reuse_not_authorized",
-          "url": "https://cromosrepes.com/coleccion/cromos/BLUEY-EL-ALBUM-DE-CROMOS",
-          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
-          "terms_url": "https://cromosrepes.com/ayuda/legal"
-        }
-      ]
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "6f96657f2ef61aae5e85bfe2",
@@ -243,26 +170,17 @@
       "publisher": "Otras",
       "source_name": "Índice externo de colecciones",
       "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/cromos/DIA-GRU-3-MI-VILLANO-FAVORITO-CARTAS-3D-2017",
+      "detail_url": "https://cromosrepes.com/coleccion/ficha/DIA-GRU-3-MI-VILLANO-FAVORITO-CARTAS-3D-2017",
       "status": "discovered",
       "checklist_status": "not_verified",
       "cover_status": "not_verified",
       "cover_candidates": [],
       "checklist_candidates": [],
       "detail_status": "pending",
-      "last_checked": "2026-10-08T00:47:37.424830+00:00",
+      "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "blocked",
-      "blockers": [
-        {
-          "code": "reuse_not_authorized",
-          "url": "https://cromosrepes.com/coleccion/cromos/DIA-GRU-3-MI-VILLANO-FAVORITO-CARTAS-3D-2017",
-          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
-          "terms_url": "https://cromosrepes.com/ayuda/legal"
-        }
-      ]
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "f297e1b5869c513f91ed98df",
@@ -272,26 +190,17 @@
       "publisher": "Ed. Álbumes españoles",
       "source_name": "Índice externo de colecciones",
       "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/cromos/DIA-JURASSIC-WORLD-ALBUM-DE-CROMOCARTAS",
+      "detail_url": "https://cromosrepes.com/coleccion/ficha/DIA-JURASSIC-WORLD-ALBUM-DE-CROMOCARTAS",
       "status": "discovered",
       "checklist_status": "not_verified",
       "cover_status": "not_verified",
       "cover_candidates": [],
       "checklist_candidates": [],
       "detail_status": "pending",
-      "last_checked": "2026-10-08T00:47:37.424830+00:00",
+      "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "blocked",
-      "blockers": [
-        {
-          "code": "reuse_not_authorized",
-          "url": "https://cromosrepes.com/coleccion/cromos/DIA-JURASSIC-WORLD-ALBUM-DE-CROMOCARTAS",
-          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
-          "terms_url": "https://cromosrepes.com/ayuda/legal"
-        }
-      ]
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "6b167c63898ec8d582fb0451",
@@ -301,26 +210,17 @@
       "publisher": "Panini",
       "source_name": "Índice externo de colecciones",
       "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/cromos/DRAGON-BALL-SUPER-COLLECTIBLE-CARDS-PANINI",
+      "detail_url": "https://cromosrepes.com/coleccion/ficha/DRAGON-BALL-SUPER-COLLECTIBLE-CARDS-PANINI",
       "status": "discovered",
       "checklist_status": "not_verified",
       "cover_status": "not_verified",
       "cover_candidates": [],
       "checklist_candidates": [],
       "detail_status": "pending",
-      "last_checked": "2026-10-08T00:47:37.424830+00:00",
+      "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "blocked",
-      "blockers": [
-        {
-          "code": "reuse_not_authorized",
-          "url": "https://cromosrepes.com/coleccion/cromos/DRAGON-BALL-SUPER-COLLECTIBLE-CARDS-PANINI",
-          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
-          "terms_url": "https://cromosrepes.com/ayuda/legal"
-        }
-      ]
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "0425bf2d0a44bc305acb6b88",
@@ -330,26 +230,17 @@
       "publisher": "Panini",
       "source_name": "Índice externo de colecciones",
       "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/cromos/DRAGON-BALL-SUPER-STICKER-ALBUM",
+      "detail_url": "https://cromosrepes.com/coleccion/ficha/DRAGON-BALL-SUPER-STICKER-ALBUM",
       "status": "discovered",
       "checklist_status": "not_verified",
       "cover_status": "not_verified",
       "cover_candidates": [],
       "checklist_candidates": [],
       "detail_status": "pending",
-      "last_checked": "2026-10-08T00:47:37.424830+00:00",
+      "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "blocked",
-      "blockers": [
-        {
-          "code": "reuse_not_authorized",
-          "url": "https://cromosrepes.com/coleccion/cromos/DRAGON-BALL-SUPER-STICKER-ALBUM",
-          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
-          "terms_url": "https://cromosrepes.com/ayuda/legal"
-        }
-      ]
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "6f98782f6324a15fd77f13ed",
@@ -359,26 +250,17 @@
       "publisher": "Panini",
       "source_name": "Índice externo de colecciones",
       "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/cromos/DRAGON-BALL-SUPER-THE-LEGEND-OF-SON-GOKU-COLLECTIBLE-CARDS",
+      "detail_url": "https://cromosrepes.com/coleccion/ficha/DRAGON-BALL-SUPER-THE-LEGEND-OF-SON-GOKU-COLLECTIBLE-CARDS",
       "status": "discovered",
       "checklist_status": "not_verified",
       "cover_status": "not_verified",
       "cover_candidates": [],
       "checklist_candidates": [],
       "detail_status": "pending",
-      "last_checked": "2026-10-08T00:47:37.424830+00:00",
+      "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "blocked",
-      "blockers": [
-        {
-          "code": "reuse_not_authorized",
-          "url": "https://cromosrepes.com/coleccion/cromos/DRAGON-BALL-SUPER-THE-LEGEND-OF-SON-GOKU-COLLECTIBLE-CARDS",
-          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
-          "terms_url": "https://cromosrepes.com/ayuda/legal"
-        }
-      ]
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "89b345d8c05c4cbd47e94088",
@@ -388,26 +270,17 @@
       "publisher": "Panini",
       "source_name": "Índice externo de colecciones",
       "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/cromos/EL-GRAN-ALBUM-DEL-MUNDO-ANIMAL-2012-ANIMALES-2012",
+      "detail_url": "https://cromosrepes.com/coleccion/ficha/EL-GRAN-ALBUM-DEL-MUNDO-ANIMAL-2012-ANIMALES-2012",
       "status": "discovered",
       "checklist_status": "not_verified",
       "cover_status": "not_verified",
       "cover_candidates": [],
       "checklist_candidates": [],
       "detail_status": "pending",
-      "last_checked": "2026-10-08T00:47:37.424830+00:00",
+      "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "blocked",
-      "blockers": [
-        {
-          "code": "reuse_not_authorized",
-          "url": "https://cromosrepes.com/coleccion/cromos/EL-GRAN-ALBUM-DEL-MUNDO-ANIMAL-2012-ANIMALES-2012",
-          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
-          "terms_url": "https://cromosrepes.com/ayuda/legal"
-        }
-      ]
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "403490f353d7b78684009515",
@@ -417,26 +290,17 @@
       "publisher": "Panini",
       "source_name": "Índice externo de colecciones",
       "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/cromos/EL-GRAN-ALBUM-DEL-MUNDO-ANIMAL-2013-ANIMALES-2013",
+      "detail_url": "https://cromosrepes.com/coleccion/ficha/EL-GRAN-ALBUM-DEL-MUNDO-ANIMAL-2013-ANIMALES-2013",
       "status": "discovered",
       "checklist_status": "not_verified",
       "cover_status": "not_verified",
       "cover_candidates": [],
       "checklist_candidates": [],
       "detail_status": "pending",
-      "last_checked": "2026-10-08T00:47:37.424830+00:00",
+      "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "blocked",
-      "blockers": [
-        {
-          "code": "reuse_not_authorized",
-          "url": "https://cromosrepes.com/coleccion/cromos/EL-GRAN-ALBUM-DEL-MUNDO-ANIMAL-2013-ANIMALES-2013",
-          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
-          "terms_url": "https://cromosrepes.com/ayuda/legal"
-        }
-      ]
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "e382e19378e5501e60872535",
@@ -446,26 +310,17 @@
       "publisher": "Panini",
       "source_name": "Índice externo de colecciones",
       "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/cromos/EL-GRAN-ALBUM-DEL-MUNDO-ANIMAL-2014-ANIMALES-2014",
+      "detail_url": "https://cromosrepes.com/coleccion/ficha/EL-GRAN-ALBUM-DEL-MUNDO-ANIMAL-2014-ANIMALES-2014",
       "status": "discovered",
       "checklist_status": "not_verified",
       "cover_status": "not_verified",
       "cover_candidates": [],
       "checklist_candidates": [],
       "detail_status": "pending",
-      "last_checked": "2026-10-08T00:47:37.424830+00:00",
+      "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "blocked",
-      "blockers": [
-        {
-          "code": "reuse_not_authorized",
-          "url": "https://cromosrepes.com/coleccion/cromos/EL-GRAN-ALBUM-DEL-MUNDO-ANIMAL-2014-ANIMALES-2014",
-          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
-          "terms_url": "https://cromosrepes.com/ayuda/legal"
-        }
-      ]
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "d6d9ee7ef9b2c9bcf19ec8a6",
@@ -475,26 +330,17 @@
       "publisher": "Panini",
       "source_name": "Índice externo de colecciones",
       "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/cromos/EL-GRAN-ALBUM-DEL-MUNDO-ANIMAL-2020-ANIMALES-2020",
+      "detail_url": "https://cromosrepes.com/coleccion/ficha/EL-GRAN-ALBUM-DEL-MUNDO-ANIMAL-2020-ANIMALES-2020",
       "status": "discovered",
       "checklist_status": "not_verified",
       "cover_status": "not_verified",
       "cover_candidates": [],
       "checklist_candidates": [],
       "detail_status": "pending",
-      "last_checked": "2026-10-08T00:47:37.424830+00:00",
+      "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "blocked",
-      "blockers": [
-        {
-          "code": "reuse_not_authorized",
-          "url": "https://cromosrepes.com/coleccion/cromos/EL-GRAN-ALBUM-DEL-MUNDO-ANIMAL-2020-ANIMALES-2020",
-          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
-          "terms_url": "https://cromosrepes.com/ayuda/legal"
-        }
-      ]
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "2bb9835d5ed0067671c8a154",
@@ -504,26 +350,17 @@
       "publisher": "Carrefour",
       "source_name": "Índice externo de colecciones",
       "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/cromos/EL-ALBUM-DE-LA-SELECCION-CARREFOUR-UN-EQUIPO-UNA-AFICION",
+      "detail_url": "https://cromosrepes.com/coleccion/ficha/EL-ALBUM-DE-LA-SELECCION-CARREFOUR-UN-EQUIPO-UNA-AFICION",
       "status": "discovered",
       "checklist_status": "not_verified",
       "cover_status": "not_verified",
       "cover_candidates": [],
       "checklist_candidates": [],
       "detail_status": "pending",
-      "last_checked": "2026-10-08T00:47:37.424830+00:00",
+      "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "blocked",
-      "blockers": [
-        {
-          "code": "reuse_not_authorized",
-          "url": "https://cromosrepes.com/coleccion/cromos/EL-ALBUM-DE-LA-SELECCION-CARREFOUR-UN-EQUIPO-UNA-AFICION",
-          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
-          "terms_url": "https://cromosrepes.com/ayuda/legal"
-        }
-      ]
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "9189dc9a7ffee1554f30cefe",
@@ -540,18 +377,10 @@
       "cover_candidates": [],
       "checklist_candidates": [],
       "detail_status": "pending",
-      "last_checked": "2026-10-08T00:47:37.424830+00:00",
+      "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "blocked",
-      "blockers": [
-        {
-          "code": "UnicodeEncodeError",
-          "url": "https://cromosrepes.com/coleccion/ficha/ESPAÑA-2026-COLECCION-OFICIAL-DE-CROMOS-DE-LA-SELECCION-ESPAÑOLA-PANINI-FAMILY-CARREFOUR",
-          "detail": "'ascii' codec can't encode character '\\xd1' in position 25: ordinal not in range(128)"
-        }
-      ]
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "026590f39f30cb379239be1d",
@@ -561,26 +390,17 @@
       "publisher": "Panini",
       "source_name": "Índice externo de colecciones",
       "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/cromos/EURO-2012-POLONIA-UCRANIA",
+      "detail_url": "https://cromosrepes.com/coleccion/ficha/EURO-2012-POLONIA-UCRANIA",
       "status": "discovered",
       "checklist_status": "not_verified",
       "cover_status": "not_verified",
       "cover_candidates": [],
       "checklist_candidates": [],
       "detail_status": "pending",
-      "last_checked": "2026-10-08T00:47:37.424830+00:00",
+      "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "blocked",
-      "blockers": [
-        {
-          "code": "reuse_not_authorized",
-          "url": "https://cromosrepes.com/coleccion/cromos/EURO-2012-POLONIA-UCRANIA",
-          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
-          "terms_url": "https://cromosrepes.com/ayuda/legal"
-        }
-      ]
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "556805295aee291e2416cc47",
@@ -600,8 +420,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "9e2424f42c3f0d490b470848",
@@ -621,8 +440,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "b24be8ec6e64260579c2b888",
@@ -642,8 +460,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "0cef9caed5d41abc8a28d1b6",
@@ -663,8 +480,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "89b0a92f988f11b0b2bcac3d",
@@ -684,8 +500,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "7432b01e137c4b6760076ca0",
@@ -705,8 +520,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "fef04bc869b41e6d57faa22b",
@@ -726,8 +540,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "528156f7cdb92ee181f5e733",
@@ -747,8 +560,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "937dc5674c15e4a287d09a87",
@@ -768,8 +580,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "7bafb77c0ca378670e982ab7",
@@ -789,8 +600,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "07c5e4d174c48f38beb3f62b",
@@ -810,8 +620,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "8387b3c7559210c9ab7347d4",
@@ -831,8 +640,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "9b3ec7d2d92e0978ac8e131a",
@@ -852,8 +660,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "8ff9dcc60af9173ef9a71753",
@@ -873,8 +680,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "9936a6d7eba5e2503ceb43b5",
@@ -894,8 +700,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "a1c34ed8b2cab39e83e0d7ed",
@@ -915,8 +720,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "09156d59b7f5488b2d14504b",
@@ -936,8 +740,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "13844a1ad1093948f5936de6",
@@ -957,8 +760,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "344607133e40513b68e8742b",
@@ -978,8 +780,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "bafa9daf302f2c0bc1b6e9ff",
@@ -999,8 +800,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "f75418b832b4293c79492a9a",
@@ -1020,8 +820,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "183b1732f4293eb5ee0f6500",
@@ -1041,8 +840,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "e734dbbdf10c92c193030c8c",
@@ -1062,8 +860,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "eb6dfaf3e7a5839100fb0713",
@@ -1083,8 +880,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "ef9bc32e3a43d22f68c282cb",
@@ -1104,8 +900,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "f108177c22208147faf75607",
@@ -1125,8 +920,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "f46bd1d19522dbf0d8c88f50",
@@ -1146,8 +940,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "5e97d039f7befc52ede27706",
@@ -1167,8 +960,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "db06dd56dde0854e314be8ac",
@@ -1188,8 +980,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "4a1fea614c0a24df7003adbc",
@@ -1209,8 +1000,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "d30b7a05eef41d267bd7a727",
@@ -1230,8 +1020,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "3dc4685b8fed2574c42830e1",
@@ -1251,8 +1040,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "9d627597204b5f1258c34d32",
@@ -1272,8 +1060,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "8689896a1e97a04a45717bdc",
@@ -1293,8 +1080,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "9e0390693497c3b96be2d1bf",
@@ -1314,8 +1100,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "92d7bd8ec7123a790b8493ca",
@@ -1335,8 +1120,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "c15e1a5e0d9b78ccf17fae77",
@@ -1356,8 +1140,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "b582fd0f980b38593bba3b06",
@@ -1377,8 +1160,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "03bf14517dd39cf02289e71c",
@@ -1398,8 +1180,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "8f4b578803cc60b6e33c0aba",
@@ -1419,8 +1200,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "cd127c0fcf9959d58e5c7959",
@@ -1440,8 +1220,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "674264f56c08681574fd57ae",
@@ -1461,8 +1240,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "c6daa50978a520e86805756d",
@@ -1482,8 +1260,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "7d27fa519aed26c3907f4f0a",
@@ -1503,8 +1280,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "cb139d77eb4ebb1ac2fe7217",
@@ -1524,8 +1300,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "410829e94fa0af6a169e372a",
@@ -1545,8 +1320,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "fad0700e2d256a564bcb300d",
@@ -1566,8 +1340,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "4e858694585acc4840987e3e",
@@ -1587,8 +1360,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "28f1553ffd27c822aaa3667b",
@@ -1608,8 +1380,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "948a81bce40a6b1cecf79041",
@@ -1629,8 +1400,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "7607106f07c9628e1e55d1fb",
@@ -1650,8 +1420,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "d6378db3bbc6e05cf70c504d",
@@ -1671,8 +1440,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "0964d4f2ca309b925d8359ad",
@@ -1692,8 +1460,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "720667d328bc8cf6d65eb250",
@@ -1713,8 +1480,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "5b336e19f97a019b29654a0f",
@@ -1734,8 +1500,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "c0118c40f99f20e3a3aa8ef3",
@@ -1755,8 +1520,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "418c6b966b3646fc95c93304",
@@ -1776,8 +1540,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "ca3bfefb36e3b1af99013c24",
@@ -1797,8 +1560,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "47c125df29c8c0beaca6ddfa",
@@ -1818,8 +1580,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "ea4863ab53c6963584ace3c2",
@@ -1839,8 +1600,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "227f5c7cd60c08c9c25c3fdc",
@@ -1860,8 +1620,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "41ae2a502af4f07804a85b86",
@@ -1881,8 +1640,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "3a09ea63fd110966d54b588d",
@@ -1902,8 +1660,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "ab7305d7d531a93534b9b0be",
@@ -1923,8 +1680,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "361f124c32199fe9c00ea749",
@@ -1944,8 +1700,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "ad8ac81c3d986632fe237791",
@@ -1965,8 +1720,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "43e0549ffcaca2682657b8c6",
@@ -1986,8 +1740,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "e059e03a2c5a89d7296512d3",
@@ -2007,8 +1760,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "a4a6426530b5f359a4821362",
@@ -2028,8 +1780,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "27d03106ece5d4497bb86251",
@@ -2049,8 +1800,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "a22370b7b154d38a6d8f3b5f",
@@ -2070,8 +1820,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "bca9dc4807acf32619337ad7",
@@ -2091,8 +1840,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "1d2f151725f54da38cd0d876",
@@ -2112,8 +1860,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "7da51379218a022ece167901",
@@ -2133,8 +1880,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "275dea1135e4705825cab672",
@@ -2154,8 +1900,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "6c1b3264824a64a65164ba25",
@@ -2175,8 +1920,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "6b21f61c81d46028ec3202e4",
@@ -2196,8 +1940,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "b74098b01f486263e6a367f2",
@@ -2217,8 +1960,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "03b4840d1d726741da6db0d0",
@@ -2238,8 +1980,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "b2af6605300235820253cb6b",
@@ -2259,8 +2000,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "e0cfa11c1c3b510cac5d5654",
@@ -2280,8 +2020,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "0a8386a6046807c539ea2c3e",
@@ -2301,8 +2040,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "a09d9d7c22cb4dfae94f1565",
@@ -2322,8 +2060,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "94742ffc33bf4abd93026a8b",
@@ -2343,8 +2080,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "1bf791cee60bd6332164f894",
@@ -2364,8 +2100,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "bb9d2f9fd1701f1fe6d00fa7",
@@ -2385,8 +2120,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "576d9e05befe23e7c21638df",
@@ -2406,8 +2140,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "a823d9523d211b212a58d9c5",
@@ -2427,8 +2160,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "fb570e792c5aa55a4a75ab8a",
@@ -2448,8 +2180,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "01b680f4d689207265a00d6a",
@@ -2469,8 +2200,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "512f1ab6afc3f99db07b505b",
@@ -2490,8 +2220,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "da0da90aefd8b534dfd62611",
@@ -2511,8 +2240,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "c2b75a39360f1bc8051ced3c",
@@ -2532,8 +2260,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "593b470e36ee7bd082c8f300",
@@ -2553,8 +2280,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "564d5b7d255d7aed1e8b524c",
@@ -2574,8 +2300,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "8aa72137a5e106aa106688d8",
@@ -2595,8 +2320,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "6debf11d1bcb500fc4c57d61",
@@ -2616,8 +2340,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "641f18bab918c33a321df215",
@@ -2637,8 +2360,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "7c7db408f6be65c901f3f781",
@@ -2658,8 +2380,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "0c6d3607a19a8ed40feb09a0",
@@ -2679,8 +2400,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "92d8ed2b5fe860c8f3ae0919",
@@ -2700,8 +2420,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "b5c1509aa7fca0a17bcb5ac5",
@@ -2721,8 +2440,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "4a73e22196579d5bf0611694",
@@ -2742,8 +2460,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "da8eef240b146fedf607665e",
@@ -2763,8 +2480,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "7b6200890770e9b0bcffacd2",
@@ -2784,8 +2500,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "bae115567fa4cd60f0540331",
@@ -2805,8 +2520,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "df727404ff5068487d43af57",
@@ -2826,8 +2540,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "ed7a4df857d4f2f87a145406",
@@ -2847,8 +2560,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "07ae17ba17fc56dcff2a4bf5",
@@ -2868,8 +2580,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "ced7d0dd1131ba3474ee774d",
@@ -2889,8 +2600,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "8e28798cfe74e62baff6fd88",
@@ -2910,8 +2620,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "7c50aa3c928576ae066bfa0e",
@@ -2931,8 +2640,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "66f0b2192432fbda24e4c3c5",
@@ -2952,8 +2660,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "3ce8946708a93e96cb8b037f",
@@ -2973,8 +2680,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "ecf98ed7d2e53bceb7bee393",
@@ -2994,8 +2700,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "6b94073a971dd3036c54daf4",
@@ -3015,8 +2720,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "faf21b5233bcb3582013e785",
@@ -3036,8 +2740,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "210c3d1d49d6bdee4c0913f1",
@@ -3057,8 +2760,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "61114957fbac6ba82e5c99da",
@@ -3078,8 +2780,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "084f4b8c49263e54ea8eb8f5",
@@ -3099,8 +2800,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "541af3867d34c1371bd91a60",
@@ -3120,8 +2820,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "5c51603423bb3a8a7a2b7c74",
@@ -3141,8 +2840,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "da915d08442c211601089da3",
@@ -3162,8 +2860,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "304bd3f09eab40a694ad5047",
@@ -3183,8 +2880,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "7d39629860da91c6f758c4be",
@@ -3204,8 +2900,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "b9b0077fb235a7240350d5bb",
@@ -3225,8 +2920,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "6702782e7f034e2d8f26d059",
@@ -3246,8 +2940,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "036ab9a04177f389a06af607",
@@ -3267,8 +2960,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "291f42a258865dadf20c52a9",
@@ -3288,8 +2980,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "aadb7274ebd5c9035564f2fa",
@@ -3309,8 +3000,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "c310a8d04062d5664fd0bce8",
@@ -3330,8 +3020,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "56386f65ea5baf7b7d173339",
@@ -3351,8 +3040,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "f8552666b83ebad6c9dfc36b",
@@ -3372,8 +3060,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "4e10e49770b05beeaaf7257e",
@@ -3393,8 +3080,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "a456d997ab6f8f07a8999bfd",
@@ -3414,8 +3100,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "ae4fc5b0100bc5217152be62",
@@ -3435,8 +3120,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "328db5b347c805c52d91d730",
@@ -3456,8 +3140,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "13c382dd3814c865c44a9024",
@@ -3477,8 +3160,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "bd5a08dca6a7fa43e994471d",
@@ -3498,8 +3180,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "a5b04e53006df3a65921f566",
@@ -3519,8 +3200,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "cef7dff9600e3183fddd3954",
@@ -3540,8 +3220,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "ff34e36188d620a86e0561b0",
@@ -3561,8 +3240,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "96c7507d86e829e929df0d32",
@@ -3582,8 +3260,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "fca91237f1fd9daff65433fa",
@@ -3603,8 +3280,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "2b7dd6538ecca7fc0eac92d5",
@@ -3624,8 +3300,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "f19cfd664f34e62abe84a287",
@@ -3645,8 +3320,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "0e5d3ee1e381ef4d1e2e7b8e",
@@ -3666,8 +3340,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "3d42331da40db7074ff0a8dd",
@@ -3687,8 +3360,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "75aba551f2ef5726a28f94a8",
@@ -3708,8 +3380,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "0da81c302478c4c8d2f652d5",
@@ -3729,8 +3400,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "864cda6235eaba9541077346",
@@ -3750,8 +3420,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "19c505a5ad8632f6a3853b96",
@@ -3771,8 +3440,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "1687e2ef8574676786894906",
@@ -3792,8 +3460,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "4f38e8418b82c69ce726ace1",
@@ -3813,8 +3480,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "7ce1c414a7f9419914ddf7d7",
@@ -3834,8 +3500,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "f6a643048a5c8fc3bcbdde90",
@@ -3855,8 +3520,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "48e11b12670f7c05dd01349a",
@@ -3876,8 +3540,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "90753a373158e1b80c16cfcb",
@@ -3897,8 +3560,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "547c5c3730fa5abe7d605539",
@@ -3918,8 +3580,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "24b88ed5ddc32ab9fc092b08",
@@ -3939,8 +3600,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "80c6660d1f1734be6b28172a",
@@ -3960,8 +3620,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "0d19037ea4508747082314f7",
@@ -3981,8 +3640,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "5f32cb916e0d71854e0f3d8a",
@@ -4002,8 +3660,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "5db8cf7298adfb6ee0b3b21b",
@@ -4023,8 +3680,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "830fb17d3987f8a0e3f9c60c",
@@ -4044,8 +3700,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "b05aacea8eb9a78c6c5f040a",
@@ -4065,8 +3720,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "3bac034a1a989c04e164f38c",
@@ -4086,8 +3740,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "48c60fd09a23327d62cff332",
@@ -4107,8 +3760,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "52220f62d987843f74eaa7fe",
@@ -4128,8 +3780,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "b75e89132880cd6e0312b89c",
@@ -4149,8 +3800,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "9fe9da269296556d3f1dba75",
@@ -4170,8 +3820,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "a21a7049492bd41b8914fbd6",
@@ -4191,8 +3840,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "c6ec9e4d0fa59954916d10f5",
@@ -4212,8 +3860,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "c1650ba5583014cc15d23c3e",
@@ -4233,8 +3880,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "8792d595955d60e55d568347",
@@ -4254,8 +3900,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "ea69ccc3b47e69c9aa09bf29",
@@ -4275,8 +3920,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "0372db6371300acedd12e012",
@@ -4296,8 +3940,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "3f506f10a206c45630e38ad6",
@@ -4317,8 +3960,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "826e3c2347ff649362e05a61",
@@ -4338,8 +3980,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     },
     {
       "stable_id": "decd8ce71c4e1613da2c1280",
@@ -4359,17 +4000,7 @@
       "last_checked": null,
       "fingerprint": null,
       "last_seen": "2026-10-08T00:47:37Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "first_seen": "2026-10-08T00:47:37Z"
     }
-  ],
-  "errors": [
-    {
-      "code": "UnicodeEncodeError",
-      "url": "https://cromosrepes.com/coleccion/ficha/ESPAÑA-2026-COLECCION-OFICIAL-DE-CROMOS-DE-LA-SELECCION-ESPAÑOLA-PANINI-FAMILY-CARREFOUR",
-      "detail": "'ascii' codec can't encode character '\\xd1' in position 25: ordinal not in range(128)"
-    }
-  ],
-  "published": [],
-  "attempted": 20
+  ]
 }
