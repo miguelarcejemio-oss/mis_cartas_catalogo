@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-08T06:46:38Z",
+  "checked_at": "2026-10-08T08:07:02Z",
   "schema_version": 4,
   "checked_sources": [
     {
@@ -17,7 +17,7 @@
       "name": "Índice externo de colecciones",
       "type": "catalog_index",
       "status": "ok",
-      "fingerprint": "60dbb1aa853ba8012b5b145674e065e2ba4119b3d2f21bbdaec18ab56f4d6d90"
+      "fingerprint": "25622115b005bed8d88caf8f840fac9293c153b5b3fbd20e516b9c46642127fa"
     }
   ],
   "pending_review": [],

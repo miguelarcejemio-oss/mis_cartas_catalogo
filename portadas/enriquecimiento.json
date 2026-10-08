@@ -1,588 +1,8 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-10-08T06:42:52.325318+00:00",
+  "checked_at": "2026-10-08T08:03:25.327924+00:00",
   "verified": [],
   "pending_review": [
-    {
-      "stable_id": "cd127c0fcf9959d58e5c7959",
-      "identity_key": "liga 1994 95 ediciones este 1994 ediciones este",
-      "name": "Liga 1994-95 [ediciones este]",
-      "year": "1994",
-      "publisher": "Ediciones Este",
-      "source_name": "Índice externo de colecciones",
-      "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/cromos/LIGA-1994-95-EDICIONES-ESTE",
-      "status": "discovered",
-      "checklist_status": "not_verified",
-      "cover_status": "not_verified",
-      "cover_candidates": [],
-      "checklist_candidates": [],
-      "detail_status": "pending",
-      "last_checked": "2026-10-08T06:42:52.325318+00:00",
-      "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "blocked",
-      "blockers": [
-        {
-          "code": "reuse_not_authorized",
-          "url": "https://cromosrepes.com/coleccion/cromos/LIGA-1994-95-EDICIONES-ESTE",
-          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
-          "terms_url": "https://cromosrepes.com/ayuda/legal"
-        }
-      ]
-    },
-    {
-      "stable_id": "674264f56c08681574fd57ae",
-      "identity_key": "liga 1995 96 ediciones este 1995 ediciones este",
-      "name": "Liga 1995-96 [ediciones este]",
-      "year": "1995",
-      "publisher": "Ediciones Este",
-      "source_name": "Índice externo de colecciones",
-      "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/cromos/LIGA-1995-96-EDICIONES-ESTE",
-      "status": "discovered",
-      "checklist_status": "not_verified",
-      "cover_status": "not_verified",
-      "cover_candidates": [],
-      "checklist_candidates": [],
-      "detail_status": "pending",
-      "last_checked": "2026-10-08T06:42:52.325318+00:00",
-      "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "blocked",
-      "blockers": [
-        {
-          "code": "reuse_not_authorized",
-          "url": "https://cromosrepes.com/coleccion/cromos/LIGA-1995-96-EDICIONES-ESTE",
-          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
-          "terms_url": "https://cromosrepes.com/ayuda/legal"
-        }
-      ]
-    },
-    {
-      "stable_id": "c6daa50978a520e86805756d",
-      "identity_key": "liga 1995 96 fichas mundicromo 1995 mundicromo",
-      "name": "Liga 1995-96 Fichas [mundicromo]",
-      "year": "1995",
-      "publisher": "MundiCromo",
-      "source_name": "Índice externo de colecciones",
-      "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/cromos/LIGA-1995-96-FICHAS-MUNDICROMO",
-      "status": "discovered",
-      "checklist_status": "not_verified",
-      "cover_status": "not_verified",
-      "cover_candidates": [],
-      "checklist_candidates": [],
-      "detail_status": "pending",
-      "last_checked": "2026-10-08T06:42:52.325318+00:00",
-      "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "blocked",
-      "blockers": [
-        {
-          "code": "reuse_not_authorized",
-          "url": "https://cromosrepes.com/coleccion/cromos/LIGA-1995-96-FICHAS-MUNDICROMO",
-          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
-          "terms_url": "https://cromosrepes.com/ayuda/legal"
-        }
-      ]
-    },
-    {
-      "stable_id": "7d27fa519aed26c3907f4f0a",
-      "identity_key": "liga 1996 97 ediciones este 1996 ediciones este",
-      "name": "Liga 1996-97 [ediciones este]",
-      "year": "1996",
-      "publisher": "Ediciones Este",
-      "source_name": "Índice externo de colecciones",
-      "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/cromos/LIGA-1996-97-EDICIONES-ESTE",
-      "status": "discovered",
-      "checklist_status": "not_verified",
-      "cover_status": "not_verified",
-      "cover_candidates": [],
-      "checklist_candidates": [],
-      "detail_status": "pending",
-      "last_checked": "2026-10-08T06:42:52.325318+00:00",
-      "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "blocked",
-      "blockers": [
-        {
-          "code": "reuse_not_authorized",
-          "url": "https://cromosrepes.com/coleccion/cromos/LIGA-1996-97-EDICIONES-ESTE",
-          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
-          "terms_url": "https://cromosrepes.com/ayuda/legal"
-        }
-      ]
-    },
-    {
-      "stable_id": "cb139d77eb4ebb1ac2fe7217",
-      "identity_key": "liga 1996 97 fichas mundicromo 1996 mundicromo",
-      "name": "Liga 1996-97 Fichas [mundicromo]",
-      "year": "1996",
-      "publisher": "MundiCromo",
-      "source_name": "Índice externo de colecciones",
-      "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/cromos/LIGA-1996-97-FICHAS-MUNDICROMO",
-      "status": "discovered",
-      "checklist_status": "not_verified",
-      "cover_status": "not_verified",
-      "cover_candidates": [],
-      "checklist_candidates": [],
-      "detail_status": "pending",
-      "last_checked": "2026-10-08T06:42:52.325318+00:00",
-      "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "blocked",
-      "blockers": [
-        {
-          "code": "reuse_not_authorized",
-          "url": "https://cromosrepes.com/coleccion/cromos/LIGA-1996-97-FICHAS-MUNDICROMO",
-          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
-          "terms_url": "https://cromosrepes.com/ayuda/legal"
-        }
-      ]
-    },
-    {
-      "stable_id": "410829e94fa0af6a169e372a",
-      "identity_key": "liga 1997 98 ediciones este 1997 ediciones este",
-      "name": "Liga 1997-98 [ediciones este]",
-      "year": "1997",
-      "publisher": "Ediciones Este",
-      "source_name": "Índice externo de colecciones",
-      "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/cromos/LIGA-1997-98-EDICIONES-ESTE",
-      "status": "discovered",
-      "checklist_status": "not_verified",
-      "cover_status": "not_verified",
-      "cover_candidates": [],
-      "checklist_candidates": [],
-      "detail_status": "pending",
-      "last_checked": "2026-10-08T06:42:52.325318+00:00",
-      "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "blocked",
-      "blockers": [
-        {
-          "code": "reuse_not_authorized",
-          "url": "https://cromosrepes.com/coleccion/cromos/LIGA-1997-98-EDICIONES-ESTE",
-          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
-          "terms_url": "https://cromosrepes.com/ayuda/legal"
-        }
-      ]
-    },
-    {
-      "stable_id": "fad0700e2d256a564bcb300d",
-      "identity_key": "liga 1997 98 fichas mundicromo 1997 mundicromo",
-      "name": "Liga 1997-98 Fichas [mundicromo]",
-      "year": "1997",
-      "publisher": "MundiCromo",
-      "source_name": "Índice externo de colecciones",
-      "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/cromos/LIGA-1997-98-FICHAS-MUNDICROMO",
-      "status": "discovered",
-      "checklist_status": "not_verified",
-      "cover_status": "not_verified",
-      "cover_candidates": [],
-      "checklist_candidates": [],
-      "detail_status": "pending",
-      "last_checked": "2026-10-08T06:42:52.325318+00:00",
-      "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "blocked",
-      "blockers": [
-        {
-          "code": "reuse_not_authorized",
-          "url": "https://cromosrepes.com/coleccion/cromos/LIGA-1997-98-FICHAS-MUNDICROMO",
-          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
-          "terms_url": "https://cromosrepes.com/ayuda/legal"
-        }
-      ]
-    },
-    {
-      "stable_id": "4e858694585acc4840987e3e",
-      "identity_key": "liga 1998 99 ediciones este 1998 ediciones este",
-      "name": "Liga 1998-99 [ediciones este]",
-      "year": "1998",
-      "publisher": "Ediciones Este",
-      "source_name": "Índice externo de colecciones",
-      "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/cromos/LIGA-1998-99-EDICIONES-ESTE",
-      "status": "discovered",
-      "checklist_status": "not_verified",
-      "cover_status": "not_verified",
-      "cover_candidates": [],
-      "checklist_candidates": [],
-      "detail_status": "pending",
-      "last_checked": "2026-10-08T06:42:52.325318+00:00",
-      "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "blocked",
-      "blockers": [
-        {
-          "code": "reuse_not_authorized",
-          "url": "https://cromosrepes.com/coleccion/cromos/LIGA-1998-99-EDICIONES-ESTE",
-          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
-          "terms_url": "https://cromosrepes.com/ayuda/legal"
-        }
-      ]
-    },
-    {
-      "stable_id": "28f1553ffd27c822aaa3667b",
-      "identity_key": "liga 1999 00 ediciones este 1999 ediciones este",
-      "name": "Liga 1999-00 [ediciones este]",
-      "year": "1999",
-      "publisher": "Ediciones Este",
-      "source_name": "Índice externo de colecciones",
-      "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/cromos/LIGA-1999-00-EDICIONES-ESTE",
-      "status": "discovered",
-      "checklist_status": "not_verified",
-      "cover_status": "not_verified",
-      "cover_candidates": [],
-      "checklist_candidates": [],
-      "detail_status": "pending",
-      "last_checked": "2026-10-08T06:42:52.325318+00:00",
-      "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "blocked",
-      "blockers": [
-        {
-          "code": "reuse_not_authorized",
-          "url": "https://cromosrepes.com/coleccion/cromos/LIGA-1999-00-EDICIONES-ESTE",
-          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
-          "terms_url": "https://cromosrepes.com/ayuda/legal"
-        }
-      ]
-    },
-    {
-      "stable_id": "948a81bce40a6b1cecf79041",
-      "identity_key": "liga 2000 01 ediciones este 2000 ediciones este",
-      "name": "Liga 2000-01 [ediciones este]",
-      "year": "2000",
-      "publisher": "Ediciones Este",
-      "source_name": "Índice externo de colecciones",
-      "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/cromos/LIGA-2000-01-EDICIONES-ESTE",
-      "status": "discovered",
-      "checklist_status": "not_verified",
-      "cover_status": "not_verified",
-      "cover_candidates": [],
-      "checklist_candidates": [],
-      "detail_status": "pending",
-      "last_checked": "2026-10-08T06:42:52.325318+00:00",
-      "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "blocked",
-      "blockers": [
-        {
-          "code": "reuse_not_authorized",
-          "url": "https://cromosrepes.com/coleccion/cromos/LIGA-2000-01-EDICIONES-ESTE",
-          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
-          "terms_url": "https://cromosrepes.com/ayuda/legal"
-        }
-      ]
-    },
-    {
-      "stable_id": "7607106f07c9628e1e55d1fb",
-      "identity_key": "liga 2001 02 ediciones este 2001 ediciones este",
-      "name": "Liga 2001-02 [ediciones este]",
-      "year": "2001",
-      "publisher": "Ediciones Este",
-      "source_name": "Índice externo de colecciones",
-      "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/cromos/LIGA-2001-02-EDICIONES-ESTE",
-      "status": "discovered",
-      "checklist_status": "not_verified",
-      "cover_status": "not_verified",
-      "cover_candidates": [],
-      "checklist_candidates": [],
-      "detail_status": "pending",
-      "last_checked": "2026-10-08T06:42:52.325318+00:00",
-      "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "blocked",
-      "blockers": [
-        {
-          "code": "reuse_not_authorized",
-          "url": "https://cromosrepes.com/coleccion/cromos/LIGA-2001-02-EDICIONES-ESTE",
-          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
-          "terms_url": "https://cromosrepes.com/ayuda/legal"
-        }
-      ]
-    },
-    {
-      "stable_id": "d6378db3bbc6e05cf70c504d",
-      "identity_key": "liga 2002 03 ediciones este 2002 ediciones este",
-      "name": "Liga 2002-03 [ediciones este]",
-      "year": "2002",
-      "publisher": "Ediciones Este",
-      "source_name": "Índice externo de colecciones",
-      "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/cromos/LIGA-2002-03-EDICIONES-ESTE",
-      "status": "discovered",
-      "checklist_status": "not_verified",
-      "cover_status": "not_verified",
-      "cover_candidates": [],
-      "checklist_candidates": [],
-      "detail_status": "pending",
-      "last_checked": "2026-10-08T06:42:52.325318+00:00",
-      "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "blocked",
-      "blockers": [
-        {
-          "code": "reuse_not_authorized",
-          "url": "https://cromosrepes.com/coleccion/cromos/LIGA-2002-03-EDICIONES-ESTE",
-          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
-          "terms_url": "https://cromosrepes.com/ayuda/legal"
-        }
-      ]
-    },
-    {
-      "stable_id": "0964d4f2ca309b925d8359ad",
-      "identity_key": "liga 2002 03 fichas mundicromo las fichas de la liga 2003 2003 mundicromo",
-      "name": "Liga 2002-03 Fichas [mundicromo] [Las Fichas de la Liga 2003]",
-      "year": "2003",
-      "publisher": "MundiCromo",
-      "source_name": "Índice externo de colecciones",
-      "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/cromos/LIGA-2002-03-FICHAS-MUNDICROMO-LAS-FICHAS-DE-LA-LIGA-2003",
-      "status": "discovered",
-      "checklist_status": "not_verified",
-      "cover_status": "not_verified",
-      "cover_candidates": [],
-      "checklist_candidates": [],
-      "detail_status": "pending",
-      "last_checked": "2026-10-08T06:42:52.325318+00:00",
-      "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "blocked",
-      "blockers": [
-        {
-          "code": "reuse_not_authorized",
-          "url": "https://cromosrepes.com/coleccion/cromos/LIGA-2002-03-FICHAS-MUNDICROMO-LAS-FICHAS-DE-LA-LIGA-2003",
-          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
-          "terms_url": "https://cromosrepes.com/ayuda/legal"
-        }
-      ]
-    },
-    {
-      "stable_id": "720667d328bc8cf6d65eb250",
-      "identity_key": "liga 2003 04 ediciones este 2003 panini",
-      "name": "Liga 2003-04 [ediciones este]",
-      "year": "2003",
-      "publisher": "Panini",
-      "source_name": "Índice externo de colecciones",
-      "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/cromos/LIGA-2003-04-EDICIONES-ESTE",
-      "status": "discovered",
-      "checklist_status": "not_verified",
-      "cover_status": "not_verified",
-      "cover_candidates": [],
-      "checklist_candidates": [],
-      "detail_status": "pending",
-      "last_checked": "2026-10-08T06:42:52.325318+00:00",
-      "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "blocked",
-      "blockers": [
-        {
-          "code": "reuse_not_authorized",
-          "url": "https://cromosrepes.com/coleccion/cromos/LIGA-2003-04-EDICIONES-ESTE",
-          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
-          "terms_url": "https://cromosrepes.com/ayuda/legal"
-        }
-      ]
-    },
-    {
-      "stable_id": "5b336e19f97a019b29654a0f",
-      "identity_key": "liga 2003 04 fichas mundicromo las fichas de la liga 2004 2004 mundicromo",
-      "name": "Liga 2003-04 Fichas [mundicromo] [Las Fichas de la Liga 2004]",
-      "year": "2004",
-      "publisher": "MundiCromo",
-      "source_name": "Índice externo de colecciones",
-      "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/cromos/LIGA-2003-04-FICHAS-MUNDICROMO-LAS-FICHAS-DE-LA-LIGA-2004",
-      "status": "discovered",
-      "checklist_status": "not_verified",
-      "cover_status": "not_verified",
-      "cover_candidates": [],
-      "checklist_candidates": [],
-      "detail_status": "pending",
-      "last_checked": "2026-10-08T06:42:52.325318+00:00",
-      "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "blocked",
-      "blockers": [
-        {
-          "code": "reuse_not_authorized",
-          "url": "https://cromosrepes.com/coleccion/cromos/LIGA-2003-04-FICHAS-MUNDICROMO-LAS-FICHAS-DE-LA-LIGA-2004",
-          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
-          "terms_url": "https://cromosrepes.com/ayuda/legal"
-        }
-      ]
-    },
-    {
-      "stable_id": "c0118c40f99f20e3a3aa8ef3",
-      "identity_key": "liga 2004 05 ediciones este 2004 panini",
-      "name": "Liga 2004-05 [ediciones este]",
-      "year": "2004",
-      "publisher": "Panini",
-      "source_name": "Índice externo de colecciones",
-      "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/cromos/LIGA-2004-05-EDICIONES-ESTE",
-      "status": "discovered",
-      "checklist_status": "not_verified",
-      "cover_status": "not_verified",
-      "cover_candidates": [],
-      "checklist_candidates": [],
-      "detail_status": "pending",
-      "last_checked": "2026-10-08T06:42:52.325318+00:00",
-      "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "blocked",
-      "blockers": [
-        {
-          "code": "reuse_not_authorized",
-          "url": "https://cromosrepes.com/coleccion/cromos/LIGA-2004-05-EDICIONES-ESTE",
-          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
-          "terms_url": "https://cromosrepes.com/ayuda/legal"
-        }
-      ]
-    },
-    {
-      "stable_id": "418c6b966b3646fc95c93304",
-      "identity_key": "liga 2004 05 fichas mundicromo las fichas de la liga 2005 2005 mundicromo",
-      "name": "Liga 2004-05 Fichas [mundicromo] [Las Fichas de la Liga 2005]",
-      "year": "2005",
-      "publisher": "MundiCromo",
-      "source_name": "Índice externo de colecciones",
-      "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/cromos/LIGA-2004-05-FICHAS-MUNDICROMO-LAS-FICHAS-DE-LA-LIGA-2005",
-      "status": "discovered",
-      "checklist_status": "not_verified",
-      "cover_status": "not_verified",
-      "cover_candidates": [],
-      "checklist_candidates": [],
-      "detail_status": "pending",
-      "last_checked": "2026-10-08T06:42:52.325318+00:00",
-      "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "blocked",
-      "blockers": [
-        {
-          "code": "reuse_not_authorized",
-          "url": "https://cromosrepes.com/coleccion/cromos/LIGA-2004-05-FICHAS-MUNDICROMO-LAS-FICHAS-DE-LA-LIGA-2005",
-          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
-          "terms_url": "https://cromosrepes.com/ayuda/legal"
-        }
-      ]
-    },
-    {
-      "stable_id": "ca3bfefb36e3b1af99013c24",
-      "identity_key": "liga 2004 05 megacracks 2004 panini",
-      "name": "Liga 2004-05 Megacracks",
-      "year": "2004",
-      "publisher": "Panini",
-      "source_name": "Índice externo de colecciones",
-      "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/cromos/LIGA-2004-05-MEGACRACKS",
-      "status": "discovered",
-      "checklist_status": "not_verified",
-      "cover_status": "not_verified",
-      "cover_candidates": [],
-      "checklist_candidates": [],
-      "detail_status": "pending",
-      "last_checked": "2026-10-08T06:42:52.325318+00:00",
-      "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "blocked",
-      "blockers": [
-        {
-          "code": "reuse_not_authorized",
-          "url": "https://cromosrepes.com/coleccion/cromos/LIGA-2004-05-MEGACRACKS",
-          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
-          "terms_url": "https://cromosrepes.com/ayuda/legal"
-        }
-      ]
-    },
-    {
-      "stable_id": "47c125df29c8c0beaca6ddfa",
-      "identity_key": "liga 2005 06 ediciones este 2005 ediciones este",
-      "name": "Liga 2005-06 [ediciones este]",
-      "year": "2005",
-      "publisher": "Ediciones Este",
-      "source_name": "Índice externo de colecciones",
-      "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/cromos/LIGA-2005-06-EDICIONES-ESTE",
-      "status": "discovered",
-      "checklist_status": "not_verified",
-      "cover_status": "not_verified",
-      "cover_candidates": [],
-      "checklist_candidates": [],
-      "detail_status": "pending",
-      "last_checked": "2026-10-08T06:42:52.325318+00:00",
-      "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "blocked",
-      "blockers": [
-        {
-          "code": "reuse_not_authorized",
-          "url": "https://cromosrepes.com/coleccion/cromos/LIGA-2005-06-EDICIONES-ESTE",
-          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
-          "terms_url": "https://cromosrepes.com/ayuda/legal"
-        }
-      ]
-    },
-    {
-      "stable_id": "ea4863ab53c6963584ace3c2",
-      "identity_key": "liga 2005 06 fichas mundicromo las fichas de la liga 2006 2006 mundicromo",
-      "name": "Liga 2005-06 Fichas [mundicromo] [Las Fichas de la Liga 2006]",
-      "year": "2006",
-      "publisher": "MundiCromo",
-      "source_name": "Índice externo de colecciones",
-      "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/cromos/LIGA-2005-06-FICHAS-MUNDICROMO-LAS-FICHAS-DE-LA-LIGA-2006",
-      "status": "discovered",
-      "checklist_status": "not_verified",
-      "cover_status": "not_verified",
-      "cover_candidates": [],
-      "checklist_candidates": [],
-      "detail_status": "pending",
-      "last_checked": "2026-10-08T06:42:52.325318+00:00",
-      "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
-      "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "blocked",
-      "blockers": [
-        {
-          "code": "reuse_not_authorized",
-          "url": "https://cromosrepes.com/coleccion/cromos/LIGA-2005-06-FICHAS-MUNDICROMO-LAS-FICHAS-DE-LA-LIGA-2006",
-          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
-          "terms_url": "https://cromosrepes.com/ayuda/legal"
-        }
-      ]
-    },
     {
       "stable_id": "227f5c7cd60c08c9c25c3fdc",
       "identity_key": "liga 2005 06 megacracks 2005 panini",
@@ -591,18 +11,26 @@
       "publisher": "Panini",
       "source_name": "Índice externo de colecciones",
       "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/ficha/LIGA-2005-06-MEGACRACKS",
+      "detail_url": "https://cromosrepes.com/coleccion/cromos/LIGA-2005-06-MEGACRACKS",
       "status": "discovered",
       "checklist_status": "not_verified",
       "cover_status": "not_verified",
       "cover_candidates": [],
       "checklist_candidates": [],
       "detail_status": "pending",
-      "last_checked": null,
+      "last_checked": "2026-10-08T08:03:25.327924+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "enrichment_status": "blocked",
+      "blockers": [
+        {
+          "code": "reuse_not_authorized",
+          "url": "https://cromosrepes.com/coleccion/cromos/LIGA-2005-06-MEGACRACKS",
+          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
+          "terms_url": "https://cromosrepes.com/ayuda/legal"
+        }
+      ]
     },
     {
       "stable_id": "41ae2a502af4f07804a85b86",
@@ -612,18 +40,26 @@
       "publisher": "Ediciones Este",
       "source_name": "Índice externo de colecciones",
       "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/ficha/LIGA-2006-07-EDICIONES-ESTE",
+      "detail_url": "https://cromosrepes.com/coleccion/cromos/LIGA-2006-07-EDICIONES-ESTE",
       "status": "discovered",
       "checklist_status": "not_verified",
       "cover_status": "not_verified",
       "cover_candidates": [],
       "checklist_candidates": [],
       "detail_status": "pending",
-      "last_checked": null,
+      "last_checked": "2026-10-08T08:03:25.327924+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "enrichment_status": "blocked",
+      "blockers": [
+        {
+          "code": "reuse_not_authorized",
+          "url": "https://cromosrepes.com/coleccion/cromos/LIGA-2006-07-EDICIONES-ESTE",
+          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
+          "terms_url": "https://cromosrepes.com/ayuda/legal"
+        }
+      ]
     },
     {
       "stable_id": "3a09ea63fd110966d54b588d",
@@ -633,18 +69,26 @@
       "publisher": "Panini",
       "source_name": "Índice externo de colecciones",
       "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/ficha/LIGA-2006-07-MEGACRACKS",
+      "detail_url": "https://cromosrepes.com/coleccion/cromos/LIGA-2006-07-MEGACRACKS",
       "status": "discovered",
       "checklist_status": "not_verified",
       "cover_status": "not_verified",
       "cover_candidates": [],
       "checklist_candidates": [],
       "detail_status": "pending",
-      "last_checked": null,
+      "last_checked": "2026-10-08T08:03:25.327924+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "enrichment_status": "blocked",
+      "blockers": [
+        {
+          "code": "reuse_not_authorized",
+          "url": "https://cromosrepes.com/coleccion/cromos/LIGA-2006-07-MEGACRACKS",
+          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
+          "terms_url": "https://cromosrepes.com/ayuda/legal"
+        }
+      ]
     },
     {
       "stable_id": "ab7305d7d531a93534b9b0be",
@@ -654,18 +98,26 @@
       "publisher": "Ediciones Este",
       "source_name": "Índice externo de colecciones",
       "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/ficha/LIGA-2007-08-EDICIONES-ESTE",
+      "detail_url": "https://cromosrepes.com/coleccion/cromos/LIGA-2007-08-EDICIONES-ESTE",
       "status": "discovered",
       "checklist_status": "not_verified",
       "cover_status": "not_verified",
       "cover_candidates": [],
       "checklist_candidates": [],
       "detail_status": "pending",
-      "last_checked": null,
+      "last_checked": "2026-10-08T08:03:25.327924+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "enrichment_status": "blocked",
+      "blockers": [
+        {
+          "code": "reuse_not_authorized",
+          "url": "https://cromosrepes.com/coleccion/cromos/LIGA-2007-08-EDICIONES-ESTE",
+          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
+          "terms_url": "https://cromosrepes.com/ayuda/legal"
+        }
+      ]
     },
     {
       "stable_id": "361f124c32199fe9c00ea749",
@@ -675,18 +127,26 @@
       "publisher": "Panini",
       "source_name": "Índice externo de colecciones",
       "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/ficha/LIGA-2007-08-MEGACRACKS",
+      "detail_url": "https://cromosrepes.com/coleccion/cromos/LIGA-2007-08-MEGACRACKS",
       "status": "discovered",
       "checklist_status": "not_verified",
       "cover_status": "not_verified",
       "cover_candidates": [],
       "checklist_candidates": [],
       "detail_status": "pending",
-      "last_checked": null,
+      "last_checked": "2026-10-08T08:03:25.327924+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "enrichment_status": "blocked",
+      "blockers": [
+        {
+          "code": "reuse_not_authorized",
+          "url": "https://cromosrepes.com/coleccion/cromos/LIGA-2007-08-MEGACRACKS",
+          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
+          "terms_url": "https://cromosrepes.com/ayuda/legal"
+        }
+      ]
     },
     {
       "stable_id": "ad8ac81c3d986632fe237791",
@@ -696,18 +156,26 @@
       "publisher": "Ediciones Este",
       "source_name": "Índice externo de colecciones",
       "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/ficha/LIGA-2008-09-EDICIONES-ESTE",
+      "detail_url": "https://cromosrepes.com/coleccion/cromos/LIGA-2008-09-EDICIONES-ESTE",
       "status": "discovered",
       "checklist_status": "not_verified",
       "cover_status": "not_verified",
       "cover_candidates": [],
       "checklist_candidates": [],
       "detail_status": "pending",
-      "last_checked": null,
+      "last_checked": "2026-10-08T08:03:25.327924+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "enrichment_status": "blocked",
+      "blockers": [
+        {
+          "code": "reuse_not_authorized",
+          "url": "https://cromosrepes.com/coleccion/cromos/LIGA-2008-09-EDICIONES-ESTE",
+          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
+          "terms_url": "https://cromosrepes.com/ayuda/legal"
+        }
+      ]
     },
     {
       "stable_id": "43e0549ffcaca2682657b8c6",
@@ -717,18 +185,26 @@
       "publisher": "Panini",
       "source_name": "Índice externo de colecciones",
       "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/ficha/LIGA-2008-09-MEGACRACKS",
+      "detail_url": "https://cromosrepes.com/coleccion/cromos/LIGA-2008-09-MEGACRACKS",
       "status": "discovered",
       "checklist_status": "not_verified",
       "cover_status": "not_verified",
       "cover_candidates": [],
       "checklist_candidates": [],
       "detail_status": "pending",
-      "last_checked": null,
+      "last_checked": "2026-10-08T08:03:25.327924+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "enrichment_status": "blocked",
+      "blockers": [
+        {
+          "code": "reuse_not_authorized",
+          "url": "https://cromosrepes.com/coleccion/cromos/LIGA-2008-09-MEGACRACKS",
+          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
+          "terms_url": "https://cromosrepes.com/ayuda/legal"
+        }
+      ]
     },
     {
       "stable_id": "e059e03a2c5a89d7296512d3",
@@ -738,18 +214,26 @@
       "publisher": "Panini",
       "source_name": "Índice externo de colecciones",
       "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/ficha/LIGA-2009-10-ADRENALYN-XL",
+      "detail_url": "https://cromosrepes.com/coleccion/cromos/LIGA-2009-10-ADRENALYN-XL",
       "status": "discovered",
       "checklist_status": "not_verified",
       "cover_status": "not_verified",
       "cover_candidates": [],
       "checklist_candidates": [],
       "detail_status": "pending",
-      "last_checked": null,
+      "last_checked": "2026-10-08T08:03:25.327924+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "enrichment_status": "blocked",
+      "blockers": [
+        {
+          "code": "reuse_not_authorized",
+          "url": "https://cromosrepes.com/coleccion/cromos/LIGA-2009-10-ADRENALYN-XL",
+          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
+          "terms_url": "https://cromosrepes.com/ayuda/legal"
+        }
+      ]
     },
     {
       "stable_id": "a4a6426530b5f359a4821362",
@@ -759,18 +243,26 @@
       "publisher": "Ediciones Este",
       "source_name": "Índice externo de colecciones",
       "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/ficha/LIGA-2009-10-EDICIONES-ESTE",
+      "detail_url": "https://cromosrepes.com/coleccion/cromos/LIGA-2009-10-EDICIONES-ESTE",
       "status": "discovered",
       "checklist_status": "not_verified",
       "cover_status": "not_verified",
       "cover_candidates": [],
       "checklist_candidates": [],
       "detail_status": "pending",
-      "last_checked": null,
+      "last_checked": "2026-10-08T08:03:25.327924+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "enrichment_status": "blocked",
+      "blockers": [
+        {
+          "code": "reuse_not_authorized",
+          "url": "https://cromosrepes.com/coleccion/cromos/LIGA-2009-10-EDICIONES-ESTE",
+          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
+          "terms_url": "https://cromosrepes.com/ayuda/legal"
+        }
+      ]
     },
     {
       "stable_id": "27d03106ece5d4497bb86251",
@@ -780,18 +272,26 @@
       "publisher": "Panini",
       "source_name": "Índice externo de colecciones",
       "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/ficha/LIGA-2009-10-MEGACRACKS",
+      "detail_url": "https://cromosrepes.com/coleccion/cromos/LIGA-2009-10-MEGACRACKS",
       "status": "discovered",
       "checklist_status": "not_verified",
       "cover_status": "not_verified",
       "cover_candidates": [],
       "checklist_candidates": [],
       "detail_status": "pending",
-      "last_checked": null,
+      "last_checked": "2026-10-08T08:03:25.327924+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "enrichment_status": "blocked",
+      "blockers": [
+        {
+          "code": "reuse_not_authorized",
+          "url": "https://cromosrepes.com/coleccion/cromos/LIGA-2009-10-MEGACRACKS",
+          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
+          "terms_url": "https://cromosrepes.com/ayuda/legal"
+        }
+      ]
     },
     {
       "stable_id": "a22370b7b154d38a6d8f3b5f",
@@ -801,18 +301,26 @@
       "publisher": "Panini",
       "source_name": "Índice externo de colecciones",
       "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/ficha/LIGA-2010-11-ADRENALYN-XL",
+      "detail_url": "https://cromosrepes.com/coleccion/cromos/LIGA-2010-11-ADRENALYN-XL",
       "status": "discovered",
       "checklist_status": "not_verified",
       "cover_status": "not_verified",
       "cover_candidates": [],
       "checklist_candidates": [],
       "detail_status": "pending",
-      "last_checked": null,
+      "last_checked": "2026-10-08T08:03:25.327924+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "enrichment_status": "blocked",
+      "blockers": [
+        {
+          "code": "reuse_not_authorized",
+          "url": "https://cromosrepes.com/coleccion/cromos/LIGA-2010-11-ADRENALYN-XL",
+          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
+          "terms_url": "https://cromosrepes.com/ayuda/legal"
+        }
+      ]
     },
     {
       "stable_id": "bca9dc4807acf32619337ad7",
@@ -822,18 +330,26 @@
       "publisher": "Panini",
       "source_name": "Índice externo de colecciones",
       "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/ficha/LIGA-2010-11-EDICIONES-ESTE",
+      "detail_url": "https://cromosrepes.com/coleccion/cromos/LIGA-2010-11-EDICIONES-ESTE",
       "status": "discovered",
       "checklist_status": "not_verified",
       "cover_status": "not_verified",
       "cover_candidates": [],
       "checklist_candidates": [],
       "detail_status": "pending",
-      "last_checked": null,
+      "last_checked": "2026-10-08T08:03:25.327924+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "enrichment_status": "blocked",
+      "blockers": [
+        {
+          "code": "reuse_not_authorized",
+          "url": "https://cromosrepes.com/coleccion/cromos/LIGA-2010-11-EDICIONES-ESTE",
+          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
+          "terms_url": "https://cromosrepes.com/ayuda/legal"
+        }
+      ]
     },
     {
       "stable_id": "1d2f151725f54da38cd0d876",
@@ -843,18 +359,26 @@
       "publisher": "Panini",
       "source_name": "Índice externo de colecciones",
       "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/ficha/LIGA-2010-11-MEGACRACKS",
+      "detail_url": "https://cromosrepes.com/coleccion/cromos/LIGA-2010-11-MEGACRACKS",
       "status": "discovered",
       "checklist_status": "not_verified",
       "cover_status": "not_verified",
       "cover_candidates": [],
       "checklist_candidates": [],
       "detail_status": "pending",
-      "last_checked": null,
+      "last_checked": "2026-10-08T08:03:25.327924+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "enrichment_status": "blocked",
+      "blockers": [
+        {
+          "code": "reuse_not_authorized",
+          "url": "https://cromosrepes.com/coleccion/cromos/LIGA-2010-11-MEGACRACKS",
+          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
+          "terms_url": "https://cromosrepes.com/ayuda/legal"
+        }
+      ]
     },
     {
       "stable_id": "7da51379218a022ece167901",
@@ -864,18 +388,26 @@
       "publisher": "Panini",
       "source_name": "Índice externo de colecciones",
       "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/ficha/LIGA-2011-12-ADRENALYN-XL",
+      "detail_url": "https://cromosrepes.com/coleccion/cromos/LIGA-2011-12-ADRENALYN-XL",
       "status": "discovered",
       "checklist_status": "not_verified",
       "cover_status": "not_verified",
       "cover_candidates": [],
       "checklist_candidates": [],
       "detail_status": "pending",
-      "last_checked": null,
+      "last_checked": "2026-10-08T08:03:25.327924+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "enrichment_status": "blocked",
+      "blockers": [
+        {
+          "code": "reuse_not_authorized",
+          "url": "https://cromosrepes.com/coleccion/cromos/LIGA-2011-12-ADRENALYN-XL",
+          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
+          "terms_url": "https://cromosrepes.com/ayuda/legal"
+        }
+      ]
     },
     {
       "stable_id": "275dea1135e4705825cab672",
@@ -885,18 +417,26 @@
       "publisher": "Ediciones Este",
       "source_name": "Índice externo de colecciones",
       "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/ficha/LIGA-2011-12-EDICIONES-ESTE",
+      "detail_url": "https://cromosrepes.com/coleccion/cromos/LIGA-2011-12-EDICIONES-ESTE",
       "status": "discovered",
       "checklist_status": "not_verified",
       "cover_status": "not_verified",
       "cover_candidates": [],
       "checklist_candidates": [],
       "detail_status": "pending",
-      "last_checked": null,
+      "last_checked": "2026-10-08T08:03:25.327924+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "enrichment_status": "blocked",
+      "blockers": [
+        {
+          "code": "reuse_not_authorized",
+          "url": "https://cromosrepes.com/coleccion/cromos/LIGA-2011-12-EDICIONES-ESTE",
+          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
+          "terms_url": "https://cromosrepes.com/ayuda/legal"
+        }
+      ]
     },
     {
       "stable_id": "6c1b3264824a64a65164ba25",
@@ -906,18 +446,26 @@
       "publisher": "Panini",
       "source_name": "Índice externo de colecciones",
       "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/ficha/LIGA-2011-12-MEGACRACKS",
+      "detail_url": "https://cromosrepes.com/coleccion/cromos/LIGA-2011-12-MEGACRACKS",
       "status": "discovered",
       "checklist_status": "not_verified",
       "cover_status": "not_verified",
       "cover_candidates": [],
       "checklist_candidates": [],
       "detail_status": "pending",
-      "last_checked": null,
+      "last_checked": "2026-10-08T08:03:25.327924+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "enrichment_status": "blocked",
+      "blockers": [
+        {
+          "code": "reuse_not_authorized",
+          "url": "https://cromosrepes.com/coleccion/cromos/LIGA-2011-12-MEGACRACKS",
+          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
+          "terms_url": "https://cromosrepes.com/ayuda/legal"
+        }
+      ]
     },
     {
       "stable_id": "6b21f61c81d46028ec3202e4",
@@ -927,18 +475,26 @@
       "publisher": "MundiCromo",
       "source_name": "Índice externo de colecciones",
       "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/ficha/LIGA-2011-12-QUIZ-GAME-MUNDICROMO-BASICOS",
+      "detail_url": "https://cromosrepes.com/coleccion/cromos/LIGA-2011-12-QUIZ-GAME-MUNDICROMO-BASICOS",
       "status": "discovered",
       "checklist_status": "not_verified",
       "cover_status": "not_verified",
       "cover_candidates": [],
       "checklist_candidates": [],
       "detail_status": "pending",
-      "last_checked": null,
+      "last_checked": "2026-10-08T08:03:25.327924+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "enrichment_status": "blocked",
+      "blockers": [
+        {
+          "code": "reuse_not_authorized",
+          "url": "https://cromosrepes.com/coleccion/cromos/LIGA-2011-12-QUIZ-GAME-MUNDICROMO-BASICOS",
+          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
+          "terms_url": "https://cromosrepes.com/ayuda/legal"
+        }
+      ]
     },
     {
       "stable_id": "b74098b01f486263e6a367f2",
@@ -948,18 +504,26 @@
       "publisher": "Panini",
       "source_name": "Índice externo de colecciones",
       "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/ficha/LIGA-2012-13-ADRENALYN-XL",
+      "detail_url": "https://cromosrepes.com/coleccion/cromos/LIGA-2012-13-ADRENALYN-XL",
       "status": "discovered",
       "checklist_status": "not_verified",
       "cover_status": "not_verified",
       "cover_candidates": [],
       "checklist_candidates": [],
       "detail_status": "pending",
-      "last_checked": null,
+      "last_checked": "2026-10-08T08:03:25.327924+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "enrichment_status": "blocked",
+      "blockers": [
+        {
+          "code": "reuse_not_authorized",
+          "url": "https://cromosrepes.com/coleccion/cromos/LIGA-2012-13-ADRENALYN-XL",
+          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
+          "terms_url": "https://cromosrepes.com/ayuda/legal"
+        }
+      ]
     },
     {
       "stable_id": "03b4840d1d726741da6db0d0",
@@ -969,18 +533,26 @@
       "publisher": "Ediciones Este",
       "source_name": "Índice externo de colecciones",
       "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/ficha/LIGA-2012-13-EDICIONES-ESTE",
+      "detail_url": "https://cromosrepes.com/coleccion/cromos/LIGA-2012-13-EDICIONES-ESTE",
       "status": "discovered",
       "checklist_status": "not_verified",
       "cover_status": "not_verified",
       "cover_candidates": [],
       "checklist_candidates": [],
       "detail_status": "pending",
-      "last_checked": null,
+      "last_checked": "2026-10-08T08:03:25.327924+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "enrichment_status": "blocked",
+      "blockers": [
+        {
+          "code": "reuse_not_authorized",
+          "url": "https://cromosrepes.com/coleccion/cromos/LIGA-2012-13-EDICIONES-ESTE",
+          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
+          "terms_url": "https://cromosrepes.com/ayuda/legal"
+        }
+      ]
     },
     {
       "stable_id": "b2af6605300235820253cb6b",
@@ -990,18 +562,26 @@
       "publisher": "Panini",
       "source_name": "Índice externo de colecciones",
       "source_url": "https://cromosrepes.com/colecciones/todas",
-      "detail_url": "https://cromosrepes.com/coleccion/ficha/LIGA-2012-13-MEGACRACKS",
+      "detail_url": "https://cromosrepes.com/coleccion/cromos/LIGA-2012-13-MEGACRACKS",
       "status": "discovered",
       "checklist_status": "not_verified",
       "cover_status": "not_verified",
       "cover_candidates": [],
       "checklist_candidates": [],
       "detail_status": "pending",
-      "last_checked": null,
+      "last_checked": "2026-10-08T08:03:25.327924+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
-      "enrichment_status": "pending_verification"
+      "enrichment_status": "blocked",
+      "blockers": [
+        {
+          "code": "reuse_not_authorized",
+          "url": "https://cromosrepes.com/coleccion/cromos/LIGA-2012-13-MEGACRACKS",
+          "detail": "No consta permiso de publicación; CromosRepes requiere permiso previo por escrito",
+          "terms_url": "https://cromosrepes.com/ayuda/legal"
+        }
+      ]
     },
     {
       "stable_id": "e0cfa11c1c3b510cac5d5654",
@@ -1020,7 +600,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1041,7 +621,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1062,7 +642,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1083,7 +663,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1104,7 +684,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1125,7 +705,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1146,7 +726,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1167,7 +747,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1188,7 +768,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1209,7 +789,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1230,7 +810,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1251,7 +831,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1272,7 +852,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1293,7 +873,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1314,7 +894,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1335,7 +915,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1356,7 +936,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1377,7 +957,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1398,7 +978,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1419,7 +999,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1440,7 +1020,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1461,7 +1041,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1482,7 +1062,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1503,7 +1083,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1524,7 +1104,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1545,7 +1125,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1566,7 +1146,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1587,7 +1167,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1608,7 +1188,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1629,7 +1209,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1650,7 +1230,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1671,7 +1251,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1692,7 +1272,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1713,7 +1293,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1734,7 +1314,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1755,7 +1335,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1776,7 +1356,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1797,7 +1377,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1818,7 +1398,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1839,7 +1419,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1860,7 +1440,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1881,7 +1461,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1902,7 +1482,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1923,7 +1503,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1944,7 +1524,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1965,7 +1545,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -1986,7 +1566,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2007,7 +1587,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2028,7 +1608,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2049,7 +1629,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2070,7 +1650,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2091,7 +1671,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2112,7 +1692,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2133,7 +1713,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2154,7 +1734,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2175,7 +1755,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2196,7 +1776,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2217,7 +1797,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2238,7 +1818,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2259,7 +1839,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2280,7 +1860,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2301,7 +1881,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2322,7 +1902,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2343,7 +1923,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2364,7 +1944,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2385,7 +1965,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2406,7 +1986,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2427,7 +2007,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2448,7 +2028,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2469,7 +2049,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2490,7 +2070,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2511,7 +2091,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2532,7 +2112,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2553,7 +2133,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2574,7 +2154,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2595,7 +2175,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2616,7 +2196,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2637,7 +2217,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2658,7 +2238,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2679,7 +2259,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2700,7 +2280,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2721,7 +2301,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2742,7 +2322,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2763,7 +2343,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2784,7 +2364,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2805,7 +2385,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2826,7 +2406,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2847,7 +2427,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2868,7 +2448,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2889,7 +2469,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2910,7 +2490,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2931,7 +2511,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2952,7 +2532,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2973,7 +2553,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -2994,7 +2574,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -3015,7 +2595,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -3036,7 +2616,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -3057,7 +2637,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -3078,7 +2658,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -3099,7 +2679,7 @@
       "detail_status": "pending",
       "last_checked": null,
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "pending_verification"
     },
@@ -3120,7 +2700,7 @@
       "detail_status": "pending",
       "last_checked": "2026-10-08T00:47:37.424830+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "blocked"
     },
@@ -3141,7 +2721,7 @@
       "detail_status": "pending",
       "last_checked": "2026-10-08T00:47:37.424830+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "blocked"
     },
@@ -3162,7 +2742,7 @@
       "detail_status": "pending",
       "last_checked": "2026-10-08T00:47:37.424830+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "blocked"
     },
@@ -3183,7 +2763,7 @@
       "detail_status": "pending",
       "last_checked": "2026-10-08T00:47:37.424830+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "blocked"
     },
@@ -3204,7 +2784,7 @@
       "detail_status": "pending",
       "last_checked": "2026-10-08T00:47:37.424830+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "blocked"
     },
@@ -3225,7 +2805,7 @@
       "detail_status": "pending",
       "last_checked": "2026-10-08T00:47:37.424830+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "blocked"
     },
@@ -3246,7 +2826,7 @@
       "detail_status": "pending",
       "last_checked": "2026-10-08T00:47:37.424830+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "blocked"
     },
@@ -3267,7 +2847,7 @@
       "detail_status": "pending",
       "last_checked": "2026-10-08T00:47:37.424830+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "blocked"
     },
@@ -3288,7 +2868,7 @@
       "detail_status": "pending",
       "last_checked": "2026-10-08T00:47:37.424830+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "blocked"
     },
@@ -3309,7 +2889,7 @@
       "detail_status": "pending",
       "last_checked": "2026-10-08T00:47:37.424830+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "blocked"
     },
@@ -3330,7 +2910,7 @@
       "detail_status": "pending",
       "last_checked": "2026-10-08T00:47:37.424830+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "blocked"
     },
@@ -3351,7 +2931,7 @@
       "detail_status": "pending",
       "last_checked": "2026-10-08T00:47:37.424830+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "blocked"
     },
@@ -3372,7 +2952,7 @@
       "detail_status": "pending",
       "last_checked": "2026-10-08T00:47:37.424830+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "blocked"
     },
@@ -3393,7 +2973,7 @@
       "detail_status": "pending",
       "last_checked": "2026-10-08T00:47:37.424830+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "blocked"
     },
@@ -3414,7 +2994,7 @@
       "detail_status": "pending",
       "last_checked": "2026-10-08T00:47:37.424830+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "blocked"
     },
@@ -3435,7 +3015,7 @@
       "detail_status": "pending",
       "last_checked": "2026-10-08T00:47:37.424830+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "blocked"
     },
@@ -3456,7 +3036,7 @@
       "detail_status": "pending",
       "last_checked": "2026-10-08T00:47:37.424830+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "blocked"
     },
@@ -3477,7 +3057,7 @@
       "detail_status": "pending",
       "last_checked": "2026-10-08T00:47:37.424830+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "blocked"
     },
@@ -3498,7 +3078,7 @@
       "detail_status": "pending",
       "last_checked": "2026-10-08T00:47:37.424830+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "blocked"
     },
@@ -3519,7 +3099,7 @@
       "detail_status": "pending",
       "last_checked": "2026-10-08T00:47:37.424830+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "blocked"
     },
@@ -3540,7 +3120,7 @@
       "detail_status": "pending",
       "last_checked": "2026-10-08T05:50:33.696199+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "blocked"
     },
@@ -3561,7 +3141,7 @@
       "detail_status": "pending",
       "last_checked": "2026-10-08T05:50:33.696199+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "blocked"
     },
@@ -3582,7 +3162,7 @@
       "detail_status": "pending",
       "last_checked": "2026-10-08T05:50:33.696199+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "blocked"
     },
@@ -3603,7 +3183,7 @@
       "detail_status": "pending",
       "last_checked": "2026-10-08T05:50:33.696199+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "blocked"
     },
@@ -3624,7 +3204,7 @@
       "detail_status": "pending",
       "last_checked": "2026-10-08T05:50:33.696199+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "blocked"
     },
@@ -3645,7 +3225,7 @@
       "detail_status": "pending",
       "last_checked": "2026-10-08T05:50:33.696199+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "blocked"
     },
@@ -3666,7 +3246,7 @@
       "detail_status": "pending",
       "last_checked": "2026-10-08T05:50:33.696199+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "blocked"
     },
@@ -3687,7 +3267,7 @@
       "detail_status": "pending",
       "last_checked": "2026-10-08T05:50:33.696199+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "blocked"
     },
@@ -3708,7 +3288,7 @@
       "detail_status": "pending",
       "last_checked": "2026-10-08T05:50:33.696199+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "blocked"
     },
@@ -3729,7 +3309,7 @@
       "detail_status": "pending",
       "last_checked": "2026-10-08T05:50:33.696199+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "blocked"
     },
@@ -3750,7 +3330,7 @@
       "detail_status": "pending",
       "last_checked": "2026-10-08T05:50:33.696199+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "blocked"
     },
@@ -3771,7 +3351,7 @@
       "detail_status": "pending",
       "last_checked": "2026-10-08T05:50:33.696199+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "blocked"
     },
@@ -3792,7 +3372,7 @@
       "detail_status": "pending",
       "last_checked": "2026-10-08T05:50:33.696199+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "blocked"
     },
@@ -3813,7 +3393,7 @@
       "detail_status": "pending",
       "last_checked": "2026-10-08T05:50:33.696199+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "blocked"
     },
@@ -3834,7 +3414,7 @@
       "detail_status": "pending",
       "last_checked": "2026-10-08T05:50:33.696199+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "blocked"
     },
@@ -3855,7 +3435,7 @@
       "detail_status": "pending",
       "last_checked": "2026-10-08T05:50:33.696199+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "blocked"
     },
@@ -3876,7 +3456,7 @@
       "detail_status": "pending",
       "last_checked": "2026-10-08T05:50:33.696199+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "blocked"
     },
@@ -3897,7 +3477,7 @@
       "detail_status": "pending",
       "last_checked": "2026-10-08T05:50:33.696199+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "blocked"
     },
@@ -3918,7 +3498,7 @@
       "detail_status": "pending",
       "last_checked": "2026-10-08T05:50:33.696199+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "blocked"
     },
@@ -3939,7 +3519,7 @@
       "detail_status": "pending",
       "last_checked": "2026-10-08T05:50:33.696199+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "blocked"
     },
@@ -3960,7 +3540,7 @@
       "detail_status": "pending",
       "last_checked": "2026-10-08T05:58:25.356658+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "blocked"
     },
@@ -3981,7 +3561,7 @@
       "detail_status": "pending",
       "last_checked": "2026-10-08T05:58:25.356658+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "blocked"
     },
@@ -4002,7 +3582,7 @@
       "detail_status": "pending",
       "last_checked": "2026-10-08T05:58:25.356658+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "blocked"
     },
@@ -4023,7 +3603,7 @@
       "detail_status": "pending",
       "last_checked": "2026-10-08T05:58:25.356658+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "blocked"
     },
@@ -4044,7 +3624,7 @@
       "detail_status": "pending",
       "last_checked": "2026-10-08T05:58:25.356658+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "blocked"
     },
@@ -4065,7 +3645,7 @@
       "detail_status": "pending",
       "last_checked": "2026-10-08T05:58:25.356658+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "blocked"
     },
@@ -4086,7 +3666,7 @@
       "detail_status": "pending",
       "last_checked": "2026-10-08T05:58:25.356658+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "blocked"
     },
@@ -4107,7 +3687,7 @@
       "detail_status": "pending",
       "last_checked": "2026-10-08T05:58:25.356658+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "blocked"
     },
@@ -4128,7 +3708,7 @@
       "detail_status": "pending",
       "last_checked": "2026-10-08T05:58:25.356658+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "blocked"
     },
@@ -4149,7 +3729,7 @@
       "detail_status": "pending",
       "last_checked": "2026-10-08T05:58:25.356658+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "blocked"
     },
@@ -4170,7 +3750,7 @@
       "detail_status": "pending",
       "last_checked": "2026-10-08T05:58:25.356658+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "blocked"
     },
@@ -4191,7 +3771,7 @@
       "detail_status": "pending",
       "last_checked": "2026-10-08T05:58:25.356658+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "blocked"
     },
@@ -4212,7 +3792,7 @@
       "detail_status": "pending",
       "last_checked": "2026-10-08T05:58:25.356658+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "blocked"
     },
@@ -4233,7 +3813,7 @@
       "detail_status": "pending",
       "last_checked": "2026-10-08T05:58:25.356658+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "blocked"
     },
@@ -4254,7 +3834,7 @@
       "detail_status": "pending",
       "last_checked": "2026-10-08T05:58:25.356658+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "blocked"
     },
@@ -4275,7 +3855,7 @@
       "detail_status": "pending",
       "last_checked": "2026-10-08T05:58:25.356658+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "blocked"
     },
@@ -4296,7 +3876,7 @@
       "detail_status": "pending",
       "last_checked": "2026-10-08T05:58:25.356658+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "blocked"
     },
@@ -4317,7 +3897,7 @@
       "detail_status": "pending",
       "last_checked": "2026-10-08T05:58:25.356658+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "blocked"
     },
@@ -4338,7 +3918,7 @@
       "detail_status": "pending",
       "last_checked": "2026-10-08T05:58:25.356658+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "blocked"
     },
@@ -4359,12 +3939,433 @@
       "detail_status": "pending",
       "last_checked": "2026-10-08T05:58:25.356658+00:00",
       "fingerprint": null,
-      "last_seen": "2026-10-08T06:42:52Z",
+      "last_seen": "2026-10-08T08:03:25Z",
+      "first_seen": "2026-10-08T00:47:37Z",
+      "enrichment_status": "blocked"
+    },
+    {
+      "stable_id": "cd127c0fcf9959d58e5c7959",
+      "identity_key": "liga 1994 95 ediciones este 1994 ediciones este",
+      "name": "Liga 1994-95 [ediciones este]",
+      "year": "1994",
+      "publisher": "Ediciones Este",
+      "source_name": "Índice externo de colecciones",
+      "source_url": "https://cromosrepes.com/colecciones/todas",
+      "detail_url": "https://cromosrepes.com/coleccion/ficha/LIGA-1994-95-EDICIONES-ESTE",
+      "status": "discovered",
+      "checklist_status": "not_verified",
+      "cover_status": "not_verified",
+      "cover_candidates": [],
+      "checklist_candidates": [],
+      "detail_status": "pending",
+      "last_checked": "2026-10-08T06:42:52.325318+00:00",
+      "fingerprint": null,
+      "last_seen": "2026-10-08T08:03:25Z",
+      "first_seen": "2026-10-08T00:47:37Z",
+      "enrichment_status": "blocked"
+    },
+    {
+      "stable_id": "674264f56c08681574fd57ae",
+      "identity_key": "liga 1995 96 ediciones este 1995 ediciones este",
+      "name": "Liga 1995-96 [ediciones este]",
+      "year": "1995",
+      "publisher": "Ediciones Este",
+      "source_name": "Índice externo de colecciones",
+      "source_url": "https://cromosrepes.com/colecciones/todas",
+      "detail_url": "https://cromosrepes.com/coleccion/ficha/LIGA-1995-96-EDICIONES-ESTE",
+      "status": "discovered",
+      "checklist_status": "not_verified",
+      "cover_status": "not_verified",
+      "cover_candidates": [],
+      "checklist_candidates": [],
+      "detail_status": "pending",
+      "last_checked": "2026-10-08T06:42:52.325318+00:00",
+      "fingerprint": null,
+      "last_seen": "2026-10-08T08:03:25Z",
+      "first_seen": "2026-10-08T00:47:37Z",
+      "enrichment_status": "blocked"
+    },
+    {
+      "stable_id": "c6daa50978a520e86805756d",
+      "identity_key": "liga 1995 96 fichas mundicromo 1995 mundicromo",
+      "name": "Liga 1995-96 Fichas [mundicromo]",
+      "year": "1995",
+      "publisher": "MundiCromo",
+      "source_name": "Índice externo de colecciones",
+      "source_url": "https://cromosrepes.com/colecciones/todas",
+      "detail_url": "https://cromosrepes.com/coleccion/ficha/LIGA-1995-96-FICHAS-MUNDICROMO",
+      "status": "discovered",
+      "checklist_status": "not_verified",
+      "cover_status": "not_verified",
+      "cover_candidates": [],
+      "checklist_candidates": [],
+      "detail_status": "pending",
+      "last_checked": "2026-10-08T06:42:52.325318+00:00",
+      "fingerprint": null,
+      "last_seen": "2026-10-08T08:03:25Z",
+      "first_seen": "2026-10-08T00:47:37Z",
+      "enrichment_status": "blocked"
+    },
+    {
+      "stable_id": "7d27fa519aed26c3907f4f0a",
+      "identity_key": "liga 1996 97 ediciones este 1996 ediciones este",
+      "name": "Liga 1996-97 [ediciones este]",
+      "year": "1996",
+      "publisher": "Ediciones Este",
+      "source_name": "Índice externo de colecciones",
+      "source_url": "https://cromosrepes.com/colecciones/todas",
+      "detail_url": "https://cromosrepes.com/coleccion/ficha/LIGA-1996-97-EDICIONES-ESTE",
+      "status": "discovered",
+      "checklist_status": "not_verified",
+      "cover_status": "not_verified",
+      "cover_candidates": [],
+      "checklist_candidates": [],
+      "detail_status": "pending",
+      "last_checked": "2026-10-08T06:42:52.325318+00:00",
+      "fingerprint": null,
+      "last_seen": "2026-10-08T08:03:25Z",
+      "first_seen": "2026-10-08T00:47:37Z",
+      "enrichment_status": "blocked"
+    },
+    {
+      "stable_id": "cb139d77eb4ebb1ac2fe7217",
+      "identity_key": "liga 1996 97 fichas mundicromo 1996 mundicromo",
+      "name": "Liga 1996-97 Fichas [mundicromo]",
+      "year": "1996",
+      "publisher": "MundiCromo",
+      "source_name": "Índice externo de colecciones",
+      "source_url": "https://cromosrepes.com/colecciones/todas",
+      "detail_url": "https://cromosrepes.com/coleccion/ficha/LIGA-1996-97-FICHAS-MUNDICROMO",
+      "status": "discovered",
+      "checklist_status": "not_verified",
+      "cover_status": "not_verified",
+      "cover_candidates": [],
+      "checklist_candidates": [],
+      "detail_status": "pending",
+      "last_checked": "2026-10-08T06:42:52.325318+00:00",
+      "fingerprint": null,
+      "last_seen": "2026-10-08T08:03:25Z",
+      "first_seen": "2026-10-08T00:47:37Z",
+      "enrichment_status": "blocked"
+    },
+    {
+      "stable_id": "410829e94fa0af6a169e372a",
+      "identity_key": "liga 1997 98 ediciones este 1997 ediciones este",
+      "name": "Liga 1997-98 [ediciones este]",
+      "year": "1997",
+      "publisher": "Ediciones Este",
+      "source_name": "Índice externo de colecciones",
+      "source_url": "https://cromosrepes.com/colecciones/todas",
+      "detail_url": "https://cromosrepes.com/coleccion/ficha/LIGA-1997-98-EDICIONES-ESTE",
+      "status": "discovered",
+      "checklist_status": "not_verified",
+      "cover_status": "not_verified",
+      "cover_candidates": [],
+      "checklist_candidates": [],
+      "detail_status": "pending",
+      "last_checked": "2026-10-08T06:42:52.325318+00:00",
+      "fingerprint": null,
+      "last_seen": "2026-10-08T08:03:25Z",
+      "first_seen": "2026-10-08T00:47:37Z",
+      "enrichment_status": "blocked"
+    },
+    {
+      "stable_id": "fad0700e2d256a564bcb300d",
+      "identity_key": "liga 1997 98 fichas mundicromo 1997 mundicromo",
+      "name": "Liga 1997-98 Fichas [mundicromo]",
+      "year": "1997",
+      "publisher": "MundiCromo",
+      "source_name": "Índice externo de colecciones",
+      "source_url": "https://cromosrepes.com/colecciones/todas",
+      "detail_url": "https://cromosrepes.com/coleccion/ficha/LIGA-1997-98-FICHAS-MUNDICROMO",
+      "status": "discovered",
+      "checklist_status": "not_verified",
+      "cover_status": "not_verified",
+      "cover_candidates": [],
+      "checklist_candidates": [],
+      "detail_status": "pending",
+      "last_checked": "2026-10-08T06:42:52.325318+00:00",
+      "fingerprint": null,
+      "last_seen": "2026-10-08T08:03:25Z",
+      "first_seen": "2026-10-08T00:47:37Z",
+      "enrichment_status": "blocked"
+    },
+    {
+      "stable_id": "4e858694585acc4840987e3e",
+      "identity_key": "liga 1998 99 ediciones este 1998 ediciones este",
+      "name": "Liga 1998-99 [ediciones este]",
+      "year": "1998",
+      "publisher": "Ediciones Este",
+      "source_name": "Índice externo de colecciones",
+      "source_url": "https://cromosrepes.com/colecciones/todas",
+      "detail_url": "https://cromosrepes.com/coleccion/ficha/LIGA-1998-99-EDICIONES-ESTE",
+      "status": "discovered",
+      "checklist_status": "not_verified",
+      "cover_status": "not_verified",
+      "cover_candidates": [],
+      "checklist_candidates": [],
+      "detail_status": "pending",
+      "last_checked": "2026-10-08T06:42:52.325318+00:00",
+      "fingerprint": null,
+      "last_seen": "2026-10-08T08:03:25Z",
+      "first_seen": "2026-10-08T00:47:37Z",
+      "enrichment_status": "blocked"
+    },
+    {
+      "stable_id": "28f1553ffd27c822aaa3667b",
+      "identity_key": "liga 1999 00 ediciones este 1999 ediciones este",
+      "name": "Liga 1999-00 [ediciones este]",
+      "year": "1999",
+      "publisher": "Ediciones Este",
+      "source_name": "Índice externo de colecciones",
+      "source_url": "https://cromosrepes.com/colecciones/todas",
+      "detail_url": "https://cromosrepes.com/coleccion/ficha/LIGA-1999-00-EDICIONES-ESTE",
+      "status": "discovered",
+      "checklist_status": "not_verified",
+      "cover_status": "not_verified",
+      "cover_candidates": [],
+      "checklist_candidates": [],
+      "detail_status": "pending",
+      "last_checked": "2026-10-08T06:42:52.325318+00:00",
+      "fingerprint": null,
+      "last_seen": "2026-10-08T08:03:25Z",
+      "first_seen": "2026-10-08T00:47:37Z",
+      "enrichment_status": "blocked"
+    },
+    {
+      "stable_id": "948a81bce40a6b1cecf79041",
+      "identity_key": "liga 2000 01 ediciones este 2000 ediciones este",
+      "name": "Liga 2000-01 [ediciones este]",
+      "year": "2000",
+      "publisher": "Ediciones Este",
+      "source_name": "Índice externo de colecciones",
+      "source_url": "https://cromosrepes.com/colecciones/todas",
+      "detail_url": "https://cromosrepes.com/coleccion/ficha/LIGA-2000-01-EDICIONES-ESTE",
+      "status": "discovered",
+      "checklist_status": "not_verified",
+      "cover_status": "not_verified",
+      "cover_candidates": [],
+      "checklist_candidates": [],
+      "detail_status": "pending",
+      "last_checked": "2026-10-08T06:42:52.325318+00:00",
+      "fingerprint": null,
+      "last_seen": "2026-10-08T08:03:25Z",
+      "first_seen": "2026-10-08T00:47:37Z",
+      "enrichment_status": "blocked"
+    },
+    {
+      "stable_id": "7607106f07c9628e1e55d1fb",
+      "identity_key": "liga 2001 02 ediciones este 2001 ediciones este",
+      "name": "Liga 2001-02 [ediciones este]",
+      "year": "2001",
+      "publisher": "Ediciones Este",
+      "source_name": "Índice externo de colecciones",
+      "source_url": "https://cromosrepes.com/colecciones/todas",
+      "detail_url": "https://cromosrepes.com/coleccion/ficha/LIGA-2001-02-EDICIONES-ESTE",
+      "status": "discovered",
+      "checklist_status": "not_verified",
+      "cover_status": "not_verified",
+      "cover_candidates": [],
+      "checklist_candidates": [],
+      "detail_status": "pending",
+      "last_checked": "2026-10-08T06:42:52.325318+00:00",
+      "fingerprint": null,
+      "last_seen": "2026-10-08T08:03:25Z",
+      "first_seen": "2026-10-08T00:47:37Z",
+      "enrichment_status": "blocked"
+    },
+    {
+      "stable_id": "d6378db3bbc6e05cf70c504d",
+      "identity_key": "liga 2002 03 ediciones este 2002 ediciones este",
+      "name": "Liga 2002-03 [ediciones este]",
+      "year": "2002",
+      "publisher": "Ediciones Este",
+      "source_name": "Índice externo de colecciones",
+      "source_url": "https://cromosrepes.com/colecciones/todas",
+      "detail_url": "https://cromosrepes.com/coleccion/ficha/LIGA-2002-03-EDICIONES-ESTE",
+      "status": "discovered",
+      "checklist_status": "not_verified",
+      "cover_status": "not_verified",
+      "cover_candidates": [],
+      "checklist_candidates": [],
+      "detail_status": "pending",
+      "last_checked": "2026-10-08T06:42:52.325318+00:00",
+      "fingerprint": null,
+      "last_seen": "2026-10-08T08:03:25Z",
+      "first_seen": "2026-10-08T00:47:37Z",
+      "enrichment_status": "blocked"
+    },
+    {
+      "stable_id": "0964d4f2ca309b925d8359ad",
+      "identity_key": "liga 2002 03 fichas mundicromo las fichas de la liga 2003 2003 mundicromo",
+      "name": "Liga 2002-03 Fichas [mundicromo] [Las Fichas de la Liga 2003]",
+      "year": "2003",
+      "publisher": "MundiCromo",
+      "source_name": "Índice externo de colecciones",
+      "source_url": "https://cromosrepes.com/colecciones/todas",
+      "detail_url": "https://cromosrepes.com/coleccion/ficha/LIGA-2002-03-FICHAS-MUNDICROMO-LAS-FICHAS-DE-LA-LIGA-2003",
+      "status": "discovered",
+      "checklist_status": "not_verified",
+      "cover_status": "not_verified",
+      "cover_candidates": [],
+      "checklist_candidates": [],
+      "detail_status": "pending",
+      "last_checked": "2026-10-08T06:42:52.325318+00:00",
+      "fingerprint": null,
+      "last_seen": "2026-10-08T08:03:25Z",
+      "first_seen": "2026-10-08T00:47:37Z",
+      "enrichment_status": "blocked"
+    },
+    {
+      "stable_id": "720667d328bc8cf6d65eb250",
+      "identity_key": "liga 2003 04 ediciones este 2003 panini",
+      "name": "Liga 2003-04 [ediciones este]",
+      "year": "2003",
+      "publisher": "Panini",
+      "source_name": "Índice externo de colecciones",
+      "source_url": "https://cromosrepes.com/colecciones/todas",
+      "detail_url": "https://cromosrepes.com/coleccion/ficha/LIGA-2003-04-EDICIONES-ESTE",
+      "status": "discovered",
+      "checklist_status": "not_verified",
+      "cover_status": "not_verified",
+      "cover_candidates": [],
+      "checklist_candidates": [],
+      "detail_status": "pending",
+      "last_checked": "2026-10-08T06:42:52.325318+00:00",
+      "fingerprint": null,
+      "last_seen": "2026-10-08T08:03:25Z",
+      "first_seen": "2026-10-08T00:47:37Z",
+      "enrichment_status": "blocked"
+    },
+    {
+      "stable_id": "5b336e19f97a019b29654a0f",
+      "identity_key": "liga 2003 04 fichas mundicromo las fichas de la liga 2004 2004 mundicromo",
+      "name": "Liga 2003-04 Fichas [mundicromo] [Las Fichas de la Liga 2004]",
+      "year": "2004",
+      "publisher": "MundiCromo",
+      "source_name": "Índice externo de colecciones",
+      "source_url": "https://cromosrepes.com/colecciones/todas",
+      "detail_url": "https://cromosrepes.com/coleccion/ficha/LIGA-2003-04-FICHAS-MUNDICROMO-LAS-FICHAS-DE-LA-LIGA-2004",
+      "status": "discovered",
+      "checklist_status": "not_verified",
+      "cover_status": "not_verified",
+      "cover_candidates": [],
+      "checklist_candidates": [],
+      "detail_status": "pending",
+      "last_checked": "2026-10-08T06:42:52.325318+00:00",
+      "fingerprint": null,
+      "last_seen": "2026-10-08T08:03:25Z",
+      "first_seen": "2026-10-08T00:47:37Z",
+      "enrichment_status": "blocked"
+    },
+    {
+      "stable_id": "c0118c40f99f20e3a3aa8ef3",
+      "identity_key": "liga 2004 05 ediciones este 2004 panini",
+      "name": "Liga 2004-05 [ediciones este]",
+      "year": "2004",
+      "publisher": "Panini",
+      "source_name": "Índice externo de colecciones",
+      "source_url": "https://cromosrepes.com/colecciones/todas",
+      "detail_url": "https://cromosrepes.com/coleccion/ficha/LIGA-2004-05-EDICIONES-ESTE",
+      "status": "discovered",
+      "checklist_status": "not_verified",
+      "cover_status": "not_verified",
+      "cover_candidates": [],
+      "checklist_candidates": [],
+      "detail_status": "pending",
+      "last_checked": "2026-10-08T06:42:52.325318+00:00",
+      "fingerprint": null,
+      "last_seen": "2026-10-08T08:03:25Z",
+      "first_seen": "2026-10-08T00:47:37Z",
+      "enrichment_status": "blocked"
+    },
+    {
+      "stable_id": "418c6b966b3646fc95c93304",
+      "identity_key": "liga 2004 05 fichas mundicromo las fichas de la liga 2005 2005 mundicromo",
+      "name": "Liga 2004-05 Fichas [mundicromo] [Las Fichas de la Liga 2005]",
+      "year": "2005",
+      "publisher": "MundiCromo",
+      "source_name": "Índice externo de colecciones",
+      "source_url": "https://cromosrepes.com/colecciones/todas",
+      "detail_url": "https://cromosrepes.com/coleccion/ficha/LIGA-2004-05-FICHAS-MUNDICROMO-LAS-FICHAS-DE-LA-LIGA-2005",
+      "status": "discovered",
+      "checklist_status": "not_verified",
+      "cover_status": "not_verified",
+      "cover_candidates": [],
+      "checklist_candidates": [],
+      "detail_status": "pending",
+      "last_checked": "2026-10-08T06:42:52.325318+00:00",
+      "fingerprint": null,
+      "last_seen": "2026-10-08T08:03:25Z",
+      "first_seen": "2026-10-08T00:47:37Z",
+      "enrichment_status": "blocked"
+    },
+    {
+      "stable_id": "ca3bfefb36e3b1af99013c24",
+      "identity_key": "liga 2004 05 megacracks 2004 panini",
+      "name": "Liga 2004-05 Megacracks",
+      "year": "2004",
+      "publisher": "Panini",
+      "source_name": "Índice externo de colecciones",
+      "source_url": "https://cromosrepes.com/colecciones/todas",
+      "detail_url": "https://cromosrepes.com/coleccion/ficha/LIGA-2004-05-MEGACRACKS",
+      "status": "discovered",
+      "checklist_status": "not_verified",
+      "cover_status": "not_verified",
+      "cover_candidates": [],
+      "checklist_candidates": [],
+      "detail_status": "pending",
+      "last_checked": "2026-10-08T06:42:52.325318+00:00",
+      "fingerprint": null,
+      "last_seen": "2026-10-08T08:03:25Z",
+      "first_seen": "2026-10-08T00:47:37Z",
+      "enrichment_status": "blocked"
+    },
+    {
+      "stable_id": "47c125df29c8c0beaca6ddfa",
+      "identity_key": "liga 2005 06 ediciones este 2005 ediciones este",
+      "name": "Liga 2005-06 [ediciones este]",
+      "year": "2005",
+      "publisher": "Ediciones Este",
+      "source_name": "Índice externo de colecciones",
+      "source_url": "https://cromosrepes.com/colecciones/todas",
+      "detail_url": "https://cromosrepes.com/coleccion/ficha/LIGA-2005-06-EDICIONES-ESTE",
+      "status": "discovered",
+      "checklist_status": "not_verified",
+      "cover_status": "not_verified",
+      "cover_candidates": [],
+      "checklist_candidates": [],
+      "detail_status": "pending",
+      "last_checked": "2026-10-08T06:42:52.325318+00:00",
+      "fingerprint": null,
+      "last_seen": "2026-10-08T08:03:25Z",
+      "first_seen": "2026-10-08T00:47:37Z",
+      "enrichment_status": "blocked"
+    },
+    {
+      "stable_id": "ea4863ab53c6963584ace3c2",
+      "identity_key": "liga 2005 06 fichas mundicromo las fichas de la liga 2006 2006 mundicromo",
+      "name": "Liga 2005-06 Fichas [mundicromo] [Las Fichas de la Liga 2006]",
+      "year": "2006",
+      "publisher": "MundiCromo",
+      "source_name": "Índice externo de colecciones",
+      "source_url": "https://cromosrepes.com/colecciones/todas",
+      "detail_url": "https://cromosrepes.com/coleccion/ficha/LIGA-2005-06-FICHAS-MUNDICROMO-LAS-FICHAS-DE-LA-LIGA-2006",
+      "status": "discovered",
+      "checklist_status": "not_verified",
+      "cover_status": "not_verified",
+      "cover_candidates": [],
+      "checklist_candidates": [],
+      "detail_status": "pending",
+      "last_checked": "2026-10-08T06:42:52.325318+00:00",
+      "fingerprint": null,
+      "last_seen": "2026-10-08T08:03:25Z",
       "first_seen": "2026-10-08T00:47:37Z",
       "enrichment_status": "blocked"
     }
   ],
   "errors": [],
   "published": [],
-  "attempted": 20
+  "attempted": 20,
+  "official_checks": []
 }
