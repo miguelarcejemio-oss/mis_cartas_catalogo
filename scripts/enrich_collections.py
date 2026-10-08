@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Fetch, verify and append complete collections; never replace existing records."""
 import argparse
+import sys
 import hashlib
 import io
 import json
@@ -17,6 +18,8 @@ from bs4 import BeautifulSoup
 from PIL import Image
 
 ROOT = Path(__file__).resolve().parents[1]
+if str(ROOT) not in sys.path:
+    sys.path.insert(0, str(ROOT))
 DISCOVERY = ROOT / 'portadas/descubrimiento.json'
 OUTPUT = ROOT / 'portadas/enriquecimiento.json'
 UA = 'MisCartasCatalog/1.0'
@@ -81,7 +84,10 @@ class Client:
                 data = response.read(8_000_001)
                 if len(data) > 8_000_000:
                     raise Blocked('response_too_large', url, '8 MB máximo')
-                return final, response.headers.get('Content-Type', ''), data
+                content_type = response.headers.get('Content-Type', '')
+                if 'html' in content_type and b'document.location.href' in data and (b'noscript' in data or b'cookie' in data.lower()) and len(data) < 10000:
+                    raise Blocked('javascript_cookie_challenge', url, 'HTTP 200 contiene una pantalla de JavaScript/cookies; no es la página solicitada')
+                return final, content_type, data
         except HTTPError as exc:
             raise Blocked('http_error', url, f'HTTP {exc.code} {exc.reason}') from exc
 
@@ -287,6 +293,19 @@ def run(root=ROOT, limit=20, client=None):
     known_urls = {x.get('source_url') for x in catalog['collections']}
     known_names = {norm(x['name']).casefold() for x in catalog['collections']}
     report = {'schema_version': 2, 'checked_at': datetime.now(timezone.utc).isoformat(), 'verified': [], 'pending_review': [], 'errors': [], 'published': [], 'attempted': 0}
+    # Official targets also include existing collections; candidate-name dedup must not skip them.
+    from scripts.official_checklists import verify_official, publish_existing
+    report['official_checks'] = []
+    for target in config.get('official_checklists', []):
+        try:
+            result, cards = verify_official(target, client, config)
+            report['official_checks'].append(result)
+            if publish_existing(catalog, target, cards, result):
+                report['published'].append(target['collection_id'])
+        except Exception as exc:
+            report['official_checks'].append({'id': target['collection_id'], 'complete': False,
+                'blockers': [{'code': getattr(exc, 'code', type(exc).__name__),
+                'url': getattr(exc, 'url', target['checklist_url']), 'detail': str(exc)}]})
     # Oldest checked first: bounded scheduled runs eventually retry the entire queue.
     candidates = sorted(queue.values(), key=lambda x: (x.get('last_checked') or '', identity(x)))
     for item in candidates:
