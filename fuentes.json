@@ -42,5 +42,33 @@
         "ratings"
       ]
     }
+  ],
+  "official_checklists": [
+    {
+      "adapter": "panini_megacracks",
+      "collection_id": "panini-megacracks-2526",
+      "name": "Megacracks 2025/26",
+      "checklist_url": "https://www.panini.es/media/paniniFiles/Checklist_MGK_2025-26-3a-ed-4.pdf",
+      "shop_url": "https://www.panini.es/shp_esp_es/megacracks-2025-26-cartas-faltantes-005249b-its.html",
+      "required_card_count": 692,
+      "numeric_range": [
+        1,
+        519
+      ],
+      "product_image_marker": "005249spe2_00.jpg",
+      "count_scope": "Sin autógrafos originales; incluye BIS, Power, índices y promocionales; 677 oficiales + 15 promocionales por verificar",
+      "supplement_sources": [
+        {
+          "url": "https://www.panini.es/shp_esp_es/jug-n-n-222-sfutb222w-es01.html"
+        },
+        {
+          "url": "https://www.panini.es/shp_esp_es/jug-n-n-223-sfutb223w-es01.html"
+        },
+        {
+          "url": "https://www.panini.es/shp_esp_es/jug-n-n-224-sfutb224w-es01.html"
+        }
+      ],
+      "contrast_url": "https://cromosrepes.com/coleccion/cromos/LIGA-2025-26-MEGACRACKS"
+    }
   ]
 }

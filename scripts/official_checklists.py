@@ -204,6 +204,32 @@ def verify_official(target, client, config):
             if canonical(by_key[key]['player']) not in canonical(row.get('description', '')):
                 errors.append({'code': 'official_card_name_disagrees', 'identifier': key})
             by_key[key]['shop_identifier'] = row['identifier']
+    contrast = None
+    if target.get('contrast_url'):
+        try:
+            contrast_raw = fetch(target['contrast_url'])
+            from scripts.enrich_collections import parse_detail, parse_cards
+            detail = parse_detail(contrast_raw, target['contrast_url'])
+            if 'megacracks' not in detail['title'].casefold() or '2025' not in detail['title']:
+                raise ValueError('contrast_collection_identity_mismatch')
+            text = ' '.join(' '.join(row) for table in detail['tables'] for row in table)
+            contrast = {'url': target['contrast_url'], 'title': detail['title'], 'status': 'metadata_readable',
+                'editions_mentioned': [n for n in (1, 2, 3) if re.search(str(n) + r'[ªa]?\s*Edici[oó]n', text, re.I)],
+                'jugon_issues_mentioned': [n for n in (222, 223, 224) if re.search(r'Jug[oó]n[^0-9]{0,20}' + str(n), text, re.I)],
+                'nine_limited_editions_mentioned': bool(re.search(r'(?:nueve|9)[^.!]{0,90}EDICI[OÓ]N', text, re.I))}
+            try:
+                compared = parse_cards(detail)
+                primary_ids = {c['key'] for c in cards if c['original_identifier'] is not None}
+                other_ids = {identifier(c['n']) for c in compared}
+                contrast.update(status='identifiers_compared', source_card_count=len(compared),
+                    matching_identifiers=len(primary_ids & other_ids),
+                    identifiers_only_in_contrast=len(other_ids - primary_ids))
+            except ValueError as exc:
+                contrast['identifier_blocker'] = str(exc)
+            # Contrast is read-only: never import editorial SOB/EDL numbering or copyrighted covers.
+        except Exception as exc:
+            contrast = {'url': target['contrast_url'], 'status': 'blocked',
+                'blocker': {'code': getattr(exc, 'code', type(exc).__name__), 'detail': str(exc)}}
     counts = Counter(card['section'] for card in cards)
     required = target['required_card_count']
     if len(cards) != required:
@@ -238,7 +264,7 @@ def verify_official(target, client, config):
     return {'id': target['collection_id'], 'verified_card_count': len(cards),
             'official_shop_card_count': len(shop), 'required_card_count': required, 'excluded_autographs': excluded,
             'sections': dict(counts), 'source_evidence': evidence,
-            'discovered_checklist_urls': discovered,
+            'discovered_checklist_urls': discovered, 'contrast': contrast,
             'official_product_images': images, 'complete': not errors,
             'blockers': errors}, cards
 

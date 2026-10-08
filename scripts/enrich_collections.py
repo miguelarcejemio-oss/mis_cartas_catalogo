@@ -212,12 +212,12 @@ def verify_collection(item, client, config):
     url = item.get('detail_url')
     if not url:
         raise Blocked('missing_detail_url', '', 'No se inventa una URL de colección')
-    final, _, raw = client.fetch(url)
+    final, initial_type, raw = client.fetch(url)
     if not raw.strip() and '/coleccion/ficha/' in url:
         # Public canonical description, not an attempt to bypass authentication.
         url = url.replace('/coleccion/ficha/', '/coleccion/cromos/', 1)
         final, _, raw = client.fetch(url)
-    detail = parse_detail(raw, final)
+    detail = parse_pdf(raw, item) if ('pdf' in initial_type or raw.startswith(b'%PDF-')) else parse_detail(raw, final)
     if norm(item['name']).casefold() not in norm(detail['title']).casefold():
         raise Blocked('identity_mismatch', final, 'Título distinto de la candidata')
     if str(item.get('year', '')) not in detail['title']:
@@ -267,15 +267,16 @@ def verify_collection(item, client, config):
             break
         except (ValueError, OSError, Blocked) as exc:
             blockers.append({'code': 'cover_verification_failed', 'url': cover['url'], 'detail': str(exc)})
-    if cards is None or cover_bytes is None:
+    if cards is None:
         return None, {'detail_url': final, 'cover_candidates': detail['covers'], 'checklist_candidates': [x for x in detail['links'] if re.search(r'checklist|lista.*(?:cartas|cromos)', x['label'], re.I)], 'blockers': blockers or [{'code': 'cover_and_checklist_not_public', 'url': final}]}
     cid = 'cr-' + hashlib.sha256(identity(item).encode()).hexdigest()[:24]
     filtered = [c for c in cards if not re.search(r'aut[oó]grafo original|original autograph|serial.numbered parallel', c['section'] + ' ' + c['player'], re.I)]
     if not filtered:
         raise ValueError('empty_checklist_after_policy')
     for card in filtered:
+        card['original_identifier'] = card['n']
         card['id'] = cid + '-' + hashlib.sha256(card['n'].encode()).hexdigest()[:16]
-    record = {'id': cid, 'name': item['name'], 'season': str(item['year']), 'brand': item['publisher'], 'cards': filtered, 'card_count': len(filtered), 'checklist_url': checklist_url, 'source_url': final, 'cover': cover_url, 'cover_url': cover_url, 'verification': {'source_card_count': len(cards), 'excluded_count': len(cards)-len(filtered), 'complete': True, 'permission_evidence': permission(checklist_url, config)['evidence_url'], 'cover_sha256': hashlib.sha256(cover_bytes).hexdigest()}}
+    record = {'id': cid, 'name': item['name'], 'season': str(item['year']), 'brand': item['publisher'], 'cards': filtered, 'card_count': len(filtered), 'checklist_url': checklist_url, 'source_url': final, 'cover': cover_url, 'cover_url': cover_url, 'verification': {'source_card_count': len(cards), 'excluded_count': len(cards)-len(filtered), 'complete': True, 'permission_evidence': permission(checklist_url, config)['evidence_url'], 'cover_sha256': hashlib.sha256(cover_bytes).hexdigest() if cover_bytes else None}}
     return record, {'blockers': blockers}
 
 
@@ -306,6 +307,12 @@ def run(root=ROOT, limit=20, client=None):
             report['official_checks'].append({'id': target['collection_id'], 'complete': False,
                 'blockers': [{'code': getattr(exc, 'code', type(exc).__name__),
                 'url': getattr(exc, 'url', target['checklist_url']), 'detail': str(exc)}]})
+    from scripts.existing_collections import enrich_existing
+    checks, updates, attempts = enrich_existing(catalog, list(queue.values()), config,
+        client, previous, max(0, limit - report['attempted']))
+    report['existing_checks'] = checks
+    report['published'].extend(updates)
+    report['attempted'] += attempts
     # Oldest checked first: bounded scheduled runs eventually retry the entire queue.
     candidates = sorted(queue.values(), key=lambda x: (x.get('last_checked') or '', identity(x)))
     for item in candidates:
