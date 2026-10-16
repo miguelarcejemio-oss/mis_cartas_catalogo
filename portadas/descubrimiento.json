@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-15T07:04:59Z",
+  "checked_at": "2026-10-16T07:04:14Z",
   "schema_version": 5,
   "checked_sources": [
     {
@@ -19,9 +19,51 @@
       "status": "reserved_for_verification"
     }
   ],
-  "new_candidates": [],
+  "new_candidates": [
+    {
+      "stable_id": "06225161a17e4f93a5655513",
+      "identity_key": "dragon ball daima trading card collection 2026 panini",
+      "name": "Dragon Ball Daima Trading Card Collection",
+      "year": "2026",
+      "publisher": "Panini",
+      "source_name": "Índice externo de colecciones",
+      "source_url": "https://cromosrepes.com/colecciones/todas",
+      "detail_url": "https://cromosrepes.com/coleccion/ficha/DRAGON-BALL-DAIMA-TRADING-CARD-COLLECTION",
+      "status": "discovered",
+      "checklist_status": "not_verified",
+      "cover_status": "not_verified",
+      "cover_candidates": [],
+      "checklist_candidates": [],
+      "detail_status": "pending",
+      "last_checked": null,
+      "fingerprint": null,
+      "last_seen": "2026-10-16T07:04:14Z",
+      "first_seen": "2026-10-16T07:04:14Z"
+    }
+  ],
   "changed_candidates": [],
-  "pending_review": [],
+  "pending_review": [
+    {
+      "stable_id": "06225161a17e4f93a5655513",
+      "identity_key": "dragon ball daima trading card collection 2026 panini",
+      "name": "Dragon Ball Daima Trading Card Collection",
+      "year": "2026",
+      "publisher": "Panini",
+      "source_name": "Índice externo de colecciones",
+      "source_url": "https://cromosrepes.com/colecciones/todas",
+      "detail_url": "https://cromosrepes.com/coleccion/ficha/DRAGON-BALL-DAIMA-TRADING-CARD-COLLECTION",
+      "status": "discovered",
+      "checklist_status": "not_verified",
+      "cover_status": "not_verified",
+      "cover_candidates": [],
+      "checklist_candidates": [],
+      "detail_status": "pending",
+      "last_checked": null,
+      "fingerprint": null,
+      "last_seen": "2026-10-16T07:04:14Z",
+      "first_seen": "2026-10-16T07:04:14Z"
+    }
+  ],
   "publishable": [],
   "errors": [],
   "policy": {
