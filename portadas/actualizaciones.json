@@ -1,12 +1,12 @@
 {
-  "checked_at": "2026-10-17T07:01:03Z",
+  "checked_at": "2026-10-17T18:41:54Z",
   "schema_version": 4,
   "checked_sources": [
     {
       "name": "Panini España - verificación oficial",
       "type": "official_verification",
       "status": "ok",
-      "fingerprint": "b5bf9d6986bb4af10e75fa5f9099efd909930d09730c3bf4c43041f0cf44da09"
+      "fingerprint": "558f2eaa52c7cf6afcfc67a90474f6dee0c1e4fcb686c69a64926a319f5b65a7"
     },
     {
       "name": "Topps España - verificación oficial",
@@ -14,16 +14,21 @@
       "status": "error"
     },
     {
+      "name": "CromosRepes - buscador público y mapa de fichas",
+      "type": "public_catalog_api",
+      "status": "error"
+    },
+    {
       "name": "Índice externo de colecciones",
       "type": "catalog_index",
       "status": "ok",
-      "fingerprint": "857a19d6880d5f56c21c7f9f0c2937502b78e614e8f0e5c03fdc62d39e362f5a"
+      "fingerprint": "b6f44e3e7cd43adf6188c88afe45ef753428bd0422fa9bb9c33d62fdf9fca3d0"
     },
     {
       "name": "Novedades de colecciones",
       "type": "recent_collections",
       "status": "ok",
-      "fingerprint": "b9d09b2bfbe9971712bd2773e5547aa751550f03a5b9a8d3a25f15547485f7ca"
+      "fingerprint": "bea87ed51d236d8ef591ad05b52e160c6c59e734224f365e7f1e70d01aadfd62"
     }
   ],
   "pending_review": [],
@@ -33,6 +38,11 @@
       "source": "Topps España - verificación oficial",
       "url": "https://es.topps.com/",
       "error": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "CromosRepes - buscador público y mapa de fichas",
+      "url": "https://cromosrepes.com/api/public/colecciones",
+      "error": "HTTPError: HTTP Error 404: "
     }
   ]
 }
