@@ -92,6 +92,42 @@ def parse_index(page,base,source):
         out[identity]={"stable_id":sid,"identity_key":identity,"name":name,"year":year,"publisher":publisher or "Desconocida","source_name":source.get("name",""),"source_url":base,"detail_url":detail,"status":"discovered","checklist_status":"not_verified","cover_status":"not_verified"}
     return list(out.values())
 
+class RecentLinks(HTMLParser):
+    """Read collection links only; never collectors, messages or inventories."""
+    def __init__(self):
+        super().__init__(convert_charrefs=True)
+        self.href=None; self.words=[]; self.items=[]
+
+    def handle_starttag(self, tag, attrs):
+        if tag == 'a':
+            self.href=dict(attrs).get('href'); self.words=[]
+
+    def handle_data(self, data):
+        if self.href: self.words.append(data)
+
+    def handle_endtag(self, tag):
+        if tag == 'a' and self.href:
+            if re.search(r'/coleccion/(?:ficha|cromos)/[^/?#]+$', self.href):
+                self.items.append((self.href, norm(' '.join(self.words))))
+            self.href=None
+
+def parse_recent(page, base, source):
+    parser=RecentLinks(); parser.feed(page); out={}
+    for href, name in parser.items:
+        detail=urljoin(base,href)
+        if not name or not detail.startswith('https://cromosrepes.com/coleccion/'):
+            continue
+        # This feed supplies no publication year or manufacturer. Do not guess them
+        # from the product name (a 2027 edition may have been released in 2026).
+        identity='url:'+detail.replace('/coleccion/cromos/','/coleccion/ficha/')
+        out[identity]={'stable_id':hashlib.sha256(identity.encode()).hexdigest()[:24],
+            'identity_key':identity,'name':name,'year':'','publisher':'Desconocida',
+            'source_name':source['name'],'source_url':base,'detail_url':detail,
+            'status':'discovered','checklist_status':'not_verified',
+            'cover_status':'not_verified','metadata_status':'pending',
+            'discovery_priority':1}
+    return list(out.values())
+
 def known_signatures(cat):
     out=set()
     collections=cat.get("collections",[]) if isinstance(cat,dict) else []
@@ -127,19 +163,42 @@ def run():
     for source in sources:
         if not isinstance(source,dict) or not source.get("enabled",True):
             continue
-        if source.get("type")!="catalog_index":
+        kind=source.get('type')
+        if kind not in ('catalog_index','recent_collections','tracked_collections'):
             checked.append({"name":source.get("name",source.get("url","")),"type":source.get("type"),"status":"reserved_for_verification"})
             continue
         try:
-            page,final=fetch(source["url"])
-            items=[enrich_defaults(x) for x in parse_index(page,final,source)]
+            if kind == 'tracked_collections':
+                items=[enrich_defaults({**x,'source_name':source['name'],
+                    'source_url':source.get('url',''),'status':'discovered',
+                    'checklist_status':'not_verified','cover_status':'not_verified',
+                    'identity_key':key(f"{x['name']}|{x['year']}|{x['publisher']}"),
+                    'discovery_priority':0}) for x in source.get('collections',[])]
+                for item in items:
+                    item.setdefault('stable_id',hashlib.sha256(item['identity_key'].encode()).hexdigest()[:24])
+            else:
+                page,final=fetch(source["url"])
+                parser=parse_recent if kind == 'recent_collections' else parse_index
+                items=[enrich_defaults(x) for x in parser(page,final,source)]
+            if not items:
+                raise ValueError('empty_or_unrecognized_source: no se encontraron colecciones')
             for item in items:
                 found[item["identity_key"]]=item
-            checked.append({"name":source["name"],"type":"catalog_index","status":"ok","collections_found":len(items)})
+            checked.append({"name":source["name"],"type":kind,"status":"ok","collections_found":len(items),
+                'coverage':source.get('coverage','partial')})
         except Exception as error:
             errors.append({"source":source.get("name"),"url":source.get("url"),"error":f"{type(error).__name__}: {error}"})
             checked.append({"name":source.get("name"),"type":"catalog_index","status":"error"})
 
+    seen=set(found)
+    # The same collection may occur in both the popularity table and recent feed.
+    by_url={x.get('detail_url','').replace('/coleccion/cromos/','/coleccion/ficha/'):i
+        for i,x in found.items() if not i.startswith('url:')}
+    for identity,item in list(found.items()):
+        target=by_url.get(item.get('detail_url','').replace('/coleccion/cromos/','/coleccion/ficha/'))
+        if identity.startswith('url:') and target:
+            found[target]['discovery_priority']=min(found[target].get('discovery_priority',2),1)
+            del found[identity]; seen.discard(identity)
     # A temporary outage must not erase previously discovered candidates.
     for identity, prior in oldmap.items():
         if identity not in found:
@@ -148,7 +207,7 @@ def run():
     stamp=now()
     for identity,item in sorted(found.items()):
         prior=oldmap.get(identity)
-        item["last_seen"]=stamp
+        item["last_seen"]=stamp if identity in seen else prior.get('last_seen')
         item["first_seen"]=prior.get("first_seen",stamp) if prior else stamp
         if prior:
             before=(prior.get("name"),prior.get("year"),prior.get("publisher"),prior.get("detail_url"))
@@ -164,7 +223,8 @@ def run():
     save(SNAPSHOT,snapshot)
     save(REPORT,{"checked_at":stamp,**report})
     print(f"CollectionDiscovery: {len(rows)} descubiertas | {len(new)} nuevas | {len(changed)} cambiadas | {len(errors)} errores")
-    return 0
+    # A successful HTTP request with a changed layout is not successful discovery.
+    return 0 if any(x.get('status')=='ok' and x.get('type')!='tracked_collections' for x in checked) else 1
 
 if __name__=="__main__":
     raise SystemExit(run())

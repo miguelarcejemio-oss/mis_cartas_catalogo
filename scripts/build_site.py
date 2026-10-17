@@ -29,6 +29,8 @@ def build(root=ROOT, destination=None):
     destination.mkdir(parents=True, exist_ok=True)
     for name in ('index.html', 'catalogo.json', 'servidor.config.json', 'manifest.json'):
         shutil.copy2(root / name, destination / name)
+    if (root / 'catalog-health.json').exists():
+        shutil.copy2(root / 'catalog-health.json', destination / 'catalog-health.json')
     covers = destination / 'portadas'
     covers.mkdir(exist_ok=True)
     for source in (root / 'portadas').iterdir():

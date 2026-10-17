@@ -308,13 +308,17 @@ def run(root=ROOT, limit=20, client=None):
                 'blockers': [{'code': getattr(exc, 'code', type(exc).__name__),
                 'url': getattr(exc, 'url', target['checklist_url']), 'detail': str(exc)}]})
     from scripts.existing_collections import enrich_existing
+    # Existing catalogs can exhaust every slot indefinitely. Reserve capacity for
+    # genuinely new candidates, while retaining a budget for existing checklists.
+    has_new=any(item['detail_url'] not in known_urls and norm(item['name']).casefold() not in known_names for item in queue.values())
+    existing_budget=max(0,limit//2) if has_new else max(0,limit)
     checks, updates, attempts = enrich_existing(catalog, list(queue.values()), config,
-        client, previous, max(0, limit - report['attempted']))
+        client, previous, existing_budget)
     report['existing_checks'] = checks
     report['published'].extend(updates)
     report['attempted'] += attempts
     # Oldest checked first: bounded scheduled runs eventually retry the entire queue.
-    candidates = sorted(queue.values(), key=lambda x: (x.get('last_checked') or '', identity(x)))
+    candidates = sorted(queue.values(), key=lambda x: (x.get('last_checked') or '', x.get('discovery_priority', 2), identity(x)))
     for item in candidates:
         if item['detail_url'] in known_urls or norm(item['name']).casefold() in known_names:
             continue
