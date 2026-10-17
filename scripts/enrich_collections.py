@@ -10,7 +10,7 @@ import time
 from datetime import datetime, timezone
 from pathlib import Path
 from urllib.error import HTTPError
-from urllib.parse import urljoin, urlsplit
+from urllib.parse import urljoin, urlsplit, quote
 from urllib.request import Request, urlopen
 from urllib.robotparser import RobotFileParser
 
@@ -75,7 +75,7 @@ class Client:
         if parts.hostname == 'localhost' or parts.hostname.endswith(('.local', '.internal')):
             raise Blocked('unsafe_url', url, 'Destino local')
         try:
-            with urlopen(Request(url, headers={'User-Agent': UA}), timeout=25) as response:
+            with urlopen(Request(quote(url,safe=':/?=&%'), headers={'User-Agent': UA}), timeout=25) as response:
                 final = response.geturl()
                 if urlsplit(final).hostname != parts.hostname:
                     raise Blocked('redirect_host', url, final)
@@ -294,6 +294,11 @@ def run(root=ROOT, limit=20, client=None):
     known_urls = {x.get('source_url') for x in catalog['collections']}
     known_names = {norm(x['name']).casefold() for x in catalog['collections']}
     report = {'schema_version': 2, 'checked_at': datetime.now(timezone.utc).isoformat(), 'verified': [], 'pending_review': [], 'errors': [], 'published': [], 'attempted': 0}
+    from scripts.curated_checklists import refresh
+    report['public_checklist_checks'], curated_updates = refresh(root,catalog,client)
+    report['published'].extend(curated_updates)
+    known_urls.update(x.get('source_url') for x in catalog['collections'])
+    known_names.update(norm(x['name']).casefold() for x in catalog['collections'])
     # Official targets also include existing collections; candidate-name dedup must not skip them.
     from scripts.official_checklists import verify_official, publish_existing
     report['official_checks'] = []
@@ -348,6 +353,8 @@ def run(root=ROOT, limit=20, client=None):
         report['pending_review'].append(item)
     # No rewrite whatsoever if nothing was safely added. Existing IDs/cards/state untouched.
     if report['published']:
+        catalog['version']=int(catalog.get('version',0))+1
+        catalog['updated']=report['checked_at'][:10]
         save(root / 'catalogo.json', catalog)
     save(root / 'portadas/enriquecimiento.json', report)
     print(f"Enrichment: {report['attempted']} comprobadas, {len(report['published'])} publicadas, {len(report['pending_review'])} pendientes")

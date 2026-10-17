@@ -3,6 +3,7 @@ import hashlib
 import html
 import json
 import re
+import sys
 from datetime import datetime, timezone
 from html.parser import HTMLParser
 from pathlib import Path
@@ -10,6 +11,8 @@ from urllib.parse import urljoin
 from urllib.request import Request, urlopen
 from pathlib import Path
 ROOT=Path(__file__).resolve().parents[1]
+if str(ROOT) not in sys.path:
+    sys.path.insert(0,str(ROOT))
 CATALOG=ROOT / "catalogo.json"
 SOURCES=ROOT / "fuentes.json"
 REPORT=ROOT / "portadas/descubrimiento.json"
@@ -156,6 +159,7 @@ def run():
     cat=load(CATALOG,{}) or {}
     old=load(SNAPSHOT,{}) or {}
     oldmap={x.get("identity_key"):x for x in old.get("collections",[]) if isinstance(x,dict)}
+    source_state=dict(old.get('source_state',{}))
     known=known_signatures(cat)
     found={}; checked=[]; errors=[]
     sources=(cfg.get("discovery_sources",[]) or [])+(cfg.get("sources",[]) or [])
@@ -164,11 +168,20 @@ def run():
         if not isinstance(source,dict) or not source.get("enabled",True):
             continue
         kind=source.get('type')
-        if kind not in ('catalog_index','recent_collections','tracked_collections'):
+        if kind not in ('catalog_index','recent_collections','tracked_collections','public_catalog_api'):
             checked.append({"name":source.get("name",source.get("url","")),"type":source.get("type"),"status":"reserved_for_verification"})
             continue
         try:
-            if kind == 'tracked_collections':
+            public_report=None
+            if kind == 'public_catalog_api':
+                from scripts.discovery_public import run as public_discovery
+                from scripts.enrich_collections import Client
+                items,public_report,state=public_discovery(source,source_state.get(source['url'],{}),
+                    [x.get('detail_url') for x in oldmap.values()],Client())
+                source_state[source['url']]=state
+                items=[enrich_defaults(x) for x in items]
+                errors.extend({'source':source['name'],**error} for error in public_report['errors'])
+            elif kind == 'tracked_collections':
                 items=[enrich_defaults({**x,'source_name':source['name'],
                     'source_url':source.get('url',''),'status':'discovered',
                     'checklist_status':'not_verified','cover_status':'not_verified',
@@ -184,11 +197,11 @@ def run():
                 raise ValueError('empty_or_unrecognized_source: no se encontraron colecciones')
             for item in items:
                 found[item["identity_key"]]=item
-            checked.append({"name":source["name"],"type":kind,"status":"ok","collections_found":len(items),
+            checked.append(public_report or {"name":source["name"],"type":kind,"status":"ok","collections_found":len(items),
                 'coverage':source.get('coverage','partial')})
         except Exception as error:
             errors.append({"source":source.get("name"),"url":source.get("url"),"error":f"{type(error).__name__}: {error}"})
-            checked.append({"name":source.get("name"),"type":"catalog_index","status":"error"})
+            checked.append({"name":source.get("name"),"type":kind,"status":"error"})
 
     seen=set(found)
     # The same collection may occur in both the popularity table and recent feed.
@@ -203,6 +216,18 @@ def run():
     for identity, prior in oldmap.items():
         if identity not in found:
             found[identity]=prior
+    # A formerly unknown year or manufacturer may later become known. The same
+    # public collection URL is one candidate, regardless of those corrections.
+    from scripts.discovery_public import canonical
+    unique={};without_url={}
+    for identity,item in found.items():
+        url=canonical(item.get('detail_url'))
+        if not url:
+            without_url[identity]=item;continue
+        previous=unique.get(url)
+        rank=(identity in seen,bool(item.get('year')),item.get('publisher')!='Desconocida')
+        if previous is None or rank>previous[0]:unique[url]=(rank,identity,item)
+    found={**without_url,**{identity:item for _,identity,item in unique.values()}}
     rows=[]; new=[]; changed=[]
     stamp=now()
     for identity,item in sorted(found.items()):
@@ -218,7 +243,7 @@ def run():
             new.append(dict(item))
         rows.append(item)
 
-    snapshot={"schema_version":1,"updated_at":stamp,"collections":rows}
+    snapshot={"schema_version":2,"updated_at":stamp,"collections":rows,'source_state':source_state}
     report={"schema_version":5,"checked_sources":checked,"new_candidates":new,"changed_candidates":changed,"pending_review":new+changed,"publishable":[],"errors":errors,"policy":{"auto_publish_unverified_checklists":False,"copy_social_data":False,"require_numeric_1_to_n":False,"preserve_raw_card_ids":True}}
     save(SNAPSHOT,snapshot)
     save(REPORT,{"checked_at":stamp,**report})
