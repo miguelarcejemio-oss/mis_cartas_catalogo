@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "checked_at": "2026-10-17T06:50:03.807534+00:00",
-  "discovery_checked_at": "2026-10-17T06:47:42Z",
-  "enrichment_checked_at": "2026-10-17T06:47:42.734998+00:00",
+  "checked_at": "2026-10-17T07:01:01.250801+00:00",
+  "discovery_checked_at": "2026-10-17T06:58:42Z",
+  "enrichment_checked_at": "2026-10-17T06:58:42.375947+00:00",
   "status": "pending_verification",
   "catalog_updated_at": "2026-10-17",
   "catalog_version": 19,
@@ -10,10 +10,9 @@
   "published_this_run": 0,
   "pending_verification": 221,
   "blocking_reasons": {
-    "reuse_not_authorized": 12,
+    "reuse_not_authorized": 13,
     "source_not_located": 79,
     "robots_unavailable": 8,
-    "ValueError": 1,
     "supplement_reuse_not_authorized": 1,
     "redirect_host": 2,
     "incomplete_collection": 1,
