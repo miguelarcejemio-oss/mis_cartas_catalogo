@@ -73,6 +73,14 @@ class EnrichmentTests(unittest.TestCase):
             root=self.setup_root(tmp,{},[ITEM]);before=(root/'catalogo.json').read_bytes()
             e.run(root,client=FakeClient())
             self.assertEqual(before,(root/'catalogo.json').read_bytes())
+    def test_existing_checks_cannot_starve_new_collections(self):
+        from unittest.mock import patch
+        with tempfile.TemporaryDirectory() as tmp:
+            root=self.setup_root(tmp,CONFIG,[ITEM])
+            with patch('scripts.existing_collections.enrich_existing',return_value=([],[],0)) as existing:
+                report=e.run(root,limit=1,client=FakeClient())
+            self.assertEqual(existing.call_args.args[-1],0)
+            self.assertEqual(len(report['published']),1)
     def test_append_preserves_state_and_second_run_idempotent(self):
         with tempfile.TemporaryDirectory() as tmp:
             root=self.setup_root(tmp,CONFIG,[ITEM]);before=e.load(root/'catalogo.json',{})['collections'][0]
