@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "policy": {
     "purpose": "Mis Cartas - base de datos de colecciones",
     "social_data": false,
@@ -22,6 +22,17 @@
     }
   ],
   "discovery_sources": [
+    {
+      "name": "CromosRepes - buscador público y mapa de fichas",
+      "type": "public_catalog_api",
+      "enabled": true,
+      "url": "https://cromosrepes.com/api/public/colecciones",
+      "publishers_url": "https://cromosrepes.com/api/public/editorial",
+      "sitemap_url": "https://cromosrepes.com/sitemap-col.txt",
+      "result_limit": 500,
+      "publisher_budget": 12,
+      "detail_budget": 20
+    },
     {
       "name": "Índice externo de colecciones",
       "type": "catalog_index",
@@ -91,5 +102,13 @@
       ],
       "contrast_url": "https://cromosrepes.com/coleccion/cromos/LIGA-2025-26-MEGACRACKS"
     }
-  ]
+  ],
+  "public_checklists_file": "checklists-publicas.json",
+  "discovery_policy": {
+    "manufacturer_allowlist": false,
+    "scan_interval_hours": 6,
+    "capped_queries_reported": true,
+    "publish_only_individually_verified_records": true,
+    "preserve_existing_identifiers": true
+  }
 }
