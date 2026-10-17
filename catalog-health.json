@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "checked_at": "2026-10-17T05:20:56.719349+00:00",
+  "discovery_checked_at": "2026-10-17T05:17:02Z",
+  "enrichment_checked_at": "2026-10-17T05:17:03.067592+00:00",
+  "status": "pending_verification",
+  "catalog_updated_at": "2026-10-05",
+  "catalog_version": 18,
+  "collections": 117,
+  "published_this_run": 0,
+  "pending_verification": 222,
+  "blocking_reasons": {
+    "reuse_not_authorized": 20,
+    "source_not_located": 79,
+    "http_error": 1,
+    "redirect_host": 3,
+    "incomplete_collection": 1,
+    "cover_reuse_not_authorized": 1
+  },
+  "errors": 0,
+  "existing_checks_blocked": 90,
+  "discovery_coverage": "partial",
+  "sources": [
+    {
+      "type": "catalog_index",
+      "status": "ok",
+      "coverage": "popular_collections_only",
+      "collections_found": 200
+    },
+    {
+      "type": "recent_collections",
+      "status": "ok",
+      "coverage": "latest_20_created_not_complete_history",
+      "collections_found": 20
+    }
+  ]
+}
