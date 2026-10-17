@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "policy": {
     "purpose": "Mis Cartas - base de datos de colecciones",
     "social_data": false,
@@ -40,6 +40,27 @@
         "duplicates",
         "notes",
         "ratings"
+      ],
+      "coverage": "popular_collections_only"
+    },
+    {
+      "name": "Novedades de colecciones",
+      "type": "recent_collections",
+      "enabled": true,
+      "url": "https://cromosrepes.com/ranking/colecciones_nuevas",
+      "coverage": "latest_20_created_not_complete_history"
+    },
+    {
+      "name": "Colecciones solicitadas para seguimiento",
+      "type": "tracked_collections",
+      "enabled": true,
+      "collections": [
+        {
+          "name": "Adrenalyn XL FIFA 365 2027",
+          "year": "2026",
+          "publisher": "Panini",
+          "detail_url": "https://cromosrepes.com/coleccion/cromos/ADRENALYN-XL-FIFA-365-2027"
+        }
       ]
     }
   ],
