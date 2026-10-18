@@ -46,6 +46,8 @@ def health(root=ROOT):
         'published_this_run':len(enrichment.get('published',[])),
         'pending_verification':len(pending),'blocking_reasons':reasons,'errors':errors,
         'existing_checks_blocked':len(failed_checks),
+        'tcg_source_pending':sum(len(x.get('pending',[])) for x in enrichment.get('tcg_checks',[])),
+        'tcg_source_errors':sum(bool(x.get('error')) for x in enrichment.get('tcg_checks',[])),
         'metadata_details_pending':sum(s.get('details_pending',0) for s in live),
         'discovery_coverage':'partial',
         'sources':[{'type':s.get('type'),'status':s.get('status'),

@@ -65,7 +65,12 @@ def refresh(root, catalog, client, live=True):
             try:
                 if target.get('edition_verification')=='numbering_crosscheck_only':
                     raise ValueError('spanish_edition_images_and_titles_pending_review')
-                _,_,raw=client.fetch(target['source_url'])
+                # Official illustrated guides can exceed the default HTML limit.
+                fetcher=client
+                if target.get('max_document_bytes'):
+                    from scripts.enrich_collections import Client
+                    if type(client) is Client:fetcher=Client(max_bytes=target['max_document_bytes'])
+                _,_,raw=fetcher.fetch(target['source_url'])
                 if target['adapter']=='reviewed_pdf':
                     if hashlib.sha256(raw).hexdigest()!=target['document_sha256']:
                         raise ValueError('illustrated_pdf_changed_manual_review_required')

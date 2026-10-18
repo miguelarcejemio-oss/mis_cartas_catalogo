@@ -56,7 +56,8 @@ class Blocked(Exception):
 
 class Client:
     """Public requests only, obey robots, delays, size limits and auth walls."""
-    def __init__(self):
+    def __init__(self, max_bytes=8_000_000):
+        self.max_bytes = max_bytes
         self.robots = {}
         self.last = {}
         self.cache = {}
@@ -81,9 +82,9 @@ class Client:
                     raise Blocked('redirect_host', url, final)
                 if re.search(r'/(?:usuario/login|login|signin)(?:/|$)', urlsplit(final).path):
                     raise Blocked('login_required', url, final)
-                data = response.read(8_000_001)
-                if len(data) > 8_000_000:
-                    raise Blocked('response_too_large', url, '8 MB máximo')
+                data = response.read(self.max_bytes + 1)
+                if len(data) > self.max_bytes:
+                    raise Blocked('response_too_large', url, f'{self.max_bytes} bytes máximo')
                 content_type = response.headers.get('Content-Type', '')
                 if 'html' in content_type and b'document.location.href' in data and (b'noscript' in data or b'cookie' in data.lower()) and len(data) < 10000:
                     raise Blocked('javascript_cookie_challenge', url, 'HTTP 200 contiene una pantalla de JavaScript/cookies; no es la página solicitada')
@@ -297,6 +298,11 @@ def run(root=ROOT, limit=20, client=None):
     from scripts.curated_checklists import refresh
     report['public_checklist_checks'], curated_updates = refresh(root,catalog,client)
     report['published'].extend(curated_updates)
+    from scripts.tcg_catalogs import refresh as refresh_tcg
+    # Dedicated bounded bulk reader: large public feeds, default client stays 8 MB.
+    bulk_client = Client(max_bytes=32_000_000) if type(client) is Client else client
+    report['tcg_checks'], tcg_updates, report['tcg_state'] = refresh_tcg(root,catalog,bulk_client,previous,config)
+    report['published'].extend(tcg_updates)
     known_urls.update(x.get('source_url') for x in catalog['collections'])
     known_names.update(norm(x['name']).casefold() for x in catalog['collections'])
     # Official targets also include existing collections; candidate-name dedup must not skip them.
