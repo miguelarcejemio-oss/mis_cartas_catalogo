@@ -1,0 +1,17 @@
+MIS CARTAS — CATÁLOGO TCG
+
+Preparado, pendiente de publicar en GitHub. No requiere recompilar la APK.
+
+1. Sube a la raíz del repositorio los cuatro JSON: catalogo.json, fuentes.json, checklists-publicas.json y catalog-health.json.
+2. Dentro de scripts, sube los cuatro archivos Python de la carpeta scripts.
+3. Dentro de tests, sube test_tcg_catalogs.py.
+4. Dentro de portadas, sube enriquecimiento.json (estado de seguimiento, no una imagen).
+5. Espera a que Actions termine correctamente. Después usa Comprobar catálogo actualizado en la app.
+
+Incluye 962 productos Yu-Gi-Oh! (30.005 cartas), 22 One Piece (2.699 números) y tres Naruto Mythos (484 números, incluyendo misiones). Las cuatro fichas One Piece existentes conservan sus IDs. Total principal: 1.113 colecciones y 56.656 cartas. Magic continúa en su catálogo separado.
+
+Alcance: Yu-Gi-Oh! en inglés, una carta por passcode y producto según API pública YGOPRODeck; 73 fichas quedan pendientes por fecha futura o recuento incompleto. Se agrupan códigos regionales y se conservan rarezas no serializadas como opcionales. One Piece: números oficiales en inglés, incluidas reimpresiones; artes alternativas y acabados pendientes. Naruto: Konoha Shido primera/segunda edición y Shinobi Shiren primera edición, guías oficiales inglesas; números de carta, misiones y Mythos. No es un catálogo completo de variantes ni incluye Kayou o los álbumes Panini de Naruto. Sin nuevas portadas en este lote.
+
+Actualización automática: One Piece descubre los productos oficiales y comprueba cuatro listas por ejecución; Yu-Gi-Oh! consulta el catálogo público cada 48 horas. Las guías PDF de Naruto se conservan como listas revisadas: un cambio de PDF requiere nueva revisión. Las fuentes truncadas, caídas o que cambien identidades no borran la lista guardada. No se recopilan precios, efectos, perfiles ni intercambios.
+
+Validación: 64 pruebas Python, validador de catálogo, construcción pública y simulación de añadir las tres familias en la app. Conservadas las 130 fichas previas: únicamente se rellenan las cuatro One Piece que estaban vacías. No se han ejecutado escrituras sobre cuentas o inventarios personales.

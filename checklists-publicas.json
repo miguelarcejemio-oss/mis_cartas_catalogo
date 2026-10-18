@@ -29344,6 +29344,3466 @@
           "parallels": []
         }
       ]
+    },
+    {
+      "id": "cicaboom-naruto-mythos-shinobi-shiren-1",
+      "name": "Naruto Mythos TCG — Shinobi Shiren — 1.ª edición",
+      "season": "Sin fecha",
+      "brand": "Cicaboom",
+      "country": "Internacional",
+      "category": "TCG",
+      "source_url": "https://irp.cdn-website.com/99e556bf/files/uploaded/Collection+guide+Shinobi+Shiren+EN.pdf",
+      "note": "Guía oficial en inglés: números de carta, misiones y Mythos. Edición indicada en el documento. Acabados y artes alternativas pendientes; excluye Legendary Gold y variantes serializadas.",
+      "scope": "Primera lista de números impresos, no catálogo completo de variantes.",
+      "evidence": [
+        {
+          "url": "https://irp.cdn-website.com/99e556bf/files/uploaded/Collection+guide+Shinobi+Shiren+EN.pdf",
+          "type": "official_collection_guide",
+          "sha256": "f0cf8aacdb16935ea4270e9b58292c88b07fcbc3d8795e6229dd3ef672261a8a"
+        }
+      ],
+      "adapter": "reviewed_pdf",
+      "max_document_bytes": 16000000,
+      "minimum_records": 168,
+      "document_sha256": "f0cf8aacdb16935ea4270e9b58292c88b07fcbc3d8795e6229dd3ef672261a8a",
+      "cards": [
+        {
+          "source_key": "card:001",
+          "n": "001",
+          "player": "HIRUZEN SARUTOBI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:002",
+          "n": "002",
+          "player": "TSUNADE",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:003",
+          "n": "003",
+          "player": "SHIZUNE",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:004",
+          "n": "004",
+          "player": "JIRAIYA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:005",
+          "n": "005",
+          "player": "NARUTO UZUMAKI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:006",
+          "n": "006",
+          "player": "NINE-TAILED FOX",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:007",
+          "n": "007",
+          "player": "SAKURA HARUNO",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:008",
+          "n": "008",
+          "player": "KAKASHI HATAKE",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:009",
+          "n": "009",
+          "player": "CHOJI AKIMICHI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:010",
+          "n": "010",
+          "player": "INO YAMANAKA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:011",
+          "n": "011",
+          "player": "SHIKAMARU NARA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:012",
+          "n": "012",
+          "player": "ASUMA SARUTOBI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:013",
+          "n": "013",
+          "player": "ASUMA SARUTOBI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:014",
+          "n": "014",
+          "player": "KIBA INUZUKA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:015",
+          "n": "015",
+          "player": "AKAMARU",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:016",
+          "n": "016",
+          "player": "HINATA HYUGA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:017",
+          "n": "017",
+          "player": "SHINO ABURAME",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:018",
+          "n": "018",
+          "player": "KURENAI YUHI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:019",
+          "n": "019",
+          "player": "NEJI HYUGA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:020",
+          "n": "020",
+          "player": "ROCK LEE",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:021",
+          "n": "021",
+          "player": "TENTEN",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:022",
+          "n": "022",
+          "player": "TENTEN",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:023",
+          "n": "023",
+          "player": "EBISU",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:024",
+          "n": "024",
+          "player": "IRUKA UMINO",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:025",
+          "n": "025",
+          "player": "HAYATE GEKKO",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:026",
+          "n": "026",
+          "player": "GENMA SHIRANUI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:027",
+          "n": "027",
+          "player": "GENMA SHIRANUI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:028",
+          "n": "028",
+          "player": "IBIKI MORINO",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:029",
+          "n": "029",
+          "player": "IBIKI MORINO",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:030",
+          "n": "030",
+          "player": "KABUTO YAKUSHI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:031",
+          "n": "031",
+          "player": "KIMIMARO",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:032",
+          "n": "032",
+          "player": "JIROBO",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:033",
+          "n": "033",
+          "player": "JIROBO",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:034",
+          "n": "034",
+          "player": "KIDOMARU",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:035",
+          "n": "035",
+          "player": "KIDOMARU",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:036",
+          "n": "036",
+          "player": "SAKON",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:037",
+          "n": "037",
+          "player": "SAKON",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:038",
+          "n": "038",
+          "player": "UKON",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:039",
+          "n": "039",
+          "player": "TAYUYA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:040",
+          "n": "040",
+          "player": "TAYUYA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:041",
+          "n": "041",
+          "player": "ZAKU ABUMI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:042",
+          "n": "042",
+          "player": "ZAKU ABUMI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:043",
+          "n": "043",
+          "player": "KIN TSUCHI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:044",
+          "n": "044",
+          "player": "KIN TSUCHI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:045",
+          "n": "045",
+          "player": "DOSU KINUTA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:046",
+          "n": "046",
+          "player": "GAARA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:047",
+          "n": "047",
+          "player": "ONE-TAIL",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:048",
+          "n": "048",
+          "player": "KANKURO",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:049",
+          "n": "049",
+          "player": "TEMARI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:050",
+          "n": "050",
+          "player": "BAKI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:051",
+          "n": "051",
+          "player": "RASA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:052",
+          "n": "052",
+          "player": "HAKU",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:053",
+          "n": "053",
+          "player": "ITACHI UCHIHA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:054",
+          "n": "054",
+          "player": "ITACHI UCHIHA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:055",
+          "n": "055",
+          "player": "KISAME HOSHIGAKI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:056",
+          "n": "056",
+          "player": "THREE GIANT SNAKES",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:057",
+          "n": "057",
+          "player": "SHINIGAMI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:115",
+          "n": "115",
+          "player": "ROCK LEE",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:116",
+          "n": "116",
+          "player": "MIGHT GUY",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:117",
+          "n": "117",
+          "player": "KANKURO",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:118",
+          "n": "118",
+          "player": "SHIKAMARU NARA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:119",
+          "n": "119",
+          "player": "TEMARI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:120",
+          "n": "120",
+          "player": "KIBA INUZUKA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:121",
+          "n": "121",
+          "player": "NARUTO UZUMAKI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:122",
+          "n": "122",
+          "player": "MINATO NAMIKAZE",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:123",
+          "n": "123",
+          "player": "SAKURA HARUNO",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:124",
+          "n": "124",
+          "player": "INO YAMANAKA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:125",
+          "n": "125",
+          "player": "DOSU KINUTA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:126",
+          "n": "126",
+          "player": "SASUKE UCHIHA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:127",
+          "n": "127",
+          "player": "OROCHIMARU",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:128",
+          "n": "128",
+          "player": "CHOJI AKIMICHI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:129",
+          "n": "129",
+          "player": "HASHIRAMA SENJU",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:130",
+          "n": "130",
+          "player": "OROCHIMARU",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:131",
+          "n": "131",
+          "player": "TOBIRAMA SENJU",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:132",
+          "n": "132",
+          "player": "ENMA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:133",
+          "n": "133",
+          "player": "HIRUZEN SARUTOBI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:134",
+          "n": "134",
+          "player": "KURENAI YUHI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:135",
+          "n": "135",
+          "player": "HAKU",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:136",
+          "n": "136",
+          "player": "ZABUZA MOMOCHI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:137",
+          "n": "137",
+          "player": "ITACHI UCHIHA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:138",
+          "n": "138",
+          "player": "ASUMA SARUTOBI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:139",
+          "n": "139",
+          "player": "KABUTO YAKUSHI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:140",
+          "n": "140",
+          "player": "IRUKA UMINO",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:141",
+          "n": "141",
+          "player": "TSUNADE",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:142",
+          "n": "142",
+          "player": "KATSUYU",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:143",
+          "n": "143",
+          "player": "GAMABUNTA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:144",
+          "n": "144",
+          "player": "JIRAIYA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:145",
+          "n": "145",
+          "player": "OROCHIMARU",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:146",
+          "n": "146",
+          "player": "MANDA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:147",
+          "n": "147",
+          "player": "NARUTO UZUMAKI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:148",
+          "n": "148",
+          "player": "SASUKE UCHIHA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:149",
+          "n": "149",
+          "player": "KAKASHI HATAKE",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:150",
+          "n": "150",
+          "player": "ZABUZA MOMOCHI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "mission:1",
+          "n": "1",
+          "player": "NEW FORCES",
+          "section": "Misiones",
+          "tag": "Misiones"
+        },
+        {
+          "source_key": "mission:2",
+          "n": "2",
+          "player": "RECONNAISSANCE",
+          "section": "Misiones",
+          "tag": "Misiones"
+        },
+        {
+          "source_key": "mission:3",
+          "n": "3",
+          "player": "HONORABLE DUEL",
+          "section": "Misiones",
+          "tag": "Misiones"
+        },
+        {
+          "source_key": "mission:4",
+          "n": "4",
+          "player": "HIGH PRIORITY MISSION",
+          "section": "Misiones",
+          "tag": "Misiones"
+        },
+        {
+          "source_key": "mission:5",
+          "n": "5",
+          "player": "ADVERSE TERRAIN",
+          "section": "Misiones",
+          "tag": "Misiones"
+        },
+        {
+          "source_key": "mission:6",
+          "n": "6",
+          "player": "KEEP A LOW PROFILE",
+          "section": "Misiones",
+          "tag": "Misiones"
+        },
+        {
+          "source_key": "mission:7",
+          "n": "7",
+          "player": "KING OF THE HILL",
+          "section": "Misiones",
+          "tag": "Misiones"
+        },
+        {
+          "source_key": "mission:8",
+          "n": "8",
+          "player": "TEAM TRAINING",
+          "section": "Misiones",
+          "tag": "Misiones"
+        },
+        {
+          "source_key": "mission:9",
+          "n": "9",
+          "player": "BEHIND ENEMY LINES",
+          "section": "Misiones",
+          "tag": "Misiones"
+        },
+        {
+          "source_key": "mission:10",
+          "n": "10",
+          "player": "SABOTAGE",
+          "section": "Misiones",
+          "tag": "Misiones"
+        },
+        {
+          "source_key": "card:151",
+          "n": "151",
+          "player": " ROCK LEE",
+          "section": "Mythos",
+          "tag": "Mythos"
+        },
+        {
+          "source_key": "card:152",
+          "n": "152",
+          "player": "GAARA",
+          "section": "Mythos",
+          "tag": "Mythos"
+        },
+        {
+          "source_key": "card:153",
+          "n": "153",
+          "player": "KAKASHI HATAKE",
+          "section": "Mythos",
+          "tag": "Mythos"
+        },
+        {
+          "source_key": "card:154",
+          "n": "154",
+          "player": "ZABUZA MOMOCHI",
+          "section": "Mythos",
+          "tag": "Mythos"
+        },
+        {
+          "source_key": "card:155",
+          "n": "155",
+          "player": "TENTEN",
+          "section": "Mythos",
+          "tag": "Mythos"
+        },
+        {
+          "source_key": "card:156",
+          "n": "156",
+          "player": "NEJI HYUGA",
+          "section": "Mythos",
+          "tag": "Mythos"
+        },
+        {
+          "source_key": "card:157",
+          "n": "157",
+          "player": "ROCK LEE",
+          "section": "Mythos",
+          "tag": "Mythos"
+        },
+        {
+          "source_key": "card:158",
+          "n": "158",
+          "player": "MIGHT GUY",
+          "section": "Mythos",
+          "tag": "Mythos"
+        },
+        {
+          "source_key": "card:058",
+          "n": "058",
+          "player": "FUGAKU UCHIHA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:059",
+          "n": "059",
+          "player": "NINJA HOUND CORPS",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:060",
+          "n": "060",
+          "player": "MIZUKI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:061",
+          "n": "061",
+          "player": "TEUCHI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:062",
+          "n": "062",
+          "player": "KONOHAMARU",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:063",
+          "n": "063",
+          "player": "UDON",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:064",
+          "n": "064",
+          "player": "MOEGI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:065",
+          "n": "065",
+          "player": "SEIMEI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:066",
+          "n": "066",
+          "player": "AOI ROKUSHO",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:067",
+          "n": "067",
+          "player": "GRANDMA SANSHO",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:068",
+          "n": "068",
+          "player": "SHIGURE",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:069",
+          "n": "069",
+          "player": "GOZU",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:070",
+          "n": "070",
+          "player": "MEIZU",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:071",
+          "n": "071",
+          "player": "HOKI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:072",
+          "n": "072",
+          "player": "KUJAKU",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:073",
+          "n": "073",
+          "player": "RYUGAN",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:074",
+          "n": "074",
+          "player": "SUIKO",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:075",
+          "n": "075",
+          "player": "GATO",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:076",
+          "n": "076",
+          "player": "TAZUNA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:077",
+          "n": "077",
+          "player": "KIMIMARO",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:078",
+          "n": "078",
+          "player": "GAARA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:079",
+          "n": "079",
+          "player": "SENBON",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:080",
+          "n": "080",
+          "player": "KUNAI KNIFE",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:081",
+          "n": "081",
+          "player": "RAMEN",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:082",
+          "n": "082",
+          "player": "CURRY OF LIFE",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:083",
+          "n": "083",
+          "player": "FLASH BOMB",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:084",
+          "n": "084",
+          "player": "POISON NEEDLES",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:085",
+          "n": "085",
+          "player": "GIANT FAN",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:086",
+          "n": "086",
+          "player": "SMOKE BOMB",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:087",
+          "n": "087",
+          "player": "WEIGHTS",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:088",
+          "n": "088",
+          "player": "MAKE-OUT PARADISE BOOK",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:089",
+          "n": "089",
+          "player": "CROW",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:090",
+          "n": "090",
+          "player": "SHARK SKIN",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:091",
+          "n": "091",
+          "player": "LEAF VILLAGE HEADBAND",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:092",
+          "n": "092",
+          "player": "SAND VILLAGE HEADBAND",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:093",
+          "n": "093",
+          "player": "SOUND VILLAGE HEADBAND",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:094",
+          "n": "094",
+          "player": "ROGUE NINJA HEADBAND",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:095",
+          "n": "095",
+          "player": "THE SCROLL OF SEALING",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:096",
+          "n": "096",
+          "player": "HEAVEN SCROLL",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:097",
+          "n": "097",
+          "player": "EARTH SCROLL",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:098",
+          "n": "098",
+          "player": "ADAMANTINE NYOI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:099",
+          "n": "099",
+          "player": "BLADE OF THE THUNDER GOD",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:100",
+          "n": "100",
+          "player": "NINJA INFO CARDS",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:101",
+          "n": "101",
+          "player": "SNAKE SWORD",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:102",
+          "n": "102",
+          "player": "FOOD PILLS",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:103",
+          "n": "103",
+          "player": "CHANGE OF MISSION RANK",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:104",
+          "n": "104",
+          "player": "ICHIRAKU RAMEN",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:105",
+          "n": "105",
+          "player": "DEMON'S ISLAND LABORATORY",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:106",
+          "n": "106",
+          "player": "HOKAGE ROCKS",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:107",
+          "n": "107",
+          "player": "THE FOREST OF DEATH",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:108",
+          "n": "108",
+          "player": "EXAM STADIUM",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:109",
+          "n": "109",
+          "player": "PLANNED REINFORCEMENTS",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:110",
+          "n": "110",
+          "player": "VILLAGE OF ARTISANS",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:111",
+          "n": "111",
+          "player": "HINATA HYUGA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:112",
+          "n": "112",
+          "player": "NEJI HYUGA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:113",
+          "n": "113",
+          "player": "SHINO ABURAME",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:114",
+          "n": "114",
+          "player": "GAARA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        }
+      ]
+    },
+    {
+      "id": "cicaboom-naruto-mythos-konoha-shido-1",
+      "name": "Naruto Mythos TCG — Konoha Shidō — 1.ª edición",
+      "season": "Sin fecha",
+      "brand": "Cicaboom",
+      "country": "Internacional",
+      "category": "TCG",
+      "source_url": "https://irp.cdn-website.com/99e556bf/files/uploaded/Naruto_TCG_Collection_Guide_EN.pdf",
+      "note": "Guía oficial en inglés: números de carta, misiones y Mythos. Edición indicada en el documento. Acabados y artes alternativas pendientes; excluye Legendary Gold y variantes serializadas.",
+      "scope": "Primera lista de números impresos, no catálogo completo de variantes.",
+      "evidence": [
+        {
+          "url": "https://irp.cdn-website.com/99e556bf/files/uploaded/Naruto_TCG_Collection_Guide_EN.pdf",
+          "type": "official_collection_guide",
+          "sha256": "1d58f13457190c4e5112e88ba556b7e8aaed5f0c61fb0b4b94aaff6764c54178"
+        }
+      ],
+      "adapter": "reviewed_pdf",
+      "max_document_bytes": 16000000,
+      "minimum_records": 158,
+      "document_sha256": "1d58f13457190c4e5112e88ba556b7e8aaed5f0c61fb0b4b94aaff6764c54178",
+      "cards": [
+        {
+          "source_key": "card:001",
+          "n": "001",
+          "player": "HIRUZEN SARUTOBI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:002",
+          "n": "002",
+          "player": "HIRUZEN SARUTOBI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:003",
+          "n": "003",
+          "player": "TSUNADE",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:004",
+          "n": "004",
+          "player": "TSUNADE",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:005",
+          "n": "005",
+          "player": "SHIZUNE",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:006",
+          "n": "006",
+          "player": "SHIZUNE",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:007",
+          "n": "007",
+          "player": "JIRAIYA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:008",
+          "n": "008",
+          "player": "JIRAIYA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:009",
+          "n": "009",
+          "player": "NARUTO UZUMAKI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:010",
+          "n": "010",
+          "player": "NARUTO UZUMAKI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:011",
+          "n": "011",
+          "player": "SAKURA HARUNO",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:012",
+          "n": "012",
+          "player": "SAKURA HARUNO",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:013",
+          "n": "013",
+          "player": "SASUKE UCHIHA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:014",
+          "n": "014",
+          "player": "SASUKE UCHIHA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:015",
+          "n": "015",
+          "player": "KAKASHI HATAKE",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:016",
+          "n": "016",
+          "player": "KAKASHI HATAKE",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:017",
+          "n": "017",
+          "player": "CHOJI AKIMICHI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:018",
+          "n": "018",
+          "player": "CHOJI AKIMICHI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:019",
+          "n": "019",
+          "player": "INO YAMANAKA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:020",
+          "n": "020",
+          "player": "INO YAMANAKA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:021",
+          "n": "021",
+          "player": "SHIKAMARU NARA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:022",
+          "n": "022",
+          "player": "SHIKAMARU NARA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:023",
+          "n": "023",
+          "player": "ASUMA SARUTOBI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:024",
+          "n": "024",
+          "player": "ASUMA SARUTOBI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:025",
+          "n": "025",
+          "player": "KIBA INUZUKA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:026",
+          "n": "026",
+          "player": "KIBA INUZUKA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:027",
+          "n": "027",
+          "player": "AKAMARU",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:028",
+          "n": "028",
+          "player": "AKAMARU",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:029",
+          "n": "029",
+          "player": "AKAMARU",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:030",
+          "n": "030",
+          "player": "HINATA HYUGA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:031",
+          "n": "031",
+          "player": "HINATA HYUGA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:032",
+          "n": "032",
+          "player": "SHINO ABURAME",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:033",
+          "n": "033",
+          "player": "SHINO ABURAME",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:034",
+          "n": "034",
+          "player": "KURENAI YUHI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:035",
+          "n": "035",
+          "player": "KURENAI YUHI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:036",
+          "n": "036",
+          "player": "NEJI HYUGA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:037",
+          "n": "037",
+          "player": "NEJI HYUGA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:038",
+          "n": "038",
+          "player": "ROCK LEE",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:039",
+          "n": "039",
+          "player": "ROCK LEE",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:040",
+          "n": "040",
+          "player": "TENTEN",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:041",
+          "n": "041",
+          "player": "TENTEN",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:042",
+          "n": "042",
+          "player": "MIGHT GUY",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:043",
+          "n": "043",
+          "player": "MIGHT GUY",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:044",
+          "n": "044",
+          "player": "ANKO MITARASHI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:045",
+          "n": "045",
+          "player": "ANKO MITARASHI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:046",
+          "n": "046",
+          "player": "EBISU",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:047",
+          "n": "047",
+          "player": "IRUKA UMINO",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:048",
+          "n": "048",
+          "player": "HAYATE GEKKO",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:049",
+          "n": "049",
+          "player": "GENMA SHIRANUI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:050",
+          "n": "050",
+          "player": "OROCHIMARU",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:051",
+          "n": "051",
+          "player": "OROCHIMARU",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:052",
+          "n": "052",
+          "player": "KABUTO YAKUSHI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:053",
+          "n": "053",
+          "player": "KABUTO YAKUSHI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:054",
+          "n": "054",
+          "player": "KABUTO YAKUSHI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:055",
+          "n": "055",
+          "player": "KIMIMARO",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:056",
+          "n": "056",
+          "player": "KIMIMARO",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:057",
+          "n": "057",
+          "player": "JIROBO",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:058",
+          "n": "058",
+          "player": "JIROBO",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:059",
+          "n": "059",
+          "player": "KIDOMARU",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:060",
+          "n": "060",
+          "player": "KIDOMARU",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:061",
+          "n": "061",
+          "player": "SAKON",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:062",
+          "n": "062",
+          "player": "SAKON",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:063",
+          "n": "063",
+          "player": "UKON",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:064",
+          "n": "064",
+          "player": "TAYUYA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:065",
+          "n": "065",
+          "player": "TAYUYA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:066",
+          "n": "066",
+          "player": "RAGE OGRES",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:067",
+          "n": "067",
+          "player": "RASHOMON",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:068",
+          "n": "068",
+          "player": "DOSU KINUTA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:069",
+          "n": "069",
+          "player": "DOSU KINUTA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:070",
+          "n": "070",
+          "player": "ZAKU ABUMI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:071",
+          "n": "071",
+          "player": "ZAKU ABUMI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:072",
+          "n": "072",
+          "player": "KIN TSUCHI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:073",
+          "n": "073",
+          "player": "KIN TSUCHI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:074",
+          "n": "074",
+          "player": "GAARA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:075",
+          "n": "075",
+          "player": "GAARA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:076",
+          "n": "076",
+          "player": "ONE-TAIL",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:077",
+          "n": "077",
+          "player": "KANKURO",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:078",
+          "n": "078",
+          "player": "KANKURO",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:079",
+          "n": "079",
+          "player": "TEMARI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:080",
+          "n": "080",
+          "player": "TEMARI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:081",
+          "n": "081",
+          "player": "BAKI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:082",
+          "n": "082",
+          "player": "BAKI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:083",
+          "n": "083",
+          "player": "RASA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:084",
+          "n": "084",
+          "player": "YASHAMARU",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:085",
+          "n": "085",
+          "player": "YASHAMARU",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:086",
+          "n": "086",
+          "player": "ZABUZA MOMOCHI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:087",
+          "n": "087",
+          "player": "ZABUZA MOMOCHI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:088",
+          "n": "088",
+          "player": "HAKU",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:089",
+          "n": "089",
+          "player": "HAKU",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:090",
+          "n": "090",
+          "player": "ITACHI UCHIHA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:091",
+          "n": "091",
+          "player": "ITACHI UCHIHA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:092",
+          "n": "092",
+          "player": "KISAME HOSHIGAKI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:093",
+          "n": "093",
+          "player": "KISAME HOSHIGAKI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:094",
+          "n": "094",
+          "player": "GAMABUNTA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:095",
+          "n": "095",
+          "player": "GAMAHIRO",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:096",
+          "n": "096",
+          "player": "GAMAKICHI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:097",
+          "n": "097",
+          "player": "GAMATATSU",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:098",
+          "n": "098",
+          "player": "KATSUYU",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:099",
+          "n": "099",
+          "player": "PAKKUN",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:100",
+          "n": "100",
+          "player": "NINJA HOUND CORPS",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:101",
+          "n": "101",
+          "player": "TONTON",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:102",
+          "n": "102",
+          "player": "MANDA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:103",
+          "n": "103",
+          "player": "GIANT SPIDER",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:104",
+          "n": "104",
+          "player": "TSUNADE",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:105",
+          "n": "105",
+          "player": "JIRAIYA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:106",
+          "n": "106",
+          "player": "KAKASHI HATAKE",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:107",
+          "n": "107",
+          "player": "SASUKE UCHIHA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:108",
+          "n": "108",
+          "player": "NARUTO UZUMAKI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:109",
+          "n": "109",
+          "player": "SAKURA HARUNO",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:110",
+          "n": "110",
+          "player": "INO YAMANAKA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:111",
+          "n": "111",
+          "player": "SHIKAMARU NARA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:112",
+          "n": "112",
+          "player": "CHOJI AKIMICHI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:113",
+          "n": "113",
+          "player": "KIBA INUZUKA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:114",
+          "n": "114",
+          "player": "HINATA HYUGA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:115",
+          "n": "115",
+          "player": "SHINO ABURAME",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:116",
+          "n": "116",
+          "player": "NEJI HYUGA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:117",
+          "n": "117",
+          "player": "ROCK LEE",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:118",
+          "n": "118",
+          "player": "TENTEN",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:119",
+          "n": "119",
+          "player": "KANKURO",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:120",
+          "n": "120",
+          "player": "GAARA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:121",
+          "n": "121",
+          "player": "TEMARI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:122",
+          "n": "122",
+          "player": "JIROBO",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:123",
+          "n": "123",
+          "player": "KIMIMARO",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:124",
+          "n": "124",
+          "player": "KIDOMARU",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:125",
+          "n": "125",
+          "player": "TAYUYA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:126",
+          "n": "126",
+          "player": "OROCHIMARU",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:127",
+          "n": "127",
+          "player": "SAKON",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:128",
+          "n": "128",
+          "player": "ITACHI UCHIHA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:129",
+          "n": "129",
+          "player": "NINE-TAILED FOX",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:130",
+          "n": "130",
+          "player": "ONE-TAIL",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:131",
+          "n": "131",
+          "player": "TSUNADE",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:132",
+          "n": "132",
+          "player": "JIRAIYA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:133",
+          "n": "133",
+          "player": "NARUTO UZUMAKI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:134",
+          "n": "134",
+          "player": "NINE-TAILED FOX",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:135",
+          "n": "135",
+          "player": "SAKURA HARUNO",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:136",
+          "n": "136",
+          "player": "SASUKE UCHIHA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:137",
+          "n": "137",
+          "player": "KAKASHI HATAKE",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:138",
+          "n": "138",
+          "player": "OROCHIMARU",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:139",
+          "n": "139",
+          "player": "GAARA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:140",
+          "n": "140",
+          "player": "ITACHI UCHIHA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "mission:1",
+          "n": "1",
+          "player": "Call for support",
+          "section": "Misiones",
+          "tag": "Misiones"
+        },
+        {
+          "source_key": "mission:2",
+          "n": "2",
+          "player": "Chunin Exam",
+          "section": "Misiones",
+          "tag": "Misiones"
+        },
+        {
+          "source_key": "mission:3",
+          "n": "3",
+          "player": "Find the traitor",
+          "section": "Misiones",
+          "tag": "Misiones"
+        },
+        {
+          "source_key": "mission:4",
+          "n": "4",
+          "player": "Assassination",
+          "section": "Misiones",
+          "tag": "Misiones"
+        },
+        {
+          "source_key": "mission:5",
+          "n": "5",
+          "player": "Bring it back",
+          "section": "Misiones",
+          "tag": "Misiones"
+        },
+        {
+          "source_key": "mission:6",
+          "n": "6",
+          "player": "Rescue a friend",
+          "section": "Misiones",
+          "tag": "Misiones"
+        },
+        {
+          "source_key": "mission:7",
+          "n": "7",
+          "player": "I have to go",
+          "section": "Misiones",
+          "tag": "Misiones"
+        },
+        {
+          "source_key": "mission:8",
+          "n": "8",
+          "player": "Set a trap",
+          "section": "Misiones",
+          "tag": "Misiones"
+        },
+        {
+          "source_key": "mission:9",
+          "n": "9",
+          "player": "Protect the Leader",
+          "section": "Misiones",
+          "tag": "Misiones"
+        },
+        {
+          "source_key": "mission:10",
+          "n": "10",
+          "player": "Chakra Training",
+          "section": "Misiones",
+          "tag": "Misiones"
+        },
+        {
+          "source_key": "card:141",
+          "n": "141",
+          "player": "NARUTO UZUMAKI",
+          "section": "Mythos",
+          "tag": "Mythos"
+        },
+        {
+          "source_key": "card:142",
+          "n": "142",
+          "player": "SASUKE UCHIHA",
+          "section": "Mythos",
+          "tag": "Mythos"
+        },
+        {
+          "source_key": "card:143",
+          "n": "143",
+          "player": "ITACHI UCHIHA",
+          "section": "Mythos",
+          "tag": "Mythos"
+        },
+        {
+          "source_key": "card:144",
+          "n": "144",
+          "player": "KISAME HOSHIGAKI",
+          "section": "Mythos",
+          "tag": "Mythos"
+        },
+        {
+          "source_key": "card:145",
+          "n": "145",
+          "player": "NARUTO UZUMAKI",
+          "section": "Mythos",
+          "tag": "Mythos"
+        },
+        {
+          "source_key": "card:146",
+          "n": "146",
+          "player": "SASUKE UCHIHA",
+          "section": "Mythos",
+          "tag": "Mythos"
+        },
+        {
+          "source_key": "card:147",
+          "n": "147",
+          "player": "SAKURA HARUNO",
+          "section": "Mythos",
+          "tag": "Mythos"
+        },
+        {
+          "source_key": "card:148",
+          "n": "148",
+          "player": "KAKASHI HATAKE",
+          "section": "Mythos",
+          "tag": "Mythos"
+        }
+      ]
+    },
+    {
+      "id": "cicaboom-naruto-mythos-konoha-shido-2",
+      "name": "Naruto Mythos TCG — Konoha Shidō — 2.ª edición",
+      "season": "Sin fecha",
+      "brand": "Cicaboom",
+      "country": "Internacional",
+      "category": "TCG",
+      "source_url": "https://irp.cdn-website.com/99e556bf/files/uploaded/Naruto_TCG_Collection_guide_EN_v2-a83b0a03.pdf",
+      "note": "Guía oficial en inglés: números de carta, misiones y Mythos. Edición indicada en el documento. Acabados y artes alternativas pendientes; excluye Legendary Gold y variantes serializadas.",
+      "scope": "Primera lista de números impresos, no catálogo completo de variantes.",
+      "evidence": [
+        {
+          "url": "https://irp.cdn-website.com/99e556bf/files/uploaded/Naruto_TCG_Collection_guide_EN_v2-a83b0a03.pdf",
+          "type": "official_collection_guide",
+          "sha256": "203c1291ea6b9a0069d75c9bb56f970dd08a6824a0b6313307f0e8134b1549bd"
+        }
+      ],
+      "adapter": "reviewed_pdf",
+      "max_document_bytes": 16000000,
+      "minimum_records": 158,
+      "document_sha256": "203c1291ea6b9a0069d75c9bb56f970dd08a6824a0b6313307f0e8134b1549bd",
+      "cards": [
+        {
+          "source_key": "card:001",
+          "n": "001",
+          "player": "HIRUZEN SARUTOBI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:002",
+          "n": "002",
+          "player": "HIRUZEN SARUTOBI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:003",
+          "n": "003",
+          "player": "TSUNADE",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:004",
+          "n": "004",
+          "player": "TSUNADE",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:005",
+          "n": "005",
+          "player": "SHIZUNE",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:006",
+          "n": "006",
+          "player": "SHIZUNE",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:007",
+          "n": "007",
+          "player": "JIRAIYA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:008",
+          "n": "008",
+          "player": "JIRAIYA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:009",
+          "n": "009",
+          "player": "NARUTO UZUMAKI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:010",
+          "n": "010",
+          "player": "NARUTO UZUMAKI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:011",
+          "n": "011",
+          "player": "SAKURA HARUNO",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:012",
+          "n": "012",
+          "player": "SAKURA HARUNO",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:013",
+          "n": "013",
+          "player": "SASUKE UCHIHA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:014",
+          "n": "014",
+          "player": "SASUKE UCHIHA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:015",
+          "n": "015",
+          "player": "KAKASHI HATAKE",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:016",
+          "n": "016",
+          "player": "KAKASHI HATAKE",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:017",
+          "n": "017",
+          "player": "CHOJI AKIMICHI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:018",
+          "n": "018",
+          "player": "CHOJI AKIMICHI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:019",
+          "n": "019",
+          "player": "INO YAMANAKA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:020",
+          "n": "020",
+          "player": "INO YAMANAKA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:021",
+          "n": "021",
+          "player": "SHIKAMARU NARA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:022",
+          "n": "022",
+          "player": "SHIKAMARU NARA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:023",
+          "n": "023",
+          "player": "ASUMA SARUTOBI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:024",
+          "n": "024",
+          "player": "ASUMA SARUTOBI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:025",
+          "n": "025",
+          "player": "KIBA INUZUKA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:026",
+          "n": "026",
+          "player": "KIBA INUZUKA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:027",
+          "n": "027",
+          "player": "AKAMARU",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:028",
+          "n": "028",
+          "player": "AKAMARU",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:029",
+          "n": "029",
+          "player": "AKAMARU",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:030",
+          "n": "030",
+          "player": "HINATA HYUGA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:031",
+          "n": "031",
+          "player": "HINATA HYUGA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:032",
+          "n": "032",
+          "player": "SHINO ABURAME",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:033",
+          "n": "033",
+          "player": "SHINO ABURAME",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:034",
+          "n": "034",
+          "player": "KURENAI YUHI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:035",
+          "n": "035",
+          "player": "KURENAI YUHI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:036",
+          "n": "036",
+          "player": "NEJI HYUGA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:037",
+          "n": "037",
+          "player": "NEJI HYUGA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:038",
+          "n": "038",
+          "player": "ROCK LEE",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:039",
+          "n": "039",
+          "player": "ROCK LEE",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:040",
+          "n": "040",
+          "player": "TENTEN",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:041",
+          "n": "041",
+          "player": "TENTEN",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:042",
+          "n": "042",
+          "player": "MIGHT GUY",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:043",
+          "n": "043",
+          "player": "MIGHT GUY",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:044",
+          "n": "044",
+          "player": "ANKO MITARASHI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:045",
+          "n": "045",
+          "player": "ANKO MITARASHI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:046",
+          "n": "046",
+          "player": "EBISU",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:047",
+          "n": "047",
+          "player": "IRUKA UMINO",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:048",
+          "n": "048",
+          "player": "HAYATE GEKKO",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:049",
+          "n": "049",
+          "player": "GENMA SHIRANUI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:050",
+          "n": "050",
+          "player": "OROCHIMARU",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:051",
+          "n": "051",
+          "player": "OROCHIMARU",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:052",
+          "n": "052",
+          "player": "KABUTO YAKUSHI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:053",
+          "n": "053",
+          "player": "KABUTO YAKUSHI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:054",
+          "n": "054",
+          "player": "KABUTO YAKUSHI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:055",
+          "n": "055",
+          "player": "KIMIMARO",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:056",
+          "n": "056",
+          "player": "KIMIMARO",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:057",
+          "n": "057",
+          "player": "JIROBO",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:058",
+          "n": "058",
+          "player": "JIROBO",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:059",
+          "n": "059",
+          "player": "KIDOMARU",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:060",
+          "n": "060",
+          "player": "KIDOMARU",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:061",
+          "n": "061",
+          "player": "SAKON",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:062",
+          "n": "062",
+          "player": "SAKON",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:063",
+          "n": "063",
+          "player": "UKON",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:064",
+          "n": "064",
+          "player": "TAYUYA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:065",
+          "n": "065",
+          "player": "TAYUYA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:066",
+          "n": "066",
+          "player": "RAGE OGRES",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:067",
+          "n": "067",
+          "player": "RASHOMON",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:068",
+          "n": "068",
+          "player": "DOSU KINUTA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:069",
+          "n": "069",
+          "player": "DOSU KINUTA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:070",
+          "n": "070",
+          "player": "ZAKU ABUMI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:071",
+          "n": "071",
+          "player": "ZAKU ABUMI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:072",
+          "n": "072",
+          "player": "KIN TSUCHI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:073",
+          "n": "073",
+          "player": "KIN TSUCHI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:074",
+          "n": "074",
+          "player": "GAARA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:075",
+          "n": "075",
+          "player": "GAARA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:076",
+          "n": "076",
+          "player": "ONE-TAIL",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:077",
+          "n": "077",
+          "player": "KANKURO",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:078",
+          "n": "078",
+          "player": "KANKURO",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:079",
+          "n": "079",
+          "player": "TEMARI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:080",
+          "n": "080",
+          "player": "TEMARI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:081",
+          "n": "081",
+          "player": "BAKI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:082",
+          "n": "082",
+          "player": "BAKI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:083",
+          "n": "083",
+          "player": "RASA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:084",
+          "n": "084",
+          "player": "YASHAMARU",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:085",
+          "n": "085",
+          "player": "YASHAMARU",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:086",
+          "n": "086",
+          "player": "ZABUZA MOMOCHI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:087",
+          "n": "087",
+          "player": "ZABUZA MOMOCHI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:088",
+          "n": "088",
+          "player": "HAKU",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:089",
+          "n": "089",
+          "player": "HAKU",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:090",
+          "n": "090",
+          "player": "ITACHI UCHIHA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:091",
+          "n": "091",
+          "player": "ITACHI UCHIHA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:092",
+          "n": "092",
+          "player": "KISAME HOSHIGAKI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:093",
+          "n": "093",
+          "player": "KISAME HOSHIGAKI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:094",
+          "n": "094",
+          "player": "GAMABUNTA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:095",
+          "n": "095",
+          "player": "GAMAHIRO",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:096",
+          "n": "096",
+          "player": "GAMAKICHI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:097",
+          "n": "097",
+          "player": "GAMATATSU",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:098",
+          "n": "098",
+          "player": "KATSUYU",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:099",
+          "n": "099",
+          "player": "PAKKUN",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:100",
+          "n": "100",
+          "player": "NINJA HOUND CORPS",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:101",
+          "n": "101",
+          "player": "TONTON",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:102",
+          "n": "102",
+          "player": "MANDA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:103",
+          "n": "103",
+          "player": "GIANT SPIDER",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:104",
+          "n": "104",
+          "player": "TSUNADE",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:105",
+          "n": "105",
+          "player": "JIRAIYA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:106",
+          "n": "106",
+          "player": "KAKASHI HATAKE",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:107",
+          "n": "107",
+          "player": "SASUKE UCHIHA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:108",
+          "n": "108",
+          "player": "NARUTO UZUMAKI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:109",
+          "n": "109",
+          "player": "SAKURA HARUNO",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:110",
+          "n": "110",
+          "player": "INO YAMANAKA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:111",
+          "n": "111",
+          "player": "SHIKAMARU NARA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:112",
+          "n": "112",
+          "player": "CHOJI AKIMICHI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:113",
+          "n": "113",
+          "player": "KIBA INUZUKA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:114",
+          "n": "114",
+          "player": "HINATA HYUGA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:115",
+          "n": "115",
+          "player": "SHINO ABURAME",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:116",
+          "n": "116",
+          "player": "NEJI HYUGA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:117",
+          "n": "117",
+          "player": "ROCK LEE",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:118",
+          "n": "118",
+          "player": "TENTEN",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:119",
+          "n": "119",
+          "player": "KANKURO",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:120",
+          "n": "120",
+          "player": "GAARA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:121",
+          "n": "121",
+          "player": "TEMARI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:122",
+          "n": "122",
+          "player": "JIROBO",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:123",
+          "n": "123",
+          "player": "KIMIMARO",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:124",
+          "n": "124",
+          "player": "KIDOMARU",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:125",
+          "n": "125",
+          "player": "TAYUYA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:126",
+          "n": "126",
+          "player": "OROCHIMARU",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:127",
+          "n": "127",
+          "player": "SAKON",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:128",
+          "n": "128",
+          "player": "ITACHI UCHIHA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:129",
+          "n": "129",
+          "player": "NINE-TAILED FOX",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:130",
+          "n": "130",
+          "player": "ONE-TAIL",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:131",
+          "n": "131",
+          "player": "TSUNADE",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:132",
+          "n": "132",
+          "player": "JIRAIYA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:133",
+          "n": "133",
+          "player": "NARUTO UZUMAKI",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:134",
+          "n": "134",
+          "player": "NINE-TAILED FOX",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:135",
+          "n": "135",
+          "player": "SAKURA HARUNO",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:136",
+          "n": "136",
+          "player": "SASUKE UCHIHA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:137",
+          "n": "137",
+          "player": "KAKASHI HATAKE",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:138",
+          "n": "138",
+          "player": "OROCHIMARU",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:139",
+          "n": "139",
+          "player": "GAARA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "card:140",
+          "n": "140",
+          "player": "ITACHI UCHIHA",
+          "section": "Cartas",
+          "tag": "Cartas"
+        },
+        {
+          "source_key": "mission:1",
+          "n": "1",
+          "player": "Call for support",
+          "section": "Misiones",
+          "tag": "Misiones"
+        },
+        {
+          "source_key": "mission:2",
+          "n": "2",
+          "player": "Chunin Exam",
+          "section": "Misiones",
+          "tag": "Misiones"
+        },
+        {
+          "source_key": "mission:3",
+          "n": "3",
+          "player": "Find the traitor",
+          "section": "Misiones",
+          "tag": "Misiones"
+        },
+        {
+          "source_key": "mission:4",
+          "n": "4",
+          "player": "Assassination",
+          "section": "Misiones",
+          "tag": "Misiones"
+        },
+        {
+          "source_key": "mission:5",
+          "n": "5",
+          "player": "Bring it back",
+          "section": "Misiones",
+          "tag": "Misiones"
+        },
+        {
+          "source_key": "mission:6",
+          "n": "6",
+          "player": "Rescue a friend",
+          "section": "Misiones",
+          "tag": "Misiones"
+        },
+        {
+          "source_key": "mission:7",
+          "n": "7",
+          "player": "I have to go",
+          "section": "Misiones",
+          "tag": "Misiones"
+        },
+        {
+          "source_key": "mission:8",
+          "n": "8",
+          "player": "Set a trap",
+          "section": "Misiones",
+          "tag": "Misiones"
+        },
+        {
+          "source_key": "mission:9",
+          "n": "9",
+          "player": "Protect the Leader",
+          "section": "Misiones",
+          "tag": "Misiones"
+        },
+        {
+          "source_key": "mission:10",
+          "n": "10",
+          "player": "Chakra Training",
+          "section": "Misiones",
+          "tag": "Misiones"
+        },
+        {
+          "source_key": "card:141",
+          "n": "141",
+          "player": "NARUTO UZUMAKI",
+          "section": "Mythos",
+          "tag": "Mythos"
+        },
+        {
+          "source_key": "card:142",
+          "n": "142",
+          "player": "SASUKE UCHIHA",
+          "section": "Mythos",
+          "tag": "Mythos"
+        },
+        {
+          "source_key": "card:143",
+          "n": "143",
+          "player": "ITACHI UCHIHA",
+          "section": "Mythos",
+          "tag": "Mythos"
+        },
+        {
+          "source_key": "card:144",
+          "n": "144",
+          "player": "KISAME HOSHIGAKI",
+          "section": "Mythos",
+          "tag": "Mythos"
+        },
+        {
+          "source_key": "card:145",
+          "n": "145",
+          "player": "NARUTO UZUMAKI",
+          "section": "Mythos",
+          "tag": "Mythos"
+        },
+        {
+          "source_key": "card:146",
+          "n": "146",
+          "player": "SASUKE UCHIHA",
+          "section": "Mythos",
+          "tag": "Mythos"
+        },
+        {
+          "source_key": "card:147",
+          "n": "147",
+          "player": "SAKURA HARUNO",
+          "section": "Mythos",
+          "tag": "Mythos"
+        },
+        {
+          "source_key": "card:148",
+          "n": "148",
+          "player": "KAKASHI HATAKE",
+          "section": "Mythos",
+          "tag": "Mythos"
+        }
+      ]
     }
   ]
 }

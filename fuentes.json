@@ -110,5 +110,11 @@
     "capped_queries_reported": true,
     "publish_only_individually_verified_records": true,
     "preserve_existing_identifiers": true
+  },
+  "tcg_catalogs": {
+    "enabled": true,
+    "one_piece_budget": 4,
+    "ygo_cache_hours": 48,
+    "policy": "Public factual checklists; no prices, effects, artwork or personal data. Preserve stable IDs and reject removals."
   }
 }
