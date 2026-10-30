@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-30T07:12:36Z",
+  "checked_at": "2026-10-30T13:10:51Z",
   "schema_version": 4,
   "checked_sources": [
     {
@@ -22,13 +22,13 @@
       "name": "Índice externo de colecciones",
       "type": "catalog_index",
       "status": "ok",
-      "fingerprint": "46f2d08a936dbd64c02c00568262a0b2abeb12c68346d3c05237ccb6465178fd"
+      "fingerprint": "61a16e71acfde22f515ee0597cca93ad32edfea5b68b892d04ca47f32be2671c"
     },
     {
       "name": "Novedades de colecciones",
       "type": "recent_collections",
       "status": "ok",
-      "fingerprint": "ccac11394d6f1cbecaee143d57dd70e519d4181be3847d707b81b3746591f37e"
+      "fingerprint": "8f2597b30a502c8e337ca15e8ecb94d196c7f43349c068f01f826c831b7cd6f1"
     }
   ],
   "pending_review": [],
