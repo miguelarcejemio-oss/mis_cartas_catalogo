@@ -1,6 +1,6 @@
 {
-  "version": 22,
-  "updated": "2026-10-24",
+  "version": 23,
+  "updated": "2026-10-31",
   "collections": [
     {
       "id": "panini-adrenalyn-laliga-2526",
@@ -514649,6 +514649,13 @@
       "category": "TCG",
       "cards": [
         {
+          "id": "bandai-one-piece-eb05-eb03-001",
+          "n": "EB03-001",
+          "player": "Nefeltari Vivi",
+          "section": "LEADER",
+          "tag": "L"
+        },
+        {
           "id": "bandai-one-piece-eb05-eb05-001",
           "n": "EB05-001",
           "player": "Jewelry Bonney",
@@ -515074,21 +515081,91 @@
           "player": "Nami",
           "section": "CHARACTER",
           "tag": "SEC"
+        },
+        {
+          "id": "bandai-one-piece-eb05-op01-016",
+          "n": "OP01-016",
+          "player": "Nami",
+          "section": "CHARACTER",
+          "tag": "SP CARD"
+        },
+        {
+          "id": "bandai-one-piece-eb05-op11-022",
+          "n": "OP11-022",
+          "player": "Shirahoshi",
+          "section": "LEADER",
+          "tag": "L"
+        },
+        {
+          "id": "bandai-one-piece-eb05-op11-041",
+          "n": "OP11-041",
+          "player": "Nami",
+          "section": "LEADER",
+          "tag": "L"
+        },
+        {
+          "id": "bandai-one-piece-eb05-op13-100",
+          "n": "OP13-100",
+          "player": "Jewelry Bonney",
+          "section": "LEADER",
+          "tag": "L"
+        },
+        {
+          "id": "bandai-one-piece-eb05-op14-033",
+          "n": "OP14-033",
+          "player": "Perona",
+          "section": "CHARACTER",
+          "tag": "SP CARD"
+        },
+        {
+          "id": "bandai-one-piece-eb05-op14-041",
+          "n": "OP14-041",
+          "player": "Boa Hancock",
+          "section": "LEADER",
+          "tag": "L"
+        },
+        {
+          "id": "bandai-one-piece-eb05-op15-039",
+          "n": "OP15-039",
+          "player": "Rebecca",
+          "section": "LEADER",
+          "tag": "L"
+        },
+        {
+          "id": "bandai-one-piece-eb05-op17-081",
+          "n": "OP17-081",
+          "player": "Gerd",
+          "section": "CHARACTER",
+          "tag": "SP CARD"
+        },
+        {
+          "id": "bandai-one-piece-eb05-op17-109",
+          "n": "OP17-109",
+          "player": "Charlotte Pudding",
+          "section": "CHARACTER",
+          "tag": "SP CARD"
+        },
+        {
+          "id": "bandai-one-piece-eb05-st17-004",
+          "n": "ST17-004",
+          "player": "Boa Hancock",
+          "section": "CHARACTER",
+          "tag": "SP CARD"
         }
       ],
       "source_url": "https://en.onepiece-cardgame.com/cardlist/?series=569205",
       "source": "Checklist oficial Bandai en inglés. Una ficha por número impreso, incluidas reimpresiones del producto. No incluye acabados ni ilustraciones alternativas como cartas obligatorias.",
       "expected_note": "Lista de números publicados por Bandai; no implica disponibilidad comercial local. Variantes pendientes de revisión.",
       "checklist_status": "official_numbered_records",
-      "card_count": 61,
-      "checklistVersion": 1,
+      "card_count": 72,
+      "checklistVersion": 2,
       "checklistSourceUrl": "https://en.onepiece-cardgame.com/cardlist/?series=569205",
       "verification": {
         "complete": false,
         "individual_records_verified": true,
         "scope": "Lista de números publicados por Bandai; no implica disponibilidad comercial local. Variantes pendientes de revisión.",
-        "checked_at": "2026-10-24T01:02:52.226657+00:00",
-        "source_fingerprint": "1a305abc1ef5"
+        "checked_at": "2026-10-31T07:03:11.500345+00:00",
+        "source_fingerprint": "9b126ca3f83b"
       }
     }
   ],
