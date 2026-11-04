@@ -3,6 +3,10 @@ import argparse
 import json
 import shutil
 from pathlib import Path
+try:
+    from .build_app_index import build_app_index
+except ImportError:
+    from build_app_index import build_app_index
 
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -27,6 +31,7 @@ def build(root=ROOT, destination=None):
             if expected is not None and expected != len(ids):
                 raise ValueError('incomplete_collection_cannot_deploy')
     destination.mkdir(parents=True, exist_ok=True)
+    build_app_index(root, destination, catalog)
     for name in ('index.html', 'catalogo.json', 'servidor.config.json', 'manifest.json'):
         shutil.copy2(root / name, destination / name)
     if (root / 'catalog-health.json').exists():
