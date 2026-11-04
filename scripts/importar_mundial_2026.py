@@ -5,7 +5,7 @@ import re
 from pathlib import Path
 
 PREFIX = re.compile(r"^(?:\d+)?[·•]\s*(.+)$")
-NUMBER = re.compile(r"^(\d+|FTS\d+)\s*\.\s*-\s*(.+)$", re.I)
+NUMBER = re.compile(r"^(\d+|FTS\d+|U\d+)\s*\.\s*-\s*(.+)$", re.I)
 SUMMARY = re.compile(r"^\d+\s+(?:faltas?|cartas?|repetidas?)\b", re.I)
 
 
@@ -14,7 +14,7 @@ def parse(text):
     section = None
     for line_number, raw in enumerate(text.splitlines(), 1):
         line = raw.strip().lstrip('\ufeff').strip()
-        if not line or SUMMARY.match(line):
+        if not line or SUMMARY.match(line) or line == 'forward_to_inbox':
             continue
         prefixed = PREFIX.match(line)
         payload = prefixed.group(1) if prefixed else line

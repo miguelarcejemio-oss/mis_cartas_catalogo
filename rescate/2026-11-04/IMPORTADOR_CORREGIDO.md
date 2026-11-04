@@ -1,10 +1,9 @@
-# Importador corregido
+# Revisión e integración del Mundial 2026
 
-Desde la raíz del repositorio:
+El listado contiene 995 registros en 64 secciones. Se descarta el texto de interfaz forward_to_inbox, que antes se contaba erróneamente como una sección. Se reconocen 776 cartas con código impreso: 648 números base, 80 FTS y 48 Upgrade (U01–U48). Los 219 registros restantes se conservan en el original para revisión, sin inventar números.
 
-```bash
-python3 -m unittest discover -s tests -p test_importar_mundial_2026.py -v
-python3 scripts/importar_mundial_2026.py --origen rescate/2026-11-04/importaciones/mundial_2026.txt
-```
+La integración elimina contadores finales de nombres, corrige las secciones México, Ghana, Corea del Sur y Países Bajos y conserva los 728 IDs existentes, además de todos sus campos personales. No modifica las otras 1113 colecciones. No afirma que el checklist sea completo ni modifica retroactivamente estados personales.
 
-Genera importaciones/mundial_2026_limpio.json y un informe independiente. No escribe catalogo.json ni estados personales. Resultado del listado recuperado: 995 registros, 65 secciones, 267 registros sin número impreso, todos los números 1–648 presentes; sin filas idénticas repetidas ni conflictos sección/número. Las cifras no certifican que nombres y variantes sean correctos. Debe revisarse antes de integrar el catálogo. Se preservan los nombres del original y las variantes sin número se identifican como tales, sin asignar números inventados.
+Validación: 72 pruebas generales aprobadas y una nueva regresión de códigos Upgrade/texto de interfaz aprobada; catálogo validado y construcción pública completada. La segunda integración del mismo listado no produce cambios. Cambios de identidad, números duplicados o desaparición de una carta existente bloquean la escritura.
+
+Ejecución desde la raíz: python -m scripts.integrar_mundial_2026. El workflow aplica la corrección después del enriquecimiento, antes de validar y publicar.

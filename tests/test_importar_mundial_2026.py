@@ -28,6 +28,12 @@ class ImportTests(unittest.TestCase):
         self.assertEqual(cards, [])
         self.assertEqual(len(report['incidencias']), 1)
 
+    def test_upgrade_codes_and_interface_text(self):
+        cards, report = parse('UPGRADE\n·U01.- TAGLIAFICO (ARG) 863\nEDICIÓN LIMITADA\n·EL MESSI 304\nforward_to_inbox\n·EL RODRYGO 3771')
+        self.assertEqual(cards[0]['numero'], 'U01')
+        self.assertEqual(cards[2]['seccion'], 'EDICIÓN LIMITADA')
+        self.assertEqual(report['secciones'], 2)
+
 
 if __name__ == '__main__':
     unittest.main()
