@@ -1,6 +1,6 @@
 {
-  "version": 23,
-  "updated": "2026-10-31",
+  "version": 24,
+  "updated": "2026-11-06",
   "collections": [
     {
       "id": "panini-adrenalyn-laliga-2526",
@@ -515559,6 +515559,425 @@
         "scope": "Lista de números publicados por Bandai; no implica disponibilidad comercial local. Variantes pendientes de revisión.",
         "checked_at": "2026-10-31T07:03:11.500345+00:00",
         "source_fingerprint": "9b126ca3f83b"
+      }
+    },
+    {
+      "id": "konami-yugioh-dpc5-29cb6d0651fd",
+      "name": "Yu-Gi-Oh! — Duelist Pack Collection Tin 2011",
+      "season": "2011",
+      "brand": "Konami",
+      "country": "Internacional",
+      "category": "TCG",
+      "cards": [
+        {
+          "id": "konami-yugioh-dpc5-29cb6d0651fd-22858242",
+          "n": "DPC5-EN002",
+          "player": "Zeman the Ape King",
+          "section": "Synchro Monster",
+          "tag": "Super Rare"
+        },
+        {
+          "id": "konami-yugioh-dpc5-29cb6d0651fd-63465535",
+          "n": "DPC5-EN001",
+          "player": "Underground Arachnid",
+          "section": "Synchro Monster",
+          "tag": "Super Rare"
+        },
+        {
+          "id": "konami-yugioh-dpc5-29cb6d0651fd-94515289",
+          "n": "DPCT-EN005",
+          "player": "Frozen Fitzgerald",
+          "section": "Synchro Monster",
+          "tag": "Secret Rare"
+        },
+        {
+          "id": "konami-yugioh-dpc5-29cb6d0651fd-95453143",
+          "n": "DPC5-EN003",
+          "player": "Hundred Eyes Dragon",
+          "section": "Synchro Monster",
+          "tag": "Super Rare"
+        }
+      ],
+      "source_url": "https://ygoprodeck.com/api-guide/",
+      "source": "YGOPRODeck, API pública. Nombres en inglés; una ficha por passcode en la expansión. Reimpresiones regionales agrupadas; código observado en la fuente.",
+      "expected_note": "Checklist por carta única de la edición según la API; rarezas opcionales, sin precios ni textos de reglas.",
+      "checklist_status": "source_count_matched",
+      "card_count": 4,
+      "checklistVersion": 1,
+      "checklistSourceUrl": "https://ygoprodeck.com/api-guide/",
+      "verification": {
+        "complete": false,
+        "individual_records_verified": true,
+        "scope": "Checklist por carta única de la edición según la API; rarezas opcionales, sin precios ni textos de reglas.",
+        "checked_at": "2026-11-06T19:27:58.135799+00:00",
+        "source_fingerprint": "bc63c146b1b5"
+      }
+    },
+    {
+      "id": "konami-yugioh-up02-7e94116ad92e",
+      "name": "Yu-Gi-Oh! — Ultimate Tournament Pack 2",
+      "season": "2026",
+      "brand": "Konami",
+      "country": "Internacional",
+      "category": "TCG",
+      "cards": [
+        {
+          "id": "konami-yugioh-up02-7e94116ad92e-102380",
+          "n": "UP02-EN022",
+          "player": "Lava Golem",
+          "section": "Effect Monster",
+          "tag": "Common"
+        },
+        {
+          "id": "konami-yugioh-up02-7e94116ad92e-1596508",
+          "n": "UP02-EN027",
+          "player": "Dimension Fortress Weapon",
+          "section": "Effect Monster",
+          "tag": "Common"
+        },
+        {
+          "id": "konami-yugioh-up02-7e94116ad92e-4891376",
+          "n": "UP02-EN005",
+          "player": "Zalen the Shackled Dragon",
+          "section": "Synchro Tuner Monster",
+          "tag": "Ultimate Rare"
+        },
+        {
+          "id": "konami-yugioh-up02-7e94116ad92e-5318639",
+          "n": "UP02-EN038",
+          "player": "Mystical Space Typhoon",
+          "section": "Spell Card",
+          "tag": "Common"
+        },
+        {
+          "id": "konami-yugioh-up02-7e94116ad92e-12275533",
+          "n": "UP02-EN029",
+          "player": "Trifortressops",
+          "section": "Effect Monster",
+          "tag": "Common"
+        },
+        {
+          "id": "konami-yugioh-up02-7e94116ad92e-14087893",
+          "n": "UP02-EN039",
+          "player": "Book of Moon",
+          "section": "Spell Card",
+          "tag": "Common"
+        },
+        {
+          "id": "konami-yugioh-up02-7e94116ad92e-17412721",
+          "n": "UP02-EN036",
+          "player": "Elder Entity Norden",
+          "section": "Fusion Monster",
+          "tag": "Common"
+        },
+        {
+          "id": "konami-yugioh-up02-7e94116ad92e-19665973",
+          "n": "UP02-EN028",
+          "player": "Battle Fader",
+          "section": "Effect Monster",
+          "tag": "Common"
+        },
+        {
+          "id": "konami-yugioh-up02-7e94116ad92e-22819092",
+          "n": "UP02-EN018",
+          "player": "Fish Sonar",
+          "section": "Spell Card",
+          "tag": "Super Rare"
+        },
+        {
+          "id": "konami-yugioh-up02-7e94116ad92e-23153227",
+          "n": "UP02-EN017",
+          "player": "Seventh Ascension",
+          "section": "Spell Card",
+          "tag": "Super Rare"
+        },
+        {
+          "id": "konami-yugioh-up02-7e94116ad92e-23931679",
+          "n": "UP02-EN032",
+          "player": "Ocean Dragon Lord - Kairyu-Shin",
+          "section": "Effect Monster",
+          "tag": "Common"
+        },
+        {
+          "id": "konami-yugioh-up02-7e94116ad92e-24092792",
+          "n": "UP02-EN015",
+          "player": "Elfnotes: Rhapsodia of Madness",
+          "section": "Trap Card",
+          "tag": "Super Rare"
+        },
+        {
+          "id": "konami-yugioh-up02-7e94116ad92e-24508238",
+          "n": "UP02-EN025",
+          "player": "D.D. Crow",
+          "section": "Effect Monster",
+          "tag": "Common"
+        },
+        {
+          "id": "konami-yugioh-up02-7e94116ad92e-26084285",
+          "n": "UP02-EN023",
+          "player": "Gravekeeper's Watcher",
+          "section": "Effect Monster",
+          "tag": "Common"
+        },
+        {
+          "id": "konami-yugioh-up02-7e94116ad92e-28904860",
+          "n": "UP02-EN010",
+          "player": "Angelechy Bastion",
+          "section": "Synchro Monster",
+          "tag": "Super Rare"
+        },
+        {
+          "id": "konami-yugioh-up02-7e94116ad92e-30875635",
+          "n": "UP02-EN002",
+          "player": "Miracle Ejector",
+          "section": "Effect Monster",
+          "tag": "Ultimate Rare"
+        },
+        {
+          "id": "konami-yugioh-up02-7e94116ad92e-33599853",
+          "n": "UP02-EN006",
+          "player": "Light and Darkness Ritual",
+          "section": "Spell Card",
+          "tag": "Ultimate Rare"
+        },
+        {
+          "id": "konami-yugioh-up02-7e94116ad92e-35261759",
+          "n": "UP02-EN044",
+          "player": "Pot of Desires",
+          "section": "Spell Card",
+          "tag": "Common"
+        },
+        {
+          "id": "konami-yugioh-up02-7e94116ad92e-35480699",
+          "n": "UP02-EN043",
+          "player": "Book of Eclipse",
+          "section": "Spell Card",
+          "tag": "Common"
+        },
+        {
+          "id": "konami-yugioh-up02-7e94116ad92e-39706423",
+          "n": "UP02-EN008",
+          "player": "GMX Suppression Squad",
+          "section": "Effect Monster",
+          "tag": "Super Rare"
+        },
+        {
+          "id": "konami-yugioh-up02-7e94116ad92e-40591390",
+          "n": "UP02-EN024",
+          "player": "Destiny HERO - Dreadmaster",
+          "section": "Effect Monster",
+          "tag": "Common"
+        },
+        {
+          "id": "konami-yugioh-up02-7e94116ad92e-46052429",
+          "n": "UP02-EN042",
+          "player": "Advanced Ritual Art",
+          "section": "Spell Card",
+          "tag": "Common"
+        },
+        {
+          "id": "konami-yugioh-up02-7e94116ad92e-46411259",
+          "n": "UP02-EN040",
+          "player": "Metamorphosis",
+          "section": "Spell Card",
+          "tag": "Common"
+        },
+        {
+          "id": "konami-yugioh-up02-7e94116ad92e-53094821",
+          "n": "UP02-EN049",
+          "player": "Toon Terror",
+          "section": "Trap Card",
+          "tag": "Common"
+        },
+        {
+          "id": "konami-yugioh-up02-7e94116ad92e-53183600",
+          "n": "UP02-EN021",
+          "player": "Blue-Eyes Toon Dragon",
+          "section": "Toon Monster",
+          "tag": "Common"
+        },
+        {
+          "id": "konami-yugioh-up02-7e94116ad92e-57103969",
+          "n": "UP02-EN016",
+          "player": "Fire Formation - Tenki",
+          "section": "Spell Card",
+          "tag": "Super Rare"
+        },
+        {
+          "id": "konami-yugioh-up02-7e94116ad92e-57916305",
+          "n": "UP02-EN046",
+          "player": "Witchcrafter Creation",
+          "section": "Spell Card",
+          "tag": "Common"
+        },
+        {
+          "id": "konami-yugioh-up02-7e94116ad92e-58916810",
+          "n": "UP02-EN003",
+          "player": "Crackle Blitzclique",
+          "section": "Effect Monster",
+          "tag": "Ultimate Rare"
+        },
+        {
+          "id": "konami-yugioh-up02-7e94116ad92e-59400890",
+          "n": "UP02-EN004",
+          "player": "Dark Magician of Destruction",
+          "section": "Fusion Monster",
+          "tag": "Ultimate Rare"
+        },
+        {
+          "id": "konami-yugioh-up02-7e94116ad92e-59514116",
+          "n": "UP02-EN012",
+          "player": "Secrets of Dark Magic",
+          "section": "Spell Card",
+          "tag": "Super Rare"
+        },
+        {
+          "id": "konami-yugioh-up02-7e94116ad92e-59708927",
+          "n": "UP02-EN030",
+          "player": "Umbral Horror Ghost",
+          "section": "Effect Monster",
+          "tag": "Common"
+        },
+        {
+          "id": "konami-yugioh-up02-7e94116ad92e-61705417",
+          "n": "UP02-EN014",
+          "player": "Graverobber",
+          "section": "Trap Card",
+          "tag": "Super Rare"
+        },
+        {
+          "id": "konami-yugioh-up02-7e94116ad92e-65458948",
+          "n": "UP02-EN020",
+          "player": "Toon Mermaid",
+          "section": "Toon Monster",
+          "tag": "Common"
+        },
+        {
+          "id": "konami-yugioh-up02-7e94116ad92e-69436288",
+          "n": "UP02-EN033",
+          "player": "Doom Kraken",
+          "section": "Effect Monster",
+          "tag": "Common"
+        },
+        {
+          "id": "konami-yugioh-up02-7e94116ad92e-70828912",
+          "n": "UP02-EN011",
+          "player": "Premature Burial",
+          "section": "Spell Card",
+          "tag": "Super Rare"
+        },
+        {
+          "id": "konami-yugioh-up02-7e94116ad92e-73468603",
+          "n": "UP02-EN045",
+          "player": "Set Rotation",
+          "section": "Spell Card",
+          "tag": "Common"
+        },
+        {
+          "id": "konami-yugioh-up02-7e94116ad92e-74677422",
+          "n": "UP02-EN001",
+          "player": "Red-Eyes Black Dragon",
+          "section": "Normal Monster",
+          "tag": "Ultimate Rare"
+        },
+        {
+          "id": "konami-yugioh-up02-7e94116ad92e-75041269",
+          "n": "UP02-EN041",
+          "player": "Clock Tower Prison",
+          "section": "Spell Card",
+          "tag": "Common"
+        },
+        {
+          "id": "konami-yugioh-up02-7e94116ad92e-78665705",
+          "n": "UP02-EN013",
+          "player": "Ancient Chant",
+          "section": "Spell Card",
+          "tag": "Super Rare"
+        },
+        {
+          "id": "konami-yugioh-up02-7e94116ad92e-78783557",
+          "n": "UP02-EN035",
+          "player": "Veidos the Eruption Dragon of Extinction",
+          "section": "Effect Monster",
+          "tag": "Common"
+        },
+        {
+          "id": "konami-yugioh-up02-7e94116ad92e-80101899",
+          "n": "UP02-EN019",
+          "player": "Trap Trick",
+          "section": "Trap Card",
+          "tag": "Super Rare"
+        },
+        {
+          "id": "konami-yugioh-up02-7e94116ad92e-83443619",
+          "n": "UP02-EN007",
+          "player": "Crystron Smiger",
+          "section": "Effect Monster",
+          "tag": "Super Rare"
+        },
+        {
+          "id": "konami-yugioh-up02-7e94116ad92e-83764719",
+          "n": "UP02-EN037",
+          "player": "Monster Reborn",
+          "section": "Spell Card",
+          "tag": "Common"
+        },
+        {
+          "id": "konami-yugioh-up02-7e94116ad92e-83968380",
+          "n": "UP02-EN047",
+          "player": "Jar of Greed",
+          "section": "Trap Card",
+          "tag": "Common"
+        },
+        {
+          "id": "konami-yugioh-up02-7e94116ad92e-84040113",
+          "n": "UP02-EN009",
+          "player": "Muddy Mudragon",
+          "section": "Synchro Monster",
+          "tag": "Super Rare"
+        },
+        {
+          "id": "konami-yugioh-up02-7e94116ad92e-89743495",
+          "n": "UP02-EN031",
+          "player": "Mathmech Division",
+          "section": "Effect Monster",
+          "tag": "Common"
+        },
+        {
+          "id": "konami-yugioh-up02-7e94116ad92e-95824983",
+          "n": "UP02-EN034",
+          "player": "Electric Jellyfish",
+          "section": "Effect Monster",
+          "tag": "Common"
+        },
+        {
+          "id": "konami-yugioh-up02-7e94116ad92e-96782886",
+          "n": "UP02-EN026",
+          "player": "Mind Master",
+          "section": "Tuner Monster",
+          "tag": "Common"
+        },
+        {
+          "id": "konami-yugioh-up02-7e94116ad92e-98427577",
+          "n": "UP02-EN048",
+          "player": "Scrap-Iron Scarecrow",
+          "section": "Trap Card",
+          "tag": "Common"
+        }
+      ],
+      "source_url": "https://ygoprodeck.com/api-guide/",
+      "source": "YGOPRODeck, API pública. Nombres en inglés; una ficha por passcode en la expansión. Reimpresiones regionales agrupadas; código observado en la fuente.",
+      "expected_note": "Checklist por carta única de la edición según la API; rarezas opcionales, sin precios ni textos de reglas.",
+      "checklist_status": "source_count_matched",
+      "card_count": 49,
+      "checklistVersion": 1,
+      "checklistSourceUrl": "https://ygoprodeck.com/api-guide/",
+      "verification": {
+        "complete": false,
+        "individual_records_verified": true,
+        "scope": "Checklist por carta única de la edición según la API; rarezas opcionales, sin precios ni textos de reglas.",
+        "checked_at": "2026-11-06T19:27:58.135799+00:00",
+        "source_fingerprint": "47aac0f24a90"
       }
     }
   ],
