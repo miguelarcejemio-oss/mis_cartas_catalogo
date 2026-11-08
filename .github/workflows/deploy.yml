@@ -37,6 +37,7 @@ jobs:
           python scripts/collection_discovery.py
           python scripts/enrich_collections.py
           python -m scripts.integrar_mundial_2026
+          python -m scripts.integrar_daima_nombres
           python scripts/catalog_health.py
           python scripts/detect_updates.py
           python validate_catalog.py catalogo.json

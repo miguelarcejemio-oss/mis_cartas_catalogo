@@ -7,6 +7,7 @@ import copy
 import json
 
 WORLD_CUP = 'panini-fifa-wc-2026-adrenalyn'
+DAIMA = 'panini-dragon-ball-daima-tcg'
 
 
 def app_index(catalog, seed):
@@ -14,25 +15,26 @@ def app_index(catalog, seed):
     entries = result['collections']
     if len({c['id'] for c in entries}) != len(entries):
         raise ValueError('duplicate_app_index_entry')
-    fresh = next((c for c in catalog['collections'] if c['id'] == WORLD_CUP), None)
-    position = next((i for i, c in enumerate(entries) if c['id'] == WORLD_CUP), None)
-    if fresh is not None:
-        fresh = copy.deepcopy(fresh)
-        old = entries[position] if position is not None else None
-        if len(fresh.get('cards', [])) < int((old or {}).get('card_count') or 0):
-            raise ValueError('world_cup_index_would_shrink')
-        ids = [c['id'] for c in fresh['cards']]
-        if not ids or len(set(ids)) != len(ids):
-            raise ValueError('invalid_world_cup_ids')
-        # Inline data must not advertise the obsolete bundled 728-card shard.
-        for key in ('public_checklist_file', 'public_checklist_sha256',
-                    'bundled_checklist', '_checklistStored'):
-            fresh.pop(key, None)
-        fresh['card_count'] = len(ids)
-        if position is None:
-            entries.append(fresh)
-        else:
-            entries[position] = fresh
+    for edition in (WORLD_CUP, DAIMA):
+        fresh = next((c for c in catalog['collections'] if c['id'] == edition), None)
+        position = next((i for i, c in enumerate(entries) if c['id'] == edition), None)
+        if fresh is not None:
+            fresh = copy.deepcopy(fresh)
+            old = entries[position] if position is not None else None
+            if len(fresh.get('cards', [])) < int((old or {}).get('card_count') or 0):
+                raise ValueError('app_index_would_shrink:'+edition)
+            ids = [c['id'] for c in fresh['cards']]
+            if not ids or len(set(ids)) != len(ids):
+                raise ValueError('invalid_app_index_ids:'+edition)
+            # Inline data must not advertise the obsolete bundled shard.
+            for key in ('public_checklist_file', 'public_checklist_sha256',
+                        'bundled_checklist', '_checklistStored'):
+                fresh.pop(key, None)
+            fresh['card_count'] = len(ids)
+            if position is None:
+                entries.append(fresh)
+            else:
+                entries[position] = fresh
     result['updated'] = catalog.get('updated', result.get('updated'))
     result['schema_version'] = seed.get('schema_version', 1)
     return result

@@ -6,6 +6,7 @@ creates cards. Unreadable sources keep the last snapshot and report the failure.
 import copy
 import hashlib
 import json
+from pathlib import Path
 from datetime import datetime, timezone
 from scripts.public_checklists import PARSERS, validate
 
@@ -22,6 +23,12 @@ def cards_with_ids(target, cards):
 def publish(catalog, target, cards, checked_at):
     cards=cards_with_ids(target,cards)
     existing=next((c for c in catalog['collections'] if c['id']==target['id']),None)
+    # The numeric source may still say "Card 1". Preserve the separately
+    # reviewed descriptive titles before checking the existing identities.
+    if target['id']=='panini-dragon-ball-daima-tcg' and existing and existing.get('descriptive_titles'):
+        from scripts.integrar_daima_nombres import integrate
+        snapshot=json.loads((Path(__file__).resolve().parents[1]/'importaciones/dragon_ball_daima_nombres.json').read_text(encoding='utf-8'))
+        cards=integrate({'collections':[{**existing,'cards':cards}]},snapshot)['collections'][0]['cards']
     previous={c['id']:c for c in existing['cards']} if existing else {}
     incoming={c['id']:c for c in cards}
     if previous.keys()-incoming.keys():raise ValueError('source_removed_existing_cards_review_required')

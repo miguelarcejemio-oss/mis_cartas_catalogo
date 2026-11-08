@@ -1,0 +1,1458 @@
+{
+  "collection_id": "panini-dragon-ball-daima-tcg",
+  "revision": 1,
+  "checked_at": "2026-11-08",
+  "names_source": "https://www.cromos.pt/collection/98/dragon-ball-daima-panini",
+  "edition_source": "https://www.cromosrepes.com/coleccion/cromos/DRAGON-BALL-DAIMA-TRADING-CARD-COLLECTION",
+  "cards": [
+    {
+      "id": "panini-dragon-ball-daima-tcg-8831223cda2028f442d5",
+      "n": 1,
+      "previous_name": "Card 1",
+      "source_title": "Son Goku",
+      "name": "Son Goku"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-5871fc03c9db73b4c3d8",
+      "n": 2,
+      "previous_name": "Card 2",
+      "source_title": "Super Saiyan Goku",
+      "name": "Super Saiyan Goku"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-6845427f830f56d3687d",
+      "n": 3,
+      "previous_name": "Card 3",
+      "source_title": "Super Saiyan 2 Goku",
+      "name": "Super Saiyan 2 Goku"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-598649171abafb7fc1b0",
+      "n": 4,
+      "previous_name": "Card 4",
+      "source_title": "Super Saiyan 3 Goku",
+      "name": "Super Saiyan 3 Goku"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-4b14031c59b184ae928a",
+      "n": 5,
+      "previous_name": "Card 5",
+      "source_title": "Super Saiyan 4 Goku",
+      "name": "Super Saiyan 4 Goku"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-6ed3c9a74ddcff3fc979",
+      "n": 6,
+      "previous_name": "Card 6",
+      "source_title": "Son Goku (Mini)",
+      "name": "Son Goku (Mini)"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-efbc62f7e41240e89afd",
+      "n": 7,
+      "previous_name": "Card 7",
+      "source_title": "Super Saiyan Goku (Mini)",
+      "name": "Super Saiyan Goku (Mini)"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-9d7db3e34ddb89575484",
+      "n": 8,
+      "previous_name": "Card 8",
+      "source_title": "Super Saiyan 2 Goku (Mini)",
+      "name": "Super Saiyan 2 Goku (Mini)"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-f9efd649c71a5ffd5b1d",
+      "n": 9,
+      "previous_name": "Card 9",
+      "source_title": "Super Saiyan 3 Goku (Mini)",
+      "name": "Super Saiyan 3 Goku (Mini)"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-7b7ff8056f7f8d56dcdc",
+      "n": 10,
+      "previous_name": "Card 10",
+      "source_title": "Super Saiyan 4 Goku (Mini)",
+      "name": "Super Saiyan 4 Goku (Mini)"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-93b48da9e48fdd49ca79",
+      "n": 11,
+      "previous_name": "Card 11",
+      "source_title": "Vegeta",
+      "name": "Vegeta"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-bdc22c5b267a5b9bd76f",
+      "n": 12,
+      "previous_name": "Card 12",
+      "source_title": "Super Saiyan Vegeta",
+      "name": "Super Saiyan Vegeta"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-f12c93cd4b902e963dbb",
+      "n": 13,
+      "previous_name": "Card 13",
+      "source_title": "Super Saiyan 3 Vegeta",
+      "name": "Super Saiyan 3 Vegeta"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-0bfad6fa9a59c4fcf63e",
+      "n": 14,
+      "previous_name": "Card 14",
+      "source_title": "Vegeta (Mini)",
+      "name": "Vegeta (Mini)"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-55c62d503f4aefb03823",
+      "n": 15,
+      "previous_name": "Card 15",
+      "source_title": "Super Saiyan Vegeta (Mini)",
+      "name": "Super Saiyan Vegeta (Mini)"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-d03ea90976eceb90c444",
+      "n": 16,
+      "previous_name": "Card 16",
+      "source_title": "Super Saiyan 2 Vegeta (Mini)",
+      "name": "Super Saiyan 2 Vegeta (Mini)"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-bc271b8d339f5d6a443c",
+      "n": 17,
+      "previous_name": "Card 17",
+      "source_title": "Super Saiyan 3 Vegeta (Mini)",
+      "name": "Super Saiyan 3 Vegeta (Mini)"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-374ed09df282c2d43fe6",
+      "n": 18,
+      "previous_name": "Card 18",
+      "source_title": "Shenron",
+      "name": "Shenron"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-df5e36e4385213ac4487",
+      "n": 19,
+      "previous_name": "Card 19",
+      "source_title": "Porunga",
+      "name": "Porunga"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-5d62de7702e431d205f6",
+      "n": 20,
+      "previous_name": "Card 20",
+      "source_title": "Piccolo",
+      "name": "Piccolo"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-8abd4a30cc7384bb5863",
+      "n": 21,
+      "previous_name": "Card 21",
+      "source_title": "Piccolo (Mini)",
+      "name": "Piccolo (Mini)"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-be6cb41dacfba2d4be67",
+      "n": 22,
+      "previous_name": "Card 22",
+      "source_title": "Supreme Kai",
+      "name": "Supreme Kai"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-310f40eba07f9cd17d36",
+      "n": 23,
+      "previous_name": "Card 23",
+      "source_title": "Supreme Kai (Mini)",
+      "name": "Supreme Kai (Mini)"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-34d89686486939d63606",
+      "n": 24,
+      "previous_name": "Card 24",
+      "source_title": "Kibito",
+      "name": "Kibito"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-39890b5930bf3931ec93",
+      "n": 25,
+      "previous_name": "Card 25",
+      "source_title": "Kibito (Mini)",
+      "name": "Kibito (Mini)"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-a3f0764133632dcda66f",
+      "n": 26,
+      "previous_name": "Card 26",
+      "source_title": "Bulma",
+      "name": "Bulma"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-6f8043e650d6f0e97a99",
+      "n": 27,
+      "previous_name": "Card 27",
+      "source_title": "Bulma (Mini)",
+      "name": "Bulma (Mini)"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-3eb1f427210d9e8c1aa4",
+      "n": 28,
+      "previous_name": "Card 28",
+      "source_title": "Krillin",
+      "name": "Krillin"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-d79fac6705eb8b0af37d",
+      "n": 29,
+      "previous_name": "Card 29",
+      "source_title": "Krillin (Mini)",
+      "name": "Krillin (Mini)"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-e2895d9df6d4184c8d65",
+      "n": 30,
+      "previous_name": "Card 30",
+      "source_title": "Android 18",
+      "name": "Android 18"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-2d747c26ff6d4f938fd2",
+      "n": 31,
+      "previous_name": "Card 31",
+      "source_title": "Android 18 (Mini)",
+      "name": "Android 18 (Mini)"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-780940465f3808640fbf",
+      "n": 32,
+      "previous_name": "Card 32",
+      "source_title": "Maaron",
+      "name": "Maaron"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-b5bc275776292e7a34e1",
+      "n": 33,
+      "previous_name": "Card 33",
+      "source_title": "Mr. Satan",
+      "name": "Mr. Satan"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-6313855a6ec380ae64a5",
+      "n": 34,
+      "previous_name": "Card 34",
+      "source_title": "Mr. Satan (Mini)",
+      "name": "Mr. Satan (Mini)"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-8cacc0809e984bb9991f",
+      "n": 35,
+      "previous_name": "Card 35",
+      "source_title": "Yamcha & Puar",
+      "name": "Yamcha y Puar"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-4029ec2ebab8b067c975",
+      "n": 36,
+      "previous_name": "Card 36",
+      "source_title": "Yamcha (Mini) & Puar (Mini)",
+      "name": "Yamcha (Mini) y Puar (Mini)"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-8a962f6abedd52579801",
+      "n": 37,
+      "previous_name": "Card 37",
+      "source_title": "Majin Buu",
+      "name": "Majin Buu"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-f217b7b68d0630456314",
+      "n": 38,
+      "previous_name": "Card 38",
+      "source_title": "Majin Buu (Mini)",
+      "name": "Majin Buu (Mini)"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-8f14082912415c120c34",
+      "n": 39,
+      "previous_name": "Card 39",
+      "source_title": "Gyumao",
+      "name": "Gyumao"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-3ea332e321ce79fe88dc",
+      "n": 40,
+      "previous_name": "Card 40",
+      "source_title": "Gyumao (Mini)",
+      "name": "Gyumao (Mini)"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-9abdfb3608ac3e667b8a",
+      "n": 41,
+      "previous_name": "Card 41",
+      "source_title": "Chichi",
+      "name": "Chichi"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-4829944b2cc2ba1f5a37",
+      "n": 42,
+      "previous_name": "Card 42",
+      "source_title": "Chichi (Mini)",
+      "name": "Chichi (Mini)"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-11371a19924368a71f93",
+      "n": 43,
+      "previous_name": "Card 43",
+      "source_title": "Son Goten",
+      "name": "Son Goten"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-2dcc29ea03311035b8e9",
+      "n": 44,
+      "previous_name": "Card 44",
+      "source_title": "Trunks",
+      "name": "Trunks"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-e048366d72190a574fbc",
+      "n": 45,
+      "previous_name": "Card 45",
+      "source_title": "Son Goten (Mini) / Trunks (Mini) / Maaron (Mini)",
+      "name": "Son Goten (Mini) / Trunks (Mini) / Maaron (Mini)"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-d3c1368fef8f08be2baa",
+      "n": 46,
+      "previous_name": "Card 46",
+      "source_title": "Oolong",
+      "name": "Oolong"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-6abac3f6d9feda96b1e2",
+      "n": 47,
+      "previous_name": "Card 47",
+      "source_title": "Oolong (Mini)",
+      "name": "Oolong (Mini)"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-80396626d6e1fc7b6f8c",
+      "n": 48,
+      "previous_name": "Card 48",
+      "source_title": "Kamesennin",
+      "name": "Kamesennin"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-a2f0ce256e95c0d2874a",
+      "n": 49,
+      "previous_name": "Card 49",
+      "source_title": "Kamesennin (Mini)",
+      "name": "Kamesennin (Mini)"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-acdb587fb9691b143e23",
+      "n": 50,
+      "previous_name": "Card 50",
+      "source_title": "Dende",
+      "name": "Dende"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-5379172c99857342faf9",
+      "n": 51,
+      "previous_name": "Card 51",
+      "source_title": "Dende (Mini)",
+      "name": "Dende (Mini)"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-9a4cc345f9df1c1591dd",
+      "n": 52,
+      "previous_name": "Card 52",
+      "source_title": "Mr. Popo",
+      "name": "Mr. Popo"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-5969a0b9af36bfaedd8a",
+      "n": 53,
+      "previous_name": "Card 53",
+      "source_title": "Mr. Popo (Mini)",
+      "name": "Mr. Popo (Mini)"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-69a1ef6ab5e6c35da23c",
+      "n": 54,
+      "previous_name": "Card 54",
+      "source_title": "Karin",
+      "name": "Karin"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-2ef9253d4824df775767",
+      "n": 55,
+      "previous_name": "Card 55",
+      "source_title": "Glorio",
+      "name": "Glorio"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-be0804db7e136528334d",
+      "n": 56,
+      "previous_name": "Card 56",
+      "source_title": "Glorio",
+      "name": "Glorio"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-16883fdd7c1c5236d5e4",
+      "n": 57,
+      "previous_name": "Card 57",
+      "source_title": "Panzy",
+      "name": "Panzy"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-66a9aec33bab20daab41",
+      "n": 58,
+      "previous_name": "Card 58",
+      "source_title": "Masked Majin",
+      "name": "Masked Majin"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-f3e0ac0b8b7d8d416965",
+      "n": 59,
+      "previous_name": "Card 59",
+      "source_title": "Hybis",
+      "name": "Hybis"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-d83a494d74aa772f7746",
+      "n": 60,
+      "previous_name": "Card 60",
+      "source_title": "Neva",
+      "name": "Neva"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-efb85c257695095c144d",
+      "n": 61,
+      "previous_name": "Card 61",
+      "source_title": "Tamagami Number One",
+      "name": "Tamagami Number One"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-3ec105dca85953826afc",
+      "n": 62,
+      "previous_name": "Card 62",
+      "source_title": "Tamagami Number Two",
+      "name": "Tamagami Number Two"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-5d969796161b054be15a",
+      "n": 63,
+      "previous_name": "Card 63",
+      "source_title": "Tamagami Number Three",
+      "name": "Tamagami Number Three"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-829d592c0872924f8943",
+      "n": 64,
+      "previous_name": "Card 64",
+      "source_title": "Kadan",
+      "name": "Kadan"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-0a3c406756b465d38cc3",
+      "n": 65,
+      "previous_name": "Card 65",
+      "source_title": "Kadan Army",
+      "name": "Kadan Army"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-3913ebac18bfa21434a9",
+      "n": 66,
+      "previous_name": "Card 66",
+      "source_title": "Minotaur",
+      "name": "Minotaur"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-820bcc30fc4d375f5429",
+      "n": 67,
+      "previous_name": "Card 67",
+      "source_title": "Megath Child",
+      "name": "Megath Child"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-dc4609b15613153147a4",
+      "n": 68,
+      "previous_name": "Card 68",
+      "source_title": "Supreme Demon King Abura",
+      "name": "Supreme Demon King Abura"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-9ad80c38d7bd717b2541",
+      "n": 69,
+      "previous_name": "Card 69",
+      "source_title": "Third Eye Abura",
+      "name": "Third Eye Abura"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-013a9051737e9cb860c4",
+      "n": 70,
+      "previous_name": "Card 70",
+      "source_title": "Dabura",
+      "name": "Dabura"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-9fb4d735fbe831f702e5",
+      "n": 71,
+      "previous_name": "Card 71",
+      "source_title": "Gomah",
+      "name": "Gomah"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-1b8550bada732826c794",
+      "n": 72,
+      "previous_name": "Card 72",
+      "source_title": "Third Eye Gomah",
+      "name": "Third Eye Gomah"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-bb132a4f1779810cf24a",
+      "n": 73,
+      "previous_name": "Card 73",
+      "source_title": "Degesu",
+      "name": "Degesu"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-3fb5ee42f6c6c8377d62",
+      "n": 74,
+      "previous_name": "Card 74",
+      "source_title": "Gendarmerie Officer",
+      "name": "Gendarmerie Officer"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-1078bb2ab0bf23b69753",
+      "n": 75,
+      "previous_name": "Card 75",
+      "source_title": "Gendarmerie Force",
+      "name": "Gendarmerie Force"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-ec91fec1aa601ed68375",
+      "n": 76,
+      "previous_name": "Card 76",
+      "source_title": "Dr. Arinsu",
+      "name": "Dr. Arinsu"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-d653e96606bacdce89c3",
+      "n": 77,
+      "previous_name": "Card 77",
+      "source_title": "Marba",
+      "name": "Marba"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-96553d59788b8f4e474e",
+      "n": 78,
+      "previous_name": "Card 78",
+      "source_title": "Majin Kuu",
+      "name": "Majin Kuu"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-4651faa195cc2ac7401b",
+      "n": 79,
+      "previous_name": "Card 79",
+      "source_title": "King Kuu",
+      "name": "King Kuu"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-f5cfa0f6bdbc97f648d5",
+      "n": 80,
+      "previous_name": "Card 80",
+      "source_title": "Majin Duu",
+      "name": "Majin Duu"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-69a032ae26b9427727b3",
+      "n": 81,
+      "previous_name": "Card 81",
+      "source_title": "Powered up Majin Duu",
+      "name": "Powered up Majin Duu"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-f7260eae1cffc2cd8a88",
+      "n": 82,
+      "previous_name": "Card 82",
+      "source_title": "Mecha 1",
+      "name": "Mecha 1"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-08febb7c67f6a97e5cec",
+      "n": 83,
+      "previous_name": "Card 83",
+      "source_title": "Mecha 2",
+      "name": "Mecha 2"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-27a1424a4cfaaa16d4c7",
+      "n": 84,
+      "previous_name": "Card 84",
+      "source_title": "Mecha 3",
+      "name": "Mecha 3"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-61519885a22f4e49af36",
+      "n": 85,
+      "previous_name": "Card 85",
+      "source_title": "Mecha 4",
+      "name": "Mecha 4"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-a4666f954031543ba1c8",
+      "n": 86,
+      "previous_name": "Card 86",
+      "source_title": "Mecha 5",
+      "name": "Mecha 5"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-2b7457c614fbb0cddd4a",
+      "n": 87,
+      "previous_name": "Card 87",
+      "source_title": "Mecha 6",
+      "name": "Mecha 6"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-02dcdfb919aba383b1c7",
+      "n": 88,
+      "previous_name": "Card 88",
+      "source_title": "Mecha 7",
+      "name": "Mecha 7"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-3ef701ddec6a7b109817",
+      "n": 89,
+      "previous_name": "Card 89",
+      "source_title": "Mecha 8",
+      "name": "Mecha 8"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-9281d6746249fe95c181",
+      "n": 90,
+      "previous_name": "Card 90",
+      "source_title": "Mecha 9",
+      "name": "Mecha 9"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-e388ee690de48767b4f6",
+      "n": 91,
+      "previous_name": "Card 91",
+      "source_title": "Son Goku (Mini)",
+      "name": "Son Goku (Mini)"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-45da4d29992f9352b09f",
+      "n": 92,
+      "previous_name": "Card 92",
+      "source_title": "Vegeta (Mini)",
+      "name": "Vegeta (Mini)"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-218233b349d0801574cb",
+      "n": 93,
+      "previous_name": "Card 93",
+      "source_title": "Piccolo (Mini)",
+      "name": "Piccolo (Mini)"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-5b199595b658ccd42079",
+      "n": 94,
+      "previous_name": "Card 94",
+      "source_title": "Supreme Kai (Mini)",
+      "name": "Supreme Kai (Mini)"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-a3783ea30d20e8f9f0a2",
+      "n": 95,
+      "previous_name": "Card 95",
+      "source_title": "Glorio",
+      "name": "Glorio"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-d16349924280159031f2",
+      "n": 96,
+      "previous_name": "Card 96",
+      "source_title": "Panzy",
+      "name": "Panzy"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-f33d9813d305445e76c3",
+      "n": 97,
+      "previous_name": "Card 97",
+      "source_title": "Bulma (Mini)",
+      "name": "Bulma (Mini)"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-6d8742727c0ff9d627a1",
+      "n": 98,
+      "previous_name": "Card 98",
+      "source_title": "Third Eye Gomah",
+      "name": "Third Eye Gomah"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-af22cf797c4eb82a2566",
+      "n": 99,
+      "previous_name": "Card 99",
+      "source_title": "Degesu",
+      "name": "Degesu"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-442e9eff437f3f66f65c",
+      "n": 100,
+      "previous_name": "Card 100",
+      "source_title": "Dragon Balls and Shenron",
+      "name": "Bolas de Dragón y Shenron"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-c460472600667991130f",
+      "n": 101,
+      "previous_name": "Card 101",
+      "source_title": "Son Goku & Vegeta (Mini)",
+      "name": "Son Goku y Vegeta (Mini)"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-da822ee9d536fd72360e",
+      "n": 102,
+      "previous_name": "Card 102",
+      "source_title": "Son Goku & Vegeta (Mini)",
+      "name": "Son Goku y Vegeta (Mini)"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-c476114b56205f83586e",
+      "n": 103,
+      "previous_name": "Card 103",
+      "source_title": "Daima Group 1",
+      "name": "Grupo Daima 1"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-46e3e1c97bd1fdc934da",
+      "n": 104,
+      "previous_name": "Card 104",
+      "source_title": "Daima Group 1",
+      "name": "Grupo Daima 1"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-bef0e577bb6573d2005c",
+      "n": 105,
+      "previous_name": "Card 105",
+      "source_title": "Daima Group 1",
+      "name": "Grupo Daima 1"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-114bb8a805d616dd172d",
+      "n": 106,
+      "previous_name": "Card 106",
+      "source_title": "Daima Group 1",
+      "name": "Grupo Daima 1"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-f2fee143db83e0169805",
+      "n": 107,
+      "previous_name": "Card 107",
+      "source_title": "Daima Group 1",
+      "name": "Grupo Daima 1"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-d71ffebca3152c59e8d8",
+      "n": 108,
+      "previous_name": "Card 108",
+      "source_title": "Daima Group 1",
+      "name": "Grupo Daima 1"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-fb6340adea2b428481df",
+      "n": 109,
+      "previous_name": "Card 109",
+      "source_title": "Daima Group 2",
+      "name": "Grupo Daima 2"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-10e4d5cbaf53a0a46656",
+      "n": 110,
+      "previous_name": "Card 110",
+      "source_title": "Daima Group 2",
+      "name": "Grupo Daima 2"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-d294d51133a0f119c93d",
+      "n": 111,
+      "previous_name": "Card 111",
+      "source_title": "Daima Group 2",
+      "name": "Grupo Daima 2"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-6140554d8caf77a5b73d",
+      "n": 112,
+      "previous_name": "Card 112",
+      "source_title": "Daima Group 2",
+      "name": "Grupo Daima 2"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-4ac6670cbb5f5f1605b6",
+      "n": 113,
+      "previous_name": "Card 113",
+      "source_title": "Daima Group 2",
+      "name": "Grupo Daima 2"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-e0502255693944e0d52d",
+      "n": 114,
+      "previous_name": "Card 114",
+      "source_title": "Daima Group 2",
+      "name": "Grupo Daima 2"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-44da1c415845e07beb05",
+      "n": 115,
+      "previous_name": "Card 115",
+      "source_title": "Daima Group 2",
+      "name": "Grupo Daima 2"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-af7e3687db84e3d4f3a4",
+      "n": 116,
+      "previous_name": "Card 116",
+      "source_title": "Daima Group 2",
+      "name": "Grupo Daima 2"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-37290da62e4ec67a06d5",
+      "n": 117,
+      "previous_name": "Card 117",
+      "source_title": "Daima Group 2",
+      "name": "Grupo Daima 2"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-b45241f50db086348528",
+      "n": 118,
+      "previous_name": "Card 118",
+      "source_title": "Daima Group 3",
+      "name": "Grupo Daima 3"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-568d7a98e4b1b5fc4a1d",
+      "n": 119,
+      "previous_name": "Card 119",
+      "source_title": "Daima Group 3",
+      "name": "Grupo Daima 3"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-d87372c0f3e59708d91e",
+      "n": 120,
+      "previous_name": "Card 120",
+      "source_title": "Daima Group 3",
+      "name": "Grupo Daima 3"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-c557914d3cfeacc03587",
+      "n": 121,
+      "previous_name": "Card 121",
+      "source_title": "Daima Group 3",
+      "name": "Grupo Daima 3"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-33beb5950425f7738818",
+      "n": 122,
+      "previous_name": "Card 122",
+      "source_title": "Daima Group 3",
+      "name": "Grupo Daima 3"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-f551068cc39c0987b8c9",
+      "n": 123,
+      "previous_name": "Card 123",
+      "source_title": "Daima Group 3",
+      "name": "Grupo Daima 3"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-556ddb96c44e6e974397",
+      "n": 124,
+      "previous_name": "Card 124",
+      "source_title": "Daima Group 3",
+      "name": "Grupo Daima 3"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-9673987565dfd31d6754",
+      "n": 125,
+      "previous_name": "Card 125",
+      "source_title": "Daima Group 3",
+      "name": "Grupo Daima 3"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-1510946138a6b86e1a0e",
+      "n": 126,
+      "previous_name": "Card 126",
+      "source_title": "Daima Group 3",
+      "name": "Grupo Daima 3"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-bee2d6b0c28b7670fef7",
+      "n": 127,
+      "previous_name": "Card 127",
+      "source_title": "Daima Group 4",
+      "name": "Grupo Daima 4"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-b2c1e1b7453d25b9d9ca",
+      "n": 128,
+      "previous_name": "Card 128",
+      "source_title": "Daima Group 4",
+      "name": "Grupo Daima 4"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-caf0b15011cc574cd7a8",
+      "n": 129,
+      "previous_name": "Card 129",
+      "source_title": "Daima Group 4",
+      "name": "Grupo Daima 4"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-ca732acaeebce1552816",
+      "n": 130,
+      "previous_name": "Card 130",
+      "source_title": "Daima Group 4",
+      "name": "Grupo Daima 4"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-0ea2f78d848a1a8fd002",
+      "n": 131,
+      "previous_name": "Card 131",
+      "source_title": "Daima Group 4",
+      "name": "Grupo Daima 4"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-2fdfcbef36f1fbcfa21f",
+      "n": 132,
+      "previous_name": "Card 132",
+      "source_title": "Daima Group 4",
+      "name": "Grupo Daima 4"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-f43cd16d0afb4dd085af",
+      "n": 133,
+      "previous_name": "Card 133",
+      "source_title": "Daima Group 4",
+      "name": "Grupo Daima 4"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-4ea3d6235b377c39b67a",
+      "n": 134,
+      "previous_name": "Card 134",
+      "source_title": "Daima Group 4",
+      "name": "Grupo Daima 4"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-1fda0ebc3521b905f46d",
+      "n": 135,
+      "previous_name": "Card 135",
+      "source_title": "Daima Group 4",
+      "name": "Grupo Daima 4"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-8de5b60f3f3781cc483c",
+      "n": 136,
+      "previous_name": "Card 136",
+      "source_title": "Episode 1",
+      "name": "Episodio 1"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-d5a9d63dfb798c31c783",
+      "n": 137,
+      "previous_name": "Card 137",
+      "source_title": "Episode 1 highlight 1",
+      "name": "Episodio 1 · momento destacado 1"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-1c855c73885342bb7abe",
+      "n": 138,
+      "previous_name": "Card 138",
+      "source_title": "Episode 1 highlight 2",
+      "name": "Episodio 1 · momento destacado 2"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-fa386478092956487900",
+      "n": 139,
+      "previous_name": "Card 139",
+      "source_title": "Episode 2",
+      "name": "Episodio 2"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-0fb7c4bc4384dd52e4f9",
+      "n": 140,
+      "previous_name": "Card 140",
+      "source_title": "Episode 2 highlight 1",
+      "name": "Episodio 2 · momento destacado 1"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-cbbe84d2e5a66f6ed7fb",
+      "n": 141,
+      "previous_name": "Card 141",
+      "source_title": "Episode 2 highlight 2",
+      "name": "Episodio 2 · momento destacado 2"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-8454097b451d33c95910",
+      "n": 142,
+      "previous_name": "Card 142",
+      "source_title": "Episode 3",
+      "name": "Episodio 3"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-e37ef422062791787a1e",
+      "n": 143,
+      "previous_name": "Card 143",
+      "source_title": "Episode 3 highlight 1",
+      "name": "Episodio 3 · momento destacado 1"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-261cc19b7c0a21977164",
+      "n": 144,
+      "previous_name": "Card 144",
+      "source_title": "Episode 3 highlight 2",
+      "name": "Episodio 3 · momento destacado 2"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-e75a055874400abecbf1",
+      "n": 145,
+      "previous_name": "Card 145",
+      "source_title": "Episode 4",
+      "name": "Episodio 4"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-bd086a345713e895f4e7",
+      "n": 146,
+      "previous_name": "Card 146",
+      "source_title": "Episode 4 highlight 1",
+      "name": "Episodio 4 · momento destacado 1"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-358afd0120af9f94312b",
+      "n": 147,
+      "previous_name": "Card 147",
+      "source_title": "Episode 4 highlight 2",
+      "name": "Episodio 4 · momento destacado 2"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-54035040b7140ab30af4",
+      "n": 148,
+      "previous_name": "Card 148",
+      "source_title": "Episode 5",
+      "name": "Episodio 5"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-0c069eff7f9693c4d49f",
+      "n": 149,
+      "previous_name": "Card 149",
+      "source_title": "Episode 5 highlight 1",
+      "name": "Episodio 5 · momento destacado 1"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-bf0c6d796d0761c82e07",
+      "n": 150,
+      "previous_name": "Card 150",
+      "source_title": "Episode 5 highlight 2",
+      "name": "Episodio 5 · momento destacado 2"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-6b4eb740b3479330d4a4",
+      "n": 151,
+      "previous_name": "Card 151",
+      "source_title": "Episode 6",
+      "name": "Episodio 6"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-d0338171d88da673059a",
+      "n": 152,
+      "previous_name": "Card 152",
+      "source_title": "Episode 6 highlight 1",
+      "name": "Episodio 6 · momento destacado 1"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-4547d77c4dbecd04f875",
+      "n": 153,
+      "previous_name": "Card 153",
+      "source_title": "Episode 6 highlight 2",
+      "name": "Episodio 6 · momento destacado 2"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-00c3a478a587c6402835",
+      "n": 154,
+      "previous_name": "Card 154",
+      "source_title": "Episode 7",
+      "name": "Episodio 7"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-839def83d3bbe98c4ae3",
+      "n": 155,
+      "previous_name": "Card 155",
+      "source_title": "Episode 7 highlight 1",
+      "name": "Episodio 7 · momento destacado 1"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-e35cce771f9958fef60f",
+      "n": 156,
+      "previous_name": "Card 156",
+      "source_title": "Episode 7 highlight 2",
+      "name": "Episodio 7 · momento destacado 2"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-1749e2573c6720775041",
+      "n": 157,
+      "previous_name": "Card 157",
+      "source_title": "Episode 8",
+      "name": "Episodio 8"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-e6ee0c7236bec958a0ce",
+      "n": 158,
+      "previous_name": "Card 158",
+      "source_title": "Episode 8 highlight 1",
+      "name": "Episodio 8 · momento destacado 1"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-ec235029dda16e65a53c",
+      "n": 159,
+      "previous_name": "Card 159",
+      "source_title": "Episode 8 highlight 2",
+      "name": "Episodio 8 · momento destacado 2"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-b8ea66ebb5d80e803279",
+      "n": 160,
+      "previous_name": "Card 160",
+      "source_title": "Episode 9",
+      "name": "Episodio 9"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-dd84b99e92fafd8c0c99",
+      "n": 161,
+      "previous_name": "Card 161",
+      "source_title": "Episode 9 highlight 1",
+      "name": "Episodio 9 · momento destacado 1"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-d2bd955933d2340703f9",
+      "n": 162,
+      "previous_name": "Card 162",
+      "source_title": "Episode 9 highlight 2",
+      "name": "Episodio 9 · momento destacado 2"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-8362963c85ecb4269d86",
+      "n": 163,
+      "previous_name": "Card 163",
+      "source_title": "Episode 10",
+      "name": "Episodio 10"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-2bcdead9d57ad46d2864",
+      "n": 164,
+      "previous_name": "Card 164",
+      "source_title": "Episode 10 highlight 1",
+      "name": "Episodio 10 · momento destacado 1"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-d1cbc6eeb5f8c6e5dfca",
+      "n": 165,
+      "previous_name": "Card 165",
+      "source_title": "Episode 10 highlight 2",
+      "name": "Episodio 10 · momento destacado 2"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-499019947c379507a303",
+      "n": 166,
+      "previous_name": "Card 166",
+      "source_title": "Episode 11",
+      "name": "Episodio 11"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-94250bb7e9bfb76cc4ea",
+      "n": 167,
+      "previous_name": "Card 167",
+      "source_title": "Episode 11 highlight 1",
+      "name": "Episodio 11 · momento destacado 1"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-2d7464712f561ff92117",
+      "n": 168,
+      "previous_name": "Card 168",
+      "source_title": "Episode 11 highlight 2",
+      "name": "Episodio 11 · momento destacado 2"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-67b12091eb1a3fedb705",
+      "n": 169,
+      "previous_name": "Card 169",
+      "source_title": "Episode 12",
+      "name": "Episodio 12"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-4061edb6808d6275a2bb",
+      "n": 170,
+      "previous_name": "Card 170",
+      "source_title": "Episode 12 highlight 1",
+      "name": "Episodio 12 · momento destacado 1"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-1b0b8f2327f773b9035f",
+      "n": 171,
+      "previous_name": "Card 171",
+      "source_title": "Episode 12 highlight 2",
+      "name": "Episodio 12 · momento destacado 2"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-95b47c7dcca3eed0c963",
+      "n": 172,
+      "previous_name": "Card 172",
+      "source_title": "Episode 13",
+      "name": "Episodio 13"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-a16790222674c3ae3039",
+      "n": 173,
+      "previous_name": "Card 173",
+      "source_title": "Episode 13 highlight 1",
+      "name": "Episodio 13 · momento destacado 1"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-82e306150ea90a610bac",
+      "n": 174,
+      "previous_name": "Card 174",
+      "source_title": "Episode 13 highlight 2",
+      "name": "Episodio 13 · momento destacado 2"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-78d47dd72a6738d46bea",
+      "n": 175,
+      "previous_name": "Card 175",
+      "source_title": "Episode 14",
+      "name": "Episodio 14"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-690801d803c24a637568",
+      "n": 176,
+      "previous_name": "Card 176",
+      "source_title": "Episode 14 highlight 1",
+      "name": "Episodio 14 · momento destacado 1"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-3054ce20930deb6fc153",
+      "n": 177,
+      "previous_name": "Card 177",
+      "source_title": "Episode 14 highlight 2",
+      "name": "Episodio 14 · momento destacado 2"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-3cf9ee2be81b1cba79f0",
+      "n": 178,
+      "previous_name": "Card 178",
+      "source_title": "Episode 15",
+      "name": "Episodio 15"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-551e5051bf38a47fd3d0",
+      "n": 179,
+      "previous_name": "Card 179",
+      "source_title": "Episode 15 highlight 1",
+      "name": "Episodio 15 · momento destacado 1"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-aac7dfe649e54516aa09",
+      "n": 180,
+      "previous_name": "Card 180",
+      "source_title": "Episode 15 highlight 2",
+      "name": "Episodio 15 · momento destacado 2"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-fb4222163863b0879f61",
+      "n": 181,
+      "previous_name": "Card 181",
+      "source_title": "Episode 16",
+      "name": "Episodio 16"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-18002881cb4640065720",
+      "n": 182,
+      "previous_name": "Card 182",
+      "source_title": "Episode 16 highlight 1",
+      "name": "Episodio 16 · momento destacado 1"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-64006dd6dae62eb1c3bd",
+      "n": 183,
+      "previous_name": "Card 183",
+      "source_title": "Episode 16 highlight 2",
+      "name": "Episodio 16 · momento destacado 2"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-3fc7a0b559b539ce9909",
+      "n": 184,
+      "previous_name": "Card 184",
+      "source_title": "Episode 17",
+      "name": "Episodio 17"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-497ca0088abfe8982a4a",
+      "n": 185,
+      "previous_name": "Card 185",
+      "source_title": "Episode 17 highlight 1",
+      "name": "Episodio 17 · momento destacado 1"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-b461ebd148dc9220c60d",
+      "n": 186,
+      "previous_name": "Card 186",
+      "source_title": "Episode 17 highlight 2",
+      "name": "Episodio 17 · momento destacado 2"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-8f7ab3b1c77f451cf53a",
+      "n": 187,
+      "previous_name": "Card 187",
+      "source_title": "Episode 18",
+      "name": "Episodio 18"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-56ded85c97fc73bf4284",
+      "n": 188,
+      "previous_name": "Card 188",
+      "source_title": "Episode 18 highlight 1",
+      "name": "Episodio 18 · momento destacado 1"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-a981c07d1045dd032c28",
+      "n": 189,
+      "previous_name": "Card 189",
+      "source_title": "Episode 18 highlight 2",
+      "name": "Episodio 18 · momento destacado 2"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-5176ef51c2b42bbc1c9a",
+      "n": 190,
+      "previous_name": "Card 190",
+      "source_title": "Episode 19",
+      "name": "Episodio 19"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-a36be0cc85a423179a53",
+      "n": 191,
+      "previous_name": "Card 191",
+      "source_title": "Episode 19 highlight 1",
+      "name": "Episodio 19 · momento destacado 1"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-7962b2d0f486f00d899e",
+      "n": 192,
+      "previous_name": "Card 192",
+      "source_title": "Episode 19 highlight 2",
+      "name": "Episodio 19 · momento destacado 2"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-480e25bdab624b1b5699",
+      "n": 193,
+      "previous_name": "Card 193",
+      "source_title": "Episode 20",
+      "name": "Episodio 20"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-4c34a8240d879ebaae76",
+      "n": 194,
+      "previous_name": "Card 194",
+      "source_title": "Episode 20 highlight 1",
+      "name": "Episodio 20 · momento destacado 1"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-899dc45d19b2b1096dc2",
+      "n": 195,
+      "previous_name": "Card 195",
+      "source_title": "Episode 20 highlight 2",
+      "name": "Episodio 20 · momento destacado 2"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-fdd86142e0167d1717e9",
+      "n": 196,
+      "previous_name": "Card 196",
+      "source_title": "Episode 20 highlight 3",
+      "name": "Episodio 20 · momento destacado 3"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-b2e3d6923c4f1a56335c",
+      "n": 197,
+      "previous_name": "Card 197",
+      "source_title": "Episode 20 highlight 4",
+      "name": "Episodio 20 · momento destacado 4"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-5942bfbe14f56c322e01",
+      "n": 198,
+      "previous_name": "Card 198",
+      "source_title": "Episode 20 highlight 5",
+      "name": "Episodio 20 · momento destacado 5"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-1e81646671de8862ac15",
+      "n": 199,
+      "previous_name": "Card 199",
+      "source_title": "Son Goku",
+      "name": "Son Goku"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-9e95d0b834970a5e8a04",
+      "n": 200,
+      "previous_name": "Card 200",
+      "source_title": "Son Goku (Mini)",
+      "name": "Son Goku (Mini)"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-3fd33f9eef78f977db51",
+      "n": 201,
+      "previous_name": "Card 201",
+      "source_title": "Vegeta (Mini)",
+      "name": "Vegeta (Mini)"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-f049f192d4167f822c62",
+      "n": 202,
+      "previous_name": "Card 202",
+      "source_title": "Glorio",
+      "name": "Glorio"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-50711407d254a6cca274",
+      "n": 203,
+      "previous_name": "Card 203",
+      "source_title": "Panzy",
+      "name": "Panzy"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-d98b63899877b49b8638",
+      "n": 204,
+      "previous_name": "Card 204",
+      "source_title": "Piccolo (Mini)",
+      "name": "Piccolo (Mini)"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-ea87e1c42157ce54c0b0",
+      "n": 205,
+      "previous_name": "Card 205",
+      "source_title": "Supreme Kai (Mini)",
+      "name": "Supreme Kai (Mini)"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-264d5bee9c5b0b0fffdc",
+      "n": 206,
+      "previous_name": "Card 206",
+      "source_title": "Gomah",
+      "name": "Gomah"
+    },
+    {
+      "id": "panini-dragon-ball-daima-tcg-1a8f0307f139319e0fc8",
+      "n": 207,
+      "previous_name": "Card 207",
+      "source_title": "Demon Realm Dragon",
+      "name": "Dragón del Reino Demoníaco"
+    }
+  ]
+}
