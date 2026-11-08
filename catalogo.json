@@ -190095,7 +190095,7 @@
         {
           "n": 1,
           "original_identifier": "1",
-          "player": "Card 1",
+          "player": "Son Goku",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:1",
@@ -190111,12 +190111,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-8831223cda2028f442d5"
+          "id": "panini-dragon-ball-daima-tcg-8831223cda2028f442d5",
+          "original_name": "Son Goku"
         },
         {
           "n": 2,
           "original_identifier": "2",
-          "player": "Card 2",
+          "player": "Super Saiyan Goku",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:2",
@@ -190132,12 +190133,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-5871fc03c9db73b4c3d8"
+          "id": "panini-dragon-ball-daima-tcg-5871fc03c9db73b4c3d8",
+          "original_name": "Super Saiyan Goku"
         },
         {
           "n": 3,
           "original_identifier": "3",
-          "player": "Card 3",
+          "player": "Super Saiyan 2 Goku",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:3",
@@ -190153,12 +190155,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-6845427f830f56d3687d"
+          "id": "panini-dragon-ball-daima-tcg-6845427f830f56d3687d",
+          "original_name": "Super Saiyan 2 Goku"
         },
         {
           "n": 4,
           "original_identifier": "4",
-          "player": "Card 4",
+          "player": "Super Saiyan 3 Goku",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:4",
@@ -190174,12 +190177,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-598649171abafb7fc1b0"
+          "id": "panini-dragon-ball-daima-tcg-598649171abafb7fc1b0",
+          "original_name": "Super Saiyan 3 Goku"
         },
         {
           "n": 5,
           "original_identifier": "5",
-          "player": "Card 5",
+          "player": "Super Saiyan 4 Goku",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:5",
@@ -190195,12 +190199,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-4b14031c59b184ae928a"
+          "id": "panini-dragon-ball-daima-tcg-4b14031c59b184ae928a",
+          "original_name": "Super Saiyan 4 Goku"
         },
         {
           "n": 6,
           "original_identifier": "6",
-          "player": "Card 6",
+          "player": "Son Goku (Mini)",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:6",
@@ -190216,12 +190221,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-6ed3c9a74ddcff3fc979"
+          "id": "panini-dragon-ball-daima-tcg-6ed3c9a74ddcff3fc979",
+          "original_name": "Son Goku (Mini)"
         },
         {
           "n": 7,
           "original_identifier": "7",
-          "player": "Card 7",
+          "player": "Super Saiyan Goku (Mini)",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:7",
@@ -190237,12 +190243,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-efbc62f7e41240e89afd"
+          "id": "panini-dragon-ball-daima-tcg-efbc62f7e41240e89afd",
+          "original_name": "Super Saiyan Goku (Mini)"
         },
         {
           "n": 8,
           "original_identifier": "8",
-          "player": "Card 8",
+          "player": "Super Saiyan 2 Goku (Mini)",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:8",
@@ -190258,12 +190265,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-9d7db3e34ddb89575484"
+          "id": "panini-dragon-ball-daima-tcg-9d7db3e34ddb89575484",
+          "original_name": "Super Saiyan 2 Goku (Mini)"
         },
         {
           "n": 9,
           "original_identifier": "9",
-          "player": "Card 9",
+          "player": "Super Saiyan 3 Goku (Mini)",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:9",
@@ -190279,12 +190287,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-f9efd649c71a5ffd5b1d"
+          "id": "panini-dragon-ball-daima-tcg-f9efd649c71a5ffd5b1d",
+          "original_name": "Super Saiyan 3 Goku (Mini)"
         },
         {
           "n": 10,
           "original_identifier": "10",
-          "player": "Card 10",
+          "player": "Super Saiyan 4 Goku (Mini)",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:10",
@@ -190300,12 +190309,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-7b7ff8056f7f8d56dcdc"
+          "id": "panini-dragon-ball-daima-tcg-7b7ff8056f7f8d56dcdc",
+          "original_name": "Super Saiyan 4 Goku (Mini)"
         },
         {
           "n": 11,
           "original_identifier": "11",
-          "player": "Card 11",
+          "player": "Vegeta",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:11",
@@ -190321,12 +190331,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-93b48da9e48fdd49ca79"
+          "id": "panini-dragon-ball-daima-tcg-93b48da9e48fdd49ca79",
+          "original_name": "Vegeta"
         },
         {
           "n": 12,
           "original_identifier": "12",
-          "player": "Card 12",
+          "player": "Super Saiyan Vegeta",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:12",
@@ -190342,12 +190353,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-bdc22c5b267a5b9bd76f"
+          "id": "panini-dragon-ball-daima-tcg-bdc22c5b267a5b9bd76f",
+          "original_name": "Super Saiyan Vegeta"
         },
         {
           "n": 13,
           "original_identifier": "13",
-          "player": "Card 13",
+          "player": "Super Saiyan 3 Vegeta",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:13",
@@ -190363,12 +190375,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-f12c93cd4b902e963dbb"
+          "id": "panini-dragon-ball-daima-tcg-f12c93cd4b902e963dbb",
+          "original_name": "Super Saiyan 3 Vegeta"
         },
         {
           "n": 14,
           "original_identifier": "14",
-          "player": "Card 14",
+          "player": "Vegeta (Mini)",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:14",
@@ -190384,12 +190397,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-0bfad6fa9a59c4fcf63e"
+          "id": "panini-dragon-ball-daima-tcg-0bfad6fa9a59c4fcf63e",
+          "original_name": "Vegeta (Mini)"
         },
         {
           "n": 15,
           "original_identifier": "15",
-          "player": "Card 15",
+          "player": "Super Saiyan Vegeta (Mini)",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:15",
@@ -190405,12 +190419,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-55c62d503f4aefb03823"
+          "id": "panini-dragon-ball-daima-tcg-55c62d503f4aefb03823",
+          "original_name": "Super Saiyan Vegeta (Mini)"
         },
         {
           "n": 16,
           "original_identifier": "16",
-          "player": "Card 16",
+          "player": "Super Saiyan 2 Vegeta (Mini)",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:16",
@@ -190426,12 +190441,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-d03ea90976eceb90c444"
+          "id": "panini-dragon-ball-daima-tcg-d03ea90976eceb90c444",
+          "original_name": "Super Saiyan 2 Vegeta (Mini)"
         },
         {
           "n": 17,
           "original_identifier": "17",
-          "player": "Card 17",
+          "player": "Super Saiyan 3 Vegeta (Mini)",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:17",
@@ -190447,12 +190463,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-bc271b8d339f5d6a443c"
+          "id": "panini-dragon-ball-daima-tcg-bc271b8d339f5d6a443c",
+          "original_name": "Super Saiyan 3 Vegeta (Mini)"
         },
         {
           "n": 18,
           "original_identifier": "18",
-          "player": "Card 18",
+          "player": "Shenron",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:18",
@@ -190468,12 +190485,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-374ed09df282c2d43fe6"
+          "id": "panini-dragon-ball-daima-tcg-374ed09df282c2d43fe6",
+          "original_name": "Shenron"
         },
         {
           "n": 19,
           "original_identifier": "19",
-          "player": "Card 19",
+          "player": "Porunga",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:19",
@@ -190489,12 +190507,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-df5e36e4385213ac4487"
+          "id": "panini-dragon-ball-daima-tcg-df5e36e4385213ac4487",
+          "original_name": "Porunga"
         },
         {
           "n": 20,
           "original_identifier": "20",
-          "player": "Card 20",
+          "player": "Piccolo",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:20",
@@ -190510,12 +190529,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-5d62de7702e431d205f6"
+          "id": "panini-dragon-ball-daima-tcg-5d62de7702e431d205f6",
+          "original_name": "Piccolo"
         },
         {
           "n": 21,
           "original_identifier": "21",
-          "player": "Card 21",
+          "player": "Piccolo (Mini)",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:21",
@@ -190531,12 +190551,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-8abd4a30cc7384bb5863"
+          "id": "panini-dragon-ball-daima-tcg-8abd4a30cc7384bb5863",
+          "original_name": "Piccolo (Mini)"
         },
         {
           "n": 22,
           "original_identifier": "22",
-          "player": "Card 22",
+          "player": "Supreme Kai",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:22",
@@ -190552,12 +190573,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-be6cb41dacfba2d4be67"
+          "id": "panini-dragon-ball-daima-tcg-be6cb41dacfba2d4be67",
+          "original_name": "Supreme Kai"
         },
         {
           "n": 23,
           "original_identifier": "23",
-          "player": "Card 23",
+          "player": "Supreme Kai (Mini)",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:23",
@@ -190573,12 +190595,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-310f40eba07f9cd17d36"
+          "id": "panini-dragon-ball-daima-tcg-310f40eba07f9cd17d36",
+          "original_name": "Supreme Kai (Mini)"
         },
         {
           "n": 24,
           "original_identifier": "24",
-          "player": "Card 24",
+          "player": "Kibito",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:24",
@@ -190594,12 +190617,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-34d89686486939d63606"
+          "id": "panini-dragon-ball-daima-tcg-34d89686486939d63606",
+          "original_name": "Kibito"
         },
         {
           "n": 25,
           "original_identifier": "25",
-          "player": "Card 25",
+          "player": "Kibito (Mini)",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:25",
@@ -190615,12 +190639,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-39890b5930bf3931ec93"
+          "id": "panini-dragon-ball-daima-tcg-39890b5930bf3931ec93",
+          "original_name": "Kibito (Mini)"
         },
         {
           "n": 26,
           "original_identifier": "26",
-          "player": "Card 26",
+          "player": "Bulma",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:26",
@@ -190636,12 +190661,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-a3f0764133632dcda66f"
+          "id": "panini-dragon-ball-daima-tcg-a3f0764133632dcda66f",
+          "original_name": "Bulma"
         },
         {
           "n": 27,
           "original_identifier": "27",
-          "player": "Card 27",
+          "player": "Bulma (Mini)",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:27",
@@ -190657,12 +190683,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-6f8043e650d6f0e97a99"
+          "id": "panini-dragon-ball-daima-tcg-6f8043e650d6f0e97a99",
+          "original_name": "Bulma (Mini)"
         },
         {
           "n": 28,
           "original_identifier": "28",
-          "player": "Card 28",
+          "player": "Krillin",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:28",
@@ -190678,12 +190705,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-3eb1f427210d9e8c1aa4"
+          "id": "panini-dragon-ball-daima-tcg-3eb1f427210d9e8c1aa4",
+          "original_name": "Krillin"
         },
         {
           "n": 29,
           "original_identifier": "29",
-          "player": "Card 29",
+          "player": "Krillin (Mini)",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:29",
@@ -190699,12 +190727,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-d79fac6705eb8b0af37d"
+          "id": "panini-dragon-ball-daima-tcg-d79fac6705eb8b0af37d",
+          "original_name": "Krillin (Mini)"
         },
         {
           "n": 30,
           "original_identifier": "30",
-          "player": "Card 30",
+          "player": "Android 18",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:30",
@@ -190720,12 +190749,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-e2895d9df6d4184c8d65"
+          "id": "panini-dragon-ball-daima-tcg-e2895d9df6d4184c8d65",
+          "original_name": "Android 18"
         },
         {
           "n": 31,
           "original_identifier": "31",
-          "player": "Card 31",
+          "player": "Android 18 (Mini)",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:31",
@@ -190741,12 +190771,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-2d747c26ff6d4f938fd2"
+          "id": "panini-dragon-ball-daima-tcg-2d747c26ff6d4f938fd2",
+          "original_name": "Android 18 (Mini)"
         },
         {
           "n": 32,
           "original_identifier": "32",
-          "player": "Card 32",
+          "player": "Maaron",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:32",
@@ -190762,12 +190793,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-780940465f3808640fbf"
+          "id": "panini-dragon-ball-daima-tcg-780940465f3808640fbf",
+          "original_name": "Maaron"
         },
         {
           "n": 33,
           "original_identifier": "33",
-          "player": "Card 33",
+          "player": "Mr. Satan",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:33",
@@ -190783,12 +190815,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-b5bc275776292e7a34e1"
+          "id": "panini-dragon-ball-daima-tcg-b5bc275776292e7a34e1",
+          "original_name": "Mr. Satan"
         },
         {
           "n": 34,
           "original_identifier": "34",
-          "player": "Card 34",
+          "player": "Mr. Satan (Mini)",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:34",
@@ -190804,12 +190837,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-6313855a6ec380ae64a5"
+          "id": "panini-dragon-ball-daima-tcg-6313855a6ec380ae64a5",
+          "original_name": "Mr. Satan (Mini)"
         },
         {
           "n": 35,
           "original_identifier": "35",
-          "player": "Card 35",
+          "player": "Yamcha y Puar",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:35",
@@ -190825,12 +190859,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-8cacc0809e984bb9991f"
+          "id": "panini-dragon-ball-daima-tcg-8cacc0809e984bb9991f",
+          "original_name": "Yamcha & Puar"
         },
         {
           "n": 36,
           "original_identifier": "36",
-          "player": "Card 36",
+          "player": "Yamcha (Mini) y Puar (Mini)",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:36",
@@ -190846,12 +190881,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-4029ec2ebab8b067c975"
+          "id": "panini-dragon-ball-daima-tcg-4029ec2ebab8b067c975",
+          "original_name": "Yamcha (Mini) & Puar (Mini)"
         },
         {
           "n": 37,
           "original_identifier": "37",
-          "player": "Card 37",
+          "player": "Majin Buu",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:37",
@@ -190867,12 +190903,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-8a962f6abedd52579801"
+          "id": "panini-dragon-ball-daima-tcg-8a962f6abedd52579801",
+          "original_name": "Majin Buu"
         },
         {
           "n": 38,
           "original_identifier": "38",
-          "player": "Card 38",
+          "player": "Majin Buu (Mini)",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:38",
@@ -190888,12 +190925,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-f217b7b68d0630456314"
+          "id": "panini-dragon-ball-daima-tcg-f217b7b68d0630456314",
+          "original_name": "Majin Buu (Mini)"
         },
         {
           "n": 39,
           "original_identifier": "39",
-          "player": "Card 39",
+          "player": "Gyumao",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:39",
@@ -190909,12 +190947,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-8f14082912415c120c34"
+          "id": "panini-dragon-ball-daima-tcg-8f14082912415c120c34",
+          "original_name": "Gyumao"
         },
         {
           "n": 40,
           "original_identifier": "40",
-          "player": "Card 40",
+          "player": "Gyumao (Mini)",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:40",
@@ -190930,12 +190969,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-3ea332e321ce79fe88dc"
+          "id": "panini-dragon-ball-daima-tcg-3ea332e321ce79fe88dc",
+          "original_name": "Gyumao (Mini)"
         },
         {
           "n": 41,
           "original_identifier": "41",
-          "player": "Card 41",
+          "player": "Chichi",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:41",
@@ -190951,12 +190991,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-9abdfb3608ac3e667b8a"
+          "id": "panini-dragon-ball-daima-tcg-9abdfb3608ac3e667b8a",
+          "original_name": "Chichi"
         },
         {
           "n": 42,
           "original_identifier": "42",
-          "player": "Card 42",
+          "player": "Chichi (Mini)",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:42",
@@ -190972,12 +191013,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-4829944b2cc2ba1f5a37"
+          "id": "panini-dragon-ball-daima-tcg-4829944b2cc2ba1f5a37",
+          "original_name": "Chichi (Mini)"
         },
         {
           "n": 43,
           "original_identifier": "43",
-          "player": "Card 43",
+          "player": "Son Goten",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:43",
@@ -190993,12 +191035,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-11371a19924368a71f93"
+          "id": "panini-dragon-ball-daima-tcg-11371a19924368a71f93",
+          "original_name": "Son Goten"
         },
         {
           "n": 44,
           "original_identifier": "44",
-          "player": "Card 44",
+          "player": "Trunks",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:44",
@@ -191014,12 +191057,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-2dcc29ea03311035b8e9"
+          "id": "panini-dragon-ball-daima-tcg-2dcc29ea03311035b8e9",
+          "original_name": "Trunks"
         },
         {
           "n": 45,
           "original_identifier": "45",
-          "player": "Card 45",
+          "player": "Son Goten (Mini) / Trunks (Mini) / Maaron (Mini)",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:45",
@@ -191035,12 +191079,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-e048366d72190a574fbc"
+          "id": "panini-dragon-ball-daima-tcg-e048366d72190a574fbc",
+          "original_name": "Son Goten (Mini) / Trunks (Mini) / Maaron (Mini)"
         },
         {
           "n": 46,
           "original_identifier": "46",
-          "player": "Card 46",
+          "player": "Oolong",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:46",
@@ -191056,12 +191101,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-d3c1368fef8f08be2baa"
+          "id": "panini-dragon-ball-daima-tcg-d3c1368fef8f08be2baa",
+          "original_name": "Oolong"
         },
         {
           "n": 47,
           "original_identifier": "47",
-          "player": "Card 47",
+          "player": "Oolong (Mini)",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:47",
@@ -191077,12 +191123,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-6abac3f6d9feda96b1e2"
+          "id": "panini-dragon-ball-daima-tcg-6abac3f6d9feda96b1e2",
+          "original_name": "Oolong (Mini)"
         },
         {
           "n": 48,
           "original_identifier": "48",
-          "player": "Card 48",
+          "player": "Kamesennin",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:48",
@@ -191098,12 +191145,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-80396626d6e1fc7b6f8c"
+          "id": "panini-dragon-ball-daima-tcg-80396626d6e1fc7b6f8c",
+          "original_name": "Kamesennin"
         },
         {
           "n": 49,
           "original_identifier": "49",
-          "player": "Card 49",
+          "player": "Kamesennin (Mini)",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:49",
@@ -191119,12 +191167,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-a2f0ce256e95c0d2874a"
+          "id": "panini-dragon-ball-daima-tcg-a2f0ce256e95c0d2874a",
+          "original_name": "Kamesennin (Mini)"
         },
         {
           "n": 50,
           "original_identifier": "50",
-          "player": "Card 50",
+          "player": "Dende",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:50",
@@ -191140,12 +191189,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-acdb587fb9691b143e23"
+          "id": "panini-dragon-ball-daima-tcg-acdb587fb9691b143e23",
+          "original_name": "Dende"
         },
         {
           "n": 51,
           "original_identifier": "51",
-          "player": "Card 51",
+          "player": "Dende (Mini)",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:51",
@@ -191161,12 +191211,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-5379172c99857342faf9"
+          "id": "panini-dragon-ball-daima-tcg-5379172c99857342faf9",
+          "original_name": "Dende (Mini)"
         },
         {
           "n": 52,
           "original_identifier": "52",
-          "player": "Card 52",
+          "player": "Mr. Popo",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:52",
@@ -191182,12 +191233,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-9a4cc345f9df1c1591dd"
+          "id": "panini-dragon-ball-daima-tcg-9a4cc345f9df1c1591dd",
+          "original_name": "Mr. Popo"
         },
         {
           "n": 53,
           "original_identifier": "53",
-          "player": "Card 53",
+          "player": "Mr. Popo (Mini)",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:53",
@@ -191203,12 +191255,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-5969a0b9af36bfaedd8a"
+          "id": "panini-dragon-ball-daima-tcg-5969a0b9af36bfaedd8a",
+          "original_name": "Mr. Popo (Mini)"
         },
         {
           "n": 54,
           "original_identifier": "54",
-          "player": "Card 54",
+          "player": "Karin",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:54",
@@ -191224,12 +191277,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-69a1ef6ab5e6c35da23c"
+          "id": "panini-dragon-ball-daima-tcg-69a1ef6ab5e6c35da23c",
+          "original_name": "Karin"
         },
         {
           "n": 55,
           "original_identifier": "55",
-          "player": "Card 55",
+          "player": "Glorio",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:55",
@@ -191245,12 +191299,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-2ef9253d4824df775767"
+          "id": "panini-dragon-ball-daima-tcg-2ef9253d4824df775767",
+          "original_name": "Glorio"
         },
         {
           "n": 56,
           "original_identifier": "56",
-          "player": "Card 56",
+          "player": "Glorio",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:56",
@@ -191266,12 +191321,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-be0804db7e136528334d"
+          "id": "panini-dragon-ball-daima-tcg-be0804db7e136528334d",
+          "original_name": "Glorio"
         },
         {
           "n": 57,
           "original_identifier": "57",
-          "player": "Card 57",
+          "player": "Panzy",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:57",
@@ -191287,12 +191343,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-16883fdd7c1c5236d5e4"
+          "id": "panini-dragon-ball-daima-tcg-16883fdd7c1c5236d5e4",
+          "original_name": "Panzy"
         },
         {
           "n": 58,
           "original_identifier": "58",
-          "player": "Card 58",
+          "player": "Masked Majin",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:58",
@@ -191308,12 +191365,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-66a9aec33bab20daab41"
+          "id": "panini-dragon-ball-daima-tcg-66a9aec33bab20daab41",
+          "original_name": "Masked Majin"
         },
         {
           "n": 59,
           "original_identifier": "59",
-          "player": "Card 59",
+          "player": "Hybis",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:59",
@@ -191329,12 +191387,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-f3e0ac0b8b7d8d416965"
+          "id": "panini-dragon-ball-daima-tcg-f3e0ac0b8b7d8d416965",
+          "original_name": "Hybis"
         },
         {
           "n": 60,
           "original_identifier": "60",
-          "player": "Card 60",
+          "player": "Neva",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:60",
@@ -191350,12 +191409,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-d83a494d74aa772f7746"
+          "id": "panini-dragon-ball-daima-tcg-d83a494d74aa772f7746",
+          "original_name": "Neva"
         },
         {
           "n": 61,
           "original_identifier": "61",
-          "player": "Card 61",
+          "player": "Tamagami Number One",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:61",
@@ -191371,12 +191431,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-efb85c257695095c144d"
+          "id": "panini-dragon-ball-daima-tcg-efb85c257695095c144d",
+          "original_name": "Tamagami Number One"
         },
         {
           "n": 62,
           "original_identifier": "62",
-          "player": "Card 62",
+          "player": "Tamagami Number Two",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:62",
@@ -191392,12 +191453,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-3ec105dca85953826afc"
+          "id": "panini-dragon-ball-daima-tcg-3ec105dca85953826afc",
+          "original_name": "Tamagami Number Two"
         },
         {
           "n": 63,
           "original_identifier": "63",
-          "player": "Card 63",
+          "player": "Tamagami Number Three",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:63",
@@ -191413,12 +191475,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-5d969796161b054be15a"
+          "id": "panini-dragon-ball-daima-tcg-5d969796161b054be15a",
+          "original_name": "Tamagami Number Three"
         },
         {
           "n": 64,
           "original_identifier": "64",
-          "player": "Card 64",
+          "player": "Kadan",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:64",
@@ -191434,12 +191497,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-829d592c0872924f8943"
+          "id": "panini-dragon-ball-daima-tcg-829d592c0872924f8943",
+          "original_name": "Kadan"
         },
         {
           "n": 65,
           "original_identifier": "65",
-          "player": "Card 65",
+          "player": "Kadan Army",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:65",
@@ -191455,12 +191519,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-0a3c406756b465d38cc3"
+          "id": "panini-dragon-ball-daima-tcg-0a3c406756b465d38cc3",
+          "original_name": "Kadan Army"
         },
         {
           "n": 66,
           "original_identifier": "66",
-          "player": "Card 66",
+          "player": "Minotaur",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:66",
@@ -191476,12 +191541,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-3913ebac18bfa21434a9"
+          "id": "panini-dragon-ball-daima-tcg-3913ebac18bfa21434a9",
+          "original_name": "Minotaur"
         },
         {
           "n": 67,
           "original_identifier": "67",
-          "player": "Card 67",
+          "player": "Megath Child",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:67",
@@ -191497,12 +191563,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-820bcc30fc4d375f5429"
+          "id": "panini-dragon-ball-daima-tcg-820bcc30fc4d375f5429",
+          "original_name": "Megath Child"
         },
         {
           "n": 68,
           "original_identifier": "68",
-          "player": "Card 68",
+          "player": "Supreme Demon King Abura",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:68",
@@ -191518,12 +191585,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-dc4609b15613153147a4"
+          "id": "panini-dragon-ball-daima-tcg-dc4609b15613153147a4",
+          "original_name": "Supreme Demon King Abura"
         },
         {
           "n": 69,
           "original_identifier": "69",
-          "player": "Card 69",
+          "player": "Third Eye Abura",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:69",
@@ -191539,12 +191607,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-9ad80c38d7bd717b2541"
+          "id": "panini-dragon-ball-daima-tcg-9ad80c38d7bd717b2541",
+          "original_name": "Third Eye Abura"
         },
         {
           "n": 70,
           "original_identifier": "70",
-          "player": "Card 70",
+          "player": "Dabura",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:70",
@@ -191560,12 +191629,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-013a9051737e9cb860c4"
+          "id": "panini-dragon-ball-daima-tcg-013a9051737e9cb860c4",
+          "original_name": "Dabura"
         },
         {
           "n": 71,
           "original_identifier": "71",
-          "player": "Card 71",
+          "player": "Gomah",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:71",
@@ -191581,12 +191651,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-9fb4d735fbe831f702e5"
+          "id": "panini-dragon-ball-daima-tcg-9fb4d735fbe831f702e5",
+          "original_name": "Gomah"
         },
         {
           "n": 72,
           "original_identifier": "72",
-          "player": "Card 72",
+          "player": "Third Eye Gomah",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:72",
@@ -191602,12 +191673,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-1b8550bada732826c794"
+          "id": "panini-dragon-ball-daima-tcg-1b8550bada732826c794",
+          "original_name": "Third Eye Gomah"
         },
         {
           "n": 73,
           "original_identifier": "73",
-          "player": "Card 73",
+          "player": "Degesu",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:73",
@@ -191623,12 +191695,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-bb132a4f1779810cf24a"
+          "id": "panini-dragon-ball-daima-tcg-bb132a4f1779810cf24a",
+          "original_name": "Degesu"
         },
         {
           "n": 74,
           "original_identifier": "74",
-          "player": "Card 74",
+          "player": "Gendarmerie Officer",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:74",
@@ -191644,12 +191717,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-3fb5ee42f6c6c8377d62"
+          "id": "panini-dragon-ball-daima-tcg-3fb5ee42f6c6c8377d62",
+          "original_name": "Gendarmerie Officer"
         },
         {
           "n": 75,
           "original_identifier": "75",
-          "player": "Card 75",
+          "player": "Gendarmerie Force",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:75",
@@ -191665,12 +191739,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-1078bb2ab0bf23b69753"
+          "id": "panini-dragon-ball-daima-tcg-1078bb2ab0bf23b69753",
+          "original_name": "Gendarmerie Force"
         },
         {
           "n": 76,
           "original_identifier": "76",
-          "player": "Card 76",
+          "player": "Dr. Arinsu",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:76",
@@ -191686,12 +191761,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-ec91fec1aa601ed68375"
+          "id": "panini-dragon-ball-daima-tcg-ec91fec1aa601ed68375",
+          "original_name": "Dr. Arinsu"
         },
         {
           "n": 77,
           "original_identifier": "77",
-          "player": "Card 77",
+          "player": "Marba",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:77",
@@ -191707,12 +191783,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-d653e96606bacdce89c3"
+          "id": "panini-dragon-ball-daima-tcg-d653e96606bacdce89c3",
+          "original_name": "Marba"
         },
         {
           "n": 78,
           "original_identifier": "78",
-          "player": "Card 78",
+          "player": "Majin Kuu",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:78",
@@ -191728,12 +191805,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-96553d59788b8f4e474e"
+          "id": "panini-dragon-ball-daima-tcg-96553d59788b8f4e474e",
+          "original_name": "Majin Kuu"
         },
         {
           "n": 79,
           "original_identifier": "79",
-          "player": "Card 79",
+          "player": "King Kuu",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:79",
@@ -191749,12 +191827,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-4651faa195cc2ac7401b"
+          "id": "panini-dragon-ball-daima-tcg-4651faa195cc2ac7401b",
+          "original_name": "King Kuu"
         },
         {
           "n": 80,
           "original_identifier": "80",
-          "player": "Card 80",
+          "player": "Majin Duu",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:80",
@@ -191770,12 +191849,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-f5cfa0f6bdbc97f648d5"
+          "id": "panini-dragon-ball-daima-tcg-f5cfa0f6bdbc97f648d5",
+          "original_name": "Majin Duu"
         },
         {
           "n": 81,
           "original_identifier": "81",
-          "player": "Card 81",
+          "player": "Powered up Majin Duu",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:81",
@@ -191791,12 +191871,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-69a032ae26b9427727b3"
+          "id": "panini-dragon-ball-daima-tcg-69a032ae26b9427727b3",
+          "original_name": "Powered up Majin Duu"
         },
         {
           "n": 82,
           "original_identifier": "82",
-          "player": "Card 82",
+          "player": "Mecha 1",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:82",
@@ -191812,12 +191893,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-f7260eae1cffc2cd8a88"
+          "id": "panini-dragon-ball-daima-tcg-f7260eae1cffc2cd8a88",
+          "original_name": "Mecha 1"
         },
         {
           "n": 83,
           "original_identifier": "83",
-          "player": "Card 83",
+          "player": "Mecha 2",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:83",
@@ -191833,12 +191915,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-08febb7c67f6a97e5cec"
+          "id": "panini-dragon-ball-daima-tcg-08febb7c67f6a97e5cec",
+          "original_name": "Mecha 2"
         },
         {
           "n": 84,
           "original_identifier": "84",
-          "player": "Card 84",
+          "player": "Mecha 3",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:84",
@@ -191854,12 +191937,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-27a1424a4cfaaa16d4c7"
+          "id": "panini-dragon-ball-daima-tcg-27a1424a4cfaaa16d4c7",
+          "original_name": "Mecha 3"
         },
         {
           "n": 85,
           "original_identifier": "85",
-          "player": "Card 85",
+          "player": "Mecha 4",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:85",
@@ -191875,12 +191959,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-61519885a22f4e49af36"
+          "id": "panini-dragon-ball-daima-tcg-61519885a22f4e49af36",
+          "original_name": "Mecha 4"
         },
         {
           "n": 86,
           "original_identifier": "86",
-          "player": "Card 86",
+          "player": "Mecha 5",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:86",
@@ -191896,12 +191981,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-a4666f954031543ba1c8"
+          "id": "panini-dragon-ball-daima-tcg-a4666f954031543ba1c8",
+          "original_name": "Mecha 5"
         },
         {
           "n": 87,
           "original_identifier": "87",
-          "player": "Card 87",
+          "player": "Mecha 6",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:87",
@@ -191917,12 +192003,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-2b7457c614fbb0cddd4a"
+          "id": "panini-dragon-ball-daima-tcg-2b7457c614fbb0cddd4a",
+          "original_name": "Mecha 6"
         },
         {
           "n": 88,
           "original_identifier": "88",
-          "player": "Card 88",
+          "player": "Mecha 7",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:88",
@@ -191938,12 +192025,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-02dcdfb919aba383b1c7"
+          "id": "panini-dragon-ball-daima-tcg-02dcdfb919aba383b1c7",
+          "original_name": "Mecha 7"
         },
         {
           "n": 89,
           "original_identifier": "89",
-          "player": "Card 89",
+          "player": "Mecha 8",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:89",
@@ -191959,12 +192047,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-3ef701ddec6a7b109817"
+          "id": "panini-dragon-ball-daima-tcg-3ef701ddec6a7b109817",
+          "original_name": "Mecha 8"
         },
         {
           "n": 90,
           "original_identifier": "90",
-          "player": "Card 90",
+          "player": "Mecha 9",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:90",
@@ -191980,12 +192069,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-9281d6746249fe95c181"
+          "id": "panini-dragon-ball-daima-tcg-9281d6746249fe95c181",
+          "original_name": "Mecha 9"
         },
         {
           "n": 91,
           "original_identifier": "91",
-          "player": "Card 91",
+          "player": "Son Goku (Mini)",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:91",
@@ -192001,12 +192091,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-e388ee690de48767b4f6"
+          "id": "panini-dragon-ball-daima-tcg-e388ee690de48767b4f6",
+          "original_name": "Son Goku (Mini)"
         },
         {
           "n": 92,
           "original_identifier": "92",
-          "player": "Card 92",
+          "player": "Vegeta (Mini)",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:92",
@@ -192022,12 +192113,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-45da4d29992f9352b09f"
+          "id": "panini-dragon-ball-daima-tcg-45da4d29992f9352b09f",
+          "original_name": "Vegeta (Mini)"
         },
         {
           "n": 93,
           "original_identifier": "93",
-          "player": "Card 93",
+          "player": "Piccolo (Mini)",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:93",
@@ -192043,12 +192135,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-218233b349d0801574cb"
+          "id": "panini-dragon-ball-daima-tcg-218233b349d0801574cb",
+          "original_name": "Piccolo (Mini)"
         },
         {
           "n": 94,
           "original_identifier": "94",
-          "player": "Card 94",
+          "player": "Supreme Kai (Mini)",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:94",
@@ -192064,12 +192157,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-5b199595b658ccd42079"
+          "id": "panini-dragon-ball-daima-tcg-5b199595b658ccd42079",
+          "original_name": "Supreme Kai (Mini)"
         },
         {
           "n": 95,
           "original_identifier": "95",
-          "player": "Card 95",
+          "player": "Glorio",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:95",
@@ -192085,12 +192179,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-a3783ea30d20e8f9f0a2"
+          "id": "panini-dragon-ball-daima-tcg-a3783ea30d20e8f9f0a2",
+          "original_name": "Glorio"
         },
         {
           "n": 96,
           "original_identifier": "96",
-          "player": "Card 96",
+          "player": "Panzy",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:96",
@@ -192106,12 +192201,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-d16349924280159031f2"
+          "id": "panini-dragon-ball-daima-tcg-d16349924280159031f2",
+          "original_name": "Panzy"
         },
         {
           "n": 97,
           "original_identifier": "97",
-          "player": "Card 97",
+          "player": "Bulma (Mini)",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:97",
@@ -192127,12 +192223,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-f33d9813d305445e76c3"
+          "id": "panini-dragon-ball-daima-tcg-f33d9813d305445e76c3",
+          "original_name": "Bulma (Mini)"
         },
         {
           "n": 98,
           "original_identifier": "98",
-          "player": "Card 98",
+          "player": "Third Eye Gomah",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:98",
@@ -192148,12 +192245,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-6d8742727c0ff9d627a1"
+          "id": "panini-dragon-ball-daima-tcg-6d8742727c0ff9d627a1",
+          "original_name": "Third Eye Gomah"
         },
         {
           "n": 99,
           "original_identifier": "99",
-          "player": "Card 99",
+          "player": "Degesu",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:99",
@@ -192169,12 +192267,13 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-af22cf797c4eb82a2566"
+          "id": "panini-dragon-ball-daima-tcg-af22cf797c4eb82a2566",
+          "original_name": "Degesu"
         },
         {
           "n": 100,
           "original_identifier": "100",
-          "player": "Card 100",
+          "player": "Bolas de Dragón y Shenron",
           "section": "Base Cards",
           "team": "",
           "source_key": "number:100",
@@ -192190,1077 +192289,1185 @@
               "serialized": false
             }
           ],
-          "id": "panini-dragon-ball-daima-tcg-442e9eff437f3f66f65c"
+          "id": "panini-dragon-ball-daima-tcg-442e9eff437f3f66f65c",
+          "original_name": "Dragon Balls and Shenron"
         },
         {
           "n": 101,
           "original_identifier": "101",
-          "player": "Card 101",
+          "player": "Son Goku y Vegeta (Mini)",
           "section": "Puzzle Cards",
           "team": "",
           "source_key": "number:101",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-c460472600667991130f"
+          "id": "panini-dragon-ball-daima-tcg-c460472600667991130f",
+          "original_name": "Son Goku & Vegeta (Mini)"
         },
         {
           "n": 102,
           "original_identifier": "102",
-          "player": "Card 102",
+          "player": "Son Goku y Vegeta (Mini)",
           "section": "Puzzle Cards",
           "team": "",
           "source_key": "number:102",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-da822ee9d536fd72360e"
+          "id": "panini-dragon-ball-daima-tcg-da822ee9d536fd72360e",
+          "original_name": "Son Goku & Vegeta (Mini)"
         },
         {
           "n": 103,
           "original_identifier": "103",
-          "player": "Card 103",
+          "player": "Grupo Daima 1",
           "section": "Puzzle Cards",
           "team": "",
           "source_key": "number:103",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-c476114b56205f83586e"
+          "id": "panini-dragon-ball-daima-tcg-c476114b56205f83586e",
+          "original_name": "Daima Group 1"
         },
         {
           "n": 104,
           "original_identifier": "104",
-          "player": "Card 104",
+          "player": "Grupo Daima 1",
           "section": "Puzzle Cards",
           "team": "",
           "source_key": "number:104",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-46e3e1c97bd1fdc934da"
+          "id": "panini-dragon-ball-daima-tcg-46e3e1c97bd1fdc934da",
+          "original_name": "Daima Group 1"
         },
         {
           "n": 105,
           "original_identifier": "105",
-          "player": "Card 105",
+          "player": "Grupo Daima 1",
           "section": "Puzzle Cards",
           "team": "",
           "source_key": "number:105",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-bef0e577bb6573d2005c"
+          "id": "panini-dragon-ball-daima-tcg-bef0e577bb6573d2005c",
+          "original_name": "Daima Group 1"
         },
         {
           "n": 106,
           "original_identifier": "106",
-          "player": "Card 106",
+          "player": "Grupo Daima 1",
           "section": "Puzzle Cards",
           "team": "",
           "source_key": "number:106",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-114bb8a805d616dd172d"
+          "id": "panini-dragon-ball-daima-tcg-114bb8a805d616dd172d",
+          "original_name": "Daima Group 1"
         },
         {
           "n": 107,
           "original_identifier": "107",
-          "player": "Card 107",
+          "player": "Grupo Daima 1",
           "section": "Puzzle Cards",
           "team": "",
           "source_key": "number:107",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-f2fee143db83e0169805"
+          "id": "panini-dragon-ball-daima-tcg-f2fee143db83e0169805",
+          "original_name": "Daima Group 1"
         },
         {
           "n": 108,
           "original_identifier": "108",
-          "player": "Card 108",
+          "player": "Grupo Daima 1",
           "section": "Puzzle Cards",
           "team": "",
           "source_key": "number:108",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-d71ffebca3152c59e8d8"
+          "id": "panini-dragon-ball-daima-tcg-d71ffebca3152c59e8d8",
+          "original_name": "Daima Group 1"
         },
         {
           "n": 109,
           "original_identifier": "109",
-          "player": "Card 109",
+          "player": "Grupo Daima 2",
           "section": "Puzzle Cards",
           "team": "",
           "source_key": "number:109",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-fb6340adea2b428481df"
+          "id": "panini-dragon-ball-daima-tcg-fb6340adea2b428481df",
+          "original_name": "Daima Group 2"
         },
         {
           "n": 110,
           "original_identifier": "110",
-          "player": "Card 110",
+          "player": "Grupo Daima 2",
           "section": "Puzzle Cards",
           "team": "",
           "source_key": "number:110",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-10e4d5cbaf53a0a46656"
+          "id": "panini-dragon-ball-daima-tcg-10e4d5cbaf53a0a46656",
+          "original_name": "Daima Group 2"
         },
         {
           "n": 111,
           "original_identifier": "111",
-          "player": "Card 111",
+          "player": "Grupo Daima 2",
           "section": "Puzzle Cards",
           "team": "",
           "source_key": "number:111",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-d294d51133a0f119c93d"
+          "id": "panini-dragon-ball-daima-tcg-d294d51133a0f119c93d",
+          "original_name": "Daima Group 2"
         },
         {
           "n": 112,
           "original_identifier": "112",
-          "player": "Card 112",
+          "player": "Grupo Daima 2",
           "section": "Puzzle Cards",
           "team": "",
           "source_key": "number:112",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-6140554d8caf77a5b73d"
+          "id": "panini-dragon-ball-daima-tcg-6140554d8caf77a5b73d",
+          "original_name": "Daima Group 2"
         },
         {
           "n": 113,
           "original_identifier": "113",
-          "player": "Card 113",
+          "player": "Grupo Daima 2",
           "section": "Puzzle Cards",
           "team": "",
           "source_key": "number:113",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-4ac6670cbb5f5f1605b6"
+          "id": "panini-dragon-ball-daima-tcg-4ac6670cbb5f5f1605b6",
+          "original_name": "Daima Group 2"
         },
         {
           "n": 114,
           "original_identifier": "114",
-          "player": "Card 114",
+          "player": "Grupo Daima 2",
           "section": "Puzzle Cards",
           "team": "",
           "source_key": "number:114",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-e0502255693944e0d52d"
+          "id": "panini-dragon-ball-daima-tcg-e0502255693944e0d52d",
+          "original_name": "Daima Group 2"
         },
         {
           "n": 115,
           "original_identifier": "115",
-          "player": "Card 115",
+          "player": "Grupo Daima 2",
           "section": "Puzzle Cards",
           "team": "",
           "source_key": "number:115",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-44da1c415845e07beb05"
+          "id": "panini-dragon-ball-daima-tcg-44da1c415845e07beb05",
+          "original_name": "Daima Group 2"
         },
         {
           "n": 116,
           "original_identifier": "116",
-          "player": "Card 116",
+          "player": "Grupo Daima 2",
           "section": "Puzzle Cards",
           "team": "",
           "source_key": "number:116",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-af7e3687db84e3d4f3a4"
+          "id": "panini-dragon-ball-daima-tcg-af7e3687db84e3d4f3a4",
+          "original_name": "Daima Group 2"
         },
         {
           "n": 117,
           "original_identifier": "117",
-          "player": "Card 117",
+          "player": "Grupo Daima 2",
           "section": "Puzzle Cards",
           "team": "",
           "source_key": "number:117",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-37290da62e4ec67a06d5"
+          "id": "panini-dragon-ball-daima-tcg-37290da62e4ec67a06d5",
+          "original_name": "Daima Group 2"
         },
         {
           "n": 118,
           "original_identifier": "118",
-          "player": "Card 118",
+          "player": "Grupo Daima 3",
           "section": "Puzzle Cards",
           "team": "",
           "source_key": "number:118",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-b45241f50db086348528"
+          "id": "panini-dragon-ball-daima-tcg-b45241f50db086348528",
+          "original_name": "Daima Group 3"
         },
         {
           "n": 119,
           "original_identifier": "119",
-          "player": "Card 119",
+          "player": "Grupo Daima 3",
           "section": "Puzzle Cards",
           "team": "",
           "source_key": "number:119",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-568d7a98e4b1b5fc4a1d"
+          "id": "panini-dragon-ball-daima-tcg-568d7a98e4b1b5fc4a1d",
+          "original_name": "Daima Group 3"
         },
         {
           "n": 120,
           "original_identifier": "120",
-          "player": "Card 120",
+          "player": "Grupo Daima 3",
           "section": "Puzzle Cards",
           "team": "",
           "source_key": "number:120",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-d87372c0f3e59708d91e"
+          "id": "panini-dragon-ball-daima-tcg-d87372c0f3e59708d91e",
+          "original_name": "Daima Group 3"
         },
         {
           "n": 121,
           "original_identifier": "121",
-          "player": "Card 121",
+          "player": "Grupo Daima 3",
           "section": "Puzzle Cards",
           "team": "",
           "source_key": "number:121",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-c557914d3cfeacc03587"
+          "id": "panini-dragon-ball-daima-tcg-c557914d3cfeacc03587",
+          "original_name": "Daima Group 3"
         },
         {
           "n": 122,
           "original_identifier": "122",
-          "player": "Card 122",
+          "player": "Grupo Daima 3",
           "section": "Puzzle Cards",
           "team": "",
           "source_key": "number:122",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-33beb5950425f7738818"
+          "id": "panini-dragon-ball-daima-tcg-33beb5950425f7738818",
+          "original_name": "Daima Group 3"
         },
         {
           "n": 123,
           "original_identifier": "123",
-          "player": "Card 123",
+          "player": "Grupo Daima 3",
           "section": "Puzzle Cards",
           "team": "",
           "source_key": "number:123",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-f551068cc39c0987b8c9"
+          "id": "panini-dragon-ball-daima-tcg-f551068cc39c0987b8c9",
+          "original_name": "Daima Group 3"
         },
         {
           "n": 124,
           "original_identifier": "124",
-          "player": "Card 124",
+          "player": "Grupo Daima 3",
           "section": "Puzzle Cards",
           "team": "",
           "source_key": "number:124",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-556ddb96c44e6e974397"
+          "id": "panini-dragon-ball-daima-tcg-556ddb96c44e6e974397",
+          "original_name": "Daima Group 3"
         },
         {
           "n": 125,
           "original_identifier": "125",
-          "player": "Card 125",
+          "player": "Grupo Daima 3",
           "section": "Puzzle Cards",
           "team": "",
           "source_key": "number:125",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-9673987565dfd31d6754"
+          "id": "panini-dragon-ball-daima-tcg-9673987565dfd31d6754",
+          "original_name": "Daima Group 3"
         },
         {
           "n": 126,
           "original_identifier": "126",
-          "player": "Card 126",
+          "player": "Grupo Daima 3",
           "section": "Puzzle Cards",
           "team": "",
           "source_key": "number:126",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-1510946138a6b86e1a0e"
+          "id": "panini-dragon-ball-daima-tcg-1510946138a6b86e1a0e",
+          "original_name": "Daima Group 3"
         },
         {
           "n": 127,
           "original_identifier": "127",
-          "player": "Card 127",
+          "player": "Grupo Daima 4",
           "section": "Puzzle Cards",
           "team": "",
           "source_key": "number:127",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-bee2d6b0c28b7670fef7"
+          "id": "panini-dragon-ball-daima-tcg-bee2d6b0c28b7670fef7",
+          "original_name": "Daima Group 4"
         },
         {
           "n": 128,
           "original_identifier": "128",
-          "player": "Card 128",
+          "player": "Grupo Daima 4",
           "section": "Puzzle Cards",
           "team": "",
           "source_key": "number:128",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-b2c1e1b7453d25b9d9ca"
+          "id": "panini-dragon-ball-daima-tcg-b2c1e1b7453d25b9d9ca",
+          "original_name": "Daima Group 4"
         },
         {
           "n": 129,
           "original_identifier": "129",
-          "player": "Card 129",
+          "player": "Grupo Daima 4",
           "section": "Puzzle Cards",
           "team": "",
           "source_key": "number:129",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-caf0b15011cc574cd7a8"
+          "id": "panini-dragon-ball-daima-tcg-caf0b15011cc574cd7a8",
+          "original_name": "Daima Group 4"
         },
         {
           "n": 130,
           "original_identifier": "130",
-          "player": "Card 130",
+          "player": "Grupo Daima 4",
           "section": "Puzzle Cards",
           "team": "",
           "source_key": "number:130",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-ca732acaeebce1552816"
+          "id": "panini-dragon-ball-daima-tcg-ca732acaeebce1552816",
+          "original_name": "Daima Group 4"
         },
         {
           "n": 131,
           "original_identifier": "131",
-          "player": "Card 131",
+          "player": "Grupo Daima 4",
           "section": "Puzzle Cards",
           "team": "",
           "source_key": "number:131",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-0ea2f78d848a1a8fd002"
+          "id": "panini-dragon-ball-daima-tcg-0ea2f78d848a1a8fd002",
+          "original_name": "Daima Group 4"
         },
         {
           "n": 132,
           "original_identifier": "132",
-          "player": "Card 132",
+          "player": "Grupo Daima 4",
           "section": "Puzzle Cards",
           "team": "",
           "source_key": "number:132",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-2fdfcbef36f1fbcfa21f"
+          "id": "panini-dragon-ball-daima-tcg-2fdfcbef36f1fbcfa21f",
+          "original_name": "Daima Group 4"
         },
         {
           "n": 133,
           "original_identifier": "133",
-          "player": "Card 133",
+          "player": "Grupo Daima 4",
           "section": "Puzzle Cards",
           "team": "",
           "source_key": "number:133",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-f43cd16d0afb4dd085af"
+          "id": "panini-dragon-ball-daima-tcg-f43cd16d0afb4dd085af",
+          "original_name": "Daima Group 4"
         },
         {
           "n": 134,
           "original_identifier": "134",
-          "player": "Card 134",
+          "player": "Grupo Daima 4",
           "section": "Puzzle Cards",
           "team": "",
           "source_key": "number:134",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-4ea3d6235b377c39b67a"
+          "id": "panini-dragon-ball-daima-tcg-4ea3d6235b377c39b67a",
+          "original_name": "Daima Group 4"
         },
         {
           "n": 135,
           "original_identifier": "135",
-          "player": "Card 135",
+          "player": "Grupo Daima 4",
           "section": "Puzzle Cards",
           "team": "",
           "source_key": "number:135",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-1fda0ebc3521b905f46d"
+          "id": "panini-dragon-ball-daima-tcg-1fda0ebc3521b905f46d",
+          "original_name": "Daima Group 4"
         },
         {
           "n": 136,
           "original_identifier": "136",
-          "player": "Card 136",
+          "player": "Episodio 1",
           "section": "Episode Cards y Highlight Cards",
           "team": "",
           "source_key": "number:136",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-8de5b60f3f3781cc483c"
+          "id": "panini-dragon-ball-daima-tcg-8de5b60f3f3781cc483c",
+          "original_name": "Episode 1"
         },
         {
           "n": 137,
           "original_identifier": "137",
-          "player": "Card 137",
+          "player": "Episodio 1 · momento destacado 1",
           "section": "Episode Cards y Highlight Cards",
           "team": "",
           "source_key": "number:137",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-d5a9d63dfb798c31c783"
+          "id": "panini-dragon-ball-daima-tcg-d5a9d63dfb798c31c783",
+          "original_name": "Episode 1 highlight 1"
         },
         {
           "n": 138,
           "original_identifier": "138",
-          "player": "Card 138",
+          "player": "Episodio 1 · momento destacado 2",
           "section": "Episode Cards y Highlight Cards",
           "team": "",
           "source_key": "number:138",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-1c855c73885342bb7abe"
+          "id": "panini-dragon-ball-daima-tcg-1c855c73885342bb7abe",
+          "original_name": "Episode 1 highlight 2"
         },
         {
           "n": 139,
           "original_identifier": "139",
-          "player": "Card 139",
+          "player": "Episodio 2",
           "section": "Episode Cards y Highlight Cards",
           "team": "",
           "source_key": "number:139",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-fa386478092956487900"
+          "id": "panini-dragon-ball-daima-tcg-fa386478092956487900",
+          "original_name": "Episode 2"
         },
         {
           "n": 140,
           "original_identifier": "140",
-          "player": "Card 140",
+          "player": "Episodio 2 · momento destacado 1",
           "section": "Episode Cards y Highlight Cards",
           "team": "",
           "source_key": "number:140",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-0fb7c4bc4384dd52e4f9"
+          "id": "panini-dragon-ball-daima-tcg-0fb7c4bc4384dd52e4f9",
+          "original_name": "Episode 2 highlight 1"
         },
         {
           "n": 141,
           "original_identifier": "141",
-          "player": "Card 141",
+          "player": "Episodio 2 · momento destacado 2",
           "section": "Episode Cards y Highlight Cards",
           "team": "",
           "source_key": "number:141",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-cbbe84d2e5a66f6ed7fb"
+          "id": "panini-dragon-ball-daima-tcg-cbbe84d2e5a66f6ed7fb",
+          "original_name": "Episode 2 highlight 2"
         },
         {
           "n": 142,
           "original_identifier": "142",
-          "player": "Card 142",
+          "player": "Episodio 3",
           "section": "Episode Cards y Highlight Cards",
           "team": "",
           "source_key": "number:142",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-8454097b451d33c95910"
+          "id": "panini-dragon-ball-daima-tcg-8454097b451d33c95910",
+          "original_name": "Episode 3"
         },
         {
           "n": 143,
           "original_identifier": "143",
-          "player": "Card 143",
+          "player": "Episodio 3 · momento destacado 1",
           "section": "Episode Cards y Highlight Cards",
           "team": "",
           "source_key": "number:143",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-e37ef422062791787a1e"
+          "id": "panini-dragon-ball-daima-tcg-e37ef422062791787a1e",
+          "original_name": "Episode 3 highlight 1"
         },
         {
           "n": 144,
           "original_identifier": "144",
-          "player": "Card 144",
+          "player": "Episodio 3 · momento destacado 2",
           "section": "Episode Cards y Highlight Cards",
           "team": "",
           "source_key": "number:144",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-261cc19b7c0a21977164"
+          "id": "panini-dragon-ball-daima-tcg-261cc19b7c0a21977164",
+          "original_name": "Episode 3 highlight 2"
         },
         {
           "n": 145,
           "original_identifier": "145",
-          "player": "Card 145",
+          "player": "Episodio 4",
           "section": "Episode Cards y Highlight Cards",
           "team": "",
           "source_key": "number:145",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-e75a055874400abecbf1"
+          "id": "panini-dragon-ball-daima-tcg-e75a055874400abecbf1",
+          "original_name": "Episode 4"
         },
         {
           "n": 146,
           "original_identifier": "146",
-          "player": "Card 146",
+          "player": "Episodio 4 · momento destacado 1",
           "section": "Episode Cards y Highlight Cards",
           "team": "",
           "source_key": "number:146",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-bd086a345713e895f4e7"
+          "id": "panini-dragon-ball-daima-tcg-bd086a345713e895f4e7",
+          "original_name": "Episode 4 highlight 1"
         },
         {
           "n": 147,
           "original_identifier": "147",
-          "player": "Card 147",
+          "player": "Episodio 4 · momento destacado 2",
           "section": "Episode Cards y Highlight Cards",
           "team": "",
           "source_key": "number:147",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-358afd0120af9f94312b"
+          "id": "panini-dragon-ball-daima-tcg-358afd0120af9f94312b",
+          "original_name": "Episode 4 highlight 2"
         },
         {
           "n": 148,
           "original_identifier": "148",
-          "player": "Card 148",
+          "player": "Episodio 5",
           "section": "Episode Cards y Highlight Cards",
           "team": "",
           "source_key": "number:148",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-54035040b7140ab30af4"
+          "id": "panini-dragon-ball-daima-tcg-54035040b7140ab30af4",
+          "original_name": "Episode 5"
         },
         {
           "n": 149,
           "original_identifier": "149",
-          "player": "Card 149",
+          "player": "Episodio 5 · momento destacado 1",
           "section": "Episode Cards y Highlight Cards",
           "team": "",
           "source_key": "number:149",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-0c069eff7f9693c4d49f"
+          "id": "panini-dragon-ball-daima-tcg-0c069eff7f9693c4d49f",
+          "original_name": "Episode 5 highlight 1"
         },
         {
           "n": 150,
           "original_identifier": "150",
-          "player": "Card 150",
+          "player": "Episodio 5 · momento destacado 2",
           "section": "Episode Cards y Highlight Cards",
           "team": "",
           "source_key": "number:150",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-bf0c6d796d0761c82e07"
+          "id": "panini-dragon-ball-daima-tcg-bf0c6d796d0761c82e07",
+          "original_name": "Episode 5 highlight 2"
         },
         {
           "n": 151,
           "original_identifier": "151",
-          "player": "Card 151",
+          "player": "Episodio 6",
           "section": "Episode Cards y Highlight Cards",
           "team": "",
           "source_key": "number:151",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-6b4eb740b3479330d4a4"
+          "id": "panini-dragon-ball-daima-tcg-6b4eb740b3479330d4a4",
+          "original_name": "Episode 6"
         },
         {
           "n": 152,
           "original_identifier": "152",
-          "player": "Card 152",
+          "player": "Episodio 6 · momento destacado 1",
           "section": "Episode Cards y Highlight Cards",
           "team": "",
           "source_key": "number:152",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-d0338171d88da673059a"
+          "id": "panini-dragon-ball-daima-tcg-d0338171d88da673059a",
+          "original_name": "Episode 6 highlight 1"
         },
         {
           "n": 153,
           "original_identifier": "153",
-          "player": "Card 153",
+          "player": "Episodio 6 · momento destacado 2",
           "section": "Episode Cards y Highlight Cards",
           "team": "",
           "source_key": "number:153",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-4547d77c4dbecd04f875"
+          "id": "panini-dragon-ball-daima-tcg-4547d77c4dbecd04f875",
+          "original_name": "Episode 6 highlight 2"
         },
         {
           "n": 154,
           "original_identifier": "154",
-          "player": "Card 154",
+          "player": "Episodio 7",
           "section": "Episode Cards y Highlight Cards",
           "team": "",
           "source_key": "number:154",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-00c3a478a587c6402835"
+          "id": "panini-dragon-ball-daima-tcg-00c3a478a587c6402835",
+          "original_name": "Episode 7"
         },
         {
           "n": 155,
           "original_identifier": "155",
-          "player": "Card 155",
+          "player": "Episodio 7 · momento destacado 1",
           "section": "Episode Cards y Highlight Cards",
           "team": "",
           "source_key": "number:155",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-839def83d3bbe98c4ae3"
+          "id": "panini-dragon-ball-daima-tcg-839def83d3bbe98c4ae3",
+          "original_name": "Episode 7 highlight 1"
         },
         {
           "n": 156,
           "original_identifier": "156",
-          "player": "Card 156",
+          "player": "Episodio 7 · momento destacado 2",
           "section": "Episode Cards y Highlight Cards",
           "team": "",
           "source_key": "number:156",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-e35cce771f9958fef60f"
+          "id": "panini-dragon-ball-daima-tcg-e35cce771f9958fef60f",
+          "original_name": "Episode 7 highlight 2"
         },
         {
           "n": 157,
           "original_identifier": "157",
-          "player": "Card 157",
+          "player": "Episodio 8",
           "section": "Episode Cards y Highlight Cards",
           "team": "",
           "source_key": "number:157",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-1749e2573c6720775041"
+          "id": "panini-dragon-ball-daima-tcg-1749e2573c6720775041",
+          "original_name": "Episode 8"
         },
         {
           "n": 158,
           "original_identifier": "158",
-          "player": "Card 158",
+          "player": "Episodio 8 · momento destacado 1",
           "section": "Episode Cards y Highlight Cards",
           "team": "",
           "source_key": "number:158",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-e6ee0c7236bec958a0ce"
+          "id": "panini-dragon-ball-daima-tcg-e6ee0c7236bec958a0ce",
+          "original_name": "Episode 8 highlight 1"
         },
         {
           "n": 159,
           "original_identifier": "159",
-          "player": "Card 159",
+          "player": "Episodio 8 · momento destacado 2",
           "section": "Episode Cards y Highlight Cards",
           "team": "",
           "source_key": "number:159",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-ec235029dda16e65a53c"
+          "id": "panini-dragon-ball-daima-tcg-ec235029dda16e65a53c",
+          "original_name": "Episode 8 highlight 2"
         },
         {
           "n": 160,
           "original_identifier": "160",
-          "player": "Card 160",
+          "player": "Episodio 9",
           "section": "Episode Cards y Highlight Cards",
           "team": "",
           "source_key": "number:160",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-b8ea66ebb5d80e803279"
+          "id": "panini-dragon-ball-daima-tcg-b8ea66ebb5d80e803279",
+          "original_name": "Episode 9"
         },
         {
           "n": 161,
           "original_identifier": "161",
-          "player": "Card 161",
+          "player": "Episodio 9 · momento destacado 1",
           "section": "Episode Cards y Highlight Cards",
           "team": "",
           "source_key": "number:161",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-dd84b99e92fafd8c0c99"
+          "id": "panini-dragon-ball-daima-tcg-dd84b99e92fafd8c0c99",
+          "original_name": "Episode 9 highlight 1"
         },
         {
           "n": 162,
           "original_identifier": "162",
-          "player": "Card 162",
+          "player": "Episodio 9 · momento destacado 2",
           "section": "Episode Cards y Highlight Cards",
           "team": "",
           "source_key": "number:162",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-d2bd955933d2340703f9"
+          "id": "panini-dragon-ball-daima-tcg-d2bd955933d2340703f9",
+          "original_name": "Episode 9 highlight 2"
         },
         {
           "n": 163,
           "original_identifier": "163",
-          "player": "Card 163",
+          "player": "Episodio 10",
           "section": "Episode Cards y Highlight Cards",
           "team": "",
           "source_key": "number:163",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-8362963c85ecb4269d86"
+          "id": "panini-dragon-ball-daima-tcg-8362963c85ecb4269d86",
+          "original_name": "Episode 10"
         },
         {
           "n": 164,
           "original_identifier": "164",
-          "player": "Card 164",
+          "player": "Episodio 10 · momento destacado 1",
           "section": "Episode Cards y Highlight Cards",
           "team": "",
           "source_key": "number:164",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-2bcdead9d57ad46d2864"
+          "id": "panini-dragon-ball-daima-tcg-2bcdead9d57ad46d2864",
+          "original_name": "Episode 10 highlight 1"
         },
         {
           "n": 165,
           "original_identifier": "165",
-          "player": "Card 165",
+          "player": "Episodio 10 · momento destacado 2",
           "section": "Episode Cards y Highlight Cards",
           "team": "",
           "source_key": "number:165",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-d1cbc6eeb5f8c6e5dfca"
+          "id": "panini-dragon-ball-daima-tcg-d1cbc6eeb5f8c6e5dfca",
+          "original_name": "Episode 10 highlight 2"
         },
         {
           "n": 166,
           "original_identifier": "166",
-          "player": "Card 166",
+          "player": "Episodio 11",
           "section": "Episode Cards y Highlight Cards",
           "team": "",
           "source_key": "number:166",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-499019947c379507a303"
+          "id": "panini-dragon-ball-daima-tcg-499019947c379507a303",
+          "original_name": "Episode 11"
         },
         {
           "n": 167,
           "original_identifier": "167",
-          "player": "Card 167",
+          "player": "Episodio 11 · momento destacado 1",
           "section": "Episode Cards y Highlight Cards",
           "team": "",
           "source_key": "number:167",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-94250bb7e9bfb76cc4ea"
+          "id": "panini-dragon-ball-daima-tcg-94250bb7e9bfb76cc4ea",
+          "original_name": "Episode 11 highlight 1"
         },
         {
           "n": 168,
           "original_identifier": "168",
-          "player": "Card 168",
+          "player": "Episodio 11 · momento destacado 2",
           "section": "Episode Cards y Highlight Cards",
           "team": "",
           "source_key": "number:168",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-2d7464712f561ff92117"
+          "id": "panini-dragon-ball-daima-tcg-2d7464712f561ff92117",
+          "original_name": "Episode 11 highlight 2"
         },
         {
           "n": 169,
           "original_identifier": "169",
-          "player": "Card 169",
+          "player": "Episodio 12",
           "section": "Episode Cards y Highlight Cards",
           "team": "",
           "source_key": "number:169",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-67b12091eb1a3fedb705"
+          "id": "panini-dragon-ball-daima-tcg-67b12091eb1a3fedb705",
+          "original_name": "Episode 12"
         },
         {
           "n": 170,
           "original_identifier": "170",
-          "player": "Card 170",
+          "player": "Episodio 12 · momento destacado 1",
           "section": "Episode Cards y Highlight Cards",
           "team": "",
           "source_key": "number:170",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-4061edb6808d6275a2bb"
+          "id": "panini-dragon-ball-daima-tcg-4061edb6808d6275a2bb",
+          "original_name": "Episode 12 highlight 1"
         },
         {
           "n": 171,
           "original_identifier": "171",
-          "player": "Card 171",
+          "player": "Episodio 12 · momento destacado 2",
           "section": "Episode Cards y Highlight Cards",
           "team": "",
           "source_key": "number:171",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-1b0b8f2327f773b9035f"
+          "id": "panini-dragon-ball-daima-tcg-1b0b8f2327f773b9035f",
+          "original_name": "Episode 12 highlight 2"
         },
         {
           "n": 172,
           "original_identifier": "172",
-          "player": "Card 172",
+          "player": "Episodio 13",
           "section": "Episode Cards y Highlight Cards",
           "team": "",
           "source_key": "number:172",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-95b47c7dcca3eed0c963"
+          "id": "panini-dragon-ball-daima-tcg-95b47c7dcca3eed0c963",
+          "original_name": "Episode 13"
         },
         {
           "n": 173,
           "original_identifier": "173",
-          "player": "Card 173",
+          "player": "Episodio 13 · momento destacado 1",
           "section": "Episode Cards y Highlight Cards",
           "team": "",
           "source_key": "number:173",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-a16790222674c3ae3039"
+          "id": "panini-dragon-ball-daima-tcg-a16790222674c3ae3039",
+          "original_name": "Episode 13 highlight 1"
         },
         {
           "n": 174,
           "original_identifier": "174",
-          "player": "Card 174",
+          "player": "Episodio 13 · momento destacado 2",
           "section": "Episode Cards y Highlight Cards",
           "team": "",
           "source_key": "number:174",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-82e306150ea90a610bac"
+          "id": "panini-dragon-ball-daima-tcg-82e306150ea90a610bac",
+          "original_name": "Episode 13 highlight 2"
         },
         {
           "n": 175,
           "original_identifier": "175",
-          "player": "Card 175",
+          "player": "Episodio 14",
           "section": "Episode Cards y Highlight Cards",
           "team": "",
           "source_key": "number:175",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-78d47dd72a6738d46bea"
+          "id": "panini-dragon-ball-daima-tcg-78d47dd72a6738d46bea",
+          "original_name": "Episode 14"
         },
         {
           "n": 176,
           "original_identifier": "176",
-          "player": "Card 176",
+          "player": "Episodio 14 · momento destacado 1",
           "section": "Episode Cards y Highlight Cards",
           "team": "",
           "source_key": "number:176",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-690801d803c24a637568"
+          "id": "panini-dragon-ball-daima-tcg-690801d803c24a637568",
+          "original_name": "Episode 14 highlight 1"
         },
         {
           "n": 177,
           "original_identifier": "177",
-          "player": "Card 177",
+          "player": "Episodio 14 · momento destacado 2",
           "section": "Episode Cards y Highlight Cards",
           "team": "",
           "source_key": "number:177",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-3054ce20930deb6fc153"
+          "id": "panini-dragon-ball-daima-tcg-3054ce20930deb6fc153",
+          "original_name": "Episode 14 highlight 2"
         },
         {
           "n": 178,
           "original_identifier": "178",
-          "player": "Card 178",
+          "player": "Episodio 15",
           "section": "Episode Cards y Highlight Cards",
           "team": "",
           "source_key": "number:178",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-3cf9ee2be81b1cba79f0"
+          "id": "panini-dragon-ball-daima-tcg-3cf9ee2be81b1cba79f0",
+          "original_name": "Episode 15"
         },
         {
           "n": 179,
           "original_identifier": "179",
-          "player": "Card 179",
+          "player": "Episodio 15 · momento destacado 1",
           "section": "Episode Cards y Highlight Cards",
           "team": "",
           "source_key": "number:179",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-551e5051bf38a47fd3d0"
+          "id": "panini-dragon-ball-daima-tcg-551e5051bf38a47fd3d0",
+          "original_name": "Episode 15 highlight 1"
         },
         {
           "n": 180,
           "original_identifier": "180",
-          "player": "Card 180",
+          "player": "Episodio 15 · momento destacado 2",
           "section": "Episode Cards y Highlight Cards",
           "team": "",
           "source_key": "number:180",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-aac7dfe649e54516aa09"
+          "id": "panini-dragon-ball-daima-tcg-aac7dfe649e54516aa09",
+          "original_name": "Episode 15 highlight 2"
         },
         {
           "n": 181,
           "original_identifier": "181",
-          "player": "Card 181",
+          "player": "Episodio 16",
           "section": "Episode Cards y Highlight Cards",
           "team": "",
           "source_key": "number:181",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-fb4222163863b0879f61"
+          "id": "panini-dragon-ball-daima-tcg-fb4222163863b0879f61",
+          "original_name": "Episode 16"
         },
         {
           "n": 182,
           "original_identifier": "182",
-          "player": "Card 182",
+          "player": "Episodio 16 · momento destacado 1",
           "section": "Episode Cards y Highlight Cards",
           "team": "",
           "source_key": "number:182",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-18002881cb4640065720"
+          "id": "panini-dragon-ball-daima-tcg-18002881cb4640065720",
+          "original_name": "Episode 16 highlight 1"
         },
         {
           "n": 183,
           "original_identifier": "183",
-          "player": "Card 183",
+          "player": "Episodio 16 · momento destacado 2",
           "section": "Episode Cards y Highlight Cards",
           "team": "",
           "source_key": "number:183",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-64006dd6dae62eb1c3bd"
+          "id": "panini-dragon-ball-daima-tcg-64006dd6dae62eb1c3bd",
+          "original_name": "Episode 16 highlight 2"
         },
         {
           "n": 184,
           "original_identifier": "184",
-          "player": "Card 184",
+          "player": "Episodio 17",
           "section": "Episode Cards y Highlight Cards",
           "team": "",
           "source_key": "number:184",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-3fc7a0b559b539ce9909"
+          "id": "panini-dragon-ball-daima-tcg-3fc7a0b559b539ce9909",
+          "original_name": "Episode 17"
         },
         {
           "n": 185,
           "original_identifier": "185",
-          "player": "Card 185",
+          "player": "Episodio 17 · momento destacado 1",
           "section": "Episode Cards y Highlight Cards",
           "team": "",
           "source_key": "number:185",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-497ca0088abfe8982a4a"
+          "id": "panini-dragon-ball-daima-tcg-497ca0088abfe8982a4a",
+          "original_name": "Episode 17 highlight 1"
         },
         {
           "n": 186,
           "original_identifier": "186",
-          "player": "Card 186",
+          "player": "Episodio 17 · momento destacado 2",
           "section": "Episode Cards y Highlight Cards",
           "team": "",
           "source_key": "number:186",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-b461ebd148dc9220c60d"
+          "id": "panini-dragon-ball-daima-tcg-b461ebd148dc9220c60d",
+          "original_name": "Episode 17 highlight 2"
         },
         {
           "n": 187,
           "original_identifier": "187",
-          "player": "Card 187",
+          "player": "Episodio 18",
           "section": "Episode Cards y Highlight Cards",
           "team": "",
           "source_key": "number:187",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-8f7ab3b1c77f451cf53a"
+          "id": "panini-dragon-ball-daima-tcg-8f7ab3b1c77f451cf53a",
+          "original_name": "Episode 18"
         },
         {
           "n": 188,
           "original_identifier": "188",
-          "player": "Card 188",
+          "player": "Episodio 18 · momento destacado 1",
           "section": "Episode Cards y Highlight Cards",
           "team": "",
           "source_key": "number:188",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-56ded85c97fc73bf4284"
+          "id": "panini-dragon-ball-daima-tcg-56ded85c97fc73bf4284",
+          "original_name": "Episode 18 highlight 1"
         },
         {
           "n": 189,
           "original_identifier": "189",
-          "player": "Card 189",
+          "player": "Episodio 18 · momento destacado 2",
           "section": "Episode Cards y Highlight Cards",
           "team": "",
           "source_key": "number:189",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-a981c07d1045dd032c28"
+          "id": "panini-dragon-ball-daima-tcg-a981c07d1045dd032c28",
+          "original_name": "Episode 18 highlight 2"
         },
         {
           "n": 190,
           "original_identifier": "190",
-          "player": "Card 190",
+          "player": "Episodio 19",
           "section": "Episode Cards y Highlight Cards",
           "team": "",
           "source_key": "number:190",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-5176ef51c2b42bbc1c9a"
+          "id": "panini-dragon-ball-daima-tcg-5176ef51c2b42bbc1c9a",
+          "original_name": "Episode 19"
         },
         {
           "n": 191,
           "original_identifier": "191",
-          "player": "Card 191",
+          "player": "Episodio 19 · momento destacado 1",
           "section": "Episode Cards y Highlight Cards",
           "team": "",
           "source_key": "number:191",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-a36be0cc85a423179a53"
+          "id": "panini-dragon-ball-daima-tcg-a36be0cc85a423179a53",
+          "original_name": "Episode 19 highlight 1"
         },
         {
           "n": 192,
           "original_identifier": "192",
-          "player": "Card 192",
+          "player": "Episodio 19 · momento destacado 2",
           "section": "Episode Cards y Highlight Cards",
           "team": "",
           "source_key": "number:192",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-7962b2d0f486f00d899e"
+          "id": "panini-dragon-ball-daima-tcg-7962b2d0f486f00d899e",
+          "original_name": "Episode 19 highlight 2"
         },
         {
           "n": 193,
           "original_identifier": "193",
-          "player": "Card 193",
+          "player": "Episodio 20",
           "section": "Episode Cards y Highlight Cards",
           "team": "",
           "source_key": "number:193",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-480e25bdab624b1b5699"
+          "id": "panini-dragon-ball-daima-tcg-480e25bdab624b1b5699",
+          "original_name": "Episode 20"
         },
         {
           "n": 194,
           "original_identifier": "194",
-          "player": "Card 194",
+          "player": "Episodio 20 · momento destacado 1",
           "section": "Episode Cards y Highlight Cards",
           "team": "",
           "source_key": "number:194",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-4c34a8240d879ebaae76"
+          "id": "panini-dragon-ball-daima-tcg-4c34a8240d879ebaae76",
+          "original_name": "Episode 20 highlight 1"
         },
         {
           "n": 195,
           "original_identifier": "195",
-          "player": "Card 195",
+          "player": "Episodio 20 · momento destacado 2",
           "section": "Episode Cards y Highlight Cards",
           "team": "",
           "source_key": "number:195",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-899dc45d19b2b1096dc2"
+          "id": "panini-dragon-ball-daima-tcg-899dc45d19b2b1096dc2",
+          "original_name": "Episode 20 highlight 2"
         },
         {
           "n": 196,
           "original_identifier": "196",
-          "player": "Card 196",
+          "player": "Episodio 20 · momento destacado 3",
           "section": "Episode Cards y Highlight Cards",
           "team": "",
           "source_key": "number:196",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-fdd86142e0167d1717e9"
+          "id": "panini-dragon-ball-daima-tcg-fdd86142e0167d1717e9",
+          "original_name": "Episode 20 highlight 3"
         },
         {
           "n": 197,
           "original_identifier": "197",
-          "player": "Card 197",
+          "player": "Episodio 20 · momento destacado 4",
           "section": "Episode Cards y Highlight Cards",
           "team": "",
           "source_key": "number:197",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-b2e3d6923c4f1a56335c"
+          "id": "panini-dragon-ball-daima-tcg-b2e3d6923c4f1a56335c",
+          "original_name": "Episode 20 highlight 4"
         },
         {
           "n": 198,
           "original_identifier": "198",
-          "player": "Card 198",
+          "player": "Episodio 20 · momento destacado 5",
           "section": "Episode Cards y Highlight Cards",
           "team": "",
           "source_key": "number:198",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-5942bfbe14f56c322e01"
+          "id": "panini-dragon-ball-daima-tcg-5942bfbe14f56c322e01",
+          "original_name": "Episode 20 highlight 5"
         },
         {
           "n": 199,
           "original_identifier": "199",
-          "player": "Card 199",
+          "player": "Son Goku",
           "section": "Lenticular cards",
           "team": "",
           "source_key": "number:199",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-1e81646671de8862ac15"
+          "id": "panini-dragon-ball-daima-tcg-1e81646671de8862ac15",
+          "original_name": "Son Goku"
         },
         {
           "n": 200,
           "original_identifier": "200",
-          "player": "Card 200",
+          "player": "Son Goku (Mini)",
           "section": "Lenticular cards",
           "team": "",
           "source_key": "number:200",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-9e95d0b834970a5e8a04"
+          "id": "panini-dragon-ball-daima-tcg-9e95d0b834970a5e8a04",
+          "original_name": "Son Goku (Mini)"
         },
         {
           "n": 201,
           "original_identifier": "201",
-          "player": "Card 201",
+          "player": "Vegeta (Mini)",
           "section": "Lenticular cards",
           "team": "",
           "source_key": "number:201",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-3fd33f9eef78f977db51"
+          "id": "panini-dragon-ball-daima-tcg-3fd33f9eef78f977db51",
+          "original_name": "Vegeta (Mini)"
         },
         {
           "n": 202,
           "original_identifier": "202",
-          "player": "Card 202",
+          "player": "Glorio",
           "section": "Lenticular cards",
           "team": "",
           "source_key": "number:202",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-f049f192d4167f822c62"
+          "id": "panini-dragon-ball-daima-tcg-f049f192d4167f822c62",
+          "original_name": "Glorio"
         },
         {
           "n": 203,
           "original_identifier": "203",
-          "player": "Card 203",
+          "player": "Panzy",
           "section": "Lenticular cards",
           "team": "",
           "source_key": "number:203",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-50711407d254a6cca274"
+          "id": "panini-dragon-ball-daima-tcg-50711407d254a6cca274",
+          "original_name": "Panzy"
         },
         {
           "n": 204,
           "original_identifier": "204",
-          "player": "Card 204",
+          "player": "Piccolo (Mini)",
           "section": "Lenticular cards",
           "team": "",
           "source_key": "number:204",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-d98b63899877b49b8638"
+          "id": "panini-dragon-ball-daima-tcg-d98b63899877b49b8638",
+          "original_name": "Piccolo (Mini)"
         },
         {
           "n": 205,
           "original_identifier": "205",
-          "player": "Card 205",
+          "player": "Supreme Kai (Mini)",
           "section": "Lenticular cards",
           "team": "",
           "source_key": "number:205",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-ea87e1c42157ce54c0b0"
+          "id": "panini-dragon-ball-daima-tcg-ea87e1c42157ce54c0b0",
+          "original_name": "Supreme Kai (Mini)"
         },
         {
           "n": 206,
           "original_identifier": "206",
-          "player": "Card 206",
+          "player": "Gomah",
           "section": "Lenticular cards",
           "team": "",
           "source_key": "number:206",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-264d5bee9c5b0b0fffdc"
+          "id": "panini-dragon-ball-daima-tcg-264d5bee9c5b0b0fffdc",
+          "original_name": "Gomah"
         },
         {
           "n": 207,
           "original_identifier": "207",
-          "player": "Card 207",
+          "player": "Dragón del Reino Demoníaco",
           "section": "Lenticular cards",
           "team": "",
           "source_key": "number:207",
           "parallels": [],
-          "id": "panini-dragon-ball-daima-tcg-1a8f0307f139319e0fc8"
+          "id": "panini-dragon-ball-daima-tcg-1a8f0307f139319e0fc8",
+          "original_name": "Demon Realm Dragon"
         },
         {
           "n": "LE 1",
@@ -193354,10 +193561,10 @@
         }
       ],
       "card_count": 216,
-      "source": "216 cartas y 200 variantes no numeradas (Crystal Shard y Rainbow Spoke). Las variantes aparecen separadas de la colección principal. Nombres genéricos donde la fuente solo identifica Card y número.",
-      "checklistVersion": 1,
+      "source": "216 cartas (207 de la colección y 9 limitadas), con 200 paralelas opcionales. Personajes y descripciones de escenas identificados por número; las limitadas y los identificadores anteriores se conservan.",
+      "checklistVersion": 2,
       "checklistSourceUrl": "https://dragonball.center/catalogo/coleccion/1285/dragon-ball-daima---trading-card-collection/2288/trading-cards",
-      "expected_note": "216 cartas y 200 variantes no numeradas (Crystal Shard y Rainbow Spoke). Las variantes aparecen separadas de la colección principal. Nombres genéricos donde la fuente solo identifica Card y número.",
+      "expected_note": "216 cartas (207 de la colección y 9 limitadas), con 200 paralelas opcionales. Personajes y descripciones de escenas identificados por número; las limitadas y los identificadores anteriores se conservan.",
       "checklist_status": "initial_verified_records",
       "verification": {
         "complete": false,
@@ -193374,6 +193581,13 @@
         ],
         "checked_at": "2026-10-17T07:48:15+00:00",
         "source_fingerprint": "17fa0eb447fab04faa470d60ee4fc47bbb8cc87bbfcaf15996ed0bf2adf1ee01"
+      },
+      "descriptive_titles": {
+        "revision": 1,
+        "checked_at": "2026-11-08",
+        "source_url": "https://www.cromos.pt/collection/98/dragon-ball-daima-panini",
+        "edition_source_url": "https://www.cromosrepes.com/coleccion/cromos/DRAGON-BALL-DAIMA-TRADING-CARD-COLLECTION",
+        "scope": "Títulos descriptivos de las cartas 1–207, no nombres impresos por Panini"
       }
     },
     {
