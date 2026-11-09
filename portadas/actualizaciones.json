@@ -1,12 +1,12 @@
 {
-  "checked_at": "2026-11-09T06:31:43Z",
+  "checked_at": "2026-11-09T22:27:22Z",
   "schema_version": 4,
   "checked_sources": [
     {
       "name": "Panini España - verificación oficial",
       "type": "official_verification",
       "status": "ok",
-      "fingerprint": "655fc5a63761ae2077228a3a3d1d2f70f66469b126b2b083377cde9bb3416608"
+      "fingerprint": "80411c2768005adf2554792ef940e423a417ace480da9faad445511eeeb723cb"
     },
     {
       "name": "Topps España - verificación oficial",
@@ -22,13 +22,13 @@
       "name": "Índice externo de colecciones",
       "type": "catalog_index",
       "status": "ok",
-      "fingerprint": "755192d7fdc702ded7c516d51652c095a55a0692c4545b4e74cdf5fe38cefc92"
+      "fingerprint": "6078ef27bfb7fb8d92b33daf8b27ff5bd386d42356d2beb5f0e10618e1bd716e"
     },
     {
       "name": "Novedades de colecciones",
       "type": "recent_collections",
       "status": "ok",
-      "fingerprint": "b78e15b90b86973fc3ae413f45e686e56824eb6a13562866fea4aadc714a201f"
+      "fingerprint": "c9d3e41bd6f5fbc3e4d519a4cc044339d38521d8dc5a7760a8f6f3ec4727a1fe"
     }
   ],
   "pending_review": [],
