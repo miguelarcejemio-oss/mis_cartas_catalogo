@@ -1,6 +1,6 @@
 {
-  "version": 24,
-  "updated": "2026-11-06",
+  "version": 25,
+  "updated": "2026-11-15",
   "collections": [
     {
       "id": "panini-adrenalyn-laliga-2526",
@@ -516192,6 +516192,863 @@
         "scope": "Checklist por carta única de la edición según la API; rarezas opcionales, sin precios ni textos de reglas.",
         "checked_at": "2026-11-06T19:27:58.135799+00:00",
         "source_fingerprint": "47aac0f24a90"
+      }
+    },
+    {
+      "id": "bandai-one-piece-op18",
+      "name": "One Piece Card Game — BOOSTER PACK -THE DOMINANCE OF GOD- [OP-18]",
+      "season": "Sin fecha",
+      "brand": "Bandai",
+      "country": "Internacional",
+      "category": "TCG",
+      "cards": [
+        {
+          "id": "bandai-one-piece-op18-op18-001",
+          "n": "OP18-001",
+          "player": "Karoo",
+          "section": "LEADER",
+          "tag": "L"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-002",
+          "n": "OP18-002",
+          "player": "Igaram",
+          "section": "CHARACTER",
+          "tag": "UC"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-003",
+          "n": "OP18-003",
+          "player": "Sea Cat",
+          "section": "CHARACTER",
+          "tag": "C"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-004",
+          "n": "OP18-004",
+          "player": "Karoo",
+          "section": "CHARACTER",
+          "tag": "R"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-005",
+          "n": "OP18-005",
+          "player": "Kung Fu Jugon",
+          "section": "CHARACTER",
+          "tag": "C"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-006",
+          "n": "OP18-006",
+          "player": "Koza",
+          "section": "CHARACTER",
+          "tag": "C"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-007",
+          "n": "OP18-007",
+          "player": "Smoker",
+          "section": "CHARACTER",
+          "tag": "C"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-008",
+          "n": "OP18-008",
+          "player": "Chaka",
+          "section": "CHARACTER",
+          "tag": "R"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-009",
+          "n": "OP18-009",
+          "player": "Super Spot-Billed Duck Troops",
+          "section": "CHARACTER",
+          "tag": "R"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-010",
+          "n": "OP18-010",
+          "player": "Tony Tony.Chopper",
+          "section": "CHARACTER",
+          "tag": "UC"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-011",
+          "n": "OP18-011",
+          "player": "Nefeltari Vivi",
+          "section": "CHARACTER",
+          "tag": "SR"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-012",
+          "n": "OP18-012",
+          "player": "Pincers",
+          "section": "CHARACTER",
+          "tag": "UC"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-013",
+          "n": "OP18-013",
+          "player": "Pell",
+          "section": "CHARACTER",
+          "tag": "R"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-014",
+          "n": "OP18-014",
+          "player": "Portgas.D.Ace",
+          "section": "CHARACTER",
+          "tag": "C"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-015",
+          "n": "OP18-015",
+          "player": "Eyelashes",
+          "section": "CHARACTER",
+          "tag": "UC"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-016",
+          "n": "OP18-016",
+          "player": "Monkey.D.Luffy",
+          "section": "CHARACTER",
+          "tag": "C"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-017",
+          "n": "OP18-017",
+          "player": "Roronoa Zoro",
+          "section": "CHARACTER",
+          "tag": "C"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-018",
+          "n": "OP18-018",
+          "player": "Let's Go, Karoo!!",
+          "section": "EVENT",
+          "tag": "C"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-019",
+          "n": "OP18-019",
+          "player": "Quack!!!",
+          "section": "EVENT",
+          "tag": "R"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-020",
+          "n": "OP18-020",
+          "player": "Stop Fighting!!!",
+          "section": "EVENT",
+          "tag": "UC"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-021",
+          "n": "OP18-021",
+          "player": "Franky",
+          "section": "LEADER",
+          "tag": "L"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-022",
+          "n": "OP18-022",
+          "player": "Monkey.D.Luffy",
+          "section": "LEADER",
+          "tag": "L"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-023",
+          "n": "OP18-023",
+          "player": "Gaimon",
+          "section": "CHARACTER",
+          "tag": "C"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-024",
+          "n": "OP18-024",
+          "player": "Kokoro",
+          "section": "CHARACTER",
+          "tag": "C"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-025",
+          "n": "OP18-025",
+          "player": "Gonbe",
+          "section": "CHARACTER",
+          "tag": "C"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-026",
+          "n": "OP18-026",
+          "player": "Sanji",
+          "section": "CHARACTER",
+          "tag": "R"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-027",
+          "n": "OP18-027",
+          "player": "Zoro & Sogeking",
+          "section": "CHARACTER",
+          "tag": "R"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-028",
+          "n": "OP18-028",
+          "player": "Chimney",
+          "section": "CHARACTER",
+          "tag": "C"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-029",
+          "n": "OP18-029",
+          "player": "Tony Tony.Chopper",
+          "section": "CHARACTER",
+          "tag": "R"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-030",
+          "n": "OP18-030",
+          "player": "Nami",
+          "section": "CHARACTER",
+          "tag": "UC"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-031",
+          "n": "OP18-031",
+          "player": "Nico Robin",
+          "section": "CHARACTER",
+          "tag": "SR"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-032",
+          "n": "OP18-032",
+          "player": "Buggy",
+          "section": "CHARACTER",
+          "tag": "UC"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-033",
+          "n": "OP18-033",
+          "player": "Banban",
+          "section": "CHARACTER",
+          "tag": "C"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-034",
+          "n": "OP18-034",
+          "player": "Franky",
+          "section": "CHARACTER",
+          "tag": "SR"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-035",
+          "n": "OP18-035",
+          "player": "Michael & Hoichael",
+          "section": "CHARACTER",
+          "tag": "C"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-036",
+          "n": "OP18-036",
+          "player": "Monkey.D.Luffy",
+          "section": "CHARACTER",
+          "tag": "UC"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-037",
+          "n": "OP18-037",
+          "player": "Yokozuna",
+          "section": "CHARACTER",
+          "tag": "UC"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-038",
+          "n": "OP18-038",
+          "player": "Shoot Down That Flag.",
+          "section": "EVENT",
+          "tag": "UC"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-039",
+          "n": "OP18-039",
+          "player": "Gum-Gum Giant Axe",
+          "section": "EVENT",
+          "tag": "R"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-040",
+          "n": "OP18-040",
+          "player": "Diable Jambe Flambé Shot",
+          "section": "EVENT",
+          "tag": "C"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-041",
+          "n": "OP18-041",
+          "player": "Ms. All Sunday",
+          "section": "LEADER",
+          "tag": "L"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-042",
+          "n": "OP18-042",
+          "player": "Hack",
+          "section": "CHARACTER",
+          "tag": "C"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-043",
+          "n": "OP18-043",
+          "player": "Accelegator",
+          "section": "CHARACTER",
+          "tag": "C"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-044",
+          "n": "OP18-044",
+          "player": "Mr.Beans & Miss.Katherina",
+          "section": "CHARACTER",
+          "tag": "C"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-045",
+          "n": "OP18-045",
+          "player": "Mr.Prince",
+          "section": "CHARACTER",
+          "tag": "C"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-046",
+          "n": "OP18-046",
+          "player": "Mr.0 & Ms. All Sunday",
+          "section": "CHARACTER",
+          "tag": "SR"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-047",
+          "n": "OP18-047",
+          "player": "Mr.1(Daz.Bonez)",
+          "section": "CHARACTER",
+          "tag": "UC"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-048",
+          "n": "OP18-048",
+          "player": "Mr.1 & Miss Doublefinger",
+          "section": "CHARACTER",
+          "tag": "SR"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-049",
+          "n": "OP18-049",
+          "player": "Mr.2.Bon.Kurei(Bentham)",
+          "section": "CHARACTER",
+          "tag": "R"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-050",
+          "n": "OP18-050",
+          "player": "Mr.3 & Miss.Goldenweek",
+          "section": "CHARACTER",
+          "tag": "R"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-051",
+          "n": "OP18-051",
+          "player": "Mr.4 & Miss.MerryChristmas",
+          "section": "CHARACTER",
+          "tag": "R"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-052",
+          "n": "OP18-052",
+          "player": "Mr.5 & Miss.Valentine",
+          "section": "CHARACTER",
+          "tag": "UC"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-053",
+          "n": "OP18-053",
+          "player": "Mr.7 & Miss.Father'sDay",
+          "section": "CHARACTER",
+          "tag": "UC"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-054",
+          "n": "OP18-054",
+          "player": "Mr.8 & Ms. Monday",
+          "section": "CHARACTER",
+          "tag": "UC"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-055",
+          "n": "OP18-055",
+          "player": "Mr.9 & Ms. Wednesday",
+          "section": "CHARACTER",
+          "tag": "C"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-056",
+          "n": "OP18-056",
+          "player": "Mr.13 & Ms.Friday",
+          "section": "CHARACTER",
+          "tag": "C"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-057",
+          "n": "OP18-057",
+          "player": "Atomic Dicer",
+          "section": "EVENT",
+          "tag": "UC"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-058",
+          "n": "OP18-058",
+          "player": "This Kingdom is Doomed. You Can't Save It!",
+          "section": "EVENT",
+          "tag": "C"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-059",
+          "n": "OP18-059",
+          "player": "I Pray For Your Success.",
+          "section": "EVENT",
+          "tag": "R"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-060",
+          "n": "OP18-060",
+          "player": "Saint Gunko",
+          "section": "LEADER",
+          "tag": "L"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-061",
+          "n": "OP18-061",
+          "player": "Iceburg",
+          "section": "CHARACTER",
+          "tag": "SR"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-062",
+          "n": "OP18-062",
+          "player": "Oimo & Kashii",
+          "section": "CHARACTER",
+          "tag": "C"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-063",
+          "n": "OP18-063",
+          "player": "Kiwi & Mozu",
+          "section": "CHARACTER",
+          "tag": "UC"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-064",
+          "n": "OP18-064",
+          "player": "Saint Killingham",
+          "section": "CHARACTER",
+          "tag": "UC"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-065",
+          "n": "OP18-065",
+          "player": "Saint Gunko",
+          "section": "CHARACTER",
+          "tag": "SR"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-066",
+          "n": "OP18-066",
+          "player": "Zambai",
+          "section": "CHARACTER",
+          "tag": "C"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-067",
+          "n": "OP18-067",
+          "player": "Charlotte Smoothie",
+          "section": "CHARACTER",
+          "tag": "C"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-068",
+          "n": "OP18-068",
+          "player": "Senor Pink",
+          "section": "CHARACTER",
+          "tag": "C"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-069",
+          "n": "OP18-069",
+          "player": "Sodomu & Gomora",
+          "section": "CHARACTER",
+          "tag": "C"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-070",
+          "n": "OP18-070",
+          "player": "Tom",
+          "section": "CHARACTER",
+          "tag": "R"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-071",
+          "n": "OP18-071",
+          "player": "Trebol",
+          "section": "CHARACTER",
+          "tag": "C"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-072",
+          "n": "OP18-072",
+          "player": "The Franky Family",
+          "section": "CHARACTER",
+          "tag": "R"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-073",
+          "n": "OP18-073",
+          "player": "T-Bone",
+          "section": "CHARACTER",
+          "tag": "C"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-074",
+          "n": "OP18-074",
+          "player": "Can You Please Sail on the Ship I Made?!",
+          "section": "EVENT",
+          "tag": "R"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-075",
+          "n": "OP18-075",
+          "player": "Thousand Sunny",
+          "section": "STAGE",
+          "tag": "R"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-076",
+          "n": "OP18-076",
+          "player": "Shark Submerge 3",
+          "section": "STAGE",
+          "tag": "UC"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-077",
+          "n": "OP18-077",
+          "player": "White Hobby Horse 1",
+          "section": "STAGE",
+          "tag": "UC"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-078",
+          "n": "OP18-078",
+          "player": "Mini-Merry",
+          "section": "STAGE",
+          "tag": "UC"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-079",
+          "n": "OP18-079",
+          "player": "Spandam",
+          "section": "LEADER",
+          "tag": "L"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-080",
+          "n": "OP18-080",
+          "player": "Van Augur",
+          "section": "CHARACTER",
+          "tag": "UC"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-081",
+          "n": "OP18-081",
+          "player": "Oars",
+          "section": "CHARACTER",
+          "tag": "C"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-082",
+          "n": "OP18-082",
+          "player": "Catarina Devon",
+          "section": "CHARACTER",
+          "tag": "C"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-083",
+          "n": "OP18-083",
+          "player": "Saint Killingham",
+          "section": "CHARACTER",
+          "tag": "R"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-084",
+          "n": "OP18-084",
+          "player": "Saint Gunko",
+          "section": "CHARACTER",
+          "tag": "SR"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-085",
+          "n": "OP18-085",
+          "player": "Cerberus",
+          "section": "CHARACTER",
+          "tag": "UC"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-086",
+          "n": "OP18-086",
+          "player": "Goldberg",
+          "section": "CHARACTER",
+          "tag": "C"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-087",
+          "n": "OP18-087",
+          "player": "Stansen",
+          "section": "CHARACTER",
+          "tag": "C"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-088",
+          "n": "OP18-088",
+          "player": "Saint Sommers",
+          "section": "CHARACTER",
+          "tag": "R"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-089",
+          "n": "OP18-089",
+          "player": "Dorry",
+          "section": "CHARACTER",
+          "tag": "C"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-090",
+          "n": "OP18-090",
+          "player": "Brook",
+          "section": "CHARACTER",
+          "tag": "C"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-091",
+          "n": "OP18-091",
+          "player": "Brogy",
+          "section": "CHARACTER",
+          "tag": "C"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-092",
+          "n": "OP18-092",
+          "player": "Roronoa Zoro",
+          "section": "CHARACTER",
+          "tag": "UC"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-093",
+          "n": "OP18-093",
+          "player": "Sleeptids",
+          "section": "CHARACTER",
+          "tag": "R"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-094",
+          "n": "OP18-094",
+          "player": "Hee Hee Hee!! I Smell Adventure!!",
+          "section": "EVENT",
+          "tag": "C"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-095",
+          "n": "OP18-095",
+          "player": "I'm Late, I'm Very Late!!",
+          "section": "EVENT",
+          "tag": "UC"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-096",
+          "n": "OP18-096",
+          "player": "I'll Make the Call",
+          "section": "EVENT",
+          "tag": "R"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-097",
+          "n": "OP18-097",
+          "player": "Abyss Pentagram",
+          "section": "STAGE",
+          "tag": "UC"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-098",
+          "n": "OP18-098",
+          "player": "Onigumo",
+          "section": "CHARACTER",
+          "tag": "C"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-099",
+          "n": "OP18-099",
+          "player": "Kaku",
+          "section": "CHARACTER",
+          "tag": "R"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-100",
+          "n": "OP18-100",
+          "player": "Kalifa",
+          "section": "CHARACTER",
+          "tag": "SR"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-101",
+          "n": "OP18-101",
+          "player": "Kumadori",
+          "section": "CHARACTER",
+          "tag": "UC"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-102",
+          "n": "OP18-102",
+          "player": "Jerry",
+          "section": "CHARACTER",
+          "tag": "C"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-103",
+          "n": "OP18-103",
+          "player": "Jabra",
+          "section": "CHARACTER",
+          "tag": "R"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-104",
+          "n": "OP18-104",
+          "player": "Strawberry",
+          "section": "CHARACTER",
+          "tag": "C"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-105",
+          "n": "OP18-105",
+          "player": "Spandam",
+          "section": "CHARACTER",
+          "tag": "R"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-106",
+          "n": "OP18-106",
+          "player": "Doberman",
+          "section": "CHARACTER",
+          "tag": "C"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-107",
+          "n": "OP18-107",
+          "player": "Nero",
+          "section": "CHARACTER",
+          "tag": "UC"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-108",
+          "n": "OP18-108",
+          "player": "Funkfreed",
+          "section": "CHARACTER",
+          "tag": "UC"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-109",
+          "n": "OP18-109",
+          "player": "Fukurou",
+          "section": "CHARACTER",
+          "tag": "UC"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-110",
+          "n": "OP18-110",
+          "player": "Blueno",
+          "section": "CHARACTER",
+          "tag": "R"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-111",
+          "n": "OP18-111",
+          "player": "Momonga",
+          "section": "CHARACTER",
+          "tag": "C"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-112",
+          "n": "OP18-112",
+          "player": "Yamakaji",
+          "section": "CHARACTER",
+          "tag": "C"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-113",
+          "n": "OP18-113",
+          "player": "Rob Lucci",
+          "section": "CHARACTER",
+          "tag": "SR"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-114",
+          "n": "OP18-114",
+          "player": "Wanze",
+          "section": "CHARACTER",
+          "tag": "C"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-115",
+          "n": "OP18-115",
+          "player": "Ten Finger Pistol",
+          "section": "EVENT",
+          "tag": "UC"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-116",
+          "n": "OP18-116",
+          "player": "Iron Body Empty Tree",
+          "section": "EVENT",
+          "tag": "C"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-117",
+          "n": "OP18-117",
+          "player": "Buster Call",
+          "section": "EVENT",
+          "tag": "R"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-118",
+          "n": "OP18-118",
+          "player": "Monkey.D.Luffy",
+          "section": "CHARACTER",
+          "tag": "SEC"
+        },
+        {
+          "id": "bandai-one-piece-op18-op18-119",
+          "n": "OP18-119",
+          "player": "Saint Shamrock",
+          "section": "CHARACTER",
+          "tag": "SEC"
+        }
+      ],
+      "source_url": "https://en.onepiece-cardgame.com/cardlist/?series=569118",
+      "source": "Checklist oficial Bandai en inglés. Una ficha por número impreso, incluidas reimpresiones del producto. No incluye acabados ni ilustraciones alternativas como cartas obligatorias.",
+      "expected_note": "Lista de números publicados por Bandai; no implica disponibilidad comercial local. Variantes pendientes de revisión.",
+      "checklist_status": "official_numbered_records",
+      "card_count": 119,
+      "checklistVersion": 1,
+      "checklistSourceUrl": "https://en.onepiece-cardgame.com/cardlist/?series=569118",
+      "verification": {
+        "complete": false,
+        "individual_records_verified": true,
+        "scope": "Lista de números publicados por Bandai; no implica disponibilidad comercial local. Variantes pendientes de revisión.",
+        "checked_at": "2026-11-15T18:54:01.399556+00:00",
+        "source_fingerprint": "23eb9eb4a06b"
       }
     }
   ],
