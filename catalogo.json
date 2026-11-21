@@ -1,6 +1,6 @@
 {
-  "version": 25,
-  "updated": "2026-11-15",
+  "version": 26,
+  "updated": "2026-11-21",
   "collections": [
     {
       "id": "panini-adrenalyn-laliga-2526",
@@ -516203,6 +516203,34 @@
       "category": "TCG",
       "cards": [
         {
+          "id": "bandai-one-piece-op18-op13-012",
+          "n": "OP13-012",
+          "player": "Nefeltari Vivi",
+          "section": "CHARACTER",
+          "tag": "SP CARD"
+        },
+        {
+          "id": "bandai-one-piece-op18-op13-113",
+          "n": "OP13-113",
+          "player": "Lilith",
+          "section": "CHARACTER",
+          "tag": "SP CARD"
+        },
+        {
+          "id": "bandai-one-piece-op18-op17-040",
+          "n": "OP17-040",
+          "player": "Edward.Newgate",
+          "section": "CHARACTER",
+          "tag": "SP CARD"
+        },
+        {
+          "id": "bandai-one-piece-op18-op17-119",
+          "n": "OP17-119",
+          "player": "Loki",
+          "section": "CHARACTER",
+          "tag": "SEC"
+        },
+        {
           "id": "bandai-one-piece-op18-op18-001",
           "n": "OP18-001",
           "player": "Karoo",
@@ -517034,21 +517062,35 @@
           "player": "Saint Shamrock",
           "section": "CHARACTER",
           "tag": "SEC"
+        },
+        {
+          "id": "bandai-one-piece-op18-st24-004",
+          "n": "ST24-004",
+          "player": "Law & Bepo",
+          "section": "CHARACTER",
+          "tag": "SP CARD"
+        },
+        {
+          "id": "bandai-one-piece-op18-st34-004",
+          "n": "ST34-004",
+          "player": "Charlotte Linlin",
+          "section": "CHARACTER",
+          "tag": "SP CARD"
         }
       ],
       "source_url": "https://en.onepiece-cardgame.com/cardlist/?series=569118",
       "source": "Checklist oficial Bandai en inglés. Una ficha por número impreso, incluidas reimpresiones del producto. No incluye acabados ni ilustraciones alternativas como cartas obligatorias.",
       "expected_note": "Lista de números publicados por Bandai; no implica disponibilidad comercial local. Variantes pendientes de revisión.",
       "checklist_status": "official_numbered_records",
-      "card_count": 119,
-      "checklistVersion": 1,
+      "card_count": 125,
+      "checklistVersion": 2,
       "checklistSourceUrl": "https://en.onepiece-cardgame.com/cardlist/?series=569118",
       "verification": {
         "complete": false,
         "individual_records_verified": true,
         "scope": "Lista de números publicados por Bandai; no implica disponibilidad comercial local. Variantes pendientes de revisión.",
-        "checked_at": "2026-11-15T18:54:01.399556+00:00",
-        "source_fingerprint": "23eb9eb4a06b"
+        "checked_at": "2026-11-21T19:18:25.839380+00:00",
+        "source_fingerprint": "490355a21e2e"
       }
     }
   ],
