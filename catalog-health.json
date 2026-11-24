@@ -1,37 +1,34 @@
 {
   "schema_version": 1,
-  "checked_at": "2026-11-23T23:59:51.656734+00:00",
-  "discovery_checked_at": "2026-11-23T23:56:00Z",
-  "enrichment_checked_at": "2026-11-23T23:56:01.317192+00:00",
+  "checked_at": "2026-11-24T09:59:27.234637+00:00",
+  "discovery_checked_at": "2026-11-24T09:56:27Z",
+  "enrichment_checked_at": "2026-11-24T09:56:28.374827+00:00",
   "status": "pending_verification",
   "catalog_updated_at": "2026-11-21",
   "catalog_version": 26,
   "collections": 1117,
   "published_this_run": 0,
-  "pending_verification": 7766,
+  "pending_verification": 7786,
   "blocking_reasons": {
-    "reuse_not_authorized": 19,
-    "identity_mismatch": 2,
+    "reuse_not_authorized": 20,
     "source_not_located": 1059,
-    "redirect_host": 3,
-    "incomplete_collection": 1,
-    "cover_reuse_not_authorized": 1,
+    "redirect_host": 1,
     "ValueError": 4,
-    "http_error": 2,
+    "http_error": 3,
     "robots_unavailable": 3
   },
-  "errors": 2,
-  "existing_checks_blocked": 1079,
+  "errors": 0,
+  "existing_checks_blocked": 1080,
   "tcg_source_pending": 0,
   "tcg_source_errors": 0,
-  "metadata_details_pending": 944,
+  "metadata_details_pending": 925,
   "discovery_coverage": "partial",
   "sources": [
     {
       "type": "public_catalog_api",
       "status": "ok",
       "coverage": "public_index_with_rotating_manufacturers_and_sitemap_backfill",
-      "collections_found": 940
+      "collections_found": 732
     },
     {
       "type": "catalog_index",
