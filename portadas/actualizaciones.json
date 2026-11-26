@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-25T21:47:05Z",
+  "checked_at": "2026-11-26T08:22:38Z",
   "schema_version": 4,
   "checked_sources": [
     {
@@ -22,7 +22,7 @@
       "name": "Índice externo de colecciones",
       "type": "catalog_index",
       "status": "ok",
-      "fingerprint": "8c32115701aac4eaf17ad7b5f0d3e1a41dab14ab18a46cc777e070d663c9f208"
+      "fingerprint": "7c274b4db71c153901c8b4a63a21c129f9458f75144be89138b0e3197cadac71"
     },
     {
       "name": "Novedades de colecciones",
